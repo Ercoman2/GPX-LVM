@@ -1,0 +1,33 @@
+name: Run Python Script Hourly
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Esto configura el workflow para ejecutarse cada hora
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  # Especifica la versión de Python que necesitas
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt  # Si tienes dependencias, asegúrate de tener un archivo requirements.txt
+
+    - name: Run Python script
+        env:
+            EXPIRES_AT: ${{ secrets.EXPIRES_AT }}
+            STRAVA_ACCESS_TOKEN: ${{ secrets.STRAVA_ACCESS_TOKEN }}
+            STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
+            STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
+            STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
+      run: |
+        python stravaagtx.py  # Reemplaza 'your_script.py' con el nombre de tu script
