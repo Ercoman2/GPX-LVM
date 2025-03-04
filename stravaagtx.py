@@ -11,6 +11,7 @@ async def main():
     put in your Strava Api client_id, refresh_token, and client_secret
     '''
     client_id = os.getenv('STRAVA_CLIENT_ID')
+    print (client_id)
     refresh_token = os.getenv('STRAVA_REFRESH_TOKEN')
     client_secret = os.getenv('STRAVA_CLIENT_SECRET')
 
