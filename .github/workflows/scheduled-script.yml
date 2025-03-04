@@ -5,6 +5,9 @@ on:
     - cron: '0 * * * *'  # Esto configura el workflow para ejecutarse cada hora
   workflow_dispatch:  # Permite ejecutarlo manualmente
 
+permissions:
+  contents: write
+
 jobs:
   run-script:
     runs-on: ubuntu-latest
@@ -32,3 +35,11 @@ jobs:
             STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
       run: |
         python stravaagtx.py  # Reemplaza 'your_script.py' con el nombre de tu script
+
+    - name: Commit and Push GPX files
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add *.gpx || echo "No new files to add"
+        git commit -m "Añadiendo archivos GPX desde workflow" || echo "No changes to commit"
+        git push
