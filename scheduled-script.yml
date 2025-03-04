@@ -3,6 +3,7 @@ name: Run Python Script Hourly
 on:
   schedule:
     - cron: '0 * * * *'  # Esto configura el workflow para ejecutarse cada hora
+  workflow_dispatch:  # Permite ejecutarlo manualmente
 
 jobs:
   run-script:
