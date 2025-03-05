@@ -5,6 +5,8 @@ import requests
 import base64
 import os
 import asyncio
+import gpxpy.geo
+
 
 async def main():
     '''
@@ -15,6 +17,12 @@ async def main():
     refresh_token = os.getenv('STRAVA_REFRESH_TOKEN')
     client_secret = os.getenv('STRAVA_CLIENT_SECRET')
 
+    def calculate_distance(gpx_file):
+        with open(gpx_file, 'r') as file:
+            gpx = gpxpy.parse(file)
+            distance = gpx.length_3d() / 1000  # Convertir a kilómetros
+            return distance
+    
     # create an instance of strava2gpx
     s2g = strava2gpx(client_id, client_secret, refresh_token)
 
@@ -51,6 +59,13 @@ async def main():
         await s2g.write_to_gpx(activity_id, filename)       
         with open("latest_file.txt", "w") as file:
             file.write(str(filename)+".gpx")
-
+        with open("total_distance.txt", "r") as file:
+            total_distance = float(file.read().strip())
+        new_distance = calculate_distance(str(filename)+".gpx")
+        total_distance += new_distance
+        with open("total_distance.txt", "w") as file:
+            file.write(str(total_distance))
+        print(f"Total distance accumulated: {total_distance} km")
+        
 if __name__ == '__main__':
     asyncio.run(main()) 
