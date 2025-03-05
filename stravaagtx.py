@@ -56,7 +56,7 @@ async def main():
         print ("Diferent activitat")
         await s2g.write_to_gpx(activity_id, filename)       
         with open("latest_file.txt", "w") as file:
-            file.write(str(filename)+".gpx":)
+            file.write(str(filename)+".gpx")
 
 if __name__ == '__main__':
     asyncio.run(main()) 
