@@ -36,12 +36,6 @@ async def main():
     filename = lastactivity[2]
     filename = filename.replace(":","")
 
-    print(os.listdir()[0])
-    print(os.listdir()[1])
-    print(os.listdir()[2])
-    print(os.listdir()[3])
-    print(os.listdir()[4])
-
     # write activity to output.gpx by activity id
     # if os.listdir()[0] == str(filename)+".gpx":
     #    print ("Mateixa activitat")
