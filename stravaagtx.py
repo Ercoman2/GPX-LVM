@@ -43,11 +43,20 @@ async def main():
     print(os.listdir()[4])
 
     # write activity to output.gpx by activity id
-    if os.listdir()[0] == str(filename)+".gpx":
+    # if os.listdir()[0] == str(filename)+".gpx":
+    #    print ("Mateixa activitat")
+    # else:
+    #    print ("Diferent activitat")
+    with open("latest_file.txt", "r") as file:
+        latest_file_name = file.read().strip()
+        
+    if latest_file_name == str(filename)+".gpx":
         print ("Mateixa activitat")
     else:
         print ("Diferent activitat")
         await s2g.write_to_gpx(activity_id, filename)       
+        with open("latest_file.txt", "w") as file:
+            file.write(str(filename)+".gpx":)
 
 if __name__ == '__main__':
     asyncio.run(main()) 
