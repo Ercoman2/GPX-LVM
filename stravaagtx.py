@@ -29,7 +29,7 @@ async def main():
         current_date = datetime.strptime(date_str, "%Y-%m-%d")
         return (current_date - start_date).days + 1
 
-    def update_csv(file_name, distance, date_str):
+    def update_csv(file_name, distance, date_str, strava_url):
         csv_file = 'routes.csv'
         stage = 1
     
@@ -96,8 +96,9 @@ async def main():
         print(f"Total distance accumulated: {total_distance} km")
 
         date_of_route = filename[:10]
+        strava_activity_url = f"https://www.strava.com/activities/{activity_id}"
         
-        update_csv(str(filename)+".gpx", new_distance, date_of_route)
+        update_csv(str(filename)+".gpx", new_distance, date_of_route, strava_activity_url)
         
 if __name__ == '__main__':
     asyncio.run(main()) 
