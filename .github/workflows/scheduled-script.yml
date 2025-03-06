@@ -43,5 +43,6 @@ jobs:
         git add *.gpx || echo "No new files to add"
         git add latest_file.txt
         git add total_distance.txt
+        git add routes.csv
         git commit -m "Añadiendo archivos GPX desde workflow" || echo "No changes to commit"
         git push
