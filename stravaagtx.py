@@ -3,6 +3,7 @@ from stravalib import Client
 from datetime import datetime
 import requests
 import base64
+import csv
 import os
 import asyncio
 import gpxpy.geo
@@ -22,7 +23,34 @@ async def main():
             gpx = gpxpy.parse(file)
             distance = gpx.length_3d() / 1000  # Convertir a kilómetros
             return distance
+
+    def calculate_days_since_start(date_str):
+        start_date = datetime(2025, 11, 23)
+        current_date = datetime.strptime(date_str, "%Y-%m-%d")
+        return (current_date - start_date).days + 1
+
+    def update_csv(file_name, distance, date_str):
+        csv_file = 'routes.csv'
+        stage = 1
     
+        # Si el archivo ya existe, leer el número de la última etapa
+        if os.path.exists(csv_file):
+            with open(csv_file, mode='r', newline='') as file:
+                reader = csv.reader(file)
+                # Leer todas las filas para encontrar el número de la última etapa
+                rows = list(reader)
+                if rows:
+                    stage = int(rows[-1][0]) + 1
+    
+        # Calcular el número de días
+        day = calculate_days_since_start(date_str)
+    
+        # Escribir la nueva fila en el archivo CSV
+        with open(csv_file, mode='a', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow([stage, day, date_str, distance, file_name])
+
+   
     # create an instance of strava2gpx
     s2g = strava2gpx(client_id, client_secret, refresh_token)
 
@@ -66,6 +94,10 @@ async def main():
         with open("total_distance.txt", "w") as file:
             file.write(str(total_distance))
         print(f"Total distance accumulated: {total_distance} km")
+
+        date_of_route = filename[:10]
+        
+        update_csv(str(filename)+".gpx", new_distance, date_of_route)
         
 if __name__ == '__main__':
     asyncio.run(main()) 
