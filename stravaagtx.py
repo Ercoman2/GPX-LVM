@@ -48,7 +48,7 @@ async def main():
         # Escribir la nueva fila en el archivo CSV
         with open(csv_file, mode='a', newline='') as file:
             writer = csv.writer(file)
-            writer.writerow([stage, day, date_str, distance, file_name])
+            writer.writerow([stage, day, date_str, distance, file_name, strava_url])
 
    
     # create an instance of strava2gpx
