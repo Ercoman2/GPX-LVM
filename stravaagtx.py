@@ -28,7 +28,16 @@ async def main():
         start_date = datetime(2025, 11, 23)
         current_date = datetime.strptime(date_str, "%Y-%m-%d")
         return (current_date - start_date).days + 1
-
+    
+    def actualizar_nombre(actividad_id, nuevo_nombre, token_acceso):
+        """Actualiza el nombre de la actividad en Strava"""
+        url = f'https://www.strava.com/api/v3/activities/{actividad_id}'
+        headers = {'Authorization': f'Bearer {token_acceso}'}
+        data = {'name': nuevo_nombre}
+        respuesta = requests.put(url, headers=headers, data=data)
+        respuesta.raise_for_status()
+        return respuesta.json()
+    
     def update_csv(file_name, distance, date_str, strava_url):
         csv_file = 'routes.csv'
         stage = 1
@@ -99,6 +108,11 @@ async def main():
         strava_activity_url = f"https://www.strava.com/activities/{activity_id}"
         
         update_csv(str(filename)+".gpx", new_distance, date_of_route, strava_activity_url)
+
+        numero_dia = calculate_days_since_start(date_of_route)
+        nuevo_nombre = f"Dia {numero_dia} de la vuelta al mundo a pie"
+        token_acceso = os.getenv('STRAVA_ACCESS_TOKEN')
+        actualizar_nombre(activity_id, nuevo_nombre, token_acceso)
         
 if __name__ == '__main__':
     asyncio.run(main()) 
