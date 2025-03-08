@@ -2,6 +2,8 @@ from strava2gpx import strava2gpx
 from stravalib import Client
 from datetime import datetime
 import requests
+import gpxpy
+import gpxpy.parser
 import base64
 import csv
 import os
@@ -18,6 +20,68 @@ async def main():
     refresh_token = os.getenv('STRAVA_REFRESH_TOKEN')
     client_secret = os.getenv('STRAVA_CLIENT_SECRET')
 
+    country_translation = {
+        "España": "Espanya",
+        "Тоҷикистон": "Tadjikistan",
+        "中国": "Xina",
+        "France": "França",
+        "Italia": "Itàlia",
+        "Argentina": "Argentina",
+        "Bolivia": "Bolívia",
+        "Colombia": "Colòmbia",
+        "Slovenija": "Eslovènia",
+        "Hrvatska": "Croàcia",
+        "Bosna i Hercegovina / Босна и Херцеговина": "Bòsnia i Hercegovina",
+        "Crna Gora / Црна Гора": "Montenegro",
+        "Shqipëria": "Albània",
+        "Ελλάς": "Grècia",
+        "Türkiye": "Turquia",
+        "საქართველო": "Geòrgia",
+        "Հայաստան": "Armènia",
+        "ایران": "Iran",
+        "پاکستان": "Pakistan",
+        "India": "Índia",
+        "नेपाल": "Nepal",
+        "বাংলাদেশ": "Bangladesh",
+        "ประเทศไทย": "Tailàndia",
+        "Malaysia": "Malàisia",
+        "Singapore": "Singapur",
+        "Australia": "Austràlia",
+        "New Zealand / Aotearoa": "Nova Zelanda",
+        "Chile": "Xile",
+        "Perú": "Perú",
+        "Ecuador": "Equador",
+        "España": "Espanya"
+    }
+
+    def get_country_from_coordinates(lat, lon):
+        url = f"https://nominatim.openstreetmap.org/reverse?format=json&lat={lat}&lon={lon}&zoom=10&addressdetails=1"
+        headers = {"User-Agent": "VueltaAlMundoBot/1.0"}
+        response = requests.get(url, headers=headers)
+        
+        if response.status_code == 200:
+            data = response.json()
+            address = data.get("address", {})
+    
+            country = address.get("country", "Desconocido")
+            state = address.get("state", "")
+            
+            if state == "Catalunya":
+                return "Catalunya"
+            else:
+                return country_translation.get(country, country)  # Devuelve el país en catalán si está en el diccionario
+    
+        else:
+            return "Error"
+
+    def get_starting_coordinates(gpx_file_path):
+        with open(gpx_file_path, "r") as gpx_file:
+            gpx = gpxpy.parse(gpx_file)
+            if gpx.tracks and gpx.tracks[0].segments and gpx.tracks[0].segments[0].points:
+                first_point = gpx.tracks[0].segments[0].points[0]
+                return first_point.latitude, first_point.longitude
+        return None, None
+    
     def calculate_distance(gpx_file):
         with open(gpx_file, 'r') as file:
             gpx = gpxpy.parse(file)
@@ -38,7 +102,7 @@ async def main():
         respuesta.raise_for_status()
         return respuesta.json()
     
-    def update_csv(file_name, distance, date_str, strava_url):
+    def update_csv(file_name, distance, date_str, strava_url, pais):
         csv_file = 'routes.csv'
         stage = 1
     
@@ -57,7 +121,7 @@ async def main():
         # Escribir la nueva fila en el archivo CSV
         with open(csv_file, mode='a', newline='') as file:
             writer = csv.writer(file)
-            writer.writerow([stage, day, date_str, distance, file_name, strava_url])
+            writer.writerow([stage, day, date_str, distance, file_name, strava_url, pais])
 
    
     # create an instance of strava2gpx
@@ -106,8 +170,14 @@ async def main():
 
         date_of_route = filename[:10]
         strava_activity_url = f"https://www.strava.com/activities/{activity_id}"
+
+        lat, lon = get_starting_coordinates(str(filename)+".gpx")
+        if lat is not None and lon is not None:
+            country = get_country_from_coordinates(lat, lon)
+        else:
+            country = "Error"
         
-        update_csv(str(filename)+".gpx", new_distance, date_of_route, strava_activity_url)
+        update_csv(str(filename)+".gpx", new_distance, date_of_route, strava_activity_url, country)
 
         numero_dia = calculate_days_since_start(date_of_route)
         nuevo_nombre = f"Dia {numero_dia} de la XXX"
