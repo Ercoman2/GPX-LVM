@@ -181,7 +181,7 @@ async def main():
 
         numero_dia = calculate_days_since_start(date_of_route)
         nuevo_nombre = f"Dia {numero_dia} de la XXX"
-        token_acceso = os.getenv('STRAVA_ACCESS_TOKEN')
+        token_acceso = client.access_token
         actualizar_nombre(activity_id, nuevo_nombre, token_acceso)
         
 if __name__ == '__main__':
