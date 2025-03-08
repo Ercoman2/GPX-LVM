@@ -110,7 +110,7 @@ async def main():
         update_csv(str(filename)+".gpx", new_distance, date_of_route, strava_activity_url)
 
         numero_dia = calculate_days_since_start(date_of_route)
-        nuevo_nombre = f"Dia {numero_dia} de la vuelta al mundo a pie"
+        nuevo_nombre = f"Dia {numero_dia} de la XXX"
         token_acceso = os.getenv('STRAVA_ACCESS_TOKEN')
         actualizar_nombre(activity_id, nuevo_nombre, token_acceso)
         
