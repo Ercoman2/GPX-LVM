@@ -114,6 +114,8 @@ async def main():
                 rows = list(reader)
                 if rows:
                     stage = int(rows[-1][0]) + 1
+                else: 
+                    stage = 1
     
         # Calcular el número de días
         day = calculate_days_since_start(date_str)
