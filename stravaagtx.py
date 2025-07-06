@@ -114,11 +114,10 @@ async def main():
                 rows = list(reader)
                 if len(rows) > 0:
                     try:
-                        stage = int(rows[-1][0]) + 1
-                    except ValueError:
-                        stage = 1  # per si la última línia té dades malformades
-                else:
-                    stage = 1  # fitxer buit
+                        last_stage = rows[-1][0]
+                        stage = int(last_stage) + 1
+                    except (ValueError, IndexError):
+                        stage = 1  # Per si hi ha una línia buida o mal formada
     
         # Calcular el número de días
         day = calculate_days_since_start(date_str)
