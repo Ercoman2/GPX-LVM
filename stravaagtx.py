@@ -112,10 +112,13 @@ async def main():
                 reader = csv.reader(file)
                 # Leer todas las filas para encontrar el número de la última etapa
                 rows = list(reader)
-                if rows:
-                    stage = int(rows[-1][0]) + 1
-                else: 
-                    stage = 1
+                if len(rows) > 0:
+                    try:
+                        stage = int(rows[-1][0]) + 1
+                    except ValueError:
+                        stage = 1  # per si la última línia té dades malformades
+                else:
+                    stage = 1  # fitxer buit
     
         # Calcular el número de días
         day = calculate_days_since_start(date_str)
