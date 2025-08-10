@@ -89,7 +89,7 @@ async def main():
             return distance
 
     def calculate_days_since_start(date_str):
-        start_date = datetime(2025, 08, 14)
+        start_date = datetime(2025, 8, 14)
         current_date = datetime.strptime(date_str, "%Y-%m-%d")
         return (current_date - start_date).days + 1
     
@@ -190,4 +190,5 @@ async def main():
         
 if __name__ == '__main__':
     asyncio.run(main()) 
+
 
