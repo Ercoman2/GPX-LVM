@@ -89,7 +89,7 @@ async def main():
             return distance
 
     def calculate_days_since_start(date_str):
-        start_date = datetime(2025, 11, 23)
+        start_date = datetime(2025, 08, 14)
         current_date = datetime.strptime(date_str, "%Y-%m-%d")
         return (current_date - start_date).days + 1
     
@@ -184,9 +184,10 @@ async def main():
         update_csv(str(filename)+".gpx", new_distance, date_of_route, strava_activity_url, country)
 
         numero_dia = calculate_days_since_start(date_of_route)
-        nuevo_nombre = f"Dia {numero_dia} de la XXX"
+        nuevo_nombre = f"Dia {numero_dia} de la Transcaucàsia"
         token_acceso = client.access_token
         actualizar_nombre(activity_id, nuevo_nombre, token_acceso)
         
 if __name__ == '__main__':
     asyncio.run(main()) 
+
