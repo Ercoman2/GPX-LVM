@@ -3,6 +3,9 @@ name: Transcribe audio from Drive
 on:
   workflow_dispatch:          # també el pots llançar manualment
 
+permissions:
+  contents: write
+
 jobs:
   transcribe:
     runs-on: ubuntu-latest
