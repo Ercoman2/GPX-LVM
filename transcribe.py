@@ -39,7 +39,7 @@ while not done:
 fh.close()
 
 # 3. Transcriure amb Whisper
-model = whisper.load_model("small")
+model = whisper.load_model("large")
 result = model.transcribe(file_name, language="ca")
 
 srt_file = file_name.rsplit(".", 1)[0] + ".srt"
