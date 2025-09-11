@@ -1,0 +1,25 @@
+name: Transcribe audio from Drive
+
+on:
+  workflow_dispatch:          # també el pots llançar manualment
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install openai-whisper google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+      - name: Run transcription script
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: python transcribe.py
