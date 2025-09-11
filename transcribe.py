@@ -4,6 +4,8 @@ import whisper
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseDownload, MediaFileUpload
+from googleapiclient.errors import HttpError  # CHANGED: import HttpError to catch retries
+
 
 # Config
 INPUT_FOLDER_ID = "1lP4O_7gzVbrguucycJuPWqmY_QgIKqxB"
@@ -49,6 +51,26 @@ with open(srt_file, "w", encoding="utf-8") as f:
 # 4. Pujar el .srt a la carpeta de sortida
 file_metadata = {"name": srt_file, "parents": [OUTPUT_FOLDER_ID]}
 media = MediaFileUpload(srt_file, mimetype="text/plain")
-service.files().create(body=file_metadata, media_body=media, fields="id").execute()
+request = service.files().create(body=file_metadata, media_body=media, fields="id")
 
-print(f"✅ {srt_file} pujat a la carpeta de sortida!")
+response = None
+max_retries = 5
+retry = 0
+
+while response is None:
+    try:
+        status, response = request.next_chunk()
+        if response is not None:
+            print(f"✅ {srt_file} pujat a la carpeta de sortida!")
+    except HttpError as e:
+        if e.resp.status in [500, 502, 503, 504]:
+            if retry < max_retries:
+                sleep_time = 2 ** retry
+                print(f"Retry {retry + 1} after {sleep_time}s due to error {e.resp.status}")
+                time.sleep(sleep_time)
+                retry += 1
+            else:
+                print("Exceeded maximum retries. Upload failed.")
+                raise
+        else:
+            raise
