@@ -39,7 +39,7 @@ fh.close()
 print(f"✅ Arxiu baixat: {file_name}")
 
 # 3. Transcriure amb Whisper
-model = whisper.load_model("large")
+model = whisper.load_model("small")
 result = model.transcribe(file_name, language="ca")
 print(f"✅ Arxiu transcrit: {file_name}")
 
