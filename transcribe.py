@@ -57,7 +57,7 @@ print(f"✅ Text guardat a {debug_file} per debugging")
 # 4. Pujar el .srt a la carpeta de sortida
 if os.path.exists(srt_file) and os.path.getsize(srt_file) > 0:
     file_metadata = {"name": srt_file, "parents": [OUTPUT_FOLDER_ID]}
-    media = MediaFileUpload(srt_file, mimetype="text/plain")
+    media = MediaFileUpload(srt_file, mimetype="text/plain", resumable=True)
     request = service.files().create(body=file_metadata, media_body=media, fields="id")
     
     response = None
