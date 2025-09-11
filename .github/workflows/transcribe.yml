@@ -31,7 +31,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add debug_transcript.txt *.srt
+          git add debug_transcript.txt 
+          git add *.srt
           git commit -m "Afegint fitxers de transcripció" || echo "No hi ha canvis per fer commit"
-          git push origin HEAD:main
-
+          git push
