@@ -55,31 +55,32 @@ with open(debug_file, "w", encoding="utf-8") as f:
 print(f"✅ Text guardat a {debug_file} per debugging")
 
 # 4. Pujar el .srt a la carpeta de sortida
-if os.path.exists(srt_file) and os.path.getsize(srt_file) > 0:
-    file_metadata = {"name": srt_file, "parents": [OUTPUT_FOLDER_ID]}
-    media = MediaFileUpload(srt_file, mimetype="text/plain", resumable=True)
-    request = service.files().create(body=file_metadata, media_body=media, fields="id")
+# if os.path.exists(srt_file) and os.path.getsize(srt_file) > 0:
+    # file_metadata = {"name": srt_file, "parents": [OUTPUT_FOLDER_ID]}
+    # media = MediaFileUpload(srt_file, mimetype="text/plain", resumable=True)
+    # request = service.files().create(body=file_metadata, media_body=media, fields="id")
     
-    response = None
-    max_retries = 5
-    retry = 0
+    # response = None
+    # max_retries = 5
+    # retry = 0
     
-    while response is None:
-        try:
-            status, response = request.next_chunk()
-            if response is not None:
-                print(f"✅ {srt_file} pujat a la carpeta de sortida!")
-        except HttpError as e:
-            if e.resp.status in [500, 502, 503, 504]:
-                if retry < max_retries:
-                    sleep_time = 2 ** retry
-                    print(f"Retry {retry + 1} after {sleep_time}s due to error {e.resp.status}")
-                    time.sleep(sleep_time)
-                    retry += 1
-                else:
-                    print("Exceeded maximum retries. Upload failed.")
-                    raise
-            else:
-                raise
-else:
-    print(f"❌ Error: {srt_file} no existeix o està buit")
+    # while response is None:
+        # try:
+            # status, response = request.next_chunk()
+            # if response is not None:
+                # print(f"✅ {srt_file} pujat a la carpeta de sortida!")
+        # except HttpError as e:
+            # if e.resp.status in [500, 502, 503, 504]:
+                # if retry < max_retries:
+                    # sleep_time = 2 ** retry
+                    # print(f"Retry {retry + 1} after {sleep_time}s due to error {e.resp.status}")
+                    # time.sleep(sleep_time)
+                    # retry += 1
+                # else:
+                    # print("Exceeded maximum retries. Upload failed.")
+                    # raise
+            # else:
+                # raise
+# else:
+    # print(f"❌ Error: {srt_file} no existeix o està buit")
+
