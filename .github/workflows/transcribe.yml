@@ -25,12 +25,13 @@ jobs:
       - name: Run transcription script
         env:
           GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
-        run: python transcribe.py
+        run: python transcribe2.py
 
-      - name: Commit and Push debugging  files
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add debug_transcript.txt
-          git commit -m "Añadiendo archivos GPX desde workflow" || echo "No changes to commit"
-          git push
+      - name: Commit and Push results
+        uses: appleboy/git-push-action@v0.0.2
+        with:
+          branch: main
+          commit_message: "Afegint transcripció des de workflow"
+          force: true
+          file_pattern: "debug_transcript.txt, *.srt"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
