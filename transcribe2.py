@@ -41,12 +41,13 @@ print(f"✅ Arxiu baixat: {file_name}")
 # 3. Transcriure amb Whisper
 model = whisper.load_model("small")
 result = model.transcribe(file_name, language="ca")
+srt_content = whisper.utils.write_srt(result["segments"])
 print(f"✅ Arxiu transcrit: {file_name}")
 
 # 4. Guardar SRT i debug al repo
 srt_file = file_name.rsplit(".", 1)[0] + ".srt"
 with open(srt_file, "w", encoding="utf-8") as f:
-    f.write(result["text"])
+    f.write(srt_content)
 
 debug_file = "debug_transcript.txt"
 with open(debug_file, "w", encoding="utf-8") as f:
