@@ -43,45 +43,57 @@ print(f"✅ Arxiu baixat: {file_name}")
 # 3. Transcriure amb Whisper
 model = whisper.load_model("small")
 result = model.transcribe(file_name, language="ca")
-srt_content = whisper.utils.write_srt(result["segments"])
+segments = result["segments"]
 print(f"✅ Arxiu transcrit: {file_name}")
 
-# 4. Guardar SRT i debug al repo
+def format_timestamp(seconds: float):
+    h = int(seconds // 3600)
+    m = int((seconds % 3600) // 60)
+    s = int(seconds % 60)
+    ms = int((seconds - int(seconds)) * 1000)
+    return f"{h:02}:{m:02}:{s:02},{ms:03}"
+
+# 4. Generar SRT i TXT
+srt_lines = []
+for i, seg in enumerate(segments, start=1):
+    start_ts = format_timestamp(seg["start"])
+    end_ts = format_timestamp(seg["end"])
+    text = seg["text"].lstrip()
+    srt_lines.append(f"{i}")
+    srt_lines.append(f"{start_ts} --> {end_ts}")
+    srt_lines.append(text)
+    srt_lines.append("")
+
+srt_content = "\n".join(srt_lines)
+print(f"✅ Arxiu transcrit: {file_name}")
+
+# Fitxers de sortida
 srt_file = file_name.rsplit(".", 1)[0] + ".srt"
+txt_file = file_name.rsplit(".", 1)[0] + "_debug.txt"
+
+# Escriure .srt
 with open(srt_file, "w", encoding="utf-8") as f:
     f.write(srt_content)
 
-debug_file = "debug_transcript.txt"
-with open(debug_file, "w", encoding="utf-8") as f:
-    f.write(result["text"])
-print(f"✅ Text guardat a {debug_file} per debugging i a {srt_file}")
+# Escriure debug complet (text + segments)
+with open(txt_file, "w", encoding="utf-8") as f:
+    f.write(result["text"] + "\n\n")
+    for seg in segments:
+        f.write(f"{seg}\n")
 
-# 4. Pujar el .srt a la carpeta de sortida
-if os.path.exists(srt_file) and os.path.getsize(srt_file) > 0:
-    file_metadata = {"name": srt_file, "parents": [OUTPUT_FOLDER_ID]}
-    media = MediaFileUpload(srt_file, mimetype="text/plain", resumable=True)
-    request = service.files().create(body=file_metadata, media_body=media, fields="id")
-    
-    response = None
-    max_retries = 5
-    retry = 0
-    
-    while response is None:
-        try:
-            status, response = request.next_chunk()
-            if response is not None:
-                print(f"✅ {srt_file} pujat a la carpeta de sortida!")
-        except HttpError as e:
-            if e.resp.status in [500, 502, 503, 504]:
-                if retry < max_retries:
-                    sleep_time = 2 ** retry
-                    print(f"Retry {retry + 1} after {sleep_time}s due to error {e.resp.status}")
-                    time.sleep(sleep_time)
-                    retry += 1
-                else:
-                    print("Exceeded maximum retries. Upload failed.")
-                    raise
-            else:
-                raise
-else:
-    print(f"❌ Error: {srt_file} no existeix o està buit")
+print(f"✅ SRT creat: {srt_file}")
+print(f"✅ Debug creat: {txt_file}")
+
+# 5. Pujar a Google Drive
+def upload_to_drive(local_path, parent_folder_id):
+    file_metadata = {"name": os.path.basename(local_path), "parents": [parent_folder_id]}
+    media = MediaFileUpload(local_path, resumable=True)
+    uploaded = service.files().create(
+        body=file_metadata,
+        media_body=media,
+        fields="id"
+    ).execute()
+    print(f"☁️ Fitxer {local_path} pujat a Drive amb ID: {uploaded.get('id')}")
+
+upload_to_drive(srt_file, OUTPUT_FOLDER_ID)
+upload_to_drive(txt_file, OUTPUT_FOLDER_ID)
