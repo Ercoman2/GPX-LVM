@@ -63,11 +63,14 @@ result = model.transcribe(file_name, language="ca")
 segments = result["segments"]
 print(f"✅ Arxiu transcrit: {file_name}")
 
-def format_timestamp(seconds: float):
+def format_timestamp(seconds: float) -> str:
     h = int(seconds // 3600)
     m = int((seconds % 3600) // 60)
     s = int(seconds % 60)
-    ms = int((seconds - int(seconds)) * 1000)
+    ms = int(round((seconds - int(seconds)) * 1000))
+    if ms == 1000:  # corregeix cas límit
+        s += 1
+        ms = 0
     return f"{h:02}:{m:02}:{s:02},{ms:03}"
 
 # 4. Generar SRT i TXT
@@ -86,20 +89,12 @@ print(f"✅ Arxiu transcrit: {file_name}")
 
 # Fitxers de sortida
 srt_file = file_name.rsplit(".", 1)[0] + ".srt"
-txt_file = file_name.rsplit(".", 1)[0] + "_debug.txt"
 
 # Escriure .srt
 with open(srt_file, "w", encoding="utf-8") as f:
     f.write(srt_content)
 
-# Escriure debug complet (text + segments)
-with open(txt_file, "w", encoding="utf-8") as f:
-    f.write(result["text"] + "\n\n")
-    for seg in segments:
-        f.write(f"{seg}\n")
-
 print(f"✅ SRT creat: {srt_file}")
-print(f"✅ Debug creat: {txt_file}")
 
 # 5. Pujar a Google Drive i compartir
 def upload_to_drive(local_path, parent_folder_id):
@@ -124,4 +119,3 @@ def upload_to_drive(local_path, parent_folder_id):
     print(f"🔗 Compartit amb {YOUR_GOOGLE_EMAIL}: https://drive.google.com/file/d/{file_id}/view")
 
 upload_to_drive(srt_file, OUTPUT_FOLDER_ID)
-upload_to_drive(txt_file, OUTPUT_FOLDER_ID)
