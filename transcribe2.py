@@ -9,6 +9,7 @@ from googleapiclient.http import MediaFileUpload
 # Config
 INPUT_FOLDER_ID = "1lP4O_7gzVbrguucycJuPWqmY_QgIKqxB"
 OUTPUT_FOLDER_ID = "1JnxA6r8Kf4HWggUWVpoZqcd_UeSdrOpw"
+YOUR_GOOGLE_EMAIL = "enricluzan@gmail.com"  # <-- posa-hi el teu email personal
 
 # Autenticació
 creds = service_account.Credentials.from_service_account_info(
@@ -93,7 +94,18 @@ def upload_to_drive(local_path, parent_folder_id):
         media_body=media,
         fields="id"
     ).execute()
-    print(f"☁️ Fitxer {local_path} pujat a Drive amb ID: {uploaded.get('id')}")
+
+    file_id = uploaded.get("id")
+    print(f"☁️ Fitxer {local_path} pujat a Drive amb ID: {file_id}")
+
+    # Compartir amb el teu compte personal
+    permission = {
+        "type": "user",
+        "role": "writer",
+        "emailAddress": YOUR_GOOGLE_EMAIL,
+    }
+    service.permissions().create(fileId=file_id, body=permission).execute()
+    print(f"🔗 Compartit amb {YOUR_GOOGLE_EMAIL}: https://drive.google.com/file/d/{file_id}/view")
 
 upload_to_drive(srt_file, OUTPUT_FOLDER_ID)
 upload_to_drive(txt_file, OUTPUT_FOLDER_ID)
