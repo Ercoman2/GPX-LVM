@@ -1,6 +1,6 @@
 import os
 import io
-import faster-whisper
+from faster_whisper import WhisperModel
 from google.oauth2 import service_account
 from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
