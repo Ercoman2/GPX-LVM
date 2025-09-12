@@ -8,8 +8,6 @@ from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.http import MediaIoBaseDownload
 from googleapiclient.http import MediaFileUpload
-from faster_whisper import WhisperModel
-
 
 # Config
 INPUT_FOLDER_ID = "1lP4O_7gzVbrguucycJuPWqmY_QgIKqxB"
@@ -69,7 +67,7 @@ def format_timestamp(seconds: float) -> str:
     return f"{h:02}:{m:02}:{s:02},{ms:03}"
 
 # 3. Transcriure amb Whisper
-model_size = "projecte-aina/faster-whisper-large-v3-ca-3catparla"
+model_size = "large-v3"
 model = WhisperModel(model_size, device="cpu", compute_type="int8")  # o "float16" si tens GPU
 segments, info = model.transcribe(file_name, beam_size=5, task="transcribe",language="ca", word_timestamps=True)
 
