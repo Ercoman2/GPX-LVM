@@ -1,7 +1,10 @@
 import os
 import io
 import whisper
+import json
 from google.oauth2 import service_account
+from google.oauth2.credentials import Credentials
+from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseDownload
 from googleapiclient.http import MediaFileUpload
@@ -11,11 +14,23 @@ INPUT_FOLDER_ID = "1lP4O_7gzVbrguucycJuPWqmY_QgIKqxB"
 OUTPUT_FOLDER_ID = "1JnxA6r8Kf4HWggUWVpoZqcd_UeSdrOpw"
 YOUR_GOOGLE_EMAIL = "enricluzan@gmail.com"  # <-- posa-hi el teu email personal
 
-# Autenticació
-creds = service_account.Credentials.from_service_account_info(
-    eval(os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]),
+# Assegura't que has guardat aquests secrets a GitHub Actions
+CLIENT_ID = os.environ.get("GOOGLE_CLIENT_ID")
+CLIENT_SECRET = os.environ.get("GOOGLE_CLIENT_SECRET")
+REFRESH_TOKEN = os.environ.get("GOOGLE_REFRESH_TOKEN")
+
+# Autenticació OAuth (usant refresh token)
+creds = Credentials(
+    token=None,
+    refresh_token=REFRESH_TOKEN,
+    token_uri="https://oauth2.googleapis.com/token",
+    client_id=CLIENT_ID,
+    client_secret=CLIENT_SECRET,
     scopes=["https://www.googleapis.com/auth/drive"]
 )
+
+# refresca per obtenir access token
+creds.refresh(Request())
 service = build("drive", "v3", credentials=creds)
 
 # 1. Trobar arxius nous a la carpeta d'entrada
@@ -85,7 +100,7 @@ with open(txt_file, "w", encoding="utf-8") as f:
 print(f"✅ SRT creat: {srt_file}")
 print(f"✅ Debug creat: {txt_file}")
 
-# 5. Pujar a Google Drive
+# 5. Pujar a Google Drive i compartir
 def upload_to_drive(local_path, parent_folder_id):
     file_metadata = {"name": os.path.basename(local_path), "parents": [parent_folder_id]}
     media = MediaFileUpload(local_path, resumable=True)
