@@ -100,13 +100,19 @@ print(f"✅ SRT creat: {srt_file}")
 def upload_to_drive(local_path, parent_folder_id):
     file_metadata = {"name": os.path.basename(local_path), "parents": [parent_folder_id]}
     media = MediaFileUpload(local_path, resumable=True)
-    uploaded = service.files().create(
+    request = service.files().create(
         body=file_metadata,
         media_body=media,
         fields="id"
-    ).execute()
-
-    file_id = uploaded.get("id")
+    )
+    
+    response = None
+    while response is None:
+        status, response = request.next_chunk()
+        if status:
+            print(f"☁️ Pujant {int(status.progress() * 100)}%")
+    
+    file_id = response.get("id")
     print(f"☁️ Fitxer {local_path} pujat a Drive amb ID: {file_id}")
 
     # Compartir amb el teu compte personal
