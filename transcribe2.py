@@ -20,20 +20,6 @@ CLIENT_ID = os.environ.get("GOOGLE_CLIENT_ID")
 CLIENT_SECRET = os.environ.get("GOOGLE_CLIENT_SECRET")
 REFRESH_TOKEN = os.environ.get("GOOGLE_REFRESH_TOKEN")
 
-# Autenticació OAuth (usant refresh token)
-creds = Credentials(
-    token=None,
-    refresh_token=REFRESH_TOKEN,
-    token_uri="https://oauth2.googleapis.com/token",
-    client_id=CLIENT_ID,
-    client_secret=CLIENT_SECRET,
-    scopes=["https://www.googleapis.com/auth/drive"]
-)
-
-# refresca per obtenir access token
-creds.refresh(Request())
-service = build("drive", "v3", credentials=creds)
-
 # 1. Trobar arxius nous a la carpeta d'entrada
 results = service.files().list(
     q=f"'{INPUT_FOLDER_ID}' in parents and trashed=false",
@@ -95,6 +81,20 @@ with open(srt_file, "w", encoding="utf-8") as f:
     f.write(srt_content)
 
 print(f"✅ SRT creat: {srt_file}")
+
+# Autenticació OAuth (usant refresh token)
+creds = Credentials(
+    token=None,
+    refresh_token=REFRESH_TOKEN,
+    token_uri="https://oauth2.googleapis.com/token",
+    client_id=CLIENT_ID,
+    client_secret=CLIENT_SECRET,
+    scopes=["https://www.googleapis.com/auth/drive"]
+)
+
+# refresca per obtenir access token
+creds.refresh(Request())
+service = build("drive", "v3", credentials=creds)
 
 # 5. Pujar a Google Drive i compartir
 def upload_to_drive(local_path, parent_folder_id):
