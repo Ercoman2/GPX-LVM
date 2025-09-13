@@ -63,7 +63,7 @@ def format_timestamp(seconds: float) -> str:
 
 # 3. Transcriure amb Whisper - model específic puntejat en català
 model_name = "BSC-LT/faster-whisper-large-v3-ca-punctuated-3370h"
-model = WhisperModel(model_name, device="cpu", compute_type="float16")  # si tens GPU, posa device="cuda"
+model = WhisperModel(model_name, device="cpu")  # si tens GPU, posa device="cuda"
 
 segments, info = model.transcribe(file_name, beam_size=5, task="transcribe", language="ca", word_timestamps=True)
 
