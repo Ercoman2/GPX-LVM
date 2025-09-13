@@ -1,20 +1,16 @@
 import os
 import io
 from faster_whisper import WhisperModel
-from google.oauth2 import service_account
 from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
-from google_auth_oauthlib.flow import InstalledAppFlow
-from googleapiclient.http import MediaIoBaseDownload
-from googleapiclient.http import MediaFileUpload
+from googleapiclient.http import MediaIoBaseDownload, MediaFileUpload
 
 # Config
 INPUT_FOLDER_ID = "1lP4O_7gzVbrguucycJuPWqmY_QgIKqxB"
 OUTPUT_FOLDER_ID = "1JnxA6r8Kf4HWggUWVpoZqcd_UeSdrOpw"
 YOUR_GOOGLE_EMAIL = "enricluzan@gmail.com"  # <-- posa-hi el teu email personal
 
-# Assegura't que has guardat aquests secrets a GitHub Actions
 CLIENT_ID = os.environ.get("GOOGLE_CLIENT_ID")
 CLIENT_SECRET = os.environ.get("GOOGLE_CLIENT_SECRET")
 REFRESH_TOKEN = os.environ.get("GOOGLE_REFRESH_TOKEN")
@@ -39,7 +35,6 @@ results = service.files().list(
     fields="files(id, name)"
 ).execute()
 files = results.get("files", [])
-
 if not files:
     print("No hi ha arxius nous")
     exit()
@@ -66,10 +61,11 @@ def format_timestamp(seconds: float) -> str:
         ms = 0
     return f"{h:02}:{m:02}:{s:02},{ms:03}"
 
-# 3. Transcriure amb Whisper
-model_size = "large-v3"
-model = WhisperModel(model_size, device="cpu", compute_type="int8")  # o "float16" si tens GPU
-segments, info = model.transcribe(file_name, beam_size=5, task="transcribe",language="ca", word_timestamps=True)
+# 3. Transcriure amb Whisper - model específic puntejat en català
+model_name = "BSC-LT/faster-whisper-large-v3-ca-punctuated-3370h"
+model = WhisperModel(model_name, device="cpu", compute_type="float16")  # si tens GPU, posa device="cuda"
+
+segments, info = model.transcribe(file_name, beam_size=5, task="transcribe", language="ca", word_timestamps=True)
 
 # 4. Generar SRT
 srt_lines = []
@@ -83,7 +79,6 @@ for i, seg in enumerate(segments, start=1):
     srt_lines.append("")
 
 srt_content = "\n".join(srt_lines)
-
 print(f"✅ Arxiu transcrit: {file_name}")
 
 # Fitxers de sortida
@@ -95,17 +90,7 @@ with open(srt_file, "w", encoding="utf-8") as f:
 
 print(f"✅ SRT creat: {srt_file}")
 
-# Autenticació OAuth (usant refresh token)
-creds = Credentials(
-    token=None,
-    refresh_token=REFRESH_TOKEN,
-    token_uri="https://oauth2.googleapis.com/token",
-    client_id=CLIENT_ID,
-    client_secret=CLIENT_SECRET,
-    scopes=["https://www.googleapis.com/auth/drive"]
-)
-
-# refresca per obtenir access token
+# Refrescar credencials abans de pujar
 creds.refresh(Request())
 service = build("drive", "v3", credentials=creds)
 
@@ -127,7 +112,6 @@ def upload_to_drive(local_path, parent_folder_id):
     
     file_id = response.get("id")
     print(f"☁️ Fitxer {local_path} pujat a Drive amb ID: {file_id}")
-
     # Compartir amb el teu compte personal
     permission = {
         "type": "user",
