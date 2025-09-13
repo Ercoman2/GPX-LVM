@@ -2,8 +2,6 @@ import os
 import io
 import whisper
 import json
-import ctranslate2
-import pyonmttok
 from google.oauth2 import service_account
 from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
@@ -60,7 +58,7 @@ fh.close()
 print(f"✅ Arxiu baixat: {file_name}")
 
 # 3. Transcriure amb Whisper
-model = whisper.load_model("small")
+model = whisper.load_model("large")
 result = model.transcribe(file_name, language="ca", word_timestamps=True)
 segments = result["segments"]
 print(f"✅ Arxiu transcrit: {file_name}")
@@ -97,36 +95,6 @@ with open(srt_file, "w", encoding="utf-8") as f:
     f.write(srt_content)
 
 print(f"✅ SRT creat: {srt_file}")
-
-# Funció per traduir amb model Aina
-def translate_srt_aina(input_srt, output_srt):
-    from huggingface_hub import snapshot_download
-    
-    print("🔄 Iniciant traducció SRT amb model Aina...")
-    model_dir = snapshot_download(repo_id="projecte-aina/aina-translator-ca-es", revision="main")
-    tokenizer = pyonmttok.Tokenizer(mode="none", sp_model_path=model_dir + "/spm.model")
-    translator = ctranslate2.Translator(model_dir)
-    
-    with open(input_srt, "r", encoding="utf-8") as f:
-        lines = f.readlines()
-    
-    output_lines = []
-    for line in lines:
-        if re.match(r"^\d+$", line.strip()) or re.match(r"^\d{2}:\d{2}:\d{2},\d{3} -->", line) or line.strip() == "":
-            output_lines.append(line)
-        else:
-            tokens = tokenizer.tokenize(line.strip())[0]
-            translated = translator.translate_batch([tokens])
-            detokenized = tokenizer.detokenize(translated[0][0]["tokens"])
-            output_lines.append(detokenized + "\n")
-    
-    with open(output_srt, "w", encoding="utf-8") as f_out:
-        f_out.writelines(output_lines)
-    print(f"✅ Traducció completada: {output_srt}")
-
-translated_srt_file = file_name.rsplit(".", 1)[0] + "_castella.srt"
-translate_srt_aina(srt_file, translated_srt_file)
-# Fi traducció
 
 # Autenticació OAuth (usant refresh token)
 creds = Credentials(
@@ -171,4 +139,3 @@ def upload_to_drive(local_path, parent_folder_id):
     print(f"🔗 Compartit amb {YOUR_GOOGLE_EMAIL}: https://drive.google.com/file/d/{file_id}/view")
 
 upload_to_drive(srt_file, OUTPUT_FOLDER_ID)
-upload_to_drive(translated_srt_file, OUTPUT_FOLDER_ID)
