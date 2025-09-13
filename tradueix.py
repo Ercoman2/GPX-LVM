@@ -114,22 +114,21 @@ creds.refresh(Request())
 service = build("drive", "v3", credentials=creds)
 
 
-# 5. Pujar el fitxer traduït a Google Drive a la carpeta de sortida
-file_metadata = {"name": output_file, "parents": [OUTPUT_FOLDER_ID]}
-media = MediaFileUpload(output_file, resumable=True)
-request = service.files().create(
-    body=file_metadata,
-    media_body=media,
+# 7. Pujar fitxer castellà a Drive
+file_metadata_es = {"name": output_file_es, "parents": [OUTPUT_FOLDER_ID]}
+media_es = MediaFileUpload(output_file_es, resumable=True)
+request_es = service.files().create(
+    body=file_metadata_es,
+    media_body=media_es,
     fields="id"
 )
-
 response = None
 while response is None:
-    status, response = request.next_chunk()
+    status, response = request_es.next_chunk()
     if status:
-        print(f"☁️ Pujant {int(status.progress() * 100)}%")
-file_id_out = response.get("id")
-print(f"☁️ Fitxer {output_file} pujat a Drive amb ID: {file_id_out}")
+        print(f"☁️ Pujant {int(status.progress() * 100)}% castellà")
+file_id_out_es = response.get("id")
+print(f"☁️ Fitxer {output_file_es} pujat a Drive amb ID: {file_id_out_es}")
 
 # 8. Pujar fitxer anglès a Drive
 file_metadata_en = {"name": output_file_en, "parents": [OUTPUT_FOLDER_ID]}
