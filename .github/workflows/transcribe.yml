@@ -18,9 +18,12 @@ jobs:
         with:
           python-version: "3.9"
 
+      - name: Instal·lar ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
       - name: Install dependencies
         run: |
-          pip install faster-whisper google-api-python-client google-auth-httplib2 google-auth-oauthlib google-auth
+          pip install openai-whisper google-api-python-client google-auth-httplib2 google-auth-oauthlib google-auth
 
       - name: Run transcription script
         env:
@@ -28,4 +31,4 @@ jobs:
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
           GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
-        run: python transcribe3.py
+        run: python transcribe2.py
