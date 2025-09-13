@@ -139,3 +139,7 @@ def upload_to_drive(local_path, parent_folder_id):
     print(f"🔗 Compartit amb {YOUR_GOOGLE_EMAIL}: https://drive.google.com/file/d/{file_id}/view")
 
 upload_to_drive(srt_file, OUTPUT_FOLDER_ID)
+
+# 6. Esborrar l'arxiu .mp3 original de la carpeta d'entrada
+service.files().delete(fileId=file_id).execute()
+print(f"🗑️ Arxiu original {file_name} esborrat de la carpeta d'entrada.")
