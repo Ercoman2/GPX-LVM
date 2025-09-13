@@ -1,4 +1,4 @@
-name: Transcribe audio from Drive
+name: Translate audio from Drive
 
 on:
   workflow_dispatch:          # també el pots llançar manualment
@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 jobs:
-  transcribe:
+  translate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
