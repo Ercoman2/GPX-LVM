@@ -56,11 +56,11 @@ while not done:
 fh.close()
 print(f"✅ Fitxer SRT baixat localment: {file_name}")
 
-# 3. Carregar model Aina Hugging Face (si no existia, es descarrega)
-print("🔄 Descarregant i preparant model Aina...")
-model_dir = snapshot_download(repo_id="projecte-aina/aina-translator-ca-es", revision="main")
-tokenizer = pyonmttok.Tokenizer(mode="none", sp_model_path=model_dir + "/spm.model")
-translator = ctranslate2.Translator(model_dir)
+# 3. Descarregar i preparar model Aina català->castellà
+print("🔄 Descarregant i preparant model Aina català->castellà...")
+model_dir_es = snapshot_download(repo_id="projecte-aina/aina-translator-ca-es", revision="main")
+tokenizer_es = pyonmttok.Tokenizer(mode="none", sp_model_path=model_dir_es + "/spm.model")
+translator_es = ctranslate2.Translator(model_dir_es)
 
 # 3b. Descarregar i preparar model Aina català->anglès
 print("🔄 Descarregant i preparant model Aina català->anglès...")
