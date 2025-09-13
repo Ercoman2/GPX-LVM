@@ -62,24 +62,42 @@ model_dir = snapshot_download(repo_id="projecte-aina/aina-translator-ca-es", rev
 tokenizer = pyonmttok.Tokenizer(mode="none", sp_model_path=model_dir + "/spm.model")
 translator = ctranslate2.Translator(model_dir)
 
-# 4. Traduir el SRT línia a línia mantenint timestamps
+# 3b. Descarregar i preparar model Aina català->anglès
+print("🔄 Descarregant i preparant model Aina català->anglès...")
+model_dir_en = snapshot_download(repo_id="projecte-aina/aina-translator-ca-en", revision="main")
+tokenizer_en = pyonmttok.Tokenizer(mode="none", sp_model_path=model_dir_en + "/spm.model")
+translator_en = ctranslate2.Translator(model_dir_en)
+
+# Funció per traduir línies d’un fitxer SRT amb un model donat
+def translate_srt_lines(lines, tokenizer, translator):
+    output_lines = []
+    for line in lines:
+        if re.match(r"^\d+$", line.strip()) or re.match(r"^\d{2}:\d{2}:\d{2},\d{3} -->", line) or line.strip() == "":
+            output_lines.append(line)
+        else:
+            tokens = tokenizer.tokenize(line.strip())[0]
+            translated = translator.translate_batch([tokens])
+            detokenized = tokenizer.detokenize(translated[0][0]["tokens"])
+            output_lines.append(detokenized + "\n")
+    return output_lines
+
+# 4. Carregar SRT original
 with open(file_name, "r", encoding="utf-8") as f:
     lines = f.readlines()
 
-output_lines = []
-for line in lines:
-    if re.match(r"^\d+$", line.strip()) or re.match(r"^\d{2}:\d{2}:\d{2},\d{3} -->", line) or line.strip() == "":
-        output_lines.append(line)
-    else:
-        tokens = tokenizer.tokenize(line.strip())[0]
-        translated = translator.translate_batch([tokens])
-        detokenized = tokenizer.detokenize(translated[0][0]["tokens"])
-        output_lines.append(detokenized + "\n")
+# 5. Traduir a castellà
+output_lines_es = translate_srt_lines(lines, tokenizer_es, translator_es)
+output_file_es = "es.srt"
+with open(output_file_es, "w", encoding="utf-8") as f_out:
+    f_out.writelines(output_lines_es)
+print(f"✅ Traducció a castellà completada i guardada a {output_file_es}")
 
-output_file = "es.srt"
-with open(output_file, "w", encoding="utf-8") as f_out:
-    f_out.writelines(output_lines)
-print(f"✅ Traducció completada i guardada a {output_file}")
+# 6. Traduir a anglès
+output_lines_en = translate_srt_lines(lines, tokenizer_en, translator_en)
+output_file_en = "en.srt"
+with open(output_file_en, "w", encoding="utf-8") as f_out:
+    f_out.writelines(output_lines_en)
+print(f"✅ Traducció a anglès completada i guardada a {output_file_en}")
 
 # Autenticació OAuth (usant refresh token)
 creds = Credentials(
@@ -112,3 +130,19 @@ while response is None:
         print(f"☁️ Pujant {int(status.progress() * 100)}%")
 file_id_out = response.get("id")
 print(f"☁️ Fitxer {output_file} pujat a Drive amb ID: {file_id_out}")
+
+# 8. Pujar fitxer anglès a Drive
+file_metadata_en = {"name": output_file_en, "parents": [OUTPUT_FOLDER_ID]}
+media_en = MediaFileUpload(output_file_en, resumable=True)
+request_en = service.files().create(
+    body=file_metadata_en,
+    media_body=media_en,
+    fields="id"
+)
+response = None
+while response is None:
+    status, response = request_en.next_chunk()
+    if status:
+        print(f"☁️ Pujant {int(status.progress() * 100)}% anglès")
+file_id_out_en = response.get("id")
+print(f"☁️ Fitxer {output_file_en} pujat a Drive amb ID: {file_id_out_en}")
