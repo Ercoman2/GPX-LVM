@@ -59,10 +59,10 @@ print(f"✅ Fitxer SRT baixat localment: {file_name}")
 # 3. Models Aina: català a altres idiomes
 models = {
     "es": "projecte-aina/aina-translator-ca-es",
-    "en": "projecte-aina/aina-translator-ca-en",
+    # "en": "projecte-aina/aina-translator-ca-en",
     "fr": "projecte-aina/aina-translator-ca-fr",
-    "pt": "projecte-aina/aina-translator-ca-pt",
-    "it": "projecte-aina/aina-translator-ca-it"
+    # "pt": "projecte-aina/aina-translator-ca-pt",
+    # "it": "projecte-aina/aina-translator-ca-it"
 }
 
 tokenizers = {}
