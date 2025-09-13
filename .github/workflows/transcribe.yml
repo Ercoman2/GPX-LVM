@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install openai-whisper google-api-python-client google-auth-httplib2 google-auth-oauthlib google-auth
+          pip install openai-whisper google-api-python-client google-auth-httplib2 google-auth-oauthlib google-auth ctranslate2 pyonmttok huggingface_hub
 
       - name: Run transcription script
         env:
