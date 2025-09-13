@@ -84,8 +84,8 @@ def translate_srt_lines(lines, tokenizer, translator):
         else:
             tokens = tokenizer.tokenize(line.strip())[0]
             translated = translator.translate_batch([tokens])
-            # Aquí s'accedeix directament a la primera llista de tokens retornada
-            detokenized = tokenizer.detokenize(translated[0])
+            # Accés correcte a la primera hipòtesi, que és la llista de tokens
+            detokenized = tokenizer.detokenize(translated[0].hypotheses[0])
             output_lines.append(detokenized + "\n")
     return output_lines
 
