@@ -179,6 +179,19 @@ def main():
     with open(srt_file, "w", encoding="utf-8") as f:
         f.write(srt_content)
     print(f"✅ SRT creat: {srt_file}")
+
+    creds = Credentials(
+        token=None,
+        refresh_token=REFRESH_TOKEN,
+        token_uri="https://oauth2.googleapis.com/token",
+        client_id=CLIENT_ID,
+        client_secret=CLIENT_SECRET,
+        scopes=["https://www.googleapis.com/auth/drive"]
+    )
+    # refresca per obtenir access token
+    creds.refresh(Request())
+    service = build("drive", "v3", credentials=creds)
+    return service
     
     # 9. Pujar a Google Drive i compartir (mateix que transcribe2.py)
     upload_to_drive(srt_file, OUTPUT_FOLDER_ID, service)
