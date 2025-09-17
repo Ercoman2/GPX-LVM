@@ -22,8 +22,8 @@ jobs:
         
       - name: Install dependencies
         run: |
-          pip install torch torchaudio
-          pip install openai-whisper google-api-python-client google-auth-httplib2 google-auth-oauthlib google-auth 
+          pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+          pip install openai-whisper google-api-python-client google-auth-httplib2 google-auth-oauthlib google-auth
         
       - name: Run transcription script
         env:
