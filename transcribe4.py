@@ -146,8 +146,8 @@ def main():
     kaldi_success = extract_kaldi_features(file_name)
     
     # 5. Transcriure amb Whisper Large-v3 + Kaldi optimizations
-    print("🎤 Carregant Whisper Large-v3...")
-    model = whisper.load_model("large-v3")  # CANVIAT: large-v3 en lloc de large
+    print("🎤 Carregant Whisper Turbo...")
+    model = whisper.load_model("turbo")  # CANVIAT: large-v3 en lloc de large
     
     print("🔄 Iniciant transcripció optimitzada...")
     result = model.transcribe(
