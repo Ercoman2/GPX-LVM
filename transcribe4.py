@@ -55,15 +55,15 @@ def extract_kaldi_features(audio_path):
             waveform = resampler(waveform)
             sample_rate = 16000
         
-        # Extracció de mel-spectrogram amb Kaldi (104x més ràpid)
+        # Extracció de mel-spectrogram amb Kaldi (CORREGIT)
         mel_features = kaldi_compat.fbank(
             waveform,
             sample_frequency=sample_rate,
             frame_length=25.0,
             frame_shift=10.0,
-            num_mel_bins=128,  # Whisper large-v3 utilitza 128 mel bins
-            dither=0.0,
-            window_type='hann'
+            num_mel_bins=80,  # CANVIAT: 80 és estàndard per Kaldi (no 128)
+            dither=0.0
+            # ELIMINAT: window_type='hann' (no és un paràmetre vàlid)
         )
         
         print(f"✅ Característiques Kaldi extretes: {mel_features.shape}")
@@ -73,6 +73,7 @@ def extract_kaldi_features(audio_path):
         print(f"⚠️ Error amb Kaldi: {e}")
         print("Utilitzant preprocessing estàndard de Whisper...")
         return False
+
 
 def format_timestamp(seconds: float) -> str:
     """Format de timestamp exacte del transcribe2.py - amb milisegons"""
