@@ -1,5 +1,4 @@
 name: Transcribe audio from Drive
-
 on:
   workflow_dispatch:          # també el pots llançar manualment
 
@@ -12,17 +11,18 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
+        
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.9"
-
+          
       - name: Instal·lar ffmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
-
+        
       - name: Install dependencies
         run: |
+          pip install torch torchaudio
           pip install openai-whisper google-api-python-client google-auth-httplib2 google-auth-oauthlib google-auth 
         
       - name: Run transcription script
@@ -31,4 +31,4 @@ jobs:
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
           GOOGLE_REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
-        run: python transcribe2.py
+        run: python transcribe4.py
