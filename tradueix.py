@@ -4,42 +4,29 @@ import re
 import json
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
-# from google.oauth2.credentials import Credentials
-from google.auth.transport.requests import Request
-from googleapiclient.http import MediaIoBaseDownload, MediaFileUpload
+from googleapiclient.http import MediaIoBaseDownload
 import ctranslate2
 import pyonmttok
 from huggingface_hub import snapshot_download
 
 # CONFIGURACIÓ
 INPUT_FOLDER_ID = "1GZsLfYHcS3vLnQNNXys3ObkO4G7AZqxN"
-OUTPUT_FOLDER_ID = "1maaBuxjxzGkVQetrdI-RfmxTte81yIWr"
-YOUR_GOOGLE_EMAIL = "enricluzan@gmail.com"
-
 SERVICE_ACCOUNT_JSON = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON")
-#CLIENT_ID = os.environ.get("GOOGLE_CLIENT_ID")
-#CLIENT_SECRET = os.environ.get("GOOGLE_CLIENT_SECRET")
-#REFRESH_TOKEN = os.environ.get("GOOGLE_REFRESH_TOKEN")
+CLIENT_ID = os.environ.get("GOOGLE_CLIENT_ID")
+CLIENT_SECRET = os.environ.get("GOOGLE_CLIENT_SECRET")
+REFRESH_TOKEN = os.environ.get("GOOGLE_REFRESH_TOKEN")
 
-# Autenticació Google Drive
-service_account_info = json.loads(SERVICE_ACCOUNT_JSON)
-creds = Credentials.from_service_account_info(
-    service_account_info,
+# Autenticació Google Drive (només per baixar)
+creds = Credentials(
+    token=None,
+    refresh_token=REFRESH_TOKEN,
+    token_uri="https://oauth2.googleapis.com/token",
+    client_id=CLIENT_ID,
+    client_secret=CLIENT_SECRET,
     scopes=["https://www.googleapis.com/auth/drive"]
 )
-
+creds.refresh(Request())
 service = build("drive", "v3", credentials=creds)
-
-#creds = Credentials(
-#    token=None,
-#    refresh_token=REFRESH_TOKEN,
-#    token_uri="https://oauth2.googleapis.com/token",
-#    client_id=CLIENT_ID,
-#    client_secret=CLIENT_SECRET,
-#    scopes=["https://www.googleapis.com/auth/drive"]
-#)
-#creds.refresh(Request())
-#service = build("drive", "v3", credentials=creds)
 
 # 1. Trobar l'únic fitxer SRT a la carpeta d'entrada
 results = service.files().list(
@@ -86,7 +73,7 @@ for lang_code, repo_id in models.items():
     tokenizers[lang_code] = pyonmttok.Tokenizer(mode="none", sp_model_path=model_dir + "/spm.model")
     translators[lang_code] = ctranslate2.Translator(model_dir)
 
-# funció per traduir el SRT mantenint timestamps i estructura
+# Funció per traduir el SRT mantenint timestamps i estructura
 def translate_srt_lines(lines, tokenizer, translator):
     output_lines = []
     for line in lines:
@@ -95,7 +82,6 @@ def translate_srt_lines(lines, tokenizer, translator):
         else:
             tokens = tokenizer.tokenize(line.strip())[0]
             translated = translator.translate_batch([tokens])
-            # Accés correcte a la primera hipòtesi, que és la llista de tokens
             detokenized = tokenizer.detokenize(translated[0].hypotheses[0])
             output_lines.append(detokenized + "\n")
     return output_lines
@@ -104,49 +90,17 @@ def translate_srt_lines(lines, tokenizer, translator):
 with open(file_name, "r", encoding="utf-8") as f:
     lines = f.readlines()
 
-# 5. Traduir, guardar i pujar per a cada idioma
+# 5. Crear carpeta "traduccions" si no existeix
+os.makedirs("traduccions", exist_ok=True)
+
+# 6. Traduir i guardar per a cada idioma
 for lang_code in models.keys():
     print(f"Traduint a {lang_code}...")
     output_lines = translate_srt_lines(lines, tokenizers[lang_code], translators[lang_code])
-    output_file = f"{lang_code}.srt"
+    output_file = f"traduccions/{lang_code}.srt"
+    
     with open(output_file, "w", encoding="utf-8") as f_out:
         f_out.writelines(output_lines)
     print(f"✅ Traducció a {lang_code} completada i guardada a {output_file}")
 
-    # Autenticació Google Drive
-    service_account_info = json.loads(SERVICE_ACCOUNT_JSON)
-    creds = Credentials.from_service_account_info(
-        service_account_info,
-        scopes=["https://www.googleapis.com/auth/drive"]
-    )
-    
-    service = build("drive", "v3", credentials=creds)
-    
-    #creds = Credentials(
-    #    token=None,
-    #    refresh_token=REFRESH_TOKEN,
-    #    token_uri="https://oauth2.googleapis.com/token",
-    #    client_id=CLIENT_ID,
-    #    client_secret=CLIENT_SECRET,
-    #    scopes=["https://www.googleapis.com/auth/drive"]
-    #)
-    #creds.refresh(Request())
-    #service = build("drive", "v3", credentials=creds)
-
-    # Pujar a Google Drive
-    file_metadata = {"name": output_file, "parents": [OUTPUT_FOLDER_ID]}
-    media = MediaFileUpload(output_file, resumable=True)
-    request = service.files().create(
-        body=file_metadata,
-        media_body=media,
-        fields="id"
-    )
-    response = None
-    while response is None:
-        status, response = request.next_chunk()
-        if status:
-            print(f"☁️ Pujant {int(status.progress() * 100)}% fitxer {output_file}")
-    file_id_out = response.get("id")
-    print(f"☁️ Fitxer {output_file} pujat a Drive amb ID: {file_id_out}")
-
-print("Totes les traduccions completades i pujades.")
+print("✅ Totes les traduccions completades i guardades a la carpeta 'traduccions/'.")
