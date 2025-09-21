@@ -1,7 +1,7 @@
 name: Translate audio from Drive
 
 on:
-  workflow_dispatch:          # també el pots llançar manualment
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -34,3 +34,16 @@ jobs:
           git add traduccions/
           git commit -m "Afegir traduccions SRT generades automàticament" || exit 0
           git push
+
+      - name: Enviar notificació Telegram
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_CHAT_ID }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+            ✅ Traduccions SRT completades!
+            
+            📁 Fitxers generats: ES, FR
+            🔗 Veure fitxers: https://github.com/${{ github.repository }}/tree/main/traduccions
+            
+            ⏰ Completat: ${{ github.event.head_commit.timestamp }}
