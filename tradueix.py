@@ -12,20 +12,13 @@ from huggingface_hub import snapshot_download
 # CONFIGURACIÓ
 INPUT_FOLDER_ID = "1GZsLfYHcS3vLnQNNXys3ObkO4G7AZqxN"
 SERVICE_ACCOUNT_JSON = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON")
-CLIENT_ID = os.environ.get("GOOGLE_CLIENT_ID")
-CLIENT_SECRET = os.environ.get("GOOGLE_CLIENT_SECRET")
-REFRESH_TOKEN = os.environ.get("GOOGLE_REFRESH_TOKEN")
 
 # Autenticació Google Drive (només per baixar)
-creds = Credentials(
-    token=None,
-    refresh_token=REFRESH_TOKEN,
-    token_uri="https://oauth2.googleapis.com/token",
-    client_id=CLIENT_ID,
-    client_secret=CLIENT_SECRET,
+service_account_info = json.loads(SERVICE_ACCOUNT_JSON)
+creds = Credentials.from_service_account_info(
+    service_account_info,
     scopes=["https://www.googleapis.com/auth/drive"]
 )
-creds.refresh(Request())
 service = build("drive", "v3", credentials=creds)
 
 # 1. Trobar l'únic fitxer SRT a la carpeta d'entrada
@@ -57,10 +50,7 @@ print(f"✅ Fitxer SRT baixat localment: {file_name}")
 # 3. Models Aina: català a altres idiomes
 models = {
     "es": "projecte-aina/aina-translator-ca-es",
-    # "en": "projecte-aina/aina-translator-ca-en",
     "fr": "projecte-aina/aina-translator-ca-fr",
-    # "pt": "projecte-aina/aina-translator-ca-pt",
-    # "it": "projecte-aina/aina-translator-ca-it"
 }
 
 tokenizers = {}
