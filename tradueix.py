@@ -1,9 +1,11 @@
 import os
 import io
 import re
-from google.oauth2.credentials import Credentials
-from google.auth.transport.requests import Request
+import json
+from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
+# from google.oauth2.credentials import Credentials
+from google.auth.transport.requests import Request
 from googleapiclient.http import MediaIoBaseDownload, MediaFileUpload
 import ctranslate2
 import pyonmttok
@@ -14,21 +16,30 @@ INPUT_FOLDER_ID = "1GZsLfYHcS3vLnQNNXys3ObkO4G7AZqxN"
 OUTPUT_FOLDER_ID = "1maaBuxjxzGkVQetrdI-RfmxTte81yIWr"
 YOUR_GOOGLE_EMAIL = "enricluzan@gmail.com"
 
-CLIENT_ID = os.environ.get("GOOGLE_CLIENT_ID")
-CLIENT_SECRET = os.environ.get("GOOGLE_CLIENT_SECRET")
-REFRESH_TOKEN = os.environ.get("GOOGLE_REFRESH_TOKEN")
+SERVICE_ACCOUNT_JSON = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON")
+#CLIENT_ID = os.environ.get("GOOGLE_CLIENT_ID")
+#CLIENT_SECRET = os.environ.get("GOOGLE_CLIENT_SECRET")
+#REFRESH_TOKEN = os.environ.get("GOOGLE_REFRESH_TOKEN")
 
 # Autenticació Google Drive
-creds = Credentials(
-    token=None,
-    refresh_token=REFRESH_TOKEN,
-    token_uri="https://oauth2.googleapis.com/token",
-    client_id=CLIENT_ID,
-    client_secret=CLIENT_SECRET,
+service_account_info = json.loads(SERVICE_ACCOUNT_JSON)
+creds = Credentials.from_service_account_info(
+    service_account_info,
     scopes=["https://www.googleapis.com/auth/drive"]
 )
-creds.refresh(Request())
+
 service = build("drive", "v3", credentials=creds)
+
+#creds = Credentials(
+#    token=None,
+#    refresh_token=REFRESH_TOKEN,
+#    token_uri="https://oauth2.googleapis.com/token",
+#    client_id=CLIENT_ID,
+#    client_secret=CLIENT_SECRET,
+#    scopes=["https://www.googleapis.com/auth/drive"]
+#)
+#creds.refresh(Request())
+#service = build("drive", "v3", credentials=creds)
 
 # 1. Trobar l'únic fitxer SRT a la carpeta d'entrada
 results = service.files().list(
@@ -103,16 +114,24 @@ for lang_code in models.keys():
     print(f"✅ Traducció a {lang_code} completada i guardada a {output_file}")
 
     # Autenticació Google Drive
-    creds = Credentials(
-        token=None,
-        refresh_token=REFRESH_TOKEN,
-        token_uri="https://oauth2.googleapis.com/token",
-        client_id=CLIENT_ID,
-        client_secret=CLIENT_SECRET,
+    service_account_info = json.loads(SERVICE_ACCOUNT_JSON)
+    creds = Credentials.from_service_account_info(
+        service_account_info,
         scopes=["https://www.googleapis.com/auth/drive"]
     )
-    creds.refresh(Request())
+    
     service = build("drive", "v3", credentials=creds)
+    
+    #creds = Credentials(
+    #    token=None,
+    #    refresh_token=REFRESH_TOKEN,
+    #    token_uri="https://oauth2.googleapis.com/token",
+    #    client_id=CLIENT_ID,
+    #    client_secret=CLIENT_SECRET,
+    #    scopes=["https://www.googleapis.com/auth/drive"]
+    #)
+    #creds.refresh(Request())
+    #service = build("drive", "v3", credentials=creds)
 
     # Pujar a Google Drive
     file_metadata = {"name": output_file, "parents": [OUTPUT_FOLDER_ID]}
