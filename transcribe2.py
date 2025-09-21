@@ -2,36 +2,20 @@ import os
 import io
 import whisper
 import json
-from google.oauth2 import service_account
-from google.oauth2.credentials import Credentials
-from google.auth.transport.requests import Request
+from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
-from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.http import MediaIoBaseDownload
-from googleapiclient.http import MediaFileUpload
 
-# Config
+# CONFIGURACIÓ
 INPUT_FOLDER_ID = "1lP4O_7gzVbrguucycJuPWqmY_QgIKqxB"
-OUTPUT_FOLDER_ID = "1JnxA6r8Kf4HWggUWVpoZqcd_UeSdrOpw"
-YOUR_GOOGLE_EMAIL = "enricluzan@gmail.com"  # <-- posa-hi el teu email personal
+SERVICE_ACCOUNT_JSON = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON")
 
-# Assegura't que has guardat aquests secrets a GitHub Actions
-CLIENT_ID = os.environ.get("GOOGLE_CLIENT_ID")
-CLIENT_SECRET = os.environ.get("GOOGLE_CLIENT_SECRET")
-REFRESH_TOKEN = os.environ.get("GOOGLE_REFRESH_TOKEN")
-
-# Autenticació OAuth (usant refresh token)
-creds = Credentials(
-    token=None,
-    refresh_token=REFRESH_TOKEN,
-    token_uri="https://oauth2.googleapis.com/token",
-    client_id=CLIENT_ID,
-    client_secret=CLIENT_SECRET,
+# Autenticació Google Drive (només per baixar i esborrar)
+service_account_info = json.loads(SERVICE_ACCOUNT_JSON)
+creds = Credentials.from_service_account_info(
+    service_account_info,
     scopes=["https://www.googleapis.com/auth/drive"]
 )
-
-# refresca per obtenir access token
-creds.refresh(Request())
 service = build("drive", "v3", credentials=creds)
 
 # 1. Trobar arxius nous a la carpeta d'entrada
@@ -85,61 +69,20 @@ for i, seg in enumerate(segments, start=1):
     srt_lines.append("")
 
 srt_content = "\n".join(srt_lines)
-print(f"✅ Arxiu transcrit: {file_name}")
 
-# Fitxers de sortida
-srt_file = file_name.rsplit(".", 1)[0] + ".srt"
+# 5. Crear carpeta "transcript" si no existeix
+os.makedirs("transcript", exist_ok=True)
 
-# Escriure .srt
+# Guardar fitxer SRT a la carpeta transcript
+srt_file = f"transcript/{file_name.rsplit('.', 1)[0]}.srt"
+
 with open(srt_file, "w", encoding="utf-8") as f:
     f.write(srt_content)
 
-print(f"✅ SRT creat: {srt_file}")
+print(f"✅ SRT creat i guardat a: {srt_file}")
 
-# Autenticació OAuth (usant refresh token)
-creds = Credentials(
-    token=None,
-    refresh_token=REFRESH_TOKEN,
-    token_uri="https://oauth2.googleapis.com/token",
-    client_id=CLIENT_ID,
-    client_secret=CLIENT_SECRET,
-    scopes=["https://www.googleapis.com/auth/drive"]
-)
-
-# refresca per obtenir access token
-creds.refresh(Request())
-service = build("drive", "v3", credentials=creds)
-
-# 5. Pujar a Google Drive i compartir
-def upload_to_drive(local_path, parent_folder_id):
-    file_metadata = {"name": os.path.basename(local_path), "parents": [parent_folder_id]}
-    media = MediaFileUpload(local_path, resumable=True)
-    request = service.files().create(
-        body=file_metadata,
-        media_body=media,
-        fields="id"
-    )
-    
-    response = None
-    while response is None:
-        status, response = request.next_chunk()
-        if status:
-            print(f"☁️ Pujant {int(status.progress() * 100)}%")
-    
-    file_id = response.get("id")
-    print(f"☁️ Fitxer {local_path} pujat a Drive amb ID: {file_id}")
-
-    # Compartir amb el teu compte personal
-    permission = {
-        "type": "user",
-        "role": "writer",
-        "emailAddress": YOUR_GOOGLE_EMAIL,
-    }
-    service.permissions().create(fileId=file_id, body=permission).execute()
-    print(f"🔗 Compartit amb {YOUR_GOOGLE_EMAIL}: https://drive.google.com/file/d/{file_id}/view")
-
-upload_to_drive(srt_file, OUTPUT_FOLDER_ID)
-
-# 6. Esborrar l'arxiu .mp3 original de la carpeta d'entrada
+# 6. Esborrar l'arxiu original de la carpeta d'entrada
 service.files().delete(fileId=file_id).execute()
 print(f"🗑️ Arxiu original {file_name} esborrat de la carpeta d'entrada.")
+
+print("✅ Transcripció completada i guardada a la carpeta 'transcript/'.")
