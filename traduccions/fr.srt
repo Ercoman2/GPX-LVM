@@ -1,363 +1,1043 @@
 1
-00:00:00,000 --> 00:00:03,900
-Jour 8 et dernier, aller chercher des champignons. Je retourne à Vallcebre.
+00:00:00,000 --> 00:00:00,080
+...
 
 2
-00:00:04,660 --> 00:00:11,780
-Le 25 octobre, je reviens à Vallcebre. L'année dernière, je suis venu à Vallcebre et, par hasard, j'ai trouvé une forêt,
+00:00:15,160 --> 00:00:18,060
+Bonjour! Bienvenue à Enric Adventures.
 
 3
-00:00:12,560 --> 00:00:14,480
-La forêt la plus grouillante de Catalogne a été sauvage.
+00:00:18,580 --> 00:00:20,760
+Aujourd'hui, une vidéo comme celles du début de la chaîne,
 
 4
-00:00:14,960 --> 00:00:21,560
-Et, bien, finalement, la vidéo a eu beaucoup de visites et à partir de là, ils m'ont appelé à TV3 et toute la pêche.
+00:00:21,040 --> 00:00:23,720
+Ceux qui faisaient sans scénario, moi parlant, un bon moment.
 
 5
-00:00:21,800 --> 00:00:27,820
-A posteriori, beaucoup de gens m'ont envoyé des vidéos et des photos et m'ont écrit pour me dire que vous êtes venus dans cette forêt
+00:00:24,140 --> 00:00:26,980
+Je l'ai intitulé: la vidéo la plus importante de ma vie,
 
 6
-00:00:27,820 --> 00:00:31,080
-Vous aviez trouvé beaucoup de champignons, mais aujourd’hui je ne suis pas dans cette forêt.
+00:00:26,980 --> 00:00:28,520
+Et je vous assure que c'est comme ça.
 
 7
-00:00:31,780 --> 00:00:36,220
-Aujourd'hui, je retourne à Vallcebre, mais dans une autre forêt, pour voir si elle a autant de succès que l'autre.
+00:00:28,940 --> 00:00:31,400
+Ce n'est pas un appât bon marché, ce n'est pas un clickbait...
 
 8
-00:00:36,300 --> 00:00:38,020
-Je ne crois pas, parce que je crois que cette forêt était brutale.
+00:00:31,920 --> 00:00:33,680
+Restez jusqu'à la fin pour comprendre.
 
 9
-00:00:39,000 --> 00:00:42,880
-Eh bien, semaine compliquée, je pense, encore une fois, parce qu'il n'a pas plu beaucoup,
+00:00:33,880 --> 00:00:36,080
+Aujourd’hui je vais vous raconter ma prochaine aventure.
 
 10
-00:00:43,080 --> 00:00:45,660
-Les températures ont baissé, mais hier, essentiellement.
+00:00:36,120 --> 00:00:37,820
+Mon prochain grand projet.
 
 11
-00:00:46,320 --> 00:00:50,300
-Par conséquent, je ne sais pas, j'ai aussi fait assez de vent, ce qui est le principal ennemi des champignons.
+00:00:37,920 --> 00:00:39,420
+Mais ce sera à la fin.
 
 12
-00:00:50,900 --> 00:00:55,280
-Et rien, j’ai garé ici à côté du camping... Comment s’appelle le camping ? Bon, vous le verrez à l’écran.
+00:00:40,000 --> 00:00:41,440
+Je dois d'abord vous faire un avant-goût.
 
 13
-00:00:55,540 --> 00:00:56,100
-Je me suis garé ici.
+00:00:42,060 --> 00:00:43,440
+Pour que vous compreniez tout,
 
 14
-00:00:56,480 --> 00:00:59,520
-Et cette route que vous voyez ici est la route de Sant Corneli,
+00:00:43,560 --> 00:00:45,980
+Je vous conseille vraiment de tout regarder.
 
 15
-00:00:59,620 --> 00:01:04,440
-et toute cette route vers le nord et le sud, nous avons une extension de Pi Roig,
+00:00:46,060 --> 00:00:46,980
+Parce que ça en vaudra la peine.
 
 16
-00:01:04,580 --> 00:01:06,020
-Avec peu de sous-bois, comme vous pouvez le voir.
+00:00:47,640 --> 00:00:49,040
+Eh bien, commençons par le début.
 
 17
-00:01:06,820 --> 00:01:11,500
-Et bon, enfin, ça fait deux minutes que je marche, pour le moment vers Rovelló, mais bon...
+00:00:49,280 --> 00:00:51,120
+Pour ceux qui ne connaissent pas, j'ai une chaîne YouTube
 
 18
-00:01:12,800 --> 00:01:15,740
-Je ne sais pas ce qu'il a dit. Pour le moment vers Rovelló, mais bon, voyons si nous trouvons quelque chose.
+00:00:51,120 --> 00:00:52,200
+Depuis environ 3 ans,
 
 19
-00:01:16,240 --> 00:01:20,600
-Bon, je suis en train de trouver des crevettes, mais je leur trouve un poil blanc.
+00:00:52,620 --> 00:00:54,380
+Je fais des vidéos en catalan.
 
 20
-00:01:20,940 --> 00:01:25,120
-Je ne sais pas si ça se voit, mais c'est comme si elles avaient un peu séché.
+00:00:55,040 --> 00:00:56,780
+Est-ce que je pourrais le faire en espagnol et avoir plus de visites?
 
 21
-00:01:25,720 --> 00:01:26,080
-Je vois déjà.
+00:00:57,680 --> 00:00:58,040
+Probablement.
 
 22
-00:01:26,100 --> 00:01:30,300
-Je pense qu'à cause du vent qui a fait ces jours-ci les a séchés, ils sont encore 100% comestibles.
+00:00:58,060 --> 00:01:01,360
+Le castillan a beaucoup plus de locuteurs que le catalan.
 
 23
-00:01:31,600 --> 00:01:33,620
-Et là, on voit qu'il est d'une couleur un peu étrange.
+00:01:01,380 --> 00:01:03,420
+C'est un peu mathématique, non ?
 
 24
-00:01:34,140 --> 00:01:38,820
-Ce qui m’arrive toujours, c’est qu’à mesure que je monte en altitude, je les trouve plus grandes et plus bonnes.
+00:01:03,680 --> 00:01:05,820
+Lorsque vous avez plus de locuteurs d'une langue,
 
 25
-00:01:39,980 --> 00:01:42,880
-Et ils ont l'habitude de sauver le jour où vous ne trouvez pas de petits poussins, pour voir si aujourd'hui aussi.
+00:01:05,860 --> 00:01:07,580
+Vous aurez plus de vues sur la vidéo, il n'y en a pas plus.
 
 26
-00:01:43,900 --> 00:01:47,840
-J'entends des gens, là-bas, derrière, à côté...
+00:01:08,200 --> 00:01:09,720
+Mais bon, je le fais en catalan parce que j'aime ça.
 
 27
-00:01:48,840 --> 00:01:54,200
-Je pense que c'est un endroit assez célèbre. En outre, comme je me suis garé près d'ici, bien sûr...
+00:01:09,820 --> 00:01:11,080
+Et voilà, rien ne se passe.
 
 28
-00:01:54,920 --> 00:02:02,040
-La question sera, je pense que nous allons monter jusqu'aux falaises de Vallcebre qui sont là, les célèbres falaises de Vallcebre.
+00:01:12,720 --> 00:01:13,780
+La Généralité de Catalogne
 
 29
-00:02:03,680 --> 00:02:09,840
-Pendant ce temps, nous récoltons des crevettes de qualité quelque peu douteuse.
+00:01:13,780 --> 00:01:16,280
+subventions, aides,
 
 30
-00:02:11,860 --> 00:02:12,700
-Mais bon, en faisant.
+00:01:16,280 --> 00:01:18,600
+dans les magazines, les radios, les tissus,
 
 31
-00:02:14,480 --> 00:02:20,880
-Regarde, regarde, regarde, regarde, regarde, regarde, regarde, regarde, regarde. Oh, mais c'est que cela est arrivé à tout le monde qui est passé par ici. Regarde, regarde, que c'est beau, que c'est beau, que c'est beau.
+00:01:19,300 --> 00:01:20,380
+qui font le contenu de catalan
 
 32
-00:02:21,740 --> 00:02:26,120
-Voyons, sortez-le, sortez-le. Premier bourgeon qui saisit cette fille avec sa vie.
+00:01:20,380 --> 00:01:23,700
+pour compenser cette différence de locuteurs, n'est-ce pas?
 
 33
-00:02:29,480 --> 00:02:32,660
-Oh! Makissim, Makissim, vous. Félicitations.
+00:01:23,720 --> 00:01:25,000
+Et pour promouvoir le catalan.
 
 34
-00:02:34,080 --> 00:02:39,300
-Regarde, regarde, regarde, un autre, un autre, un autre, un autre. Ce petit, hein? Ce petit.
+00:01:25,240 --> 00:01:26,720
+Eh bien, l'année dernière,
 
 35
-00:02:40,580 --> 00:02:44,820
-Regarde, cet autre, c'est moi qui l'ai trouvé. Euh! On l'appelle boutonnet.
+00:01:26,980 --> 00:01:27,380
+En 2024,
 
 36
-00:02:46,680 --> 00:02:48,160
-Bouton parce qu'il est comme un petit, ressemble à un bouton.
+00:01:28,140 --> 00:01:30,780
+La Generalitat de Catalunya a convoqué des bourses
 
 37
-00:02:48,160 --> 00:02:50,960
-Ah, justement. Eh bien, comme vous le voyez aujourd'hui, je ne viens pas seul.
+00:01:30,780 --> 00:01:33,720
+pour les créateurs de contenu qui font de longues vidéos,
 
 38
-00:02:51,580 --> 00:02:57,100
-J'ai une famille qui n'est jamais allée chercher des champignons. Maintenant, je suis allé un peu loin pour faire un pipi et un petit jaune.
+00:01:33,740 --> 00:01:34,720
+de plus de 5 minutes,
 
 39
-00:02:58,200 --> 00:03:08,480
-Un pinatell, vous. Huîtres, cette forêt promet, hein? Il est vrai que je pense que cette forêt est assez connue, mais il est très confortable pour la marche, très beau et plein de champignons.
+00:01:34,760 --> 00:01:35,540
+en Catalogne.
 
 40
-00:03:09,800 --> 00:03:16,240
-La prophétie s'est-elle accomplie pour le moment? Plus nous montons, plus les chaumières sont grandes. Regardez ici, regardez ici.
+00:01:35,620 --> 00:01:36,720
+Et je dis, huîtres,
 
 41
-00:03:16,760 --> 00:03:22,060
-Cela a déjà l'air mieux qu'avant, hein? C'était assez, assez pathétique, c'était trop petit. Ceux-ci, très bien.
+00:01:36,900 --> 00:01:37,900
+Celle-ci est la mienne.
 
 42
-00:03:27,980 --> 00:03:35,060
-Vous arrive-t-il d'aller avec quelqu'un qui est un peu novice et vous marchez très lentement? Et vous êtes un peu nerveux?
+00:01:38,280 --> 00:01:40,760
+Je fais des vidéos en catalan, je les fais longues, je les fais sur YouTube,
 
 43
-00:03:35,680 --> 00:03:38,640
-C'est ce qui m'arrive à moi, mais bon, toi, pour le moment, les cafards.
+00:01:41,280 --> 00:01:42,080
+Alors je m'inscris.
 
 44
-00:03:39,960 --> 00:03:46,220
-Bon, bon, aller lentement n'est pas tout à fait mauvais parce que vous vous tenez, vous vous y tenez plus et vous trouvez un petit ver comme j'ai fait.
+00:01:43,480 --> 00:01:44,960
+C'était beaucoup d'argent, la vérité,
 
 45
-00:03:46,240 --> 00:03:51,840
-Regarde, regarde, regarde, regarde, celui-ci est là, il semble qu'il soit comme sur la pierre. Voyons si je peux l'enlever.
+00:01:45,040 --> 00:01:46,720
+Il s'agissait de 18 000 euros,
 
 46
-00:03:52,000 --> 00:03:57,100
-Dois-je sortir avec le couteau? Non, non, celui-ci sort tout seul, il sort tout seul. Regarde, regarde, tape, on tape.
+00:01:46,880 --> 00:01:49,380
+et bien, tu ne pouvais pas simplement te présenter et c'est tout,
 
 47
-00:03:59,060 --> 00:04:03,420
-Un tout nouveau pinetillo, hein? Celui-ci. Tous ceux que nous rencontrons aujourd'hui, aucun pourri. Super.
+00:01:49,520 --> 00:01:51,060
+Vous devez présenter un projet
 
 48
-00:04:04,280 --> 00:04:10,140
-Et un autre, je les attrape tous moi. Il fallait vraiment que tu t'approches pour le trouver, hein? Le voyez-vous?
+00:01:51,740 --> 00:01:52,620
+Très bien structuré,
 
 49
-00:04:11,540 --> 00:04:15,860
-Bono, bono, est-ce? Est-ce que c'est du rouille? Oui, non, oui, un peigne.
+00:01:52,820 --> 00:01:54,020
+Je devais écrire des scénarios,
 
 50
-00:04:16,240 --> 00:04:19,460
-Peut-être qu'il est mangé, hein? Ensuite, quand nous l'ouvrirons, nous le saurons.
+00:01:54,340 --> 00:01:56,200
+un sujet spécifique, vous ne pouvez pas simplement dire
 
 51
-00:04:20,520 --> 00:04:30,140
-Je pensais que c'était sec, mais maintenant je trouve assez, assez de crevettes, type un 30-40% ont comme cette tache, nous pourrions dire, blanc sur le dessus ou...
+00:01:56,200 --> 00:01:56,880
+Je ferai des vidéos
 
 52
-00:04:30,140 --> 00:04:40,260
-Cela signifie qu'ils sont parasités d'une manière ou d'une autre ou... ou sont-ils simplement secs ou... ne devrions-nous pas les manger? Que devons-nous en faire? Voyons, les experts, aidez-moi.
+00:01:56,980 --> 00:01:57,480
+de randonnée.
 
 53
-00:04:40,960 --> 00:04:43,340
-Les bourgeons sont aujourd'hui sur les pierres, tu regardes.
+00:01:58,480 --> 00:02:02,120
+Il fallait donc faire un projet, un calendrier,
 
 54
-00:04:43,900 --> 00:04:54,300
-Aujourd'hui, je les trouve près de pierres. Je n'ai pas le couteau ici, il y a le panier, buah, pinetell. Comme c'est bon, orange nucléaire.
+00:02:02,360 --> 00:02:04,000
+une stratégie de diffusion,
 
 55
-00:04:55,860 --> 00:05:09,700
-Nous avons presque une heure et bon, aussi lent que nous allons et novices qu'ils sont, nous allons assez bien. Regardez le panier pour le moment. Nous sommes trois, hein? Je vais aussi vous dire. Avez-vous trouvé un bourgeon?
+00:02:04,620 --> 00:02:05,620
+Beaucoup de choses, d'accord ?
 
 56
-00:05:10,580 --> 00:05:11,580
-On a trouvé du bourgeon.
+00:02:05,900 --> 00:02:08,000
+Parce que c’est beaucoup d’argent et qu’il faut le justifier.
 
 57
-00:05:11,580 --> 00:05:16,280
-Je l'ai trouvé. Moi qui voulais te donner le mérite. Le prends-tu ou quoi?
+00:02:09,220 --> 00:02:12,380
+J’étais très confiant et j’ai présenté un projet très ambitieux.
 
 58
-00:05:16,660 --> 00:05:17,800
-Elle qui n'en a pas pris.
+00:02:12,540 --> 00:02:13,360
+Un projet...
 
 59
-00:05:20,320 --> 00:05:23,580
-Venez, attrapez-le. Parfait.
+00:02:13,840 --> 00:02:14,880
+Très, très ambitieux.
 
 60
-00:05:24,760 --> 00:05:28,360
-Quelle illusion, hein, le petit vermillon? Regarde, il le coupe comme Oriol.
+00:02:15,180 --> 00:02:17,680
+Et, après...
 
 61
-00:05:29,200 --> 00:05:38,940
-Bonne forêt, à vrai dire, à venir avec des enfants car c'est assez facile de marcher, c'est plat, ça ne monte pas beaucoup. Ce qui se passe, c'est que je vous recommande de garer la route de Sant Corneli,
+00:02:17,680 --> 00:02:20,500
+C’était en mai 2024.
 
 62
-00:05:39,400 --> 00:05:45,040
-vous tirez plus là-bas, ne vous garez pas sur le parking, mais voici comment... Il y a beaucoup de monde. Il n'y a pas beaucoup d'endroits, hein, pour se garer, mais bon.
+00:02:21,500 --> 00:02:23,900
+Et six mois plus tard, six mois plutôt angoissants,
 
 63
-00:05:46,160 --> 00:05:49,440
-Vous y entrez et plus ou moins vous entrez vers le nord, vers le haut.
+00:02:24,040 --> 00:02:25,360
+Là où j'étais convaincu
 
 64
-00:05:49,780 --> 00:06:02,840
-Eh bien, midi. Aujourd'hui, nous ne serons pas toute la journée. J'ai déjà dit que ce serait le dernier jour pour aller chercher des champignons, non? Pourquoi? Si nous sommes encore 20 et pico d'octobre. La saison durera encore un mois et pico plus, non?
+00:02:25,360 --> 00:02:26,640
+qu'on me le donne,
 
 65
-00:06:03,320 --> 00:06:06,120
-Alors qu'est-ce qui se passe? Eh bien, à la fin oui. À la fin oui.
+00:02:26,980 --> 00:02:28,680
+J’ai beaucoup travaillé sur ce projet,
 
 66
-00:06:06,120 --> 00:06:15,700
-Dans les vidéos précédentes, je vous disais que j’avais une grande aventure à vous raconter, que... mais que je ne pouvais pas encore l’annoncer, que j’attendais, je ne sais pas quoi, je ne sais pas quoi... Maintenant, oui.
+00:02:28,680 --> 00:02:29,940
+J'avais prévu de l'exécuter,
 
 67
-00:06:16,480 --> 00:06:25,700
-J'ai déjà la confirmation, je peux l'expliquer. Je vais l'expliquer la semaine prochaine. Je vais faire une vidéo... Bon, une vidéo expliquant tout le sujet.
+00:02:31,280 --> 00:02:32,420
+Mais... pas au final.
 
 68
-00:06:27,140 --> 00:06:34,280
-J'espère que vous le verrez tous, en particulier ceux qui aiment la partie randonnée en montagne et ceux qui me suivent depuis longtemps. J'espère que vous le regarderez.
+00:02:32,980 --> 00:02:33,860
+On ne me l'a pas donné.
 
 69
-00:06:34,280 --> 00:06:38,900
-Et bon, ceux qui ne suivent que les champignons, regardez-le aussi. Voyons ce que vous en pensez.
+00:02:34,660 --> 00:02:36,720
+C'est dommage, dommage,
 
 70
-00:06:39,340 --> 00:06:47,580
-Je vous demande de vous abonner si vous avez aimé la série de vidéos de champignons de cette année. Est-ce que ça vous a servi? Est-ce que ça vous a amusé? Avez-vous trouvé un champignon grâce à moi?
+00:02:36,780 --> 00:02:37,900
+Et j'étais assez triste.
 
 71
-00:06:47,680 --> 00:06:53,700
-Alors, inscrivez-vous parce que nous sommes sur le point d'atteindre 10 000. Et cela me ferait très plaisir.
+00:02:38,300 --> 00:02:42,080
+Les semaines et les mois qui ont suivi ont été très tristes.
 
 72
-00:06:54,460 --> 00:07:02,880
-Voyons voir... Un bourgeon, mais il semble très fait chaud, hein? Oui, regarde, regarde, il est... Non, mais il est mangé par les vers, hein? Regardez, quel dégoût.
+00:02:42,120 --> 00:02:44,300
+Parce que, eh bien, je pensais qu'ils me le donneraient,
 
 73
-00:07:04,280 --> 00:07:14,900
-Eh bien? Eh bien? Eh bien? Voyons, voyons. Un, deux, trois. L'un est un vigneron, apparemment, et l'autre est un vigneron. Bon, non, de sang, pardon, que vous me fondez toujours après.
+00:02:44,820 --> 00:02:46,880
+J'ai été très émue par ce projet,
 
 74
-00:07:16,040 --> 00:07:18,680
-Oups, tu as tout pris. Oh, c'est pourri.
+00:02:46,900 --> 00:02:48,220
+Et il l'avait déjà comme un cou, n'est-ce pas ?
 
 75
-00:07:20,000 --> 00:07:28,560
-Ale, maman, ah! Au lieu de cela, celui-ci... c'est aussi du sang. Maman, maman!
+00:02:48,620 --> 00:02:49,360
+Et j'ai dit:
 
 76
-00:07:28,800 --> 00:07:31,680
-Oh, aussi, il a aussi des vers, il a aussi des vers.
+00:02:50,780 --> 00:02:53,980
+« Enric, si l’année prochaine ils convoquent à nouveau les bourses,
 
 77
-00:07:31,680 --> 00:07:39,200
-Voyons voir s'il y a un peu plus de chance avec ce petit, aussi, hein? Ui, ui, ui, est-ce qu'il pique aussi, hein? Est-ce que... Oui, nous allons l'attraper avec le couteau.
+00:02:54,440 --> 00:02:55,680
+vous vous présentez de nouveau,
 
 78
-00:07:39,840 --> 00:07:41,120
-Tout, tout, tout, tout, tout.
+00:02:56,440 --> 00:02:57,960
+Si tu gagnes, tu le fais.
 
 79
-00:07:43,080 --> 00:07:48,880
-Euh! Bouton bon, qui en bonne santé, celui-ci oui. C'est cuqui, hein? Cuqui, cuqui.
+00:02:58,820 --> 00:03:00,680
+Et si non, aussi. »
 
 80
-00:07:51,020 --> 00:07:59,440
-Eh bien, si vous venez ici, ne vous inquiétez pas, car vous ne trouverez peut-être pas de bourgeons, mais les mains vides, vous ne reviendrez pas, hein? Vous ne rentrerez pas à la maison, hein?
+00:03:02,820 --> 00:03:04,380
+2025, avril 2025 arrive,
 
 81
-00:07:59,440 --> 00:08:04,380
-Parce qu'il y a des crevettes que vous voulez, hein? Pas autant que le Solsonès que je suis allé l'autre jour, hein?
+00:03:05,060 --> 00:03:07,540
+et oui, oui, l'appel aux bourses sort à nouveau,
 
 82
-00:08:04,740 --> 00:08:10,480
-Vous souvenez-vous qu'il y avait une barbarie? Mais, Dieu-ne-do, hein? Vous pouvez... vous pouvez en prendre autant que vous le souhaitez.
+00:03:07,720 --> 00:03:09,100
+Ce n'est pas 18 000 euros.
 
 83
-00:08:10,980 --> 00:08:17,780
-Eh bien, rien, je pensais que si nous montions vers la falaise, nous trouverions plus, et non, au contraire. Plus nous nous sommes éloignés, moins nous avons trouvé.
+00:03:09,240 --> 00:03:12,040
+Ils étaient 10 000, mais bon, c'est encore beaucoup d'argent,
 
 84
-00:08:17,980 --> 00:08:23,280
-Donc, nous sommes déjà en train de redescendre, il fait un peu nuageux, je pense que nous ne tarderons pas à partir.
+00:03:12,760 --> 00:03:14,920
+et avec beaucoup d'intérêt la vidéo,
 
 85
-00:08:24,420 --> 00:08:28,200
-Redouté mutant ? Je ne sais pas. Redouté mutant ? Ouuuuh !
+00:03:14,980 --> 00:03:16,180
+Il fallait que je fasse une vidéo, hein ?
 
 86
-00:08:29,540 --> 00:08:32,080
-Je dirais oui. Oui ou non? Oui, oui, oui, oui, oui, oui.
+00:03:16,520 --> 00:03:18,840
+En tant qu'épisode pilote, cela devait être présenté,
 
 87
-00:08:32,260 --> 00:08:35,460
-Oh, mais il est plein de vers.
+00:03:18,900 --> 00:03:21,840
+un plan de diffusion, un calendrier,
 
 88
-00:08:36,420 --> 00:08:46,060
-Très bien, nous sommes déjà de retour. Eh bien, à la fin, normal, normal. Très bonne zone, je pense, et nous avons trouvé quelques petits bourgeons parce qu'il y avait déjà beaucoup de gens.
+00:03:23,060 --> 00:03:24,520
+Thème, style, bon, beaucoup de choses.
 
 89
-00:08:46,600 --> 00:08:57,200
-Et ils les ont ramassés avant, évidemment. Mais très bonne région, hein? La vérité, si je pouvais rester plus longtemps, je serais plus là, en suivant la route de Sant Corneli, et c'est tout.
+00:03:25,400 --> 00:03:28,880
+J'en ai marre, et je dis, allez, on verra si cette fois,
 
 90
-00:08:57,800 --> 00:09:03,000
-Bon, toi, un plaisir hein? Demain, je retourne chercher des champignons, en fait, ce qui se passe, je ne vais pas faire de vidéo, hein? Mais je vais avec d'autres amis.
+00:03:28,900 --> 00:03:29,960
+Cette fois, on me le donne.
 
 91
-00:09:05,160 --> 00:09:14,200
-Et... et rien, ce sont les coordonnées de l'endroit où j'ai trouvé la plupart des crevettes et des chanterelles. Et comme je le dis toujours, santé et champignons!
+00:03:30,920 --> 00:03:34,140
+Il y a quelques mois, je pensais que cela se résoudrait plus tôt,
+
+92
+00:03:34,840 --> 00:03:36,480
+Pour ceux qui ont regardé mes dernières vidéos,
+
+93
+00:03:36,680 --> 00:03:39,980
+J'ai donc dit que je présenterai bientôt un nouveau projet,
+
+94
+00:03:39,980 --> 00:03:41,880
+Je sais pas quoi, j'ai mis longtemps à le dire, non ?
+
+95
+00:03:42,320 --> 00:03:44,680
+Et c'est parce que je pensais que ces bourses seraient résolues plus tôt,
+
+96
+00:03:44,780 --> 00:03:46,240
+Je pensais qu'en septembre, nous l'aurions.
+
+97
+00:03:46,840 --> 00:03:51,540
+Ce n'est que la semaine dernière qu'ils ont trouvé la solution.
+
+98
+00:03:51,940 --> 00:03:53,640
+En fait, j'ai commencé,
+
+99
+00:03:53,640 --> 00:03:55,760
+Cette phase très optimiste,
+
+100
+00:03:55,820 --> 00:03:59,320
+Mais la fin n'était pas du tout optimiste.
+
+101
+00:03:59,340 --> 00:04:02,160
+Je pensais qu’il allait être présenté à un public jeune.
+
+102
+00:04:02,220 --> 00:04:05,520
+Je ne suis pas vieux non plus, mais j'ai moins de 30 ans.
+
+103
+00:04:05,680 --> 00:04:08,300
+Et bien, je vais, j'étais déjà peu confiant.
+
+104
+00:04:09,100 --> 00:04:14,620
+Aujourd'hui, c'est samedi 31, je ne me souviens plus.
+
+105
+00:04:14,680 --> 00:04:16,200
+jour 1er novembre.
+
+106
+00:04:16,540 --> 00:04:20,940
+Jeudi 23 octobre, les résultats sont tombés.
+
+107
+00:04:21,120 --> 00:04:23,560
+Après plus de 6 mois,
+
+108
+00:04:23,640 --> 00:04:27,440
+de mois agonisants, de chaque jour qui pense à ce projet,
+
+109
+00:04:27,480 --> 00:04:30,540
+Tous les jours, les résultats sont là.
+
+110
+00:04:30,960 --> 00:04:34,160
+Et j'ai enregistré ma réaction, que vous pouvez voir maintenant.
+
+111
+00:04:34,920 --> 00:04:39,140
+Le jour est arrivé, les résultats sont déjà là.
+
+112
+00:04:40,120 --> 00:04:43,420
+Je suis venu ici pour enregistrer ma réaction, pour voir ce qu'il en est.
+
+113
+00:04:43,800 --> 00:04:46,600
+J'y suis allé avec des amis, c'est pour ça que je suis dans un parc.
+
+114
+00:04:47,660 --> 00:04:52,300
+Vous verrez que je ne suis ni trop euphorique ni trop impatient.
+
+115
+00:04:52,300 --> 00:04:54,440
+parce que je suis assez convaincu qu'ils ne me le donneront pas, mais bon,
+
+116
+00:04:55,000 --> 00:04:57,340
+J'enregistre ma réaction pour voir ce qui se passe.
+
+117
+00:04:58,120 --> 00:04:59,340
+Rien, nous l'avons déjà ici.
+
+118
+00:05:00,560 --> 00:05:03,700
+Bourses Promulsion, pour la création de séries de vidéos en catalan.
+
+119
+00:05:04,520 --> 00:05:08,440
+23/10, qui est aujourd'hui, 23 octobre 2025.
+
+120
+00:05:09,580 --> 00:05:10,300
+Rien, je clique.
+
+121
+00:05:12,060 --> 00:05:12,600
+Télécharger le document.
+
+122
+00:05:13,040 --> 00:05:15,960
+Je ne crois pas que je l'ai reçu parce que, je ne sais pas, je ne...
+
+123
+00:05:17,680 --> 00:05:19,500
+Je n'ai pas confiance en moi pour plusieurs raisons.
+
+124
+00:05:19,620 --> 00:05:20,400
+Voir, ouvrir la puce.
+
+125
+00:05:21,480 --> 00:05:23,220
+C’est là que tout le monde vient.
+
+126
+00:05:24,060 --> 00:05:25,900
+Maintenant, c'est une question de...
+
+127
+00:05:28,880 --> 00:05:30,240
+Vale, c'est une question de...
+
+128
+00:05:31,660 --> 00:05:34,620
+Je vais donc mettre mon nom, non, mon nom de famille, Luzan.
+
+129
+00:05:38,000 --> 00:05:38,440
+Ostie.
+
+130
+00:05:40,560 --> 00:05:41,000
+Ostie.
+
+131
+00:05:41,560 --> 00:05:42,440
+Ostie, accordée.
+
+132
+00:05:43,900 --> 00:05:44,680
+Ça tombe bien, p*** !
+
+133
+00:05:46,600 --> 00:05:48,280
+On me l'a donné! Je ne peux pas le croire!
+
+134
+00:05:48,500 --> 00:05:49,260
+Je n'arrive pas à y croire !
+
+135
+00:05:49,420 --> 00:05:52,800
+Je te jure que j'ai cru qu'on ne me l'avait pas donné.
+
+136
+00:05:55,160 --> 00:05:56,020
+Enrique Luzant *****
+
+137
+00:06:00,980 --> 00:06:01,260
+Oh!
+
+138
+00:06:06,120 --> 00:06:06,400
+Oh!
+
+139
+00:06:08,800 --> 00:06:10,300
+Oups, je n'y crois pas, je n'y crois pas.
+
+140
+00:06:12,340 --> 00:06:13,400
+Accordé... Attends, attends, attends, attends.
+
+141
+00:06:15,220 --> 00:06:15,500
+Ha !
+
+142
+00:06:18,960 --> 00:06:19,220
+Oh!
+
+143
+00:06:19,460 --> 00:06:22,280
+Je vous jure que je pensais qu'ils ne me l'avaient pas donné. Pourquoi?
+
+144
+00:06:22,360 --> 00:06:24,860
+Parce que je pensais qu'ils envoyaient un mail ou appelaient des gens
+
+145
+00:06:25,480 --> 00:06:27,400
+avant de la donner pour voir s'ils l'acceptaient ou non.
+
+146
+00:06:29,160 --> 00:06:30,260
+On ne m'avait rien dit à moi.
+
+147
+00:06:32,000 --> 00:06:32,260
+Huîtres !
+
+148
+00:06:32,820 --> 00:06:33,880
+Oups, celle qui me tombe dessus.
+
+149
+00:06:34,940 --> 00:06:37,120
+Celle qui me vient à l'esprit. Ouah, incroyable.
+
+150
+00:06:38,780 --> 00:06:40,200
+Attends, attends, il faut que je regarde ça, hein ?
+
+151
+00:06:40,580 --> 00:06:41,520
+Je n'y crois pas, hein ?
+
+152
+00:06:43,340 --> 00:06:43,860
+Oh, oh!
+
+153
+00:06:44,700 --> 00:06:46,440
+Ça change tout, n’est-ce pas ?
+
+154
+00:06:47,560 --> 00:06:50,140
+J’avais déjà pris conscience... Waouh, ça change tout.
+
+155
+00:06:51,160 --> 00:06:54,880
+En dehors de l'argent, de la légitimité de dire:
+
+156
+00:06:54,880 --> 00:07:00,600
+Je suis Enric Adventures et la Generalitat me paie pour faire...
+
+157
+00:07:01,120 --> 00:07:02,680
+X. Je ne peux pas dire.
+
+158
+00:07:02,860 --> 00:07:05,640
+Ha, ha, huîtres! Ua, ua, ua, ua, ua.
+
+159
+00:07:05,880 --> 00:07:10,760
+Bon, je vais parler maintenant avec tout le monde, avec mes parents, avec tout le monde. Incroyable.
+
+160
+00:07:11,540 --> 00:07:16,960
+Eh bien oui, vive, vive. J'ai reçu la bourse. Je suis très heureux.
+
+161
+00:07:17,400 --> 00:07:22,680
+Cela fait maintenant 9 jours, je crois, depuis la vidéo que vous venez de voir.
+
+162
+00:07:23,120 --> 00:07:27,400
+Et je n’y crois toujours pas, je n’y crois toujours pas, parce que j’étais vraiment sûr qu’ils ne me le donnaient pas.
+
+163
+00:07:27,460 --> 00:07:30,140
+J'avais déjà le cou en bas. Buf. Je ne sais pas.
+
+164
+00:07:30,320 --> 00:07:35,140
+Depuis, beaucoup de choses se sont passées, beaucoup d’émotions, beaucoup de nerfs.
+
+165
+00:07:37,400 --> 00:07:40,620
+Je suis en train de parler avec le département, il y a des réunions...
+
+166
+00:07:42,040 --> 00:07:43,460
+Ils viendront dans quelques jours.
+
+167
+00:07:43,820 --> 00:07:49,140
+Le 24 novembre, ils effectueront la remise, une sorte d’acte de remise des bourses auquel j’assisterai.
+
+168
+00:07:49,660 --> 00:07:53,120
+Il y a des discussions pour expliquer un peu ce qu'il faut faire, enfin.
+
+169
+00:07:54,100 --> 00:07:54,640
+Beaucoup de choses.
+
+170
+00:07:55,880 --> 00:07:57,800
+Très bien. Mais quel est le projet, Enric?
+
+171
+00:07:57,940 --> 00:08:00,760
+Bon, on t'a donné 10 000 euros, félicitations, mais qu'est-ce que ça m'importe ?
+
+172
+00:08:00,780 --> 00:08:02,020
+C'est ce que vous allez penser, n'est-ce pas ?
+
+173
+00:08:02,680 --> 00:08:04,720
+Maintenant, je vais. Maintenant, je vais. Calme-toi.
+
+174
+00:08:05,500 --> 00:08:09,540
+Comme je vous l'ai dit, pour présenter ce projet, je devais présenter une vidéo, non?
+
+175
+00:08:09,540 --> 00:08:10,920
+Une vidéo, un pilote.
+
+176
+00:08:11,240 --> 00:08:16,040
+Et dans cet épisode pilote, j'ai mis comme une petite présentation vidéo,
+
+177
+00:08:16,120 --> 00:08:18,860
+C'est ce que vous allez voir maintenant, et cela fermera la vidéo.
+
+178
+00:08:20,640 --> 00:08:24,660
+Je ne vous parlerai pas de mon projet, mais de la vidéo.
+
+179
+00:08:25,500 --> 00:08:28,260
+Ce n'est pas la vidéo que j'ai faite, j'ai fait quelques changements.
+
+180
+00:08:28,340 --> 00:08:29,720
+Peut-être que je vais faire quelques petits changements.
+
+181
+00:08:30,380 --> 00:08:34,900
+Cette vidéo que vous voyez en ce moment, je parle ici, ne sera pas la présentation officielle.
+
+182
+00:08:35,220 --> 00:08:38,800
+C’est... Je l’ai fait essentiellement pour vous.
+
+183
+00:08:38,800 --> 00:08:41,280
+Pour ceux qui me suivent depuis le début,
+
+184
+00:08:41,300 --> 00:08:45,240
+En fait, je ne l'annoncerai pas sur les réseaux sociaux ou quoi que ce soit,
+
+185
+00:08:45,300 --> 00:08:46,440
+ce sera juste pour les gens de YouTube
+
+186
+00:08:46,440 --> 00:08:51,240
+et pour ceux qui sont prêts à tenir un petit bout de moi ici pour parler un bon moment.
+
+187
+00:08:51,740 --> 00:08:56,520
+Maintenant que vous voyez la présentation du projet, vous aurez beaucoup de doutes et de questions.
+
+188
+00:08:56,520 --> 00:09:00,840
+Mais ne vous inquiétez pas, car toutes ces questions seront répondues dans les prochains jours.
+
+189
+00:09:01,380 --> 00:09:04,280
+Je ferai plus de vidéos, je ferai la présentation comme plus officielle,
+
+190
+00:09:05,420 --> 00:09:08,720
+Juste la vidéo, avec le titre, c'est très bien écrit.
+
+191
+00:09:08,720 --> 00:09:10,920
+Pour que tout le monde s’en rende compte, puis sur Instagram, tout le monde.
+
+192
+00:09:11,140 --> 00:09:12,200
+Enfin, je vais bien faire.
+
+193
+00:09:12,760 --> 00:09:16,560
+Mais finalement, je voulais faire cette vidéo pour expliquer tout le rouleau.
+
+194
+00:09:17,660 --> 00:09:20,620
+J'ai beaucoup de nerfs, beaucoup de nerfs, parce que c'était un secret
+
+195
+00:09:20,620 --> 00:09:25,620
+J'ai fait ça non seulement l'année dernière mais depuis 6 mois.
+
+196
+00:09:25,920 --> 00:09:29,500
+Cela fait un an et demi ou plus que je suis dans le secret.
+
+197
+00:09:29,660 --> 00:09:32,560
+Et très peu de gens le savent. Maintenant, je le rends enfin public.
+
+198
+00:09:33,080 --> 00:09:38,160
+J'aimerais connaître votre réaction, donc si vous êtes si gentils, laissez un commentaire.
+
+199
+00:09:38,160 --> 00:09:40,640
+A vous de voir si ça vous fait autant de mal qu'à moi ou pas.
+
+200
+00:09:41,200 --> 00:09:44,980
+Bon, maintenant oui, le moment est venu. Profitez-en.
+
+201
+00:09:50,580 --> 00:09:51,460
+Un rêve.
+
+202
+00:09:59,340 --> 00:10:01,440
+La mère de toutes les aventures.
+
+203
+00:10:10,880 --> 00:10:13,700
+La traversée des traversées.
+
+204
+00:10:24,160 --> 00:10:25,160
+Un défi impossible.
+
+205
+00:10:32,120 --> 00:10:33,620
+Quelle raclée.
+
+206
+00:10:38,160 --> 00:10:38,680
+Mère de Dieu.
+
+207
+00:10:41,140 --> 00:10:44,480
+Le tour du monde à pied. Catalans sans frontières.
+
+208
+00:10:45,320 --> 00:10:48,940
+Bienvenue à Enric Adventures. Je vous présente le plus grand projet de ma vie.
+
+209
+00:10:49,220 --> 00:10:51,440
+Le tour du monde à pied, en catalan.
+
+210
+00:10:51,580 --> 00:10:55,120
+Un jour, j'ai découvert que la marche est la façon la plus primitive de voyager.
+
+211
+00:10:55,400 --> 00:10:58,920
+Elle nous relie à la Terre et aux personnes qui l’habitent.
+
+212
+00:10:59,100 --> 00:11:01,440
+C’est dans cette optique que j’ai ouvert ma chaîne YouTube.
+
+213
+00:11:01,660 --> 00:11:06,120
+Pour partager mes traversées et inspirer les autres comme d'autres m'ont inspiré.
+
+214
+00:11:09,600 --> 00:11:12,320
+La visite commence à la Plaça Catalunya de Barcelone.
+
+215
+00:11:12,580 --> 00:11:21,160
+Je traverserai l’Europe par la France, l’Italie, la Slovénie, la Croatie, la Bosnie, le Monténégro, l’Albanie, la Grèce et j’entrerai en Asie par Istanbul, la Turquie.
+
+216
+00:11:21,620 --> 00:11:27,200
+Ensuite, je remonterai le nord en longeant la côte de la mer Noire jusqu'en Géorgie et en Arménie, où je prendrai un avion pour le Pakistan.
+
+217
+00:11:28,040 --> 00:11:31,420
+Je continuerai par l’Inde, les Himalayas traversant le Népal et descendant au Bangladesh.
+
+218
+00:11:34,760 --> 00:11:37,820
+A Dhaka, je m’envolerai pour la Thaïlande, en passant par l’Asie du Sud-Est jusqu’à Singapour en passant par la Malaisie.
+
+219
+00:11:37,820 --> 00:11:39,640
+Le troisième continent sera l’Australie.
+
+220
+00:11:40,180 --> 00:11:44,900
+Je vais parcourir plus de 4 000 km de l'extrémité est, Perth, à l'ouest, Sydney.
+
+221
+00:11:45,600 --> 00:11:50,760
+Ensuite, je traverserai l'Amérique du Nord à travers les États-Unis, du Pacifique au golfe du Mexique.
+
+222
+00:11:51,080 --> 00:11:53,660
+La partie la plus difficile du voyage sera l'Amérique du Sud.
+
+223
+00:11:54,020 --> 00:12:02,260
+En commençant par le Pérou, je parcourrai ses montagnes et entrerai au Chili, où je traverserai le désert d’Atacama et traverserai la Cordillère des Andes jusqu’à l’océan Atlantique en Argentine.
+
+224
+00:12:02,840 --> 00:12:07,800
+Enfin, je vais voler à Santiago de Compostela pour faire le chemin de Saint-Jacques dans le sens inverse jusqu'à
+
+225
+00:12:07,800 --> 00:12:10,000
+Au point de départ et d'arrivée: la Plaça Catalunya de Barcelone.
+
+226
+00:12:13,080 --> 00:12:20,500
+En chemin, je vais rencontrer 20 Catalans, dans 20 pays différents, qui vont me raconter comment ils vivent la culture catalane si loin de chez eux.
+
+227
+00:12:20,740 --> 00:12:23,160
+Tout cela, je le documenterai à la manière d'Enric Adventures: enregistrer, éditer et télécharger les vidéos en cours de route.
+
+228
+00:12:23,380 --> 00:12:26,220
+Il ne peut en être autrement en Catalogne.
+
+229
+00:12:30,740 --> 00:12:34,960
+26.232 km, 4 continents et 3 ans.
+
+230
+00:12:35,640 --> 00:12:36,960
+Dormir dans une tente.
+
+231
+00:12:37,800 --> 00:12:38,500
+Cuisiner avec un poêle.
+
+232
+00:12:40,440 --> 00:12:42,480
+Oui, maman, je vais bien manger, oui.
+
+233
+00:12:44,180 --> 00:12:44,880
+Accompagnez-moi.
+
+234
+00:12:46,520 --> 00:12:47,800
+
+
+235
+00:12:48,860 --> 00:12:49,640
+
+
+236
+00:12:50,800 --> 00:12:51,400
+
+
+237
+00:12:52,300 --> 00:12:53,220
+
+
+238
+00:12:53,480 --> 00:12:54,100
+
+
+239
+00:12:54,240 --> 00:12:54,540
+
+
+240
+00:12:54,540 --> 00:12:54,900
+
+
+241
+00:12:54,900 --> 00:12:54,920
+
+
+242
+00:12:54,920 --> 00:12:55,760
+
+
+243
+00:12:56,160 --> 00:12:56,760
+
+
+244
+00:12:56,760 --> 00:12:57,500
+
+
+245
+00:12:57,500 --> 00:12:58,180
+
+
+246
+00:12:58,380 --> 00:12:58,800
+
+
+247
+00:12:58,800 --> 00:12:59,300
+
+
+248
+00:12:59,300 --> 00:12:59,300
+
+
+249
+00:12:59,300 --> 00:12:59,300
+
+
+250
+00:12:59,300 --> 00:12:59,300
+
+
+251
+00:12:59,300 --> 00:12:59,300
+
+
+252
+00:12:59,300 --> 00:12:59,300
+
+
+253
+00:12:59,300 --> 00:12:59,300
+
+
+254
+00:12:59,300 --> 00:12:59,300
+
+
+255
+00:12:59,300 --> 00:12:59,300
+
+
+256
+00:12:59,300 --> 00:12:59,300
+
+
+257
+00:12:59,300 --> 00:12:59,300
+
+
+258
+00:12:59,300 --> 00:12:59,300
+
+
+259
+00:12:59,300 --> 00:12:59,300
+
+
+260
+00:12:59,300 --> 00:12:59,300
+
+
+261
+00:12:59,280 --> 00:12:59,280
+
