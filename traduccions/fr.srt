@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:00,080
+00:00:00,000 --> 00:00:00,500
 ...
 
 2
@@ -79,7 +79,7 @@ Je fais des vidéos en catalan.
 Est-ce que je pourrais le faire en espagnol et avoir plus de visites?
 
 21
-00:00:57,680 --> 00:00:58,040
+00:00:57,680 --> 00:00:58,060
 Probablement.
 
 22
@@ -135,7 +135,7 @@ Et pour promouvoir le catalan.
 Eh bien, l'année dernière,
 
 35
-00:01:26,980 --> 00:01:27,380
+00:01:26,980 --> 00:01:27,480
 En 2024,
 
 36
@@ -511,11 +511,11 @@ Vale, c'est une question de...
 Je vais donc mettre mon nom, non, mon nom de famille, Luzan.
 
 129
-00:05:38,000 --> 00:05:38,440
+00:05:38,000 --> 00:05:38,500
 Ostie.
 
 130
-00:05:40,560 --> 00:05:41,000
+00:05:40,560 --> 00:05:41,060
 Ostie.
 
 131
@@ -543,11 +543,11 @@ Je te jure que j'ai cru qu'on ne me l'avait pas donné.
 Enrique Luzant *****
 
 137
-00:06:00,980 --> 00:06:01,260
+00:06:00,980 --> 00:06:01,480
 Oh!
 
 138
-00:06:06,120 --> 00:06:06,400
+00:06:06,120 --> 00:06:06,620
 Oh!
 
 139
@@ -559,11 +559,11 @@ Oups, je n'y crois pas, je n'y crois pas.
 Accordé... Attends, attends, attends, attends.
 
 141
-00:06:15,220 --> 00:06:15,500
+00:06:15,220 --> 00:06:15,720
 Ha !
 
 142
-00:06:18,960 --> 00:06:19,220
+00:06:18,960 --> 00:06:19,460
 Oh!
 
 143
@@ -583,7 +583,7 @@ avant de la donner pour voir s'ils l'acceptaient ou non.
 On ne m'avait rien dit à moi.
 
 147
-00:06:32,000 --> 00:06:32,260
+00:06:32,000 --> 00:06:32,500
 Huîtres !
 
 148
@@ -867,7 +867,7 @@ Ensuite, je remonterai le nord en longeant la côte de la mer Noire jusqu'en Gé
 Je continuerai par l’Inde, les Himalayas traversant le Népal et descendant au Bangladesh.
 
 218
-00:11:34,760 --> 00:11:37,820
+00:11:32,294 --> 00:11:37,820
 A Dhaka, je m’envolerai pour la Thaïlande, en passant par l’Asie du Sud-Est jusqu’à Singapour en passant par la Malaisie.
 
 219
@@ -899,11 +899,11 @@ Enfin, je vais voler à Santiago de Compostela pour faire le chemin de Saint-Jac
 Au point de départ et d'arrivée: la Plaça Catalunya de Barcelone.
 
 226
-00:12:13,080 --> 00:12:20,500
+00:12:10,890 --> 00:12:17,868
 En chemin, je vais rencontrer 20 Catalans, dans 20 pays différents, qui vont me raconter comment ils vivent la culture catalane si loin de chez eux.
 
 227
-00:12:20,740 --> 00:12:23,160
+00:12:18,071 --> 00:12:23,160
 Tout cela, je le documenterai à la manière d'Enric Adventures: enregistrer, éditer et télécharger les vidéos en cours de route.
 
 228
@@ -911,133 +911,21 @@ Tout cela, je le documenterai à la manière d'Enric Adventures: enregistrer, é
 Il ne peut en être autrement en Catalogne.
 
 229
-00:12:30,740 --> 00:12:34,960
+00:12:26,599 --> 00:12:32,732
 26.232 km, 4 continents et 3 ans.
 
 230
-00:12:35,640 --> 00:12:36,960
+00:12:32,861 --> 00:12:34,807
 Dormir dans une tente.
 
 231
-00:12:37,800 --> 00:12:38,500
+00:12:34,892 --> 00:12:36,623
 Cuisiner avec un poêle.
 
 232
-00:12:40,440 --> 00:12:42,480
+00:12:37,918 --> 00:12:39,958
 Oui, maman, je vais bien manger, oui.
 
 233
 00:12:44,180 --> 00:12:44,880
 Accompagnez-moi.
-
-234
-00:12:46,520 --> 00:12:47,800
-
-
-235
-00:12:48,860 --> 00:12:49,640
-
-
-236
-00:12:50,800 --> 00:12:51,400
-
-
-237
-00:12:52,300 --> 00:12:53,220
-
-
-238
-00:12:53,480 --> 00:12:54,100
-
-
-239
-00:12:54,240 --> 00:12:54,540
-
-
-240
-00:12:54,540 --> 00:12:54,900
-
-
-241
-00:12:54,900 --> 00:12:54,920
-
-
-242
-00:12:54,920 --> 00:12:55,760
-
-
-243
-00:12:56,160 --> 00:12:56,760
-
-
-244
-00:12:56,760 --> 00:12:57,500
-
-
-245
-00:12:57,500 --> 00:12:58,180
-
-
-246
-00:12:58,380 --> 00:12:58,800
-
-
-247
-00:12:58,800 --> 00:12:59,300
-
-
-248
-00:12:59,300 --> 00:12:59,300
-
-
-249
-00:12:59,300 --> 00:12:59,300
-
-
-250
-00:12:59,300 --> 00:12:59,300
-
-
-251
-00:12:59,300 --> 00:12:59,300
-
-
-252
-00:12:59,300 --> 00:12:59,300
-
-
-253
-00:12:59,300 --> 00:12:59,300
-
-
-254
-00:12:59,300 --> 00:12:59,300
-
-
-255
-00:12:59,300 --> 00:12:59,300
-
-
-256
-00:12:59,300 --> 00:12:59,300
-
-
-257
-00:12:59,300 --> 00:12:59,300
-
-
-258
-00:12:59,300 --> 00:12:59,300
-
-
-259
-00:12:59,300 --> 00:12:59,300
-
-
-260
-00:12:59,300 --> 00:12:59,300
-
-
-261
-00:12:59,280 --> 00:12:59,280
-
