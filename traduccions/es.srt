@@ -1,195 +1,2451 @@
 1
-00:00:01,380 --> 00:00:02,900
-Un sueño.
+00:00:00,520 --> 00:00:06,300
+El martes 4 de noviembre quedan 26 días para la vuelta al mundo a pie. ¡Ay, marita!
 
 2
-00:00:10,220 --> 00:00:12,900
-La madre de todas las aventuras.
+00:00:06,660 --> 00:00:13,240
+Hoy hace dos días que subí al vídeo presentación del proyecto y la reacción ha sido descomunal.
 
 3
-00:00:22,420 --> 00:00:25,100
-La travesía de travesías.
+00:00:13,680 --> 00:00:18,260
+El video tiene 500 comentarios. La mitad son míos porque os he intentado responder a todos.
 
 4
-00:00:35,240 --> 00:00:36,600
-Un reto imposible.
+00:00:18,620 --> 00:00:24,180
+Es el vídeo con más comentarios de mi canal. ¿Tenéis muchas dudas, muchas preguntas y qué os pensáis?
 
 5
-00:00:44,060 --> 00:00:45,020
-Qué paliza.
+00:00:24,180 --> 00:00:28,920
+Que yo no. La ruta que sale en el vídeo presentación es una ruta orientativa.
 
 6
-00:00:49,100 --> 00:00:50,100
-Madre de Dios.
+00:00:29,600 --> 00:00:35,360
+Ni siquiera yo tengo muy claro por dónde iré. Todavía no es una ruta cerrada y tengo varias posibilidades dentro de cada continente.
 
 7
-00:00:52,300 --> 00:00:55,920
-La vuelta al mundo a pie. Catalanes sin fronteras.
+00:00:35,680 --> 00:00:41,540
+Por lo tanto, ¿quién mejor para ayudarme a resolver estas dudas que alguien que ya haya dado la vuelta al mundo?
 
 8
-00:00:56,500 --> 00:00:57,780
-Bienvenidos a Enric Adventures.
+00:00:41,780 --> 00:00:46,400
+En este caso, en bicicleta. Vamos a buscarlo porque viene de muy lejos y no lo quiero hacer esperar.
 
 9
-00:00:58,100 --> 00:00:59,820
-Os presento el proyecto más grande
+00:00:47,040 --> 00:00:51,140
+¡Hombre! ¡Señor! ¿Qué tal? Te iba con un abrazo pero mejor no, ¿no?
 
 10
-00:00:59,820 --> 00:01:01,620
-de mi vida: La vuelta al mundo a pie,
+00:00:51,340 --> 00:00:52,140
+No, no, mejor no.
 
 11
-00:01:02,040 --> 00:01:02,860
-en catalán.
+00:00:53,340 --> 00:00:54,140
+Paz Hidalgo.
 
 12
-00:01:03,000 --> 00:01:04,800
-Un día descubrí que el caminar
+00:00:54,520 --> 00:00:58,200
+De Roquetes bien, de Roquetes bien. ¿Y qué haces en Barcelona? ¿Por qué has venido aquí?
 
 13
-00:01:04,800 --> 00:01:06,540
-Es la forma más primitiva de viajar.
+00:00:58,560 --> 00:01:01,240
+Pues mira, por el médico, que hoy tenía revisión en la sombra y tengo que aprovechar.
 
 14
-00:01:06,760 --> 00:01:08,700
-Aquella que nos conecta de manera más profunda
+00:01:01,440 --> 00:01:03,540
+Muy bien, pues vamos a sentarnos, a ponernos cómodo y hablamos.
 
 15
-00:01:08,700 --> 00:01:10,360
-con la Tierra y las personas que la habitan.
+00:01:03,820 --> 00:01:08,540
+Muy bien, pues tenemos una hora, que es bastante poco para todas las preguntas que te tengo que hacer, pero bueno.
 
 16
-00:01:10,540 --> 00:01:12,860
-Fruto de esta inquietud abrí mi canal de YouTube.
+00:01:09,360 --> 00:01:11,560
+Empecemos, primer lugar, nombre.
 
 17
-00:01:13,080 --> 00:01:15,800
-Para compartir mis travesías e inspirar a otros,
+00:01:12,240 --> 00:01:13,220
+Paz Hidalgo Aragonés.
 
 18
-00:01:15,860 --> 00:01:17,540
-Al igual que otros me inspiraron a mí.
+00:01:13,500 --> 00:01:13,840
+Edad?
 
 19
-00:01:21,100 --> 00:01:23,720
-La ruta empezará en la Plaza Catalunya de Barcelona.
+00:01:14,360 --> 00:01:14,660
+30.
 
 20
-00:01:24,020 --> 00:01:26,900
-Cruzaré Europa por Francia, Italia, Eslovenia,
+00:01:15,720 --> 00:01:16,040
+¿Origen?
 
 21
-00:01:27,060 --> 00:01:29,520
-Croacia, Bosnia, Montenegro, Albania,
+00:01:17,260 --> 00:01:21,620
+Nacido en San Vicente de Respeig, en la Càrn, y criado en Roquetes.
 
 22
-00:01:29,520 --> 00:01:32,580
-Grecia y entraré en Asia para Estambul, Turquía.
+00:01:21,820 --> 00:01:23,760
+Roquetes, esto está en Baix Ebre.
 
 23
-00:01:32,980 --> 00:01:35,800
-Seguidamente enfilaré el norte siguiendo la costa del Mar Negro
+00:01:24,180 --> 00:01:24,500
+Sí.
 
 24
-00:01:35,800 --> 00:01:38,640
-hasta Georgia y Armenia, donde cogeré un avión hasta Pakistán.
+00:01:24,900 --> 00:01:25,660
+Pueblo Tortosa, ¿no?
 
 25
-00:01:39,460 --> 00:01:42,000
-Continuaré por India, los Himalayas atravesando Nepal
+00:01:25,840 --> 00:01:26,220
+Ah, cuesta.
 
 26
-00:01:42,000 --> 00:01:42,800
-y bajando en Bangladesh.
+00:01:26,460 --> 00:01:31,400
+Muy bien, y has dado la vuelta al mundo en bicicleta y has vuelto hace 3 semanas o así, ¿no?
 
 27
-00:01:43,480 --> 00:01:46,760
-En Dhaka volaré hasta Tailandia, recorriendo el sudeste asiático
+00:01:31,520 --> 00:01:33,220
+Sí, el 19 de octubre, sí.
 
 28
-00:01:46,760 --> 00:01:48,360
-Desde Singapur, pasando por Malasia.
+00:01:33,620 --> 00:01:34,780
+Bueno, unas 3 semanas, sí, sí.
 
 29
-00:01:48,900 --> 00:01:50,940
-El tercer continente será Oceanía.
+00:01:35,340 --> 00:01:41,520
+La hemos ido siguiendo por Instagram, entonces claro, yo la tengo muy vista en su cara, ya lo conozco, pero ella a mí no.
 
 30
-00:01:51,360 --> 00:01:54,000
-Caminaré por Nueva Zelanda por el sendero llamado "Te Araroa".
+00:01:43,040 --> 00:01:43,560
+¿Cómo ha ido?
 
 31
-00:01:54,520 --> 00:01:57,840
-A continuación atravesaré Norteamérica por los Estados Unidos,
+00:01:44,840 --> 00:01:45,800
+Bueno, en general bien.
 
 32
-00:01:57,900 --> 00:01:59,500
-desde el Pacífico hasta el Golfo de México.
+00:01:46,380 --> 00:01:46,680
+Contento?
 
 33
-00:01:59,500 --> 00:01:59,920
-
+00:01:46,680 --> 00:01:48,720
+Picós arriba, picoso abajo, pero bueno, contento.
 
 34
-00:02:00,120 --> 00:02:02,600
-La parte más difícil del viaje será Sudamérica.
+00:01:48,980 --> 00:01:50,340
+Orgulloso, muy orgulloso de haberlo conseguido.
 
 35
-00:02:03,100 --> 00:02:05,560
-Empezando por Perú, recorreré sus montañas
+00:01:51,340 --> 00:01:53,940
+He estado investigando un poco y he visto que le hacían alguna entrevista.
 
 36
-00:02:05,560 --> 00:02:07,660
-y entraré en Chile, donde cruzaré el desierto de Atacama
+00:01:54,180 --> 00:01:58,900
+Y decías que no lo volverías a hacer. ¿Puedes volver a desarrollar esta idea?
 
 37
-00:02:07,660 --> 00:02:11,400
-y atravesaré la cordillera de los Andes hasta el océano Atlántico en Argentina.
+00:01:59,520 --> 00:02:04,380
+Más que nada, porque hay muchas veces que te pruebas cosas por ignorancia, y la ignorancia creo que no es algo malo.
 
 38
-00:02:11,760 --> 00:02:13,900
-Por último, volaré hasta Santiago de Compostela
+00:02:05,460 --> 00:02:10,080
+Porque a veces si supieras lo que te viene malo, yo qué sé, un caso quizás que es más típico,
 
 39
-00:02:13,900 --> 00:02:15,840
-para hacer el camino de Santiago en sentido inverso
+00:02:10,700 --> 00:02:16,880
+las mujeres cuando se quedan embarazadas, quizás si supieran el dolor que pasarán, no diciendo, no lo sé yo.
 
 40
-00:02:15,840 --> 00:02:18,620
-Hasta el punto de inicio final: la Plaza Catalunya de Barcelona.
+00:02:16,980 --> 00:02:20,160
+Pero una vez lo pasas, luego dices, y se te olvida, y dices, no se pega tanto.
 
 41
-00:02:19,100 --> 00:02:22,660
-De camino, me encontraré a 20 catalanes en 20 países diferentes
+00:02:20,240 --> 00:02:21,400
+Así que yo creo que llega a estar a punto.
 
 42
-00:02:22,660 --> 00:02:25,900
-que me explicarán cómo viven la cultura catalana tan lejos de casa.
+00:02:21,400 --> 00:02:22,820
+Cuando hablas de dolor, ¿hablas de piernas?
 
 43
-00:02:26,220 --> 00:02:29,020
-Todo ello lo documentaré al estilo Enric Adventures:
+00:02:22,980 --> 00:02:23,120
+Sí.
 
 44
-00:02:29,020 --> 00:02:31,820
-grabando, editando y subiendo los vídeos en ruta.
+00:02:23,120 --> 00:02:23,180
+¿Por qué?
 
 45
-00:02:32,020 --> 00:02:34,880
-Y como no puede ser de otra manera: en catalán.
+00:02:23,180 --> 00:02:27,980
+Porque yo no hago ciclismo, yo no tengo bici, pero sí que me gustan las aventuras.
 
 46
-00:02:36,600 --> 00:02:40,700
-26.232 kilómetros, 4/5 continentes y 3 años,
+00:02:28,080 --> 00:02:32,440
+Entonces sigo a otros ciclistas y veo más o menos los kilómetros que hacen, y veo los kilómetros que haces tú,
 
 47
-00:02:41,420 --> 00:02:44,180
-durmiendo en tienda de campaña y cocinando con hornillo.
+00:02:33,040 --> 00:02:36,760
+y tú le das mucha caña, ¿no? Es por eso que...
 
 48
-00:02:46,300 --> 00:02:48,240
-Sí, mamá, comeré bien, sí.
+00:02:36,760 --> 00:02:42,980
+No, físicamente no, era más dolor, no dolor mental, pero era sufrimiento mental.
 
 49
-00:02:52,920 --> 00:02:53,460
-Acompañadme.
+00:02:43,320 --> 00:02:46,300
+Porque sobre todo yo, por ejemplo, eso que dices de hacer muchos kilómetros,
+
+50
+00:02:47,540 --> 00:02:52,500
+es decir, en un viaje así, yo en mi caso tenía dos puntos, que era la parte deportiva y la parte turística,
+
+51
+00:02:53,180 --> 00:02:57,040
+para mí era más 60-70% deportivo, y el resto no era turístico.
+
+52
+00:02:57,140 --> 00:03:03,740
+Entonces, ante la duda de, quiero ir a ver esto, era si podía ir bien no sé qué, no sé cuantos, bueno,
+
+53
+00:03:03,820 --> 00:03:07,700
+si era por puro turismo, quedarme más días o lo que sea, quizás elegía la otra opción.
+
+54
+00:03:08,440 --> 00:03:12,840
+Entonces, por eso ir superando e ir tirando, a ver si llego a los 200 kilómetros,
+
+55
+00:03:13,220 --> 00:03:16,080
+A ver si puedo hacer más de 200 kilómetros e ir a hacer...
+
+56
+00:03:16,080 --> 00:03:16,620
+200 kilómetros, ¿eh?
+
+57
+00:03:16,820 --> 00:03:20,480
+Yo andando tardo 6 días, y tú con uno lo podías hacer.
+
+58
+00:03:20,480 --> 00:03:23,080
+Claro, es la defensa, pero si tú lo has hecho en 10 meses...
+
+59
+00:03:23,180 --> 00:03:26,140
+Y yo quizá tardo 3 años, bueno, ya veremos, mínimo.
+
+60
+00:03:26,400 --> 00:03:26,760
+Totalmente.
+
+61
+00:03:26,800 --> 00:03:32,180
+Vale, vamos a... En primer lugar vamos a trazar la ruta, en la imagen, ellos verán un mapa,
+
+62
+00:03:32,920 --> 00:03:35,620
+Entonces, cuéntanos por dónde fuiste así de manera resumida.
+
+63
+00:03:36,440 --> 00:03:39,620
+Vale, subo desde el sur de Cataluña a Este Roquetes,
+
+64
+00:03:40,080 --> 00:03:43,420
+siguiendo toda la costa, sigo toda la costa sur de Francia,
+
+65
+00:03:43,780 --> 00:03:46,640
+bajo por la costa este de Italia,
+
+66
+00:03:46,820 --> 00:03:47,220
+Interesante.
+
+67
+00:03:47,220 --> 00:03:52,980
+De Bari, de Bari pillo un pequeño ferry hasta Grecia, no recuerdo ahora cuál de esto,
+
+68
+00:03:53,180 --> 00:03:57,840
+más que nada porque ahora ya voy, me tocaba cruzar las montañas de los Bálticos en bici,
+
+69
+00:03:57,840 --> 00:03:59,840
+huesos y frío.
+
+70
+00:03:59,840 --> 00:04:01,840
+¿Huesos, ya? ¿Los Balcanes?
+
+71
+00:04:01,840 --> 00:04:02,340
+Sí, sí, sí.
+
+72
+00:04:02,340 --> 00:04:02,840
+Joder.
+
+73
+00:04:02,840 --> 00:04:03,340
+Son chumos, sí, sí.
+
+74
+00:04:03,340 --> 00:04:05,340
+Es decir, es eso, más de mucho desnivel.
+
+75
+00:04:05,340 --> 00:04:06,340
+Lo anoto.
+
+76
+00:04:06,340 --> 00:04:12,340
+Digo, es una, pero no cruzar, y al menos el primer mes que todavía estás allí aprendiendo estas cosas, digo...
+
+77
+00:04:12,340 --> 00:04:18,340
+Por Grecia, seguía toda la costa griega, y hasta Ipsala, que era la frontera con Turquía,
+
+78
+00:04:18,340 --> 00:04:22,340
+y de allí por tiempo y tal, porque ya había comprado el vuelo, que el vuelo lo compraba, como...
+
+79
+00:04:22,340 --> 00:04:22,840
+Sí, sí.
+
+80
+00:04:23,180 --> 00:04:28,180
+dos, tres semanas antes, y los cálculos no los hice muy bien de ritmos y tal,
+
+81
+00:04:28,180 --> 00:04:31,680
+así que el vuelo que me salía desde Estambul para ir a estar en Vietnam.
+
+82
+00:04:31,680 --> 00:04:36,180
+Esto, esto es bastante interesante, porque te saltas toda la parte de Asia central.
+
+83
+00:04:36,180 --> 00:04:36,680
+Exacto.
+
+84
+00:04:36,680 --> 00:04:38,180
+¿Vale, motivo?
+
+85
+00:04:38,180 --> 00:04:41,180
+La idea inicial era, quería ir a Nepal,
+
+86
+00:04:41,180 --> 00:04:47,180
+entonces, si quería visitar Nepal, la única opción era o hacer algo circular dentro de Nepal,
+
+87
+00:04:47,180 --> 00:04:49,180
+que no tenía mucho sentido,
+
+88
+00:04:49,180 --> 00:04:52,340
+o empezar desde la India e ir hacia Nepal.
+
+89
+00:04:52,340 --> 00:04:54,340
+India es un país que no me apetecía hacer en bici,
+
+90
+00:04:54,340 --> 00:04:58,340
+uno, porque el dron, por ejemplo, no lo puedes llevar y entonces me habría tocado tirarlo,
+
+91
+00:04:58,340 --> 00:05:02,340
+dos, porque también me parece un país bastante complicado y pensar, bueno...
+
+92
+00:05:02,340 --> 00:05:04,340
+A mí tampoco me hace mucha ilusión ir por la India.
+
+93
+00:05:04,340 --> 00:05:06,340
+Lo tengo dentro del plánico, ¿eh? Pero no me hace mucha ilusión, tampoco.
+
+94
+00:05:06,340 --> 00:05:07,340
+A mí tampoco.
+
+95
+00:05:07,340 --> 00:05:10,340
+Así que decidí empezar directamente hacia Vietnam,
+
+96
+00:05:10,340 --> 00:05:13,340
+entonces hacer línea recta hasta Malacia, por decirlo de alguna forma.
+
+97
+00:05:13,340 --> 00:05:15,340
+Hasta Malacia, ¿no?
+
+98
+00:05:15,340 --> 00:05:15,840
+Sí.
+
+99
+00:05:15,840 --> 00:05:16,340
+Muy bien.
+
+100
+00:05:16,340 --> 00:05:17,340
+Hasta Kuala Lumpur.
+
+101
+00:05:17,340 --> 00:05:22,340
+Fui por abajo, es decir, pasando por Cambolla, Tailandia y Malacia.
+
+102
+00:05:22,340 --> 00:05:27,340
+Que en Malacia tienes que pasar, porque allí está la jungla tropical más antigua del mundo,
+
+103
+00:05:27,340 --> 00:05:28,340
+Donde hay elefantes, hay tigres.
+
+104
+00:05:28,340 --> 00:05:30,340
+Es que el tema de los tigres me preocupa,
+
+105
+00:05:30,340 --> 00:05:34,340
+porque, o sea, depende de dónde vayas, te puede salir un tigre por allí en la selva.
+
+106
+00:05:34,340 --> 00:05:38,340
+Pero allí, es decir, había gente, había casas, cabañas.
+
+107
+00:05:38,340 --> 00:05:40,340
+Entonces tú te metes cerca y ya está.
+
+108
+00:05:40,340 --> 00:05:43,340
+Así que, por favor, ok, ok.
+
+109
+00:05:43,340 --> 00:05:44,340
+Sí, sí, sí.
+
+110
+00:05:44,340 --> 00:05:45,340
+Totalmente.
+
+111
+00:05:45,340 --> 00:05:46,340
+Vale.
+
+112
+00:05:46,340 --> 00:05:47,340
+Sigamos.
+
+113
+00:05:47,340 --> 00:05:52,340
+Semillas de Kuala Lumpur, Malacia, salté ya hasta Darwin, Australia.
+
+114
+00:05:52,340 --> 00:05:54,340
+Darwin, que está en el norte de Australia.
+
+115
+00:05:54,340 --> 00:05:55,340
+El norte de Australia.
+
+116
+00:05:55,340 --> 00:05:59,340
+Mi planificación, que aún está abierta, es desde Perth hasta Sydney.
+
+117
+00:05:59,340 --> 00:06:00,340
+Tú lo haces...
+
+118
+00:06:00,340 --> 00:06:01,340
+Todo el sur.
+
+119
+00:06:01,340 --> 00:06:02,340
+Lo haces porque es más...
+
+120
+00:06:02,340 --> 00:06:04,340
+Creo que será más fácil encontrar provisiones.
+
+121
+00:06:04,340 --> 00:06:08,340
+En cambio, tú hiciste una zona que era muy carretera sin nada, ¿es verdad?
+
+122
+00:06:08,340 --> 00:06:13,340
+Perth, por lo que me han dicho, también es...
+
+123
+00:06:13,340 --> 00:06:14,340
+Es tipo norte.
+
+124
+00:06:14,340 --> 00:06:16,340
+Es que Australia más la costa sureste,
+
+125
+00:06:16,340 --> 00:06:21,340
+el resto es punto aquí y el siguiente punto no sabes dónde.
+
+126
+00:06:21,340 --> 00:06:22,340
+Y quiero serlo todavía.
+
+127
+00:06:22,340 --> 00:06:28,340
+Pero no se puede, porque ya sabes el chaval ese que lo ha hecho, entonces...
+
+128
+00:06:28,340 --> 00:06:29,340
+Se ha hecho, se ha hecho.
+
+129
+00:06:29,340 --> 00:06:30,340
+Pero bueno.
+
+130
+00:06:30,340 --> 00:06:34,340
+Entonces, en Australia tuve que cambiar los planes porque mi idea era bajar,
+
+131
+00:06:34,340 --> 00:06:40,340
+sean toda la costa este, más bonita, más tropical, más tal, pero para hacerlo tienes que
+
+132
+00:06:40,340 --> 00:06:44,340
+bajar un poquito hasta el centro y entonces ya tiras hacia la derecha para bajar
+
+133
+00:06:44,340 --> 00:06:45,340
+por toda la costa.
+
+134
+00:06:45,340 --> 00:06:46,340
+¿Qué pasa?
+
+135
+00:06:46,340 --> 00:06:51,340
+Yo cuando llegué era época de bastante calor, no sé si es todo el año o no, muy seco
+
+136
+00:06:51,340 --> 00:06:57,340
+y... no mentira, húmedo, y estaba como a unos 40 grados y al día bebía unos 7-10 litros de agua.
+
+137
+00:06:57,340 --> 00:06:58,340
+¿Qué pasa?
+
+138
+00:06:58,340 --> 00:07:02,340
+Allí, hasta este momento no he encontrado la situación de tener quizás tirada...
+
+139
+00:07:02,340 --> 00:07:06,340
+El primer día no fue tanto, quizás fueron 50-60 km sin negocios.
+
+140
+00:07:06,340 --> 00:07:11,340
+Entonces, en este consumo no puedes llevar agua para dos días, porque son 20 litros que
+
+141
+00:07:11,340 --> 00:07:13,340
+Tienes que cargar en la bicicleta para...
+
+142
+00:07:13,340 --> 00:07:17,340
+Más que sin agua, me tengo que tocar para donde lo tocará la banalla después de una hora
+
+143
+00:07:17,340 --> 00:07:18,340
+o dos llevando dos días de agua.
+
+144
+00:07:18,340 --> 00:07:23,340
+Y bueno, entonces eso allí el agua es muy... bueno el agua, todo es muy caro para el norte de Australia
+
+145
+00:07:23,340 --> 00:07:24,340
+y...
+
+146
+00:07:24,340 --> 00:07:26,340
+Esto lo he oído, que he oído que lo decías, ¿el agua es cara?
+
+147
+00:07:26,340 --> 00:07:28,340
+Muy cara, un litro de agua era un siete dólares.
+
+148
+00:07:28,340 --> 00:07:30,340
+¿Pero cómo puede ser esto?
+
+149
+00:07:30,340 --> 00:07:31,340
+Es decir, no...
+
+150
+00:07:31,340 --> 00:07:32,340
+No tiene sentido.
+
+151
+00:07:32,340 --> 00:07:33,340
+Porque no hay.
+
+152
+00:07:33,340 --> 00:07:34,340
+Se la llevan toda de la otra punta del agua.
+
+153
+00:07:34,340 --> 00:07:37,340
+Y claro, toda la otra punta es como traerla de la otra punta de Europa.
+
+154
+00:07:37,340 --> 00:07:38,340
+Claro.
+
+155
+00:07:38,340 --> 00:07:41,340
+Hay cañones allí tirando, tirando, tirando, entonces es carísimo.
+
+156
+00:07:41,340 --> 00:07:46,340
+Y al menos ya es caro, pero no tan proporcionalmente como el agua, que el agua me parece una realidad.
+
+157
+00:07:46,340 --> 00:07:48,340
+¿Quién piensa en el agua como algo caro, eh?
+
+158
+00:07:48,340 --> 00:07:50,340
+Y en este momento es lo más preciado que tienes.
+
+159
+00:07:50,340 --> 00:07:56,340
+Entonces, como era tan caro, tuve que parar a currar en Australia, que trabajaba en un camping
+
+160
+00:07:56,340 --> 00:08:01,340
+y el pueblo más cercano ya estaba a unos 200 km, como el que vivíamos y estábamos todo allí en el camping.
+
+161
+00:08:01,340 --> 00:08:08,340
+Y claro, estando allí cambió el tiempo. Estuve un mes y medio currando y va cambiando los vientos.
+
+162
+00:08:08,340 --> 00:08:10,340
+A ti los vientos no te afectan tanto, a mí en bici me afectan más.
+
+163
+00:08:10,340 --> 00:08:14,340
+Entonces, los vientos empezaron a girar, por así decirlo en un sentido, antihoraria en el agua.
+
+164
+00:08:14,340 --> 00:08:18,340
+Entonces me han soltado los 3.000 o 4.000 km que me faltaban a esta cinta.
+
+165
+00:08:18,340 --> 00:08:22,340
+Bueno, digo, ahora digo, me niego, porque es algo que desespero muchísimo.
+
+166
+00:08:22,340 --> 00:08:24,340
+Sí, es muy heavy.
+
+167
+00:08:24,340 --> 00:08:29,340
+Es horrible, porque no sé si es tú que estás dolor de piernas o es el viento que te está frenando porque tú no lo notas.
+
+168
+00:08:29,340 --> 00:08:31,340
+Tú notas viento, pero yo siempre noto viento.
+
+169
+00:08:31,340 --> 00:08:36,340
+Porque normalmente lo generas, entonces dices, estoy cansado, hoy me pesa más la... es el viento.
+
+170
+00:08:36,340 --> 00:08:38,340
+Entonces, moralmente es horrible.
+
+171
+00:08:38,340 --> 00:08:41,340
+Así que dije, pues bueno, pues cruzo recto por medio del desierto.
+
+172
+00:08:41,340 --> 00:08:47,340
+Entonces bajé, cruzando todo el Outback y de allí tiré hasta Sydney.
+
+173
+00:08:47,340 --> 00:08:51,340
+De Sydney fui a México para dar una sorpresa a mi madre y tal, que era su 60 cumpleaños.
+
+174
+00:08:51,340 --> 00:08:55,340
+Estuve una semanita y allá de allí me fui a Medellín.
+
+175
+00:08:55,340 --> 00:08:59,340
+Y de Medellín a Colombia ya fui bajando siguiendo más por la parte interior,
+
+176
+00:08:59,340 --> 00:09:02,340
+porque por costa ya había hecho mucha, es decir, por todo el sur estático,
+
+177
+00:09:02,340 --> 00:09:07,340
+pues ya había pasado por costa y no sé cómo se afanan de las costas, me gusta más estar en montañas y selvas.
+
+178
+00:09:07,340 --> 00:09:08,340
+De acuerdo.
+
+179
+00:09:08,340 --> 00:09:12,340
+Y entonces fui siguiendo, pues los Andes, prácticamente.
+
+180
+00:09:12,340 --> 00:09:19,340
+Bajando por Colombia, Ecuador, Perú y ya finalmente terminando en La Paz, Bolivia.
+
+181
+00:09:19,340 --> 00:09:22,340
+Terminas en La Paz, Bolivia. Interesante. No sabías hasta Chile.
+
+182
+00:09:22,340 --> 00:09:25,340
+No. La intención era, pero Perú terminó conmigo.
+
+183
+00:09:25,340 --> 00:09:28,340
+¿Y después? Y luego fuiste hasta...
+
+184
+00:09:28,340 --> 00:09:29,340
+En Madrid.
+
+185
+00:09:29,340 --> 00:09:30,340
+¿Portugal? ¿Madrid?
+
+186
+00:09:30,340 --> 00:09:31,340
+Madrid, sí.
+
+187
+00:09:31,340 --> 00:09:32,340
+Y de Madrid a Roquetes.
+
+188
+00:09:32,340 --> 00:09:34,340
+En bicicleta ya está en Roquetes.
+
+189
+00:09:34,340 --> 00:09:36,340
+Muy bien, tú, ¿cuántos kilómetros han salido?
+
+190
+00:09:36,340 --> 00:09:37,340
+19.400 metros.
+
+191
+00:09:37,340 --> 00:09:39,340
+19.470... algo.
+
+192
+00:09:39,340 --> 00:09:43,340
+Bueno, pues vamos por partes. Vamos por partes.
+
+193
+00:09:43,340 --> 00:09:44,340
+Australia.
+
+194
+00:09:44,340 --> 00:09:48,340
+En Australia, ¿paisajísticamente te gustó? ¿disfrutastelo?
+
+195
+00:09:48,340 --> 00:09:54,340
+Sí. Sí, pero teniendo en cuenta que estuve, no sé si al final, tres meses en Australia,
+
+196
+00:09:54,340 --> 00:09:56,340
+Con lo cual, me ha gustado.
+
+197
+00:09:56,340 --> 00:09:57,340
+No lo siento tanto.
+
+198
+00:09:57,340 --> 00:10:01,340
+Para una o dos semanas, bueno, para tres meses acabas harto.
+
+199
+00:10:01,340 --> 00:10:03,340
+¿Cómo vas ganando el camping este que hiciste un mes y medio?
+
+200
+00:10:03,340 --> 00:10:04,340
+5.000 dólares, casi.
+
+201
+00:10:04,340 --> 00:10:05,340
+Joder.
+
+202
+00:10:05,340 --> 00:10:06,340
+Eramos como unos 1.000 dólares a la semana.
+
+203
+00:10:06,340 --> 00:10:08,340
+Y hacías tipos de... hacías las gits, ¿no?
+
+204
+00:10:08,340 --> 00:10:13,340
+No, hacía de mantenimiento de jardines, reparaciones, además, de equipo de mantenimiento.
+
+205
+00:10:13,340 --> 00:10:14,340
+¿Hacer manitas?
+
+206
+00:10:14,340 --> 00:10:17,340
+Bueno, voy a piedra. Fue bastante gracioso, más que nada.
+
+207
+00:10:17,340 --> 00:10:18,340
+Ostras, muy bien.
+
+208
+00:10:18,340 --> 00:10:19,340
+Tú dices que sí.
+
+209
+00:10:19,340 --> 00:10:21,340
+¿Dólares australianos o dólares australianos?
+
+210
+00:10:21,340 --> 00:10:23,340
+O dólares australianos, que son...
+
+211
+00:10:25,340 --> 00:10:29,340
+Un dólar australiano es como... Cuando yo estuve, estaba muy bajo, el dólar.
+
+212
+00:10:29,340 --> 00:10:35,340
+Estaba como 0,6, 0,5... No llegaba a medio euro, pero 0,6, 0,7.
+
+213
+00:10:35,340 --> 00:10:38,340
+Es decir, se quedaba como dos tercios de euro.
+
+214
+00:10:38,340 --> 00:10:43,340
+Sudeste asiático. Allí es una zona que de vez en cuando llueve a saco, ¿no?
+
+215
+00:10:43,340 --> 00:10:48,340
+Y caen unos chubascos por lo que te viste que flipas allí en Vietnam ¿Cómo gestionaste eso?
+
+216
+00:10:48,340 --> 00:10:54,340
+En Vietnam tuve muy mal tiempo, pero llovía así como fuerte, a fuerte...
+
+217
+00:10:54,340 --> 00:10:57,340
+No, no recuerdo ninguno. Es decir, no vi el sol en todo lo de Vietnam.
+
+218
+00:10:57,340 --> 00:10:58,340
+Joder.
+
+219
+00:10:58,340 --> 00:11:03,340
+Eso sí que fue verdad. Y normalmente, nosotros que son de... A mí me afecta un poquito el muro.
+
+220
+00:11:03,340 --> 00:11:04,340
+Claro, claro, claro.
+
+221
+00:11:04,340 --> 00:11:10,340
+Me toca un poco de moral. Pero llovida como tal, quizás algún día...
+
+222
+00:11:10,340 --> 00:11:17,340
+Justamente mira, el día que fui a hacer uno de los días de récord que quería hacer no sé si de 215 km o algo así,
+
+223
+00:11:17,340 --> 00:11:23,340
+aquel día se pasaba por zona de caminos de tierra, no lo tenía preso, pensaba que era tirada buena de carretera y tal.
+
+224
+00:11:23,340 --> 00:11:27,340
+Y ese día sí que acabé de barro, pero más arriba del ginoll.
+
+225
+00:11:27,340 --> 00:11:33,340
+La bici... Cuando llegué, porque claro, por ejemplo, días así cogí un hotel por donde dormía y digo,
+
+226
+00:11:33,340 --> 00:11:39,340
+tengo que haber reventado, cuando llegué todo marrón, se me ha partido el culo a más o pocas de recepción, es decir...
+
+227
+00:11:39,340 --> 00:11:43,340
+Pero por ejemplo, en Malacia sí pillé a Tormentón, sí.
+
+228
+00:11:43,340 --> 00:11:44,340
+Allí fue...
+
+229
+00:11:44,340 --> 00:11:46,340
+Pero dice que tienes que parar y...
+
+230
+00:11:46,340 --> 00:11:48,340
+No, no, no, ya estás bañado.
+
+231
+00:11:48,340 --> 00:11:51,340
+No es peligroso lo de resbalar o lo que sea, no.
+
+232
+00:11:51,340 --> 00:11:52,340
+Bien.
+
+233
+00:11:52,340 --> 00:11:53,340
+Drena bien.
+
+234
+00:11:53,340 --> 00:11:54,340
+Piensa que al final también pesas muchos kilos.
+
+235
+00:11:54,340 --> 00:11:55,340
+Ya.
+
+236
+00:11:55,340 --> 00:11:56,340
+Entonces esto ayuda un poquito.
+
+237
+00:11:56,340 --> 00:11:59,340
+Hablemos de esto del equipaje, ¿qué tienda llevabas, por ejemplo?
+
+238
+00:11:59,340 --> 00:12:02,340
+Yo llevaba para dos, para dormir un poquito más ancho, porque al final también,
+
+239
+00:12:02,340 --> 00:12:07,340
+para poder estar yo y mis bolsas dentro, porque al final las bolsas se ocupaban como una persona, prácticamente.
+
+240
+00:12:07,340 --> 00:12:11,340
+Y la bicicleta, pues, fuera y a rezar, que no se la lleva siempre por la noche.
+
+241
+00:12:11,340 --> 00:12:15,340
+¿Y saco? ¿Qué temperatura de confort? ¿Era un saco de plumas?
+
+242
+00:12:15,340 --> 00:12:18,340
+Creo que era de 10 grados, que no lo llevé.
+
+243
+00:12:18,340 --> 00:12:20,340
+O sea, no pasaste demasiado frío, ¿no?
+
+244
+00:12:20,340 --> 00:12:22,340
+Sí, pero me metía muchas capas.
+
+245
+00:12:22,340 --> 00:12:27,340
+Porque si no no me servía para... es decir, tenía que servir para todo esto de capas.
+
+246
+00:12:27,340 --> 00:12:30,340
+¿No te planteaste cambiar de material en algún momento de la ruta?
+
+247
+00:12:30,340 --> 00:12:31,340
+No, porque...
+
+248
+00:12:31,340 --> 00:12:32,340
+Después...
+
+249
+00:12:32,340 --> 00:12:34,340
+No terminaba ese clima en ningún momento.
+
+250
+00:12:34,340 --> 00:12:39,340
+Porque luego, por ejemplo, en Australia al norte estaba a 40, en el sur estaba a menos cero.
+
+251
+00:12:39,340 --> 00:12:41,340
+Menos 2, menos 3...
+
+252
+00:12:41,340 --> 00:12:42,340
+En el sur ya se puede llegar a menos cero?
+
+253
+00:12:42,340 --> 00:12:45,340
+Sí, y no bajé... la intención era bajar a Melburne, pero como...
+
+254
+00:12:45,340 --> 00:12:50,340
+A unos 500 km al norte de Melburne yo estaba a menos 2, menos 3, dique...
+
+255
+00:12:50,340 --> 00:12:51,340
+No sé, y eso bajando...
+
+256
+00:12:51,340 --> 00:12:53,340
+Porque cada edad hace más frío.
+
+257
+00:12:53,340 --> 00:12:58,340
+Paso de bajar más y me quedé por eso, que por las noches bajabas, pues, menos 3, menos 4 algún día y tal...
+
+258
+00:12:58,340 --> 00:13:00,340
+Con un saco de 10, ¿eh?
+
+259
+00:13:00,340 --> 00:13:01,340
+Sí, pero bueno, te metes muchas capas...
+
+260
+00:13:01,340 --> 00:13:08,340
+Y sobre todo el que hacía las botellas de agua, las calentaba por la noche, entonces me las metía y, pues, aguantaba en 2, 3 horitas que...
+
+261
+00:13:08,340 --> 00:13:09,340
+Llevabas hornillo.
+
+262
+00:13:09,340 --> 00:13:10,340
+Sí, sí, sí.
+
+263
+00:13:10,340 --> 00:13:15,340
+¿Qué tanto por ciento de noches durmiste en tienda de campaña, se alcula? ¿Y qué tanto por ciento en hotel, hostal, casa?
+
+264
+00:13:15,340 --> 00:13:19,340
+Tienda, ¿será... 40%?
+
+265
+00:13:19,340 --> 00:13:20,340
+¿Más o menos?
+
+266
+00:13:20,340 --> 00:13:21,340
+Sí.
+
+267
+00:13:21,340 --> 00:13:29,340
+Pero eso, además que nada, Australia y Europa fue tienda totalmente, y Asia y Sudamérica ha sido prácticamente todo tienda y todo hostales, porque al final...
+
+268
+00:13:29,340 --> 00:13:30,340
+Está tiradísimo.
+
+269
+00:13:30,340 --> 00:13:31,340
+Está tiradísimo.
+
+270
+00:13:31,340 --> 00:13:34,340
+¿Cuál es el país que tú dirías que es más difícil acampar?
+
+271
+00:13:36,340 --> 00:13:45,340
+Es que te diría Europa, porque es donde más... era el inicio donde más temor he pasado de que te pueden multar, que te pueden robar porque hay más densidad de población.
+
+272
+00:13:45,340 --> 00:13:48,340
+En Australia, por ejemplo, pues, como no hay allí, no tienes ese temor, pero ahí sí.
+
+273
+00:13:48,340 --> 00:13:50,340
+En Australia hay muchos animales, ¿no?
+
+274
+00:13:50,340 --> 00:13:51,340
+Sí, pero...
+
+275
+00:13:51,340 --> 00:13:54,340
+¿No encontraste ningún cierto, rara, ni araña?
+
+276
+00:13:54,340 --> 00:13:59,340
+Sí, trabajando, pero al final confías, de que tienen más temores de ti que tú ellos.
+
+277
+00:13:59,340 --> 00:14:00,340
+Ya, ya.
+
+278
+00:14:00,340 --> 00:14:01,340
+Muy bien.
+
+279
+00:14:01,340 --> 00:14:06,340
+Suramérica, fuiste desde Colombia hasta Bolivia.
+
+280
+00:14:06,340 --> 00:14:10,340
+Claro, son países que tienen fama de ser un poco peligrosos en cuanto a seguridad y tal.
+
+281
+00:14:10,340 --> 00:14:12,340
+¿Qué encontraste en este sentido?
+
+282
+00:14:12,340 --> 00:14:14,340
+¿Tenías miedo o ibas tranquilo?
+
+283
+00:14:14,340 --> 00:14:15,340
+Iba tranquilo.
+
+284
+00:14:15,340 --> 00:14:18,340
+Es que, por suerte, yo te digo, la ignorancia es algo muy bueno.
+
+285
+00:14:18,340 --> 00:14:20,340
+Yo también era de los países que...
+
+286
+00:14:20,340 --> 00:14:25,340
+Y te habíamos dejado el último para pensar, pues, bueno, ya llevaba el bagaje de todo el viaje, ya tendría un poco de experiencia.
+
+287
+00:14:25,340 --> 00:14:29,340
+Por eso pienso que Sudamérica es lo más difícil antes de África.
+
+288
+00:14:29,340 --> 00:14:35,340
+África ya creo que tiene que ser lo más complicado por idiomática, por lenguaje y eso, que ya no.
+
+289
+00:14:35,340 --> 00:14:40,340
+Al menos en Suramérica nos podemos defender, entender situaciones, ya es otra cosa.
+
+290
+00:14:40,340 --> 00:14:44,340
+Entonces, yo iba en estado de muy pensado, pero bueno, ya está.
+
+291
+00:14:44,340 --> 00:14:48,340
+Es ya el final boss, como tú dices, a ver, aquí, ya todo lo que sé.
+
+292
+00:14:48,340 --> 00:14:50,340
+Y no, me lo pasé muy, muy divertido.
+
+293
+00:14:50,340 --> 00:14:58,340
+Te tengo que decir por eso, porque evité la costa, entonces todos estos países tienen más problemas por la costa y tal
+
+294
+00:14:58,340 --> 00:14:59,340
+que por las montañas.
+
+295
+00:14:59,340 --> 00:15:04,340
+En las montañas y junglas sí está la parte un poco peligrosa del tema de la coca y tal,
+
+296
+00:15:04,340 --> 00:15:09,340
+pero bueno, si no la lías y tal, que normalmente son pueblo, chocoteo y tal, que te acogen muy bien,
+
+297
+00:15:09,340 --> 00:15:16,340
+y pocos problemas. Allí aparte todo el mundo te advierte, ojo por la noche, que no sé qué, no sé cuantos...
+
+298
+00:15:16,340 --> 00:15:20,340
+Yo al menos lo que me he encontrado por internet es que, no, si vas a Perú, cuidado, te dicen ellos,
+
+299
+00:15:20,340 --> 00:15:24,340
+porque es superperioso y luego mucha gente viaja a Perú y no le pasa nada.
+
+300
+00:15:24,340 --> 00:15:27,340
+Pero es que una cosa el viaje y la otra es hacer lo que quieres hacer.
+
+301
+00:15:27,340 --> 00:15:28,340
+Son dos cosas totalmente distintas.
+
+302
+00:15:28,340 --> 00:15:30,340
+Son dos cosas totalmente distintas.
+
+303
+00:15:30,340 --> 00:15:35,340
+Es decir, porque cuando viajas, tú te cogen aquí, te llevan allí, puedes hacer una excursión de 3-4 horas,
+
+304
+00:15:35,340 --> 00:15:41,340
+pero aquí, es decir, no estás en medio del norte nada, que pasas por casitas, por aldea, que eso,
+
+305
+00:15:41,340 --> 00:15:46,340
+que si te pierdes, pues desapareces del mapa, es decir, es muy diferente.
+
+306
+00:15:46,340 --> 00:15:48,340
+Muy bien, pues fuiste por las montañas.
+
+307
+00:15:48,340 --> 00:15:51,340
+¿Qué tal son las montañas, qué tal los Andes?
+
+308
+00:15:51,340 --> 00:15:54,340
+Son montañas, subidas, bajadas muy bestias.
+
+309
+00:15:54,340 --> 00:15:57,340
+Yo al final haré parte de carretera, por lo tanto seguramente compartiremos parte del trayecto.
+
+310
+00:15:57,340 --> 00:16:01,340
+Perú, te diría que evitas la carretera al máximo.
+
+311
+00:16:01,340 --> 00:16:04,340
+Es un país muy, muy peligroso, conducen muy mal, muy...
+
+312
+00:16:04,340 --> 00:16:06,340
+Mamá, no mires eso.
+
+313
+00:16:06,340 --> 00:16:10,340
+No, pero es lo que más miedo pasé, directamente.
+
+314
+00:16:10,340 --> 00:16:13,340
+Pero son vistas muy bonitas.
+
+315
+00:16:13,340 --> 00:16:18,340
+También lo mismo, hay un momento, los primeros días, el primer día flipas,
+
+316
+00:16:18,340 --> 00:16:24,340
+el cuarto día del mismo paisaje, dices, ok, dame algo diferente, por favor.
+
+317
+00:16:24,340 --> 00:16:26,340
+Pero son muy bonitos porque los altiplanos y tal, aquí no lo tenemos.
+
+318
+00:16:26,340 --> 00:16:32,340
+Yo, por cómo pasé, por ejemplo, era época seca que habían acabado trayendo esto,
+
+319
+00:16:32,340 --> 00:16:36,340
+estaba todo dorado, tú quizás listaste todo verde, que cambia mucho.
+
+320
+00:16:36,340 --> 00:16:40,340
+Es decir, si te pilles las lluvias, a mí el día justamente que pasé por el pico más alto,
+
+321
+00:16:40,340 --> 00:16:46,340
+por el desnivel más alto, que fueron 4.700, justamente fue cruzar la cresta.
+
+322
+00:16:46,340 --> 00:16:48,340
+4.700 con vicio, ¿eh? No está mal, ¿eh?
+
+323
+00:16:48,340 --> 00:16:49,340
+Sí, sí.
+
+324
+00:16:49,340 --> 00:16:50,340
+¿El punto más alto de tu vida, quizás?
+
+325
+00:16:50,340 --> 00:16:54,340
+Sí, seguro, seguro. Es decir, estabas de salir de aquí, quizás había estado a 1.300, 1.400.
+
+326
+00:16:54,340 --> 00:16:55,340
+¿A la altura no os pió?
+
+327
+00:16:55,340 --> 00:16:56,340
+¿No os pió?
+
+328
+00:16:56,340 --> 00:17:01,340
+Sí, sí, sí. No mal de altura como tal, pero mucho, mucho, mucho cansancio en algunos puntos,
+
+329
+00:17:01,340 --> 00:17:05,340
+los primeros días en este de altura, entonces nos tendré que tomar un poquito más xil.
+
+330
+00:17:05,340 --> 00:17:07,340
+Sí, sí, despacio. Bueno, ¿sabes qué? Me estás explicando que estabas allí.
+
+331
+00:17:07,340 --> 00:17:14,340
+Esto, ya el cruzar la cresta empezó a granizar que flipas y, claro, allí sí que me empapé y...
+
+332
+00:17:14,340 --> 00:17:16,340
+Y allí dijiste, esto es una aventura, como Dios me lo diga.
+
+333
+00:17:16,340 --> 00:17:23,340
+Allí dije, mierda, corre. Entonces, que ves, corre, pero todo bañado, la bici estaba como estaba pobrecita,
+
+334
+00:17:23,340 --> 00:17:24,340
+Entonces, eso es cruzar la cresta.
+
+335
+00:17:24,340 --> 00:17:29,340
+Aquello es de que los pies y las manos se estaban durmiendo un poquito del frío, la mitad y tal.
+
+336
+00:17:29,340 --> 00:17:31,340
+¿No llevabas guantes interneables o era igual?
+
+337
+00:17:31,340 --> 00:17:37,340
+Sí, es decir, yo todo lo que he jugado ha sido siempre por capas, entonces, de los guantes lo que llevaba eran guantes de bici normales,
+
+338
+00:17:37,340 --> 00:17:42,340
+entonces llevaba guantes de plástico, literalmente, porque si se me rompían o lo que sea,
+
+339
+00:17:42,340 --> 00:17:44,340
+Me pillas en cualquier sitio que es algo barato y entonces jugar.
+
+340
+00:17:44,340 --> 00:17:46,340
+¿Qué pasa? Que esto me ha pasado de golpe.
+
+341
+00:17:46,340 --> 00:17:50,340
+Guantes que estaban en el fondo de la mochila porque no me había llovido, quizás me hacía dos, tres meses,
+
+342
+00:17:50,340 --> 00:17:53,340
+no me había pasado tanto frío, entonces, los tenía muy escondidos.
+
+343
+00:17:53,340 --> 00:17:54,340
+Sí.
+
+344
+00:17:54,340 --> 00:17:58,340
+Y los zapatos lo mismo, no llevaba nada para los pies que fueran permeables y tal,
+
+345
+00:17:58,340 --> 00:18:02,340
+con lo cual, manos y pies, me había empezado a calar y el niño que tenía era granizado.
+
+346
+00:18:02,340 --> 00:18:08,340
+Entonces, la cara horrible, aunque llevaba el bufete en la nariz, gafas, no, porque ya había perdido tres o cuatro
+
+347
+00:18:08,340 --> 00:18:10,340
+Así que decidí no comprar nada más.
+
+348
+00:18:10,340 --> 00:18:11,340
+Sin gafas.
+
+349
+00:18:11,340 --> 00:18:15,340
+Sí, sin gafas, entonces me he levantado en una caseta de obreros para refugiarme y me ha dado un café y tal.
+
+350
+00:18:15,340 --> 00:18:16,340
+Ah, esa gente.
+
+351
+00:18:16,340 --> 00:18:20,340
+Sí, sí, sí, sí. Y ni siquiera pregunté, entendí, perdonad, pero fuera no puedo estar.
+
+352
+00:18:20,340 --> 00:18:23,340
+Pues una de las cosas que te quería preguntar ahora es, mejor y peor momento.
+
+353
+00:18:23,340 --> 00:18:26,340
+¿Cuánto parece lo peor? ¿Sería este, quizás, o en algún otro?
+
+354
+00:18:26,340 --> 00:18:29,340
+En general, no es necesario que sea sólo en la bicicleta.
+
+355
+00:18:29,340 --> 00:18:34,340
+No, yo creo que lo peor es lo que te día de Australia sin el agua y...
+
+356
+00:18:34,340 --> 00:18:37,340
+¿En algún momento pensaste que podía pasarte algo?
+
+357
+00:18:37,340 --> 00:18:38,340
+Sí, sí, sí.
+
+358
+00:18:38,340 --> 00:18:39,340
+¿Sí?
+
+359
+00:18:39,340 --> 00:18:42,340
+Sí, sí, sí. Tic-tac. Allí estaba... Allí seguías pensando tic-tac.
+
+360
+00:18:42,340 --> 00:18:44,340
+¿Y mejor momento de todo el viaje?
+
+361
+00:18:44,340 --> 00:18:47,340
+Yo creo que el momento de encontrarme los elefantes.
+
+362
+00:18:47,340 --> 00:18:49,340
+Uy, uy, uy, uy, uy.
+
+363
+00:18:49,340 --> 00:18:52,340
+Vaya, pitxarraco. A ver.
+
+364
+00:18:52,340 --> 00:18:56,340
+No se aprecia lo grande que es. Ahora mismo tengo el Zoom por 3.
+
+365
+00:18:56,340 --> 00:19:01,340
+A ver si tengo... ¿Veis mi bicicleta? Y compradlo en él.
+
+366
+00:19:01,340 --> 00:19:03,340
+Es que es enorme.
+
+367
+00:19:03,340 --> 00:19:06,340
+Va, toca el tener aquí porque es que si no, desde allí no se veía.
+
+368
+00:19:06,340 --> 00:19:07,340
+Explícame eso.
+
+369
+00:19:07,340 --> 00:19:12,340
+Fui al loquito del anterior día de la... de la jungla tropical de Malácia.
+
+370
+00:19:12,340 --> 00:19:13,340
+Sí.
+
+371
+00:19:13,340 --> 00:19:16,340
+Y fui a esperar siempre a ver si me encontraba y el primer día,
+
+372
+00:19:16,340 --> 00:19:21,340
+Como te decía el Ramadán, el día anterior comí y bebí fatal.
+
+373
+00:19:21,340 --> 00:19:25,340
+Entonces, aquel día era todo subir, subir, subir,
+
+374
+00:19:25,340 --> 00:19:28,340
+hasta el centro de la jungla, que era como un torrencito pero todo de jungla.
+
+375
+00:19:28,340 --> 00:19:30,340
+Y...
+
+376
+00:19:30,340 --> 00:19:32,340
+Y, pues, no vi nada.
+
+377
+00:19:32,340 --> 00:19:35,340
+Y dije, bueno, me he pegado una pajita hoy que pa que, pero nada.
+
+378
+00:19:35,340 --> 00:19:38,340
+Y la mañana segunda lo que hice fue madrugar muchísimo para
+
+379
+00:19:38,340 --> 00:19:41,340
+arrancar la rueda mientras estaba saliendo el sol porque es cuando
+
+380
+00:19:41,340 --> 00:19:44,340
+los animales normalmente se más activan y tal que en las horas de calor
+
+381
+00:19:44,340 --> 00:19:45,340
+Es cuando más tranquilos están.
+
+382
+00:19:45,340 --> 00:19:48,340
+Entonces digo, pues bueno, salgo ahora a ver si tengo la suerte
+
+383
+00:19:48,340 --> 00:19:50,340
+Elefantes o tigres o algo.
+
+384
+00:19:50,340 --> 00:19:54,340
+Y me encontré primero una hembra de elefante allí,
+
+385
+00:19:54,340 --> 00:19:57,340
+de arriba era muy chulo porque ella estaba así como arrosado porque
+
+386
+00:19:57,340 --> 00:19:59,340
+como estaba saliendo el sol, la luz que le hacía era así
+
+387
+00:19:59,340 --> 00:20:01,340
+Ataronjado, arrosado, era un color muy bonito.
+
+388
+00:20:01,340 --> 00:20:03,340
+Ahí está.
+
+389
+00:20:06,340 --> 00:20:08,340
+Mira que me está... que esté todo shock.
+
+390
+00:20:09,340 --> 00:20:11,340
+A los demás no los veo.
+
+391
+00:20:11,340 --> 00:20:16,340
+Y luego seguí y ya pensaba, pues bueno, check,
+
+392
+00:20:16,340 --> 00:20:18,340
+ya he visto esto y me encontré un machote.
+
+393
+00:20:18,340 --> 00:20:19,340
+¿Y por qué es la diferencia?
+
+394
+00:20:19,340 --> 00:20:22,340
+Porque medía dos veces el tamaño del anterior y era chulísimo.
+
+395
+00:20:22,340 --> 00:20:24,340
+Bueno, casi me mato porque uno estaba grabando en ese momento
+
+396
+00:20:24,340 --> 00:20:27,340
+parrando y tal, no sé qué y solo tenía el frenillo de delante.
+
+397
+00:20:27,340 --> 00:20:29,340
+Es decir, fue un momento de ui, ui, ui, ui, ui.
+
+398
+00:20:29,340 --> 00:20:31,340
+Espectacular. Así que encuentra que él es de los más bonitos.
+
+399
+00:20:31,340 --> 00:20:35,340
+¿Qué bici tienes? Yo no soy rey de bicis pero alguien seguro de la audiencia.
+
+400
+00:20:35,340 --> 00:20:36,340
+¿Cuál compraste?
+
+401
+00:20:36,340 --> 00:20:41,340
+Una Orbea Alma H20.
+
+402
+00:20:41,340 --> 00:20:43,340
+Muy bien.
+
+403
+00:20:43,340 --> 00:20:45,340
+Es de mountain bike y no está hecha para eso.
+
+404
+00:20:45,340 --> 00:20:46,340
+¿Hiciste esto con una mountain bike?
+
+405
+00:20:46,340 --> 00:20:47,340
+Sí.
+
+406
+00:20:47,340 --> 00:20:48,340
+Joder.
+
+407
+00:20:48,340 --> 00:20:49,340
+Porque la idea era...
+
+408
+00:20:49,340 --> 00:20:53,340
+Sí, pero como la idea era Nepal, luego también los Andes, no sabía...
+
+409
+00:20:53,340 --> 00:20:58,340
+Menos mal que la cogí también porque por el norte de Perú aquello era todo tierra.
+
+410
+00:20:58,340 --> 00:21:01,340
+Es decir, tierra, pedruscos... y era lo nacional.
+
+411
+00:21:01,340 --> 00:21:02,340
+Sí.
+
+412
+00:21:02,340 --> 00:21:04,340
+Bacena, camiones, autobuses... pero era horrible.
+
+413
+00:21:04,340 --> 00:21:06,340
+Allí rompí muchas cosas del portaequipajes...
+
+414
+00:21:06,340 --> 00:21:07,340
+Decías comer una de ápols...
+
+415
+00:21:07,340 --> 00:21:09,340
+Exacto, sí, sí, sí, sí.
+
+416
+00:21:09,340 --> 00:21:10,340
+Muy bien.
+
+417
+00:21:10,340 --> 00:21:11,340
+Una cosa...
+
+418
+00:21:11,340 --> 00:21:13,340
+Algo vital que es el dinero.
+
+419
+00:21:13,340 --> 00:21:16,340
+¿Cuánto te has gastado en diez meses?
+
+420
+00:21:16,340 --> 00:21:17,340
+No lo sé seguro.
+
+421
+00:21:17,340 --> 00:21:20,340
+Creo que no he sumado porque no quiero sumarlo.
+
+422
+00:21:20,340 --> 00:21:25,340
+Creo que sumando porque, por ejemplo, lo que te decía, los 5.000 dólares de Australia no llegaron a salir de Australia.
+
+423
+00:21:25,340 --> 00:21:27,340
+Es decir, me los gasté hasta llegar a 100 de ellos.
+
+424
+00:21:27,340 --> 00:21:30,340
+¿En menos de dos meses gastaste 5.000 dólares?
+
+425
+00:21:30,340 --> 00:21:31,340
+Sí.
+
+426
+00:21:33,340 --> 00:21:36,340
+Y me lo cocinaba aquello, es decir, comida, pero de supermercado.
+
+427
+00:21:36,340 --> 00:21:37,340
+Joder.
+
+428
+00:21:37,340 --> 00:21:40,340
+Es decir, la lata de atum, de sardinas, de lo que sea...
+
+429
+00:21:40,340 --> 00:21:42,340
+Tal vez tengamos que replantearnos.
+
+430
+00:21:42,340 --> 00:21:45,340
+Es que en Australia cambia mucho el presupuesto, ¿eh?
+
+431
+00:21:45,340 --> 00:21:50,340
+Entonces, yo creo que habrán salido en total como unos 15.000 euros o algo así.
+
+432
+00:21:50,340 --> 00:21:52,340
+Pero también porque sumando vuelos...
+
+433
+00:21:52,340 --> 00:21:56,340
+Pero es que tienen en cuenta que yo al día comer como 6.000-7.000 calorías.
+
+434
+00:21:56,340 --> 00:21:58,340
+Entonces, tú quizás tienes que comer menos.
+
+435
+00:21:58,340 --> 00:22:00,340
+No sé cuánto es.
+
+436
+00:22:00,340 --> 00:22:02,340
+Esto es importante saberlo.
+
+437
+00:22:02,340 --> 00:22:04,340
+No, no, no, no le doy...
+
+438
+00:22:04,340 --> 00:22:07,340
+No hago el cálculo, no hago el cálculo yo.
+
+439
+00:22:07,340 --> 00:22:09,340
+No, pero si sabe cuando tienes que comer y tal...
+
+440
+00:22:09,340 --> 00:22:14,340
+Yo, por ejemplo, obviamente no tenía calculado qué cantidad comer o cómo comerlo,
+
+441
+00:22:14,340 --> 00:22:18,340
+porque es muchísima comida y cuando hace mucho calor no te entran.
+
+442
+00:22:18,340 --> 00:22:23,340
+Entonces, si os tenemos que entrar porque el día que no he comido al día siguiente era págara asegurada, entonces...
+
+443
+00:22:23,340 --> 00:22:25,340
+Tú te obligabas a meterte mucho comiendo.
+
+444
+00:22:25,340 --> 00:22:27,340
+No contabas las calorías, pero más o menos era como rollo a saco.
+
+445
+00:22:27,340 --> 00:22:28,340
+Exacto.
+
+446
+00:22:28,340 --> 00:22:31,340
+Es decir, por ejemplo, cuando había comprado un paquete de
+
+447
+00:22:31,340 --> 00:22:34,340
+sabía que este paquete de arroz más de dos días no me podía durar.
+
+448
+00:22:34,340 --> 00:22:36,340
+Es decir, era medio kilo de arroz crudo cada día, mínimo.
+
+449
+00:22:36,340 --> 00:22:37,340
+Interesante.
+
+450
+00:22:37,340 --> 00:22:38,340
+Las comidas gordas, más aparte.
+
+451
+00:22:38,340 --> 00:22:41,340
+Tabletas o lo que fuera pegado durante todas las horas, ir comiendo.
+
+452
+00:22:41,340 --> 00:22:43,340
+¿Te pió el invierno en alguno de los continentes?
+
+453
+00:22:43,340 --> 00:22:46,340
+¿En Europa? ¿En Australia?
+
+454
+00:22:46,340 --> 00:22:51,340
+Vale. ¿Cómo llevabas el hecho de tener pocas horas de sol y tener que pasar muchas horas entre la tienda?
+
+455
+00:22:51,340 --> 00:22:53,340
+Es algo que a mí me preocupa.
+
+456
+00:22:53,340 --> 00:22:56,340
+A ti te preocupará más que a mí. Yo se dormía.
+
+457
+00:22:56,340 --> 00:22:58,340
+Es decir, la media de los dos primeros...
+
+458
+00:22:58,340 --> 00:23:02,340
+Pero ¿cuándo se va de noche ahora a las seis o a las cinco y pico?
+
+459
+00:23:02,340 --> 00:23:07,340
+Pues, claro, yo me despertaba a las seis más o menos.
+
+460
+00:23:07,340 --> 00:23:08,340
+Sí.
+
+461
+00:23:08,340 --> 00:23:11,340
+Había un par de horas entre que desayunaba, preparaba, todo eso.
+
+462
+00:23:11,340 --> 00:23:14,340
+Por lo tanto, entre que arrancaba, intentaba arrancar las primeras horas de luz ya.
+
+463
+00:23:14,340 --> 00:23:20,340
+Es decir, ya meterme encima de la bici cuando ya empezaba a salir y dormía como unas once horas.
+
+464
+00:23:20,340 --> 00:23:22,340
+¿Conseguías dormir once horas?
+
+465
+00:23:22,340 --> 00:23:24,340
+Pero no forzado, ¿eh?
+
+466
+00:23:24,340 --> 00:23:25,340
+Sí, sí.
+
+467
+00:23:25,340 --> 00:23:29,340
+Bueno, metía allí así un poquito y al cabo de diez minutos ya estaba allí pidiendo la hora.
+
+468
+00:23:29,340 --> 00:23:36,340
+Uau, uau. Quizás el desgaste de la bicicleta debe ser más alto que a pie, imagino. No lo sé, supongo.
+
+469
+00:23:36,340 --> 00:23:37,340
+Porque el ritmo que llevaba era bastante alto.
+
+470
+00:23:37,340 --> 00:23:44,340
+Vale, otra cosa importante. La gente. ¿Tú te pensabas que te ayudarían tanto como te han ayudado o al contrario?
+
+471
+00:23:44,340 --> 00:23:46,340
+La gente no ha sido muy amable contigo. ¿Cómo lo has visto?
+
+472
+00:23:46,340 --> 00:23:51,340
+Pensaba que sería más peligroso. Es decir, pensaba que la gente restaría más que sumaría y al contrario.
+
+473
+00:23:51,340 --> 00:23:56,340
+Me sienta el culo bastantes veces. Gente acogiéndome en casas, por ejemplo.
+
+474
+00:23:56,340 --> 00:23:57,340
+¿Gente que no te conocía de nada?
+
+475
+00:23:57,340 --> 00:23:59,340
+Gente absolutamente de nada.
+
+476
+00:23:59,340 --> 00:24:03,340
+Yo me pregunto, yo creo que la gente del público también se pregunta, ¿cómo es esta interacción?
+
+477
+00:24:03,340 --> 00:24:06,340
+Porque claro, tú estás por un pueblo con la bici, ¿no? ¿Y cómo es? ¿Que alguien te ve y te dice hola?
+
+478
+00:24:06,340 --> 00:24:13,340
+No, yo utilizaba mucho el couchsurfing y world showers, que uno es para viajes en bicicleta y el otro para viajes en general.
+
+479
+00:24:13,340 --> 00:24:19,340
+Pero yo nunca las había utilizado antes, con lo cual tenía ninguna valoración, ni buena ni mala.
+
+480
+00:24:19,340 --> 00:24:26,340
+Y, por ejemplo, el primero que me acogió, los primeros que me lo acogían que eran franceses, el primer señor,
+
+481
+00:24:26,340 --> 00:24:32,340
+a mí me hizo, me flipó porque llegué y me dijo, perdona, porque esta noche tengo una cena y tal, no sé qué,
+
+482
+00:24:32,340 --> 00:24:35,340
+con lo cual te lo tienes que quedar solo, pero no cenar, si no.
+
+483
+00:24:35,340 --> 00:24:41,340
+Ya, yo vengo mañana por la mañana y te dejo las cosas de casa, pero no era una casa que dices, bueno, es mi segunda residencia.
+
+484
+00:24:41,340 --> 00:24:47,340
+Era su casa, es decir, estaba allí, era, porque era fotógrafo, también tenía instrumentos, no sé qué, no sé cuánto,
+
+485
+00:24:47,340 --> 00:24:51,340
+un señor de 50 o 60 años, es decir, no es que era un chaval que, bueno, no tengo nada que perder.
+
+486
+00:24:51,340 --> 00:24:54,340
+Tenía toda la casa, un apartamento muy lindo, tío.
+
+487
+00:24:54,340 --> 00:24:57,340
+Tienes cara de persona de fiar, tienes cara de persona de fiar.
+
+488
+00:24:57,340 --> 00:25:03,340
+Ah, pero aún no me había conocido en persona, es decir, ya me había dicho que sí, por la aplicación y tal, entonces cuando tú llegaras, ok.
+
+489
+00:25:03,340 --> 00:25:05,340
+No sabes por qué, pero lo agradeces mucho.
+
+490
+00:25:05,340 --> 00:25:08,340
+Porque son días de frío, o de mucho viento, o lo que sea.
+
+491
+00:25:08,340 --> 00:25:13,340
+Y luego ya, pues, para estas aplicaciones es más fácil porque tienes muchas valoraciones y tal,
+
+492
+00:25:13,340 --> 00:25:18,340
+pero aparte del dormir, que eso, pues, al final sí que acabas teniendo allí el historial,
+
+493
+00:25:18,340 --> 00:25:28,340
+por ejemplo, en Turquía, que para ir desde Ipsala hasta Estambul tuve que coger el autobús para hacer aquellos 200 km,
+
+494
+00:25:28,340 --> 00:25:33,340
+fui hasta una estación de autobuses, no sé qué, lo contraté para lo que me llevara,
+
+495
+00:25:33,340 --> 00:25:35,340
+y fui a comer...
+
+496
+00:25:35,340 --> 00:25:40,340
+La señora... el lugar tenía muy mala pinta de comida, pero era el único lugar de la estación de autobuses, digo, pero bueno, comer es comer.
+
+497
+00:25:40,340 --> 00:25:41,340
+Típico lugar de estación de autobuses.
+
+498
+00:25:41,340 --> 00:25:46,340
+Exacto, y la señora que hay, pues, nos teníamos por Google Traductor y tal, me acompaña a estar en el autobús,
+
+499
+00:25:46,340 --> 00:25:51,340
+y cuando llego al autobús el conductor me dice, no, no, pero la bicicleta no está incluida, y digo,
+
+500
+00:25:51,340 --> 00:25:57,340
+el oficial me ha dicho que si todo esto, en turco, que no sabiendo Inglés, Google Traductor,
+
+501
+00:25:57,340 --> 00:26:01,340
+la señora de la comida ha enfadado en el uso del autobús.
+
+502
+00:26:01,340 --> 00:26:04,340
+O sea, ayer fue uno de eso, y al final la señora estaba super...
+
+503
+00:26:04,340 --> 00:26:08,340
+No cogí el autobús, porque me la jugaron un poquito, perdí el dinero que me había gastado,
+
+504
+00:26:08,340 --> 00:26:14,340
+y la señora me ha dicho... porque entonces, claro, en ese momento pasaron a ser 5.40.
+
+505
+00:26:14,340 --> 00:26:16,340
+Me quedan 20 minutos para que se pusiera el sol, digo.
+
+506
+00:26:16,340 --> 00:26:19,340
+Digo, de acuerdo, desde algún lugar, donde ya que no es planeado, para ir a plantarme una tienda,
+
+507
+00:26:19,340 --> 00:26:23,340
+me intento esconder un poquito, y mañana ya busco solución al autobús, porque ese día ya no salían más.
+
+508
+00:26:23,340 --> 00:26:29,340
+Y me dijo, no, no, no, dice, espera, déjame gestionar, intento alguno que no sé qué,
+
+509
+00:26:29,340 --> 00:26:31,340
+que a veces vienes aquí, a ver si te puede pasar, te recoge,
+
+510
+00:26:31,340 --> 00:26:34,340
+y te dejaba un punto más cercano de Estambul, no sé qué, no sé cuántos...
+
+511
+00:26:34,340 --> 00:26:36,340
+Hizo el máximo esfuerzo para que tú estuvieras bien.
+
+512
+00:26:36,340 --> 00:26:38,340
+Absolutamente, y me dijo, y si no, tranquilo, que dormirás en mi casa,
+
+513
+00:26:38,340 --> 00:26:42,340
+porque aquí no te habría tirado, y sabes, y entonces de qué te dices, y esta señora,
+
+514
+00:26:42,340 --> 00:26:44,340
+¿Por qué se esfuerza tanto por ayudar?
+
+515
+00:26:44,340 --> 00:26:49,340
+Y al final me trajo, vino el señor este, sí que me dejó subir la que conocía ella.
+
+516
+00:26:49,340 --> 00:26:52,340
+Entonces, sabes, te vas encontrando gente así que te ayuda,
+
+517
+00:26:52,340 --> 00:26:56,340
+Porque sí, hay gente buena y gente mala.
+
+518
+00:26:56,340 --> 00:26:58,340
+En ese mismo día me encontré las dos versiones de
+
+519
+00:26:58,340 --> 00:27:00,340
+me enfadé muchísimo porque me habían hecho jugar,
+
+520
+00:27:00,340 --> 00:27:03,340
+y a esta señora, a la que adoré porque me salvó el culo.
+
+521
+00:27:03,340 --> 00:27:07,340
+Y alguna experiencia mala de personas, no sé cómo decirlo,
+
+522
+00:27:07,340 --> 00:27:11,340
+no atracos, sino, no sé, alguna experiencia desagradable
+
+523
+00:27:11,340 --> 00:27:17,340
+así en general, o alguien que te ponga mala cara, o cuando no toca, no lo sé.
+
+524
+00:27:17,340 --> 00:27:21,340
+No te sabría, es decir, esta quizás fue la peor, la de los autobuses y tal,
+
+525
+00:27:21,340 --> 00:27:24,340
+pero luego hay un momento que ya, es decir,
+
+526
+00:27:24,340 --> 00:27:27,340
+no hubo ningún intento de traco ni de violencia así,
+
+527
+00:27:27,340 --> 00:27:29,340
+con lo cual nada grave.
+
+528
+00:27:29,340 --> 00:27:32,340
+Y los que no fueron graves no me acuerdo.
+
+529
+00:27:32,340 --> 00:27:34,340
+Por eso mi cabeza se ha quedado en las buenas
+
+530
+00:27:34,340 --> 00:27:36,340
+y este autobús es el que peor me acuerdo,
+
+531
+00:27:36,340 --> 00:27:39,340
+pero en el mismo momento se estaba alineando en una que me estaba cuidando mucho,
+
+532
+00:27:39,340 --> 00:27:43,340
+entonces se debe hacer el balance instantáneamente en el mismo momento.
+
+533
+00:27:43,340 --> 00:27:47,340
+Muy bien, te haremos unas preguntas rápidas, pero antes de eso,
+
+534
+00:27:47,340 --> 00:27:49,340
+dame algún consejo.
+
+535
+00:27:51,340 --> 00:27:52,340
+Así en general.
+
+536
+00:27:52,340 --> 00:27:55,340
+Pues mira, el referéndum español, no es que no hay más,
+
+537
+00:27:55,340 --> 00:27:59,340
+allá donde fuera el otro que viajes, pero sin lugar a dudas,
+
+538
+00:27:59,340 --> 00:28:01,340
+yo por ejemplo a comer siempre lo hago, es decir,
+
+539
+00:28:01,340 --> 00:28:04,340
+Me siento y veo algo, uu, esto tiene buena pinta.
+
+540
+00:28:04,340 --> 00:28:07,340
+Quiero aquello, y si se lo comen en pala y yo los comen por aquello,
+
+541
+00:28:07,340 --> 00:28:09,340
+se lo comen las manos, comen las manos,
+
+542
+00:28:09,340 --> 00:28:11,340
+si no utilizan, porque hay niños que no utilizan ningún viñedo,
+
+543
+00:28:11,340 --> 00:28:13,340
+Por ejemplo en Sudamérica, no sé por qué.
+
+544
+00:28:13,340 --> 00:28:14,340
+¿No utilizan canivet?
+
+545
+00:28:14,340 --> 00:28:16,340
+Lo utilizan, pero luego ya se quita esto, lo hacen con las manos,
+
+546
+00:28:16,340 --> 00:28:17,340
+y puedes lavar las manos y tal, y pienso,
+
+547
+00:28:17,340 --> 00:28:20,340
+Pues bueno, que si lo pides te lo den.
+
+548
+00:28:20,340 --> 00:28:24,340
+Para estar en el mismo mood, pero sabes, pero no sé.
+
+549
+00:28:24,340 --> 00:28:27,340
+Y sobre todo también aprender las tres palabras que yo me aprendía
+
+550
+00:28:27,340 --> 00:28:30,340
+al país de esto, que es hola, por favor y gracias,
+
+551
+00:28:30,340 --> 00:28:33,340
+en el idioma local, que te abre, sobre todo más que nada,
+
+552
+00:28:33,340 --> 00:28:35,340
+pero cuando vas a comprar algo o vas a consumir algo,
+
+553
+00:28:35,340 --> 00:28:38,340
+decir ya hola en su idioma, y ya despiertas una sonrisa.
+
+554
+00:28:38,340 --> 00:28:40,340
+Y es uno de eso y dices, epa!
+
+555
+00:28:40,340 --> 00:28:43,340
+Pau Hidalgo, la vuelta al mundo en bicicleta, preguntas rápidas.
+
+556
+00:28:43,340 --> 00:28:44,340
+País más seguro.
+
+557
+00:28:44,340 --> 00:28:46,340
+Italia.
+
+558
+00:28:46,340 --> 00:28:47,340
+País menos seguro.
+
+559
+00:28:47,340 --> 00:28:48,340
+Perú.
+
+560
+00:28:48,340 --> 00:28:50,340
+Mejor gastronomía.
+
+561
+00:28:50,340 --> 00:28:52,340
+Italia.
+
+562
+00:28:52,340 --> 00:28:53,340
+Peor gastronomía.
+
+563
+00:28:53,340 --> 00:28:54,340
+Perú.
+
+564
+00:28:54,340 --> 00:28:58,340
+¿Perú? ¿Qué dices? Tiene muy buena fama, la cocina peruana.
+
+565
+00:28:58,340 --> 00:29:02,340
+Es que me parece muy aburrida. Meto con Australia, que es más de...
+
+566
+00:29:02,340 --> 00:29:03,340
+Tostadas con espagueti.
+
+567
+00:29:03,340 --> 00:29:05,340
+Exacto.
+
+568
+00:29:05,340 --> 00:29:07,340
+País con la gente más hospitalaria.
+
+569
+00:29:07,340 --> 00:29:09,340
+Diría Francia, porque éramos los primeros en acogerme
+
+570
+00:29:09,340 --> 00:29:10,340
+sin conocer de nada.
+
+571
+00:29:10,340 --> 00:29:13,340
+¿Y la menos hospitalaria?
+
+572
+00:29:13,340 --> 00:29:16,340
+Meto con Turquía, por el mal que se llevó.
+
+573
+00:29:16,340 --> 00:29:19,340
+Mejores carreteras para ir en bici.
+
+574
+00:29:19,340 --> 00:29:20,340
+Colombia.
+
+575
+00:29:20,340 --> 00:29:21,340
+¿Colombia?
+
+576
+00:29:21,340 --> 00:29:22,340
+Sí.
+
+577
+00:29:22,340 --> 00:29:23,340
+¿Peores?
+
+578
+00:29:23,340 --> 00:29:24,340
+Perú.
+
+579
+00:29:24,340 --> 00:29:25,340
+Perú, sin lugar a dudas.
+
+580
+00:29:25,340 --> 00:29:26,340
+País más caro.
+
+581
+00:29:26,340 --> 00:29:27,340
+Australia.
+
+582
+00:29:27,340 --> 00:29:28,340
+País más barato.
+
+583
+00:29:28,340 --> 00:29:29,340
+Vietnam.
+
+584
+00:29:29,340 --> 00:29:31,340
+País con peor meteorología.
+
+585
+00:29:31,340 --> 00:29:35,340
+Diría que en Australia a veces pasas 40 grados y bajo cero.
+
+586
+00:29:35,340 --> 00:29:37,340
+Es decir, aquello lo he pasado todo.
+
+587
+00:29:37,340 --> 00:29:39,340
+País con más mosquitos.
+
+588
+00:29:39,340 --> 00:29:43,340
+Tailandia. O Malasia. Todos más o menos.
+
+589
+00:29:43,340 --> 00:29:44,340
+Idioma más difícil.
+
+590
+00:29:44,340 --> 00:29:46,340
+De Tailandia quizá no.
+
+591
+00:29:46,340 --> 00:29:49,340
+Cambolla, diría.
+
+592
+00:29:49,340 --> 00:29:51,340
+País donde hablan menos inglés.
+
+593
+00:29:51,340 --> 00:29:52,340
+Cambolla.
+
+594
+00:29:52,340 --> 00:29:54,340
+Cambolla. Totalmente.
+
+595
+00:29:54,340 --> 00:29:58,340
+País donde has disfrutado más.
+
+596
+00:29:58,340 --> 00:30:00,340
+Colombia, Australia.
+
+597
+00:30:00,340 --> 00:30:02,340
+País donde has disfrutado menos.
+
+598
+00:30:02,340 --> 00:30:03,340
+Perú.
+
+599
+00:30:03,340 --> 00:30:06,340
+Perú. Es que en Perú me he levantado mentalmente.
+
+600
+00:30:06,340 --> 00:30:09,340
+Y por último, chicas más guapas.
+
+601
+00:30:09,340 --> 00:30:11,340
+Puf.
+
+602
+00:30:11,340 --> 00:30:12,340
+Italia.
+
+603
+00:30:12,340 --> 00:30:13,340
+Colombia.
+
+604
+00:30:13,340 --> 00:30:15,340
+Colombia.
+
+605
+00:30:15,340 --> 00:30:16,340
+Muy bien.
+
+606
+00:30:16,340 --> 00:30:17,340
+Gracias.
+
+607
+00:30:17,340 --> 00:30:19,340
+Pau Hidalgo, un maestro.
+
+608
+00:30:19,340 --> 00:30:21,340
+Me has ayudado mucho.
+
+609
+00:30:21,340 --> 00:30:24,340
+Tenía haciendo preguntas, también, porque tengo muchas dudas.
+
+610
+00:30:24,340 --> 00:30:26,340
+Pero, bueno.
+
+611
+00:30:26,340 --> 00:30:29,340
+La vuelta al mundo a pie empieza el 30 de noviembre.
+
+612
+00:30:29,340 --> 00:30:31,340
+Hasta la semana que viene.
+
+613
+00:30:33,340 --> 00:30:35,340
+Estarás nervioso, nervioso.
