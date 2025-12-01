@@ -1,1387 +1,459 @@
 1
-00:00:00,000 --> 00:00:05,520
-Bonjour! Mardi 25 novembre, il reste 5 jours pour le tour du monde à pied.
+00:00:00,000 --> 00:00:01,000
+.
 
 2
-00:00:05,700 --> 00:00:08,460
-J'ai beaucoup de nervosité, j'ai du mal à dormir un peu.
+00:00:30,000 --> 00:00:56,660
+Le tour du monde à pied, jour 1. Un applaudissement.
 
 3
-00:00:08,920 --> 00:00:11,340
-J'ai reçu beaucoup de messages, beaucoup de commentaires.
+00:01:00,000 --> 00:01:08,600
+Merci beaucoup d'être venus. Combien estimez-vous que nous sommes, plus ou moins? Je ne sais pas.
 
 4
-00:00:11,440 --> 00:00:15,540
-Et le plus surprenant est sans doute celui qui m’est arrivé de Xavier Caballé.
+00:01:10,760 --> 00:01:15,300
+60? Dieu-n'hi-do. Je ne m'y attendais pas, la vérité.
 
 5
-00:00:15,960 --> 00:00:21,160
-Qui est ce monsieur? C'est le moine responsable du Musée de Montserrat,
+00:01:15,800 --> 00:01:19,700
+Aujourd'hui, c'est le 30 novembre, non ?
 
 6
-00:00:21,180 --> 00:00:24,820
-qui m'a dit qu'ils veulent me connaître pour tout le sujet de ce tour du monde à pied.
+00:01:20,940 --> 00:01:26,340
+Je commence le tour du monde à pied, qui en principe durera environ 3 ans
 
 7
-00:00:25,000 --> 00:00:27,480
-Sans hésiter, j'ai dit oui.
+00:01:26,340 --> 00:01:29,940
+Je vais traverser 4 ou 5 continents.
 
 8
-00:00:27,480 --> 00:00:33,260
-On m’a dit, Enrique, si tu veux, tu peux venir en voiture et tu te gares là-haut que nous te laissons passer.
+00:01:30,000 --> 00:01:34,060
+Et je vais marcher un minimum de 26.232 kilomètres.
 
 9
-00:00:33,540 --> 00:00:38,900
-Et moi, non, non, puisque je viens à Montserrat, faisons-le bien et montons à pied.
+00:01:34,720 --> 00:01:39,280
+Voici une carte de l'itinéraire que j'ai mis.
 
 10
-00:00:39,360 --> 00:00:43,020
-Je me suis garé ici à Monistrol de Montserrat et oui, oui,
+00:01:40,260 --> 00:01:41,520
+Toujours à l'envers.
 
 11
-00:00:43,620 --> 00:00:48,100
-Je suis sur le point de faire les 4 km et 500 et je suis sur le dénivelé positif
+00:01:43,900 --> 00:01:48,920
+Maintenant, en principe, je ne me penche pas trop pour faire celle que j'ai tracée ici.
 
 12
-00:00:48,100 --> 00:00:50,440
-Elle va du village jusqu'au monastère.
+00:01:50,320 --> 00:01:51,540
+Mais nous verrons.
 
 13
-00:00:51,100 --> 00:00:55,300
-10.35, je calcule que dans une heure et demie je suis en haut.
+00:01:53,200 --> 00:01:56,280
+Je commencerai par la Catalogne et monterai jusqu’en France.
 
 14
-00:00:55,300 --> 00:00:59,240
-En dehors de cela, j'ai intitulé la vidéo Tout peut mal tourner.
+00:01:57,640 --> 00:01:59,280
+Ensuite, dans le nord de l'Italie, où je crois que je vais passer...
 
 15
-00:01:00,120 --> 00:01:02,980
-Je ne veux pas être négatif, mais ils peuvent sortir...
+00:02:00,000 --> 00:02:01,000
+...un peu de froid.
 
 16
-00:01:02,980 --> 00:01:04,920
-Il y a beaucoup de choses qui peuvent mal tourner dans ce voyage.
+00:02:02,380 --> 00:02:06,080
+Ensuite, pour éviter le froid, je ne passerai pas par la Serbie, mais par la côte adriatique.
 
 17
-00:01:05,840 --> 00:01:08,180
-C’est une grande aventure et il peut se passer beaucoup de choses.
+00:02:06,900 --> 00:02:10,200
+Ensuite, je traverserai les Balkans par la Grèce, la zone des Météores.
 
 18
-00:01:08,300 --> 00:01:13,280
-Je pense qu’il est bon d’être conscient de ce qui peut arriver pour pouvoir l’empêcher.
+00:02:11,060 --> 00:02:14,500
+Et puis j’entrerai en Turquie jusqu’à Istanbul, qui sera la fin de l’Europe.
 
 19
-00:01:13,400 --> 00:01:19,360
-Et nous en profiterons et quand j’arriverai en haut, je demanderai la bénédiction et je mettrai un siri dans la petite brune.
+00:02:15,420 --> 00:02:20,040
+Ensuite, je longerai la côte nord de la mer Noire jusqu'à Gorgias.
 
 20
-00:01:21,700 --> 00:01:22,660
-.
+00:02:20,700 --> 00:02:23,760
+Et c’est là que commence la zone la plus variable.
 
 21
-00:01:23,640 --> 00:01:24,040
-.
+00:02:23,760 --> 00:02:28,140
+Mais, à présent, je me penche sur la route suivante, qui serait de traverser vers Azerbadjan,
 
 22
-00:01:24,040 --> 00:01:25,200
-.
+00:02:28,140 --> 00:02:32,640
+Prendre un ferry à travers la mer Caspienne jusqu'au Kazakhstan.
 
 23
-00:01:25,200 --> 00:01:25,300
-.
+00:02:32,640 --> 00:02:38,440
+Après avoir traversé l'Ouzbékistan, le Tadjikistan, un petit tronçon en Chine,
 
 24
-00:01:25,300 --> 00:01:27,420
-Belle journée d'automne, ensoleillé, pas de vent.
+00:02:38,440 --> 00:02:42,640
+Sur la route du Karakoram, à la frontière pakistanaise.
 
 25
-00:01:27,660 --> 00:01:32,800
-Derrière moi, Sant Jeroni, toit de Montserrat, du Bages et de l'Anoia.
+00:02:42,640 --> 00:02:45,640
+Il s’agit de la plus haute frontière du monde et de la plus haute frontière du monde, jusqu’à Islamabad.
 
 26
-00:01:33,020 --> 00:01:36,720
-Qu'est-ce qui peut mal tourner? Qu'est-ce qui peut me faire échouer dans le tour avec un pied?
+00:02:45,640 --> 00:02:48,140
+Traverser la frontière avec l’Inde.
 
 27
-00:01:37,580 --> 00:01:40,680
-Que je me blesse, une blessure grave ou une maladie grave.
+00:02:48,140 --> 00:02:53,140
+En Inde, monter dans les Himalayas et entrer au Népal, traverser tout le Népal.
 
 28
-00:01:40,800 --> 00:01:43,460
-Par exemple, me casser une jambe ou quelque chose comme ça.
+00:02:53,140 --> 00:02:58,000
+Entrer un jour en Inde, entrer au Bangladesh, et à Dhaka, la capitale du Bangladesh,
 
 29
-00:01:43,660 --> 00:01:45,980
-Je peux tomber, ils peuvent avoir à me sauver, ces choses-là.
+00:02:58,000 --> 00:03:01,000
+Prendre l'avion pour le nord de la Thaïlande.
 
 30
-00:01:46,240 --> 00:01:47,440
-Il faut être bien assuré.
+00:03:01,000 --> 00:03:05,000
+Puis, route vers Singapour en passant par la Malaisie.
 
 31
-00:01:47,560 --> 00:01:51,180
-Et comme je l'ai expliqué dans la vidéo précédente, j'ai fait confiance à Seguros Escriba.
+00:03:05,000 --> 00:03:11,000
+Et puis un avion pour l'Australie et ou la Nouvelle-Zélande, la Nouvelle-Zélande ici bas.
 
 32
-00:01:51,760 --> 00:01:55,000
-Assurances Escriba, spécialistes de l’assurance trekking,
+00:03:11,000 --> 00:03:15,000
+Et puis, d'abord, je prendrai un avion pour l'Amérique du Nord,
 
 33
-00:01:55,200 --> 00:01:58,120
-de voyages de trekking, ici et partout dans le monde,
+00:03:15,000 --> 00:03:21,000
+Je vais traverser le Pacifique, je ne sais pas encore par quel pays, mais par là.
 
 34
-00:01:58,240 --> 00:02:01,000
-On m’a proposé de prendre une assurance voyage.
+00:03:21,000 --> 00:03:28,000
+Ensuite, il prendrait un autre avion pour la Colombie, où il descendrait par les Andes.
 
 35
-00:02:01,140 --> 00:02:05,780
-qui me couvre à la fois le trekking et les maladies qui peuvent m'attraper dans la ville,
+00:03:28,000 --> 00:03:33,000
+En passant par l’Équateur, le Pérou, le désert d’Atacama, la zone la plus aride du monde,
 
 36
-00:02:06,480 --> 00:02:08,320
-Des ennuis, des problèmes de voyage, tout.
+00:03:33,000 --> 00:03:36,000
+jusqu'à Santiago du Chili, où il traverserait les Andes,
 
 37
-00:02:08,440 --> 00:02:11,160
-Et je vais très bien assuré et très bien couvert avec Assurances Scribe
+00:03:36,000 --> 00:03:44,000
+jusqu'à Buenos Aires, en Argentine, où je prendrais un autre avion pour Santiago de Compostela
 
 38
-00:02:11,160 --> 00:02:14,840
-qui sont un courtier d'assurances d'ici, catalan.
+00:03:44,000 --> 00:03:48,000
+pour faire le chemin de Saint-Jacques dans le sens inverse jusqu'au point de départ et d'arrivée,
 
 39
-00:02:14,960 --> 00:02:16,340
-Vous pouvez lui donner nom et prénom.
+00:03:48,000 --> 00:03:50,000
+La place de Catalogne à Barcelone.
 
 40
-00:02:16,380 --> 00:02:18,840
-Un traitement personnalisé, pas comme les autres grandes entreprises.
+00:03:50,000 --> 00:03:56,000
+Le bagage, très important. Je vous ai montré un bagage de 7 kilos. Eh bien, il a un peu augmenté.
 
 41
-00:02:19,160 --> 00:02:20,320
-Merci beaucoup pour votre collaboration.
+00:03:56,000 --> 00:04:02,000
+Et, eh bien, nous allons peser le sac à dos. Maintenant, il y a la nourriture, comme un kilo et je mange,
 
 42
-00:02:20,340 --> 00:02:22,640
-Vous êtes une partie importante du tour du monde à pied.
+00:04:02,000 --> 00:04:06,000
+et aussi l'eau, aussi un litre et pico. Voyons voir.
 
 43
-00:02:23,220 --> 00:02:25,500
-Le mythique cheval Bernardo.
+00:04:09,000 --> 00:04:14,000
+S'il vous plaît, témoin, je pense qu'il pèse environ 10 et pico.
 
 44
-00:02:26,600 --> 00:02:28,260
-Deuxième raison pour laquelle je dois abandonner ?
+00:04:19,000 --> 00:04:21,000
+Prenez un peu de temps pour calculer.
 
 45
-00:02:28,280 --> 00:02:31,780
-Un membre de la famille est malade, gravement malade, et doit rentrer.
+00:04:22,000 --> 00:04:24,000
+Qu'est-ce que je mets? 10 kilos 79.
 
 46
-00:02:32,260 --> 00:02:34,760
-J'espère que non, j'espère que c'est la dernière chose qui va arriver.
+00:04:24,000 --> 00:04:26,000
+Presque 11, oui.
 
 47
-00:02:35,320 --> 00:02:36,640
-Mais oui, si quelque chose comme ça devait arriver,
+00:04:28,000 --> 00:04:32,000
+Si quelqu'un veut m'accompagner sur un tronçon, nous pouvons aller jusqu'à la place Sant Jaume
 
 48
-00:02:36,720 --> 00:02:41,420
-C'est une raison logique de quitter le monde à pied.
+00:04:32,000 --> 00:04:34,000
+Et après, je vais continuer.
 
 49
-00:02:41,840 --> 00:02:43,060
-Troisième chose qui peut m'arriver.
+00:04:34,000 --> 00:04:37,000
+Ah, un sujet très important. Le sujet des sangliers. Je ne sais pas si vous avez compris.
 
 50
-00:02:43,780 --> 00:02:44,800
-Ils peuvent m'écraser.
+00:04:37,000 --> 00:04:42,000
+Il y a une espèce de peste porcine, je ne sais pas comment on l'appelle,
 
 51
-00:02:45,220 --> 00:02:47,300
-C'est quelque chose qui me préoccupe relativement beaucoup,
+00:04:42,000 --> 00:04:46,000
+et il est fermé. Collserola, et je dis, boneno, Collserola, rien ne se passe,
 
 52
-00:02:47,720 --> 00:02:50,140
-Et moi, autant que je le peux, je prends des chemins,
+00:04:46,000 --> 00:04:48,000
+Parce que, en tout, je ne vais pas pour Collserola.
 
 53
-00:02:50,660 --> 00:02:52,340
-comme ça, où les voitures ne passent pas,
+00:04:48,000 --> 00:04:53,000
+Mon intention, spoiler, était de camper dans la Sierra de Marina, dans la région de Tiana,
 
 54
-00:02:53,080 --> 00:02:56,720
-Mais, bien sûr, je vais inévitablement marcher sur les routes de temps en temps.
+00:04:53,000 --> 00:04:57,000
+Un peu plus haut, il y avait une zone qui me semblait plate, dis-je, j’y vais.
 
 55
-00:02:56,920 --> 00:03:00,220
-Il y a des pays qui conduisent mieux, des pays qui conduisent moins bien.
+00:04:58,000 --> 00:05:03,000
+Il y en a un, il y a des ermitages, il y a des histoires, il y a une équitation, et je dis, bon,
 
 56
-00:03:00,600 --> 00:03:01,900
-Comme le disait Pablo Hidalgo,
+00:05:03,000 --> 00:05:08,000
+Eh bien, aujourd'hui, il m'envoie un message ce matin à Jordi, que je ne sais pas où il est,
 
 57
-00:03:02,620 --> 00:03:04,260
-Je vais devoir faire attention à ne pas me faire écraser.
+00:05:08,000 --> 00:05:11,000
+Georges, par ici, par là, par là.
 
 58
-00:03:04,300 --> 00:03:09,320
-Je vais devoir porter un tissu réfléchissant ou quelque chose pour qu'ils me voient et que rien ne m'arrive.
+00:05:12,000 --> 00:05:16,000
+L'officier, non?, dit-il, à Collserola, vous ne pouvez pas entrer, mais il y a aussi des restrictions
 
 59
-00:03:09,800 --> 00:03:11,860
-Si je peux, je prends des chemins.
+00:05:16,000 --> 00:05:21,000
+Toutes ces communes, et ils étaient tout ce qui était possible dans cette zone.
 
 60
-00:03:12,500 --> 00:03:14,700
-C'est pourquoi j'ai mon sac à dos et je n'ai pas de charrette,
+00:05:21,000 --> 00:05:22,000
+Alors, changeons.
 
 61
-00:03:14,780 --> 00:03:18,120
-Comme vous pouvez le voir, je l’ai testé aujourd’hui.
+00:05:22,000 --> 00:05:25,000
+Donc, changement de plans, rien ne se passe, rien ne se passe.
 
 62
-00:03:18,660 --> 00:03:20,180
-Je dois dire qu'il est assez léger,
+00:05:25,000 --> 00:05:28,000
+Il y avait aussi beaucoup de jours pour rendre malades les cochons maudits,
 
 63
-00:03:20,300 --> 00:03:22,620
-Je fais une montée assez
+00:05:28,000 --> 00:05:30,000
+Et ils ont choisi aujourd'hui, n'est-ce pas? alors, bon, bon.
 
 64
-00:03:22,640 --> 00:03:23,900
-C'est énorme et ça ne me pèse pas trop.
+00:05:30,000 --> 00:05:33,000
+Mais, bon, au moins il ne pleut pas, il devait pleuvoir aujourd'hui, et il ne pleut pas,
 
 65
-00:03:24,140 --> 00:03:27,180
-Deux kilomètres et demi, nous sommes bien.
+00:05:33,000 --> 00:05:34,000
+Donc c'est déjà bien.
 
 66
-00:03:28,000 --> 00:03:31,140
-Une autre chose qui peut m’arriver, c’est que je me fatigue.
+00:05:34,000 --> 00:05:38,000
+Et alors, ce que je vais faire, c’est marcher jusqu’à Mataró,
 
 67
-00:03:31,260 --> 00:03:33,920
-Les blessures, la fatigue physique, tout ça.
+00:05:38,000 --> 00:05:42,000
+Et je dormirai dans la maison de ma tante, qui habite à Mataró, et c'est tout.
 
 68
-00:03:34,560 --> 00:03:36,900
-peut affecter, un accident, tout ce que vous voulez,
+00:05:42,000 --> 00:05:45,000
+Voilà, voilà, voilà.
 
 69
-00:03:36,960 --> 00:03:39,920
-Mais la fatigue mentale sera très importante à gérer.
+00:05:45,000 --> 00:05:51,000
+Demain, demain, si vous vous connectez à 12 heures et que je pico du matin sur TV3, les gens de Tout est Mou,
 
 70
-00:03:40,200 --> 00:03:43,000
-J'aime marcher, j'ai fait plusieurs traversées.
+00:05:51,000 --> 00:05:55,000
+tout se Mou ils voulaient venir en direct pour me faire comme une interview là-bas,
 
 71
-00:03:43,060 --> 00:03:45,100
-J'ai fait la Transpyrénéenne, la Voie Alpine, la Transcaucasienne,
+00:05:55,000 --> 00:05:57,000
+en portant un équipement là-bas, la télévision,
 
 72
-00:03:45,580 --> 00:03:47,620
-Je n'ai jamais marché plus de 23 jours.
+00:05:57,000 --> 00:06:00,000
+Et je leur ai dit que nous nous retrouverions à Orrius.
 
 73
-00:03:48,920 --> 00:03:52,440
-Trois ans, c'est sûr, je vais m'arrêter là.
+00:06:00,000 --> 00:06:05,000
+Bien sûr, cela ne me convient pas maintenant, car si je suis à Mataró, alors, je ne sais pas,
 
 74
-00:03:52,640 --> 00:03:54,100
-3 ans à marcher.
+00:06:05,000 --> 00:06:08,000
+Je ne sais pas où nous allons rester, mais bon, à 12 heures et je pico, demain, à TV3.
 
 75
-00:03:54,620 --> 00:03:55,500
-Je me fatigue peut-être.
+00:06:08,000 --> 00:06:12,000
+J'ai reçu un autre message, hier, que ceux de La Selva voulaient me rencontrer dans l'après-midi,
 
 76
-00:03:56,300 --> 00:03:58,280
-Il est fort probable qu'un jour viendra où il dira
+00:06:12,000 --> 00:06:13,000
+C’est le programme de l’après-midi.
 
 77
-00:03:58,280 --> 00:03:59,080
-Les huîtres, je ne veux plus marcher.
+00:06:13,000 --> 00:06:15,000
+Je lui ai dit, tu veux dire que non...
 
 78
-00:03:59,300 --> 00:04:01,080
-La question est de savoir comment je vais vivre ces moments.
+00:06:15,000 --> 00:06:19,000
+Massa Enric Adventures sur TV3, vous ne vous lassez pas de moi?
 
 79
-00:04:01,900 --> 00:04:04,200
-J'essaie de les surmonter et de ne pas me faire avoir.
+00:06:19,000 --> 00:06:20,000
+Je ne sais pas, au final, non, je ne sais pas comment ça s'est passé.
 
 80
-00:04:04,540 --> 00:04:09,400
-Cet aspect mental est difficile, voire impossible, à préparer.
+00:06:21,000 --> 00:06:24,000
+Ils me voulaient aussi de la SER, ils m'aimaient demain à la course...
 
 81
-00:04:09,920 --> 00:04:11,860
-J'ai traversé d'autres, dans les moments où j'ai eu dur,
+00:06:24,000 --> 00:06:26,000
+C'est égal.
 
 82
-00:04:12,060 --> 00:04:14,780
-Ce qui m'a servi, c'est de vous lire.
+00:06:26,000 --> 00:06:29,000
+Réveillez-vous à 8h20.
 
 83
-00:04:15,380 --> 00:04:18,820
-Votre présence en ligne est très importante.
+00:06:29,000 --> 00:06:33,000
+Et quoi de plus, rien de plus? Des questions?
 
 84
-00:04:19,040 --> 00:04:22,560
-Le fait que vous m'écrivez des commentaires, m'envoyez des messages,
+00:06:33,000 --> 00:06:35,000
+Bonne chance, Enric. Merci beaucoup.
 
 85
-00:04:22,640 --> 00:04:25,300
-Ça m’aide et me motive beaucoup.
+00:06:35,000 --> 00:06:39,000
+Comment éditez-vous les vidéos? Parce que vous n'avez pas d'ordinateur portable ici, n'est-ce pas?
 
 86
-00:04:25,520 --> 00:04:28,600
-Est-ce suffisant pour 3 ans? Je ne sais pas. Nous verrons.
+00:06:39,000 --> 00:06:40,000
+Je l'enregistre et l'édite avec mon téléphone.
 
 87
-00:04:29,060 --> 00:04:32,160
-Tout le monde me dit, Enrique, allez, amusez-vous bien.
+00:06:40,000 --> 00:06:42,000
+Avec le mobile, aussi. Oui, tout avec le mobile.
 
 88
-00:04:32,280 --> 00:04:35,860
-C’est l’un des défis à relever, passer un bon moment.
+00:06:42,000 --> 00:06:47,000
+Voyons, que celui qui est de la famille lève la main. Par ici.
 
 89
-00:04:36,320 --> 00:04:39,120
-Les bons moments dépassent les mauvais.
+00:06:47,000 --> 00:06:51,000
+Levez la main, collègues ou anciens collègues de travail.
 
 90
-00:04:39,800 --> 00:04:41,380
-En théorie, il devrait en être ainsi.
+00:06:51,000 --> 00:06:55,000
+Ici, là-bas. Très bien.
 
 91
-00:04:41,520 --> 00:04:43,860
-Parce que tu marches dans le monde, tu voyages,
+00:06:55,000 --> 00:07:00,000
+Les gens de l'escargot.
 
 92
-00:04:44,540 --> 00:04:48,380
-mais je ne sais pas, c'est de trouver l'équilibre entre tirer,
+00:07:00,000 --> 00:07:03,000
+dans le bas Llobregat.
 
 93
-00:04:48,400 --> 00:04:49,940
-J'ai envie de m'y mettre, parce qu'à la fin, sinon, je n'en finirai jamais.
+00:07:03,000 --> 00:07:11,000
+Très bien. Terrasse.
 
 94
-00:04:50,540 --> 00:04:52,140
-Visiter et visiter les monuments,
+00:07:11,000 --> 00:07:15,000
+Les gens de Lleida. Qui sont venus des gens de Lleida? Certains.
 
 95
-00:04:52,640 --> 00:04:55,380
-Visiter les gens, profiter un peu.
+00:07:15,000 --> 00:07:20,000
+Pallars Sobirà. Huîtres. Quelqu'un de Tor? Y a-t-il quelqu'un de Tor?
 
 96
-00:04:55,760 --> 00:04:59,840
-Enfin une chose qui pourrait me faire échouer
+00:07:21,000 --> 00:07:23,000
+.
 
 97
-00:04:59,840 --> 00:05:03,240
-dans le tour avec un pied serait l'argent, très important.
+00:07:23,000 --> 00:07:27,000
+Tarragone. Tarragone. Les seuls courageux, hein?
 
 98
-00:05:03,500 --> 00:05:05,380
-Mais laissons cela pour la fin,
+00:07:27,000 --> 00:07:31,000
+Et Gérone. Personne. Par ici?
 
 99
-00:05:05,520 --> 00:05:08,940
-Maintenant, nous allons faire la dernière montée, le dernier sprint jusqu'au monastère.
+00:07:31,000 --> 00:07:33,000
+Si tu vas chercher des champignons.
 
 100
-00:05:27,400 --> 00:05:28,600
-.
+00:07:33,000 --> 00:07:35,000
+Et si j’allais chercher des champignons ?
 
 101
-00:05:28,600 --> 00:05:28,600
-.
+00:07:35,000 --> 00:07:38,000
+On m’a dit qu’il y a un jaune au Mexique qui est bleu.
 
 102
-00:05:30,660 --> 00:05:31,380
-Homme, bonjour.
+00:07:38,000 --> 00:07:40,000
+Le poulain indigo. Totalement indigo.
 
 103
-00:05:31,480 --> 00:05:31,580
-Bonsoir Enrique.
+00:07:40,000 --> 00:07:42,000
+Bon, je ne sais pas.
 
 104
-00:05:31,980 --> 00:05:32,480
-Que diriez-vous?
+00:07:42,000 --> 00:07:47,000
+Très bien. Merci, merci.
 
 105
-00:05:34,100 --> 00:05:34,940
-Xavier Caballé, pas vrai ?
+00:07:47,000 --> 00:07:49,000
+Merci, merci, merci, merci.
 
 106
-00:05:35,240 --> 00:05:35,680
-Caballé, oui.
+00:07:49,000 --> 00:07:50,000
+Très bien, très bien, très bien.
 
 107
-00:05:35,800 --> 00:05:37,520
-Caballé, directeur du musée.
+00:07:51,000 --> 00:08:03,000
+Un moment, hein ?
 
 108
-00:05:37,640 --> 00:05:39,240
-Directeur du musée et moine de Montserrat.
+00:08:03,000 --> 00:08:10,000
+Je vais à la vidéo.
 
 109
-00:05:39,440 --> 00:05:43,600
-- Très bien, et pourquoi m'invites-tu ?
+00:08:10,000 --> 00:08:14,000
+À voir. Randonnée.
 
 110
-00:05:44,240 --> 00:05:46,920
-Non, c'est parce que j'ai vu l'aventure que tu veux faire
+00:08:14,000 --> 00:08:17,000
+Il est en train de capter le signal GPS.
 
 111
-00:05:46,920 --> 00:05:50,040
-J'ai pensé que tu aimerais venir quelques jours plus tôt ici à Montserrat.
+00:08:17,000 --> 00:08:19,000
+Vale. Jouer.
 
 112
-00:05:50,620 --> 00:05:51,240
-.
+00:08:19,000 --> 00:08:21,000
+Le tour du monde commence enfin à pied.
 
 113
-00:05:51,240 --> 00:05:52,740
-Pour dire au revoir à la Catalogne.
+00:08:22,000 --> 00:08:24,000
+Nervosité !
 
 114
-00:05:53,040 --> 00:05:53,840
-.
+00:08:35,000 --> 00:08:37,000
+Au revoir, au revoir!
 
 115
-00:05:53,840 --> 00:05:55,500
-Et demander la force de la Mère de Dieu qui...
-
-116
-00:05:55,500 --> 00:05:55,940
-Exact.
-
-117
-00:05:55,940 --> 00:05:56,620
-J'en aurai besoin.
-
-118
-00:05:57,660 --> 00:06:00,980
-Très bien, Xavier va m'apprendre un peu le monastère ou l'abbaye,
-
-119
-00:06:01,000 --> 00:06:01,560
-Comment est-ce qu'on l'appelle ça ?
-
-120
-00:06:02,060 --> 00:06:03,380
-Abbaye ou monastère sont les deux.
-
-121
-00:06:04,020 --> 00:06:05,560
-L'abbaye est un monastère qui a un abbé.
-
-122
-00:06:06,260 --> 00:06:08,200
-Et ce serait un peu la partie, entre guillemets,
-
-123
-00:06:09,200 --> 00:06:10,800
-Un peu secrète, interdite aux touristes, non ?
-
-124
-00:06:10,820 --> 00:06:11,460
-Ici, personne ne peut entrer...
-
-125
-00:06:11,460 --> 00:06:13,640
-Il n’y a pas de touristes ici, non, c’est la partie cloture.
-
-126
-00:06:13,920 --> 00:06:14,460
-Ouf, toi.
-
-127
-00:06:14,840 --> 00:06:15,960
-Un privilège, hein? Merci beaucoup.
-
-128
-00:06:16,980 --> 00:06:19,300
-La première chose que nous trouvons, comme tout monastère, est un cloître.
-
-129
-00:06:20,180 --> 00:06:20,500
-Clair.
-
-130
-00:06:21,240 --> 00:06:23,060
-Il a été construit par Puig Cadafalch il y a un siècle.
-
-131
-00:06:24,180 --> 00:06:24,540
-Ahahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-
-132
-00:06:25,720 --> 00:06:26,220
-Ouf, toi.
-
-133
-00:06:26,480 --> 00:06:27,900
-Avec des magnolias impressionnants.
-
-134
-00:06:28,180 --> 00:06:30,380
-Ça vaut la peine d'être visité, oui.
-
-135
-00:06:30,500 --> 00:06:30,640
-Oui, oui.
-
-136
-00:06:31,000 --> 00:06:33,640
-Et ce qui est curieux à propos de ces magnolias, c’est qu’ils sont plantés dans des pots.
-
-137
-00:06:34,180 --> 00:06:36,040
-Parce qu'il y a des dépendances.
-
-138
-00:06:36,300 --> 00:06:38,060
-C’est ce qu’a fait Puig Cadafalch il y a un siècle.
-
-139
-00:06:38,180 --> 00:06:38,280
-Huîtres.
-
-140
-00:06:38,820 --> 00:06:40,240
-Et maintenant, vous dites que nous allons voir les Pyrénées?
-
-141
-00:06:40,600 --> 00:06:42,280
-Du bout des jardins, on aperçoit les Pyrénées.
-
-142
-00:06:42,380 --> 00:06:45,040
-C’est un endroit privilégié pour voir la mer.
-
-143
-00:06:45,760 --> 00:06:47,120
-Nous sommes en première ligne de mer.
-
-144
-00:06:47,240 --> 00:06:49,880
-Moi, quand j’étais au noviciat, de mon lit, je voyais la mer.
-
-145
-00:06:49,880 --> 00:06:55,940
-Et quand nous irons au bout du jardin, nous pourrons voir toutes les Pyrénées depuis le Val d’Aran jusqu’au Canigou.
-
-146
-00:06:56,120 --> 00:06:57,040
-Aujourd'hui est une bonne journée, aujourd'hui.
-
-147
-00:06:57,120 --> 00:06:57,580
-Aujourd'hui est une bonne journée, oui.
-
-148
-00:06:57,580 --> 00:06:58,300
-En principe, il faut le voir.
-
-149
-00:06:59,420 --> 00:07:00,280
-Voir la mer ?
-
-150
-00:07:00,440 --> 00:07:00,720
-Oui, oui.
-
-151
-00:07:00,860 --> 00:07:01,580
-Ah oui, oui, oui, oui.
-
-152
-00:07:01,620 --> 00:07:02,680
-On le voit déjà parfaitement.
-
-153
-00:07:03,220 --> 00:07:05,240
-C'est le Prat de Llobrgat où se trouve l'aéroport.
-
-154
-00:07:05,820 --> 00:07:10,460
-Et si le jour était plus clair, nous verrions même les avions décoller et les bateaux.
-
-155
-00:07:10,900 --> 00:07:12,100
-C'est la croix, non ?
-
-156
-00:07:12,240 --> 00:07:12,560
-La Croix Saint Michel.
-
-157
-00:07:12,560 --> 00:07:15,060
-C’est une excursion typique qui se fait depuis le monastère.
-
-158
-00:07:15,260 --> 00:07:15,280
-Oui, oui.
-
-159
-00:07:15,540 --> 00:07:16,960
-Et je vais vous dire quelque chose que je vois maintenant.
-
-160
-00:07:17,400 --> 00:07:17,720
-à Badalona.
-
-161
-00:07:18,540 --> 00:07:20,800
-C’est là que je vois où je vais camper la première nuit.
-
-162
-00:07:20,920 --> 00:07:21,360
-Ah, d'accord.
-
-163
-00:07:21,520 --> 00:07:23,320
-Je ne vous dirai pas où, mais c'est par là.
-
-164
-00:07:23,480 --> 00:07:23,840
-Très bien.
-
-165
-00:07:24,700 --> 00:07:32,240
-Ici, il y a eu des cas de personnes qui, en faisant une excursion, sont arrivées à un endroit, à un cul de sac et ne pouvaient ni avancer ni revenir.
-
-166
-00:07:32,960 --> 00:07:42,580
-En fait, ils racontent il y a quelques années que les pompiers sont allés à la rescousse d'une personne qui l'a trouvée morte, mais au même endroit, ils ont trouvé les restes d'une autre personne décédée au même endroit quelques années auparavant.
-
-167
-00:07:43,060 --> 00:07:43,460
-Huîtres.
-
-168
-00:07:43,780 --> 00:07:44,720
-Ils ne l'avaient pas trouvé ?
-
-169
-00:07:45,000 --> 00:07:45,140
-Non, non.
-
-170
-00:07:45,140 --> 00:07:49,080
-C’est que tous les deux jours, il y a un hélicoptère ici que l’on voit tous les week-ends, n’est-ce pas ?
-
-171
-00:07:49,220 --> 00:07:55,020
-C'est une montagne qui trompe beaucoup, car les jours où il y a une bouée, il est surtout très facile de se désorienter et de perdre la route.
-
-172
-00:07:55,380 --> 00:08:06,000
-Alors c’est une montagne qui est compliquée, à l’extérieur des endroits les plus fréquentés, elle a des points qui sont compliqués au niveau de l’orientation et surtout que vous pouvez vous trouver dans un endroit où vous ne savez pas quoi faire.
-
-173
-00:08:06,120 --> 00:08:14,700
-Sur le chemin de Saint-Jérôme, vous vous trouvez en été à sept heures du soir, il reste une heure, deux heures de lumière, qui sont encore à mi-chemin pour monter,
-
-174
-00:08:14,700 --> 00:08:15,820
-Et ils vont avec des tongs.
-
-175
-00:08:15,960 --> 00:08:16,500
-Avec des talons, oui.
-
-176
-00:08:16,620 --> 00:08:16,800
-Oui, oui.
-
-177
-00:08:17,740 --> 00:08:20,360
-Très bien, car d'ici nous verrons les Pyrénées, pour voir si c'est vrai.
-
-178
-00:08:20,520 --> 00:08:20,660
-Oui, oui.
-
-179
-00:08:20,900 --> 00:08:23,080
-Je vois déjà la meule.
-
-180
-00:08:23,160 --> 00:08:23,960
-La Mola, en dessous se trouve le Montcau.
-
-181
-00:08:24,620 --> 00:08:25,140
-Montauban aussi.
-
-182
-00:08:25,340 --> 00:08:25,900
-Le balai de toute l'année.
-
-183
-00:08:28,000 --> 00:08:32,120
-Et aujourd'hui, on ne voit pas les Pyrénées, au moins le Canigou, non? Mais oui, on le voit ici.
-
-184
-00:08:32,680 --> 00:08:33,460
-Huîtres, oui, merde. Ui
-
-185
-00:08:33,580 --> 00:08:33,820
-Oui, oui.
-
-186
-00:08:35,000 --> 00:08:36,700
-Si on voit la neige, oui, oui, oui, là-bas.
-
-187
-00:08:36,960 --> 00:08:38,560
-Le Cadí, se voit aussi depuis le fond.
-
-188
-00:08:38,560 --> 00:08:43,980
-Voyons, nous avons là le Cadi, et là, là, là, là, nous devrons sortir l’application qui nous montre les sommets.
-
-189
-00:08:44,380 --> 00:08:46,360
-Il doit être là, quoi, la Tossa d'Alp, peut-être? Non.
-
-190
-00:08:46,440 --> 00:08:47,200
-Ou les Rasos de Paguera.
-
-191
-00:08:48,060 --> 00:08:55,900
-Hutres, toi, me dit Xavier que ce point d'ici est la Torre de Cabus, en Andorre. C'est près de Tor.
-
-192
-00:08:56,460 --> 00:08:58,180
-Ah, les feux, qui naissent petits.
-
-193
-00:08:58,540 --> 00:08:59,120
-naissent petits.
-
-194
-00:08:59,320 --> 00:08:59,960
-Et ils deviennent grands.
-
-195
-00:09:00,680 --> 00:09:08,020
-Pour que je t’accompagne dans ton voyage, et que tu n’oublies pas la Catalogne, j’ai pensé que je te serais, je serais ravi d’avoir cette médaille de la Vierge en argent de 1931.
-
-196
-00:09:08,560 --> 00:09:08,980
-De l'argenté ?
-
-197
-00:09:09,180 --> 00:09:09,480
-de l'argent.
-
-198
-00:09:09,720 --> 00:09:10,600
-Il pèse très peu, ça.
-
-199
-00:09:10,600 --> 00:09:15,680
-Il pèse environ deux grammes, tout au plus, et même moins. Par conséquent, cela ne vous affecte pas sur votre balance.
-
-200
-00:09:15,780 --> 00:09:18,280
-C’est une bénédiction ultra légère.
-
-201
-00:09:18,320 --> 00:09:18,680
-Exact.
-
-202
-00:09:18,880 --> 00:09:22,080
-Stupidement ultra-léger. Huîtres, merci beaucoup. Et bien, je vais le prendre, bien sûr.
-
-203
-00:09:24,080 --> 00:09:26,440
-Cinquantenaire du Patronage de Montserrat. Merci beaucoup.
-
-204
-00:09:26,780 --> 00:09:31,800
-J'ai déjà vu votre vidéo de sac à dos, que vous ne transportiez pas de livres. Ce que je pense est une erreur.
-
-205
-00:09:32,880 --> 00:09:35,080
-Et maintenant, nous sommes à la bibliothèque, à la bibliothèque de Montserrat.
-
-206
-00:09:35,440 --> 00:09:35,800
-Impressionnant.
-
-207
-00:09:36,340 --> 00:09:38,540
-Il a été reconstruit il y a un siècle.
-
-208
-00:09:38,560 --> 00:09:39,560
-par Puig i Cadafalch.
-
-209
-00:09:40,640 --> 00:09:44,120
-Parce qu'en 1811, la vieille bibliothèque a brûlé. Les Français l'ont brûlée.
-
-210
-00:09:44,320 --> 00:09:45,640
-Ils ont détruit le monastère.
-
-211
-00:09:46,780 --> 00:09:50,880
-Mais depuis lors, il a été reconstruit et est maintenant l'une des bibliothèques privées les plus importantes de Catalogne.
-
-212
-00:09:51,480 --> 00:09:56,260
-Quel serait le livre ou la collection la plus remarquable de cette collection?
-
-213
-00:09:56,540 --> 00:10:01,440
-Le plus remarquable est le livre rouge de Montserrat, qui est actuellement exposé au musée.
-
-214
-00:10:01,760 --> 00:10:06,540
-C'est un des rares livres qui nous restent de la bibliothèque.
-
-215
-00:10:06,680 --> 00:10:08,540
-Et qui raconte tout ce que faisaient les pèlerins.
-
-216
-00:10:08,560 --> 00:10:12,100
-Et tous ces pèlerins qui venaient à Montserrat pour prier la Vierge du XIVe siècle.
-
-217
-00:10:12,380 --> 00:10:16,200
-Il a été écrit à l'endroit même où nous sommes maintenant. Voici l'ancien bureau de Montserrat.
-
-218
-00:10:16,480 --> 00:10:20,340
-Si vous imaginez le film Le Nom de la rose, où les moines commencent à écrire.
-
-219
-00:10:20,600 --> 00:10:21,720
-Je peux l'imaginer, oui.
-
-220
-00:10:22,460 --> 00:10:23,200
-Quel silence.
-
-221
-00:10:25,020 --> 00:10:27,960
-Atlantic, à voir si c'est en Nouvelle-Zélande. Oui, bien sûr.
-
-222
-00:10:28,180 --> 00:10:28,880
-Les antipodes.
-
-223
-00:10:29,600 --> 00:10:30,840
-Les antipodes, c'est correct.
-
-224
-00:10:31,020 --> 00:10:37,480
-Je me souviens à l'EGB d'une discussion avec un professeur, comme il nous a expliqué les Antipodes et je suis sorti en plan "sabiondo" en disant,
-
-225
-00:10:38,560 --> 00:10:42,200
-Les Antipodes ne sont pas la Nouvelle-Zélande, les Antipodes sont au milieu de la mer.
-
-226
-00:10:42,360 --> 00:10:45,200
-Parce qu’il le regardait en perspective espagnole et moi en perspective catalane.
-
-227
-00:10:46,700 --> 00:10:54,480
-C'est vrai. Dans les règles que j'ai parlé du tour du monde, elles vous donnent 10 degrés de latitude et de longitude par rapport aux Antipodes
-
-228
-00:10:54,480 --> 00:10:56,460
-pour que vous n'ayez pas à être au point cloué.
-
-229
-00:10:56,460 --> 00:10:59,060
-C'est exact. Pour que l'endroit soit au milieu de la mer.
-
-230
-00:10:59,180 --> 00:11:00,960
-Ou au milieu d'une forêt impossible, aussi.
-
-231
-00:11:01,560 --> 00:11:05,260
-Ici, à Montserrat, il y a encore des lettres adressées à l'île de Montserrat.
-
-232
-00:11:06,800 --> 00:11:07,940
-Et je suppose que l'île de Montserrat
-
-233
-00:11:07,940 --> 00:11:10,540
-Des lettres doivent arriver à l'abbaye de Montserrat.
-
-234
-00:11:13,000 --> 00:11:13,720
-Très bien. Incroyable.
-
-235
-00:11:14,340 --> 00:11:21,220
-Le chœur où nous faisons les prières des Vêpres et des Laudes. Les Laudes à 7h30 et les Vêpres à 18h45.
-
-236
-00:11:23,520 --> 00:11:26,860
-Et à la une, non ?
-
-237
-00:11:27,200 --> 00:11:32,980
-À une heure, les servants d’autel sortiront et nous les écouterons d’en bas, dans un lieu privilégié.
-
-238
-00:11:35,480 --> 00:11:37,020
-La nouvelle sacristie de Montserrat.
-
-239
-00:11:38,320 --> 00:11:41,480
-Peint par Obiols dans les années 50 du siècle dernier.
-
-240
-00:11:42,000 --> 00:11:45,040
-Et qu'un moine dit toujours que c'est notre chapelle sixtine.
-
-241
-00:11:52,740 --> 00:11:56,100
-Au revoir! Qui n'a pas de miette.
-
-242
-00:11:58,620 --> 00:12:00,420
-Vous avez fait une crise cardiaque à plusieurs.
-
-243
-00:12:07,940 --> 00:12:17,200
-Rose d'avril, brune de la sierra.
-
-244
-00:12:17,320 --> 00:12:20,520
-de Montserrat étoile.
-
-245
-00:12:20,520 --> 00:12:21,400
-de Montserrat étoile.
-
-246
-00:12:21,400 --> 00:12:24,720
-de Montserrat étoile.
-
-247
-00:12:24,720 --> 00:12:24,780
-de Montserrat étoile.
-
-248
-00:12:24,780 --> 00:12:25,680
-de Montserrat étoile.
-
-249
-00:12:25,680 --> 00:12:36,700
-de Montserrat steel. éclairez la terre catalane,
-
-250
-00:12:36,700 --> 00:12:37,920
-Guide-nous vers le Ciel.
-
-251
-00:12:37,920 --> 00:12:52,860
-Guide-nous vers le Ciel.
-
-252
-00:13:02,520 --> 00:13:07,300
-Bouffon! C'est fait. Bouffon! Ma mère, spectaculaire!
-
-253
-00:13:08,880 --> 00:13:12,600
-Quand Xavi m’a contacté, je n’imaginais pas ça, à vrai dire.
-
-254
-00:13:12,760 --> 00:13:16,120
-J'imaginais rester pour faire un café, qu'il m'apprenne un peu,
-
-255
-00:13:16,220 --> 00:13:17,020
-Mais je ne m'attendais pas à ça.
-
-256
-00:13:17,940 --> 00:13:21,840
-Spectaculaire, incroyable, de voir les coins secrets de l'abbaye de Montserrat,
-
-257
-00:13:23,200 --> 00:13:27,120
-Voir l’école et l’écouter de près.
-
-258
-00:13:27,580 --> 00:13:30,040
-Et puis le déjeuner, qui est quelque chose que je n'ai pas été autorisé à enregistrer,
-
-259
-00:13:30,140 --> 00:13:34,400
-Mais j’imaginais un déjeuner avec les autres moines de Montserrat,
-
-260
-00:13:34,820 --> 00:13:36,780
-comme ça, normal, bavarder, et non, non, non, non, non.
-
-261
-00:13:36,820 --> 00:13:37,860
-C'était une chose...
-
-262
-00:13:37,860 --> 00:13:38,480
-Quelque chose comme...
-
-263
-00:13:39,400 --> 00:13:41,280
-C'est un cérémonial, mais bon, enfin, je n'ai pas pu enregistrer.
-
-264
-00:13:41,920 --> 00:13:44,140
-J'ai pu connaître l'abbé de Montserrat,
-
-265
-00:13:44,260 --> 00:13:46,640
-Je lui ai expliqué très brièvement mon projet.
-
-266
-00:13:46,720 --> 00:13:47,860
-Il m'a souhaité bonne chance.
-
-267
-00:13:48,520 --> 00:13:51,680
-Et puis monter à l'image, à la Vierge de Montserrat.
-
-268
-00:13:52,320 --> 00:13:53,220
-Enfin, je ne sais pas.
-
-269
-00:13:53,520 --> 00:13:58,120
-Sans mots, Xavier a également donné l'histoire visuelle de Montserrat,
-
-270
-00:13:58,180 --> 00:14:00,140
-Cette année, c’est le millénaire de Montserrat.
-
-271
-00:14:00,540 --> 00:14:03,320
-Voilà, des photos, voyons voir ce que donne ce livre.
-
-272
-00:14:03,480 --> 00:14:05,220
-Enfin, sans mots.
-
-273
-00:14:05,980 --> 00:14:07,520
-Maintenant, après ce coup de...
-
-274
-00:14:08,180 --> 00:14:10,900
-spiritualité et catalanité, il est difficile de parler d’argent,
-
-275
-00:14:11,580 --> 00:14:12,780
-Bon, je vais fermer la vidéo.
-
-276
-00:14:13,340 --> 00:14:16,200
-Voir, l'une des raisons pour lesquelles vous pouvez échouer le tour avec un pied
-
-277
-00:14:16,620 --> 00:14:19,040
-Au cas où je serais à court d'argent, c'est clair.
-
-278
-00:14:20,200 --> 00:14:22,060
-Beaucoup me demandent comment ça va se passer.
-
-279
-00:14:22,140 --> 00:14:24,540
-Le financement de cette grande aventure, n’est-ce pas ?
-
-280
-00:14:24,820 --> 00:14:27,440
-Pour commencer, j’aurai mes économies.
-
-281
-00:14:27,480 --> 00:14:31,240
-Je travaille depuis des années et j'ai économisé un peu.
-
-282
-00:14:31,680 --> 00:14:33,440
-Je ne pense pas non plus qu'il y en ait beaucoup, mais bon, j'ai quelque chose.
-
-283
-00:14:34,040 --> 00:14:36,180
-J'ai le partenaire YouTube.
-
-284
-00:14:36,600 --> 00:14:37,340
-Si celui-ci
-
-285
-00:14:37,340 --> 00:14:39,900
-Je suis très intéressé et je regarde beaucoup de vidéos.
-
-286
-00:14:40,040 --> 00:14:43,480
-YouTube me donne une petite somme pour chaque vidéo
-
-287
-00:14:43,480 --> 00:14:45,440
-et, bien, tout est somme. Sera-ce suffisant?
-
-288
-00:14:45,540 --> 00:14:46,880
-On verra, ça dépend
-
-289
-00:14:47,660 --> 00:14:48,860
-Regardez les vidéos ou pas.
-
-290
-00:14:49,180 --> 00:14:50,580
-Partage.
-
-291
-00:14:50,800 --> 00:14:53,720
-Partagez mes vidéos avec vos amis et votre famille
-
-292
-00:14:53,720 --> 00:14:55,060
-Pour que tout cela monte.
-
-293
-00:14:55,660 --> 00:14:59,040
-Ensuite, j'ai, bien sûr, la bourse de la Generalitat.
-
-294
-00:14:59,200 --> 00:15:01,240
-Pour ceux qui ne le savent pas, la Generalitat de Catalunya
-
-295
-00:15:01,240 --> 00:15:03,300
-m'a donné une bourse de propulsion, qui est appelé,
-
-296
-00:15:04,060 --> 00:15:06,940
-qui est une bourse pour les créateurs de contenu qui font des vidéos en catalan.
-
-297
-00:15:07,340 --> 00:15:10,580
-Il y a beaucoup de projets, il y a 39 autres boursiers, à part moi,
-
-298
-00:15:11,200 --> 00:15:16,820
-et des projets de jardin, société, humour, cuisine ont été présentés,
-
-299
-00:15:18,340 --> 00:15:19,560
-Catalogne, fêtes, beaucoup de choses,
-
-300
-00:15:20,760 --> 00:15:21,120
-Footballeur...
-
-301
-00:15:21,700 --> 00:15:24,360
-Et j’ai présenté un projet, donc celui-ci, celui du tour du monde à pied.
-
-302
-00:15:24,900 --> 00:15:26,080
-J'aimerais que ce soit clair
-
-303
-00:15:27,060 --> 00:15:28,660
-que la Generalitat ne me paye pas la fête,
-
-304
-00:15:28,820 --> 00:15:30,700
-Je ne suis pas payé pour faire le tour du monde à pied.
-
-305
-00:15:30,820 --> 00:15:31,560
-La généralité me paye
-
-306
-00:15:32,340 --> 00:15:34,640
-Faire des vidéos en catalan.
-
-307
-00:15:34,640 --> 00:15:39,120
-Et c'est ce qui me paye, je veux dire, ne pensez pas ici que tel,
-
-308
-00:15:39,220 --> 00:15:42,860
-Je dois faire un travail, c'est-à-dire que je vais passer des heures tous les jours à éditer les vidéos
-
-309
-00:15:42,860 --> 00:15:44,760
-pour que vous puissiez les voir,
-
-310
-00:15:44,860 --> 00:15:47,920
-C’est pour cela que je reçois cette bourse de la Generalitat,
-
-311
-00:15:48,540 --> 00:15:51,980
-10 000 euros, qui vont à l'IRPP,
-
-312
-00:15:52,060 --> 00:15:53,760
-Ils sont environ 8000,
-
-313
-00:15:54,740 --> 00:15:58,960
-et beaucoup m'ont dit, mec, 8000, 10.000 euros ne viennent pas pour 3 ans,
-
-314
-00:15:59,060 --> 00:16:02,880
-C'est un montant très généreux, je remercie la Generalitat pour cela,
-
-315
-00:16:02,880 --> 00:16:05,240
-Mais je n'y arrive pas avant 3 ans.
-
-316
-00:16:05,820 --> 00:16:07,940
-Ce que j’ai fait, c’est m’ouvrir le robinet.
-
-317
-00:16:08,600 --> 00:16:10,860
-La robinetterie est une plateforme de microfinancement
-
-318
-00:16:11,340 --> 00:16:14,060
-Vous pouvez faire des versements mensuels
-
-319
-00:16:14,060 --> 00:16:15,660
-Un créateur qui vous plaît,
-
-320
-00:16:16,800 --> 00:16:20,460
-et donc, pour le soutenir, ce micro-mécénat, comme un Patreon,
-
-321
-00:16:20,660 --> 00:16:23,300
-Je ne sais pas si vous connaissez le Patreon, donc le même, mais en catalan.
-
-322
-00:16:23,320 --> 00:16:25,140
-Le chanteur Cesc Freixas.
-
-323
-00:16:25,560 --> 00:16:27,080
-Il m'a contacté et m'a dit,
-
-324
-00:16:27,140 --> 00:16:29,600
-hey, vous pourriez le faire. Et oui, oui.
-
-325
-00:16:30,880 --> 00:16:32,600
-Si vous avez une cotisation mensuelle,
-
-326
-00:16:32,600 --> 00:16:35,300
-Vous pouvez aller sur ce site et le voir ici.
-
-327
-00:16:35,960 --> 00:16:38,440
-Donc, en guise de remerciement, ce bruit, je ne sais pas ce que c'est,
-
-328
-00:16:38,480 --> 00:16:40,280
-En guise de remerciement pour cette contribution,
-
-329
-00:16:40,440 --> 00:16:41,900
-Je vous enverrai une carte postale.
-
-330
-00:16:42,360 --> 00:16:47,120
-Je vous enverrai une carte postale de là où je suis, chez vous.
-
-331
-00:16:47,220 --> 00:16:48,780
-Si je suis en France, alors en France.
-
-332
-00:16:48,800 --> 00:16:52,620
-Si je suis en Croatie, au Népal, en Australie,
-
-333
-00:16:52,860 --> 00:16:55,400
-Je t'envoie une carte postale pour te remercier.
-
-334
-00:16:55,820 --> 00:16:57,580
-Manuscrit par moi, je le sais.
-
-335
-00:16:57,660 --> 00:17:00,900
-Si vous voulez les collectionner et les avoir toutes, n'hésitez pas,
-
-336
-00:17:00,900 --> 00:17:02,580
-Et ça commence dès maintenant.
-
-337
-00:17:02,600 --> 00:17:03,420
-Et que vous ayez un bon début dès maintenant,
-
-338
-00:17:03,480 --> 00:17:07,240
-Parce que, bien sûr, quand je serai au 3ème mois, je vous enverrai un tous les mois.
-
-339
-00:17:07,400 --> 00:17:10,280
-Quand je serai au 3ème mois, car celles du 1er mois, je ne les puis plus,
-
-340
-00:17:10,720 --> 00:17:11,740
-Je ne peux plus les envoyer.
-
-341
-00:17:11,860 --> 00:17:13,720
-Et qui sait si un jour ça vaut le coup.
-
-342
-00:17:14,360 --> 00:17:16,740
-Eh bien, il reste 5 jours pour le retour avec un pied,
-
-343
-00:17:17,280 --> 00:17:20,260
-C'est la dernière vidéo que j'ai faite avant de me lancer dans cette aventure.
-
-344
-00:17:21,020 --> 00:17:24,040
-Si vous voulez venir me dire au revoir, à midi,
-
-345
-00:17:24,600 --> 00:17:27,580
-Dimanche 30 novembre, place de Catalogne à Barcelone.
-
-346
-00:17:28,360 --> 00:17:30,940
-Vous êtes tous invités. À la prochaine.
-
-347
-00:17:34,140 --> 00:17:35,100
-Jusqu'à la prochaine.
+00:08:49,000 --> 00:08:51,000
+Au revoir, au revoir!
