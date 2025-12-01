@@ -1,459 +1,1479 @@
 1
-00:00:00,000 --> 00:00:01,000
-.
+00:00:00,000 --> 00:00:04,120
+A ver, senderismo.
 
 2
-00:00:30,000 --> 00:00:56,660
-La vuelta al mundo a pie, día 1. Un aplauso.
+00:00:06,300 --> 00:00:07,160
+Vale, play.
 
 3
-00:01:00,000 --> 00:01:08,600
-Muchas gracias por venir. ¿Cuántos calculáis que somos, más o menos? No lo sé.
+00:00:08,260 --> 00:00:10,480
+Oficialmente empieza la vuelta al mundo a pie.
 
 4
-00:01:10,760 --> 00:01:15,300
-60? No me lo esperaba, la verdad.
+00:00:10,920 --> 00:00:11,040
+Venga.
 
 5
-00:01:15,800 --> 00:01:19,700
-Día 1, hoy es día 30, ¿verdad? 30 de noviembre.
+00:00:11,600 --> 00:00:12,200
+Adiós.
 
 6
-00:01:20,940 --> 00:01:26,340
-Empiezo la vuelta al mundo a pie, que en principio me durará unos 3 años
+00:00:12,480 --> 00:00:15,280
+Hasta el año que viene.
 
 7
-00:01:26,340 --> 00:01:29,940
-y cruzaré 4 o 5 continentes.
+00:00:15,560 --> 00:00:16,700
+Hasta otra si bien.
 
 8
-00:01:30,000 --> 00:01:34,060
-Y caminaré un mínimo de 26.232 kilómetros.
+00:00:18,120 --> 00:00:18,920
+Adiós, adiós.
 
 9
-00:01:34,720 --> 00:01:39,280
-Aquí tengo un mapa de la ruta que metí.
+00:00:27,380 --> 00:00:27,980
+Adiós.
 
 10
-00:01:40,260 --> 00:01:41,520
-Siempre lo trav al revés.
+00:00:28,400 --> 00:00:28,920
+Adiós.
 
 11
-00:01:43,900 --> 00:01:48,920
-Ahora, en principio, no me inclino demasiado por hacer esta que tracé aquí.
+00:00:28,920 --> 00:00:29,800
+Adiós.
 
 12
-00:01:50,320 --> 00:01:51,540
-Pero ya veremos.
+00:00:30,000 --> 00:00:30,480
+Adiós.
 
 13
-00:01:53,200 --> 00:01:56,280
-Empezaré por Catalunya y subiré hasta Francia.
+00:00:33,920 --> 00:00:40,360
+Muy bien, pues ya he salido, mucha más gente de la esperada.
 
 14
-00:01:57,640 --> 00:01:59,280
-Después al norte de Italia, donde yo creo que pasaré...
+00:00:40,420 --> 00:00:44,000
+Yo contaba máximo 50 personas y hemos sido 120.
 
 15
-00:02:00,000 --> 00:02:01,000
-...un poco de frío.
+00:00:44,160 --> 00:00:46,520
+Me han dicho que alguien los ha contado y éramos 120 o así.
 
 16
-00:02:02,380 --> 00:02:06,080
-Después, para evitar el frío, no pasaré por Serbia, sino que iré por la costa del Adriático.
+00:00:47,340 --> 00:00:50,280
+Ahora me acompaña Jordi, un antiguo compañero de trabajo
 
 17
-00:02:06,900 --> 00:02:10,200
-Después, atravesaré los Balcanes por Grecia, la zona de Meteora.
+00:00:50,280 --> 00:00:53,020
+que vive en Sant Adrià del Besòs y, bueno, es donde vamos.
 
 18
-00:02:11,060 --> 00:02:14,500
-Y luego entraré en Turquía hasta Estambul, que será el final de Europa.
+00:00:53,160 --> 00:00:56,240
+Vamos en dirección a Sant Adrià del Besòs y me acompaña un tramo.
 
 19
-00:02:15,420 --> 00:02:20,040
-Después, bordearé la costa norte del Mar Negro hasta Gorgia.
+00:00:56,820 --> 00:00:59,500
+En fin, todavía un poco en shock.
 
 20
-00:02:20,700 --> 00:02:23,760
-Y ahí es cuando empieza un poco la zona más variable.
+00:01:00,000 --> 00:01:04,880
+Pero bueno, mira, ahora vamos por la costa, hemos dicho, que es un poco más bonito.
 
 21
-00:02:23,760 --> 00:02:28,140
-Pero, a decir, ahora me inclino a la siguiente ruta, que sería atravesar hacia Azerbaiyan,
+00:01:05,680 --> 00:01:09,340
+Ahora mismo en la catedral del mar, en el Fossar, ¿cómo se llama esto?
 
 22
-00:02:28,140 --> 00:02:32,640
-tomar un ferry atravesando el marco Caspio hasta Kazakstán.
+00:01:09,380 --> 00:01:10,120
+El Fossar de les Moreres.
 
 23
-00:02:32,640 --> 00:02:38,440
-Tras cruzar al Uzbekistán, Tayikistán, un pequeño tramo en China,
+00:01:10,200 --> 00:01:10,880
+Fossar de les Moreres.
 
 24
-00:02:38,440 --> 00:02:42,640
-entrar en la carretera del Karakorum por la frontera de Pakistán,
+00:01:11,620 --> 00:01:11,900
+Aquí.
 
 25
-00:02:42,640 --> 00:02:45,640
-la frontera más alta del mundo, y bajar hasta Islamabad.
+00:01:13,000 --> 00:01:14,320
+En fin, no sé muy bien qué decir, ¿eh?
 
 26
-00:02:45,640 --> 00:02:48,140
-Luego cruzar por Lahore la frontera con India.
+00:01:14,400 --> 00:01:16,740
+Pero muchas gracias a todos los que habéis venido.
 
 27
-00:02:48,140 --> 00:02:53,140
-En la India subir por los Himalayas y entrar en Nepal, cruzar todo el Nepal.
+00:01:20,220 --> 00:01:22,120
+Uy, uy, uy, perdón.
 
 28
-00:02:53,140 --> 00:02:58,000
-Entrar un día en la India, entrar en Bangladesh, y en Dhaka, la capital de Bangladesh,
+00:01:22,260 --> 00:01:23,780
+No, no, no, no, no, no quería, ¿eh?
 
 29
-00:02:58,000 --> 00:03:01,000
-Coger un avión hasta el norte de Tailandia.
+00:01:23,800 --> 00:01:23,900
+No.
 
 30
-00:03:01,000 --> 00:03:05,000
-Después caminar hasta Singapur, pasando por Malasia.
+00:01:24,880 --> 00:01:25,660
+Era broma, era broma.
 
 31
-00:03:05,000 --> 00:03:11,000
-Y luego un avión a Australia y o Nueva Zelanda, Nueva Zelanda aquí abajo.
+00:01:26,720 --> 00:01:27,720
+Pues ya hemos llegado a la playa.
 
 32
-00:03:11,000 --> 00:03:15,000
-Y luego, en principio, tomaré un avión hasta Norteamérica,
+00:01:27,720 --> 00:01:28,960
+Al final se ha quedado un buen día.
 
 33
-00:03:15,000 --> 00:03:21,000
-donde cruzaré desde el Pacífico hasta el Atlántico, no sé todavía por qué país, pero bueno, por ahí.
+00:01:28,960 --> 00:01:31,420
+Tenía que llover, y no ha llovido.
 
 34
-00:03:21,000 --> 00:03:28,000
-Y después cogería otro avión hasta Colombia, donde bajaría por los Andes.
+00:01:32,160 --> 00:01:35,700
+Llevamos apenas 3,40 km.
 
 35
-00:03:28,000 --> 00:03:33,000
-Pasando por Ecuador, Perú, el desierto de Atacama, la zona más árida del mundo,
+00:01:36,780 --> 00:01:38,540
+53 minutos, somos un poco lentos, pero bien.
 
 36
-00:03:33,000 --> 00:03:36,000
-hasta Santiago de Chile, donde cruzaría los Andes,
+00:01:39,000 --> 00:01:39,900
+Playa del Bogatell.
 
 37
-00:03:36,000 --> 00:03:44,000
-hasta Buenos Aires, Argentina, donde cogería otro avión hasta Santiago de Compostela
+00:01:40,340 --> 00:01:41,960
+Chiringuitos llenos y hay hambre.
 
 38
-00:03:44,000 --> 00:03:48,000
-para hacer el camino de Santiago en sentido inverso hasta el Punto de Inicio y Final,
+00:01:42,020 --> 00:01:42,440
+¿Qué hora es?
 
 39
-00:03:48,000 --> 00:03:50,000
-la plaza Catalunya de Barcelona.
+00:01:42,600 --> 00:01:43,540
+Casi las dos, ¿no?
 
 40
-00:03:50,000 --> 00:03:56,000
-El equipaje, muy importante. Os enseñé un equipaje de 7 kilos. Bueno, ha aumentado un poco.
+00:01:44,180 --> 00:01:47,060
+Pero no pararé, no pararé, porque hoy tengo que ir hasta Mataró.
 
 41
-00:03:56,000 --> 00:04:02,000
-Y, pues bien, vamos a pesar la mochila. Ahora hay la comida, tipo un kilo y pico de comida,
+00:01:47,280 --> 00:01:48,060
+Luego os cuento.
 
 42
-00:04:02,000 --> 00:04:06,000
-y ya también el agua, también un litro y pico. Veamos.
+00:01:48,960 --> 00:01:49,880
+Playa de la Mar Vella.
 
 43
-00:04:09,000 --> 00:04:14,000
-A ver, por favor, testigo, yo creo que pesa unos 10 y pico.
+00:01:50,520 --> 00:01:52,260
+Esto está en obras, y nos han hecho desviar por aquí,
 
 44
-00:04:19,000 --> 00:04:21,000
-Ahora toma un tiempo para calcular.
+00:01:52,340 --> 00:01:54,120
+casi, casi me meto dentro de la arena.
 
 45
-00:04:22,000 --> 00:04:24,000
-¿Qué mete? 10 kilos 79.
+00:01:54,260 --> 00:01:54,860
+Suerte que no, ¿eh?
 
 46
-00:04:24,000 --> 00:04:26,000
-A las 11, bueno.
+00:01:54,880 --> 00:01:55,760
+Porque todavía...
 
 47
-00:04:28,000 --> 00:04:32,000
-Si alguien me quiere acompañar a un tramo, pues podemos ir hasta la plaza Sant Jaume
+00:01:55,760 --> 00:01:57,020
+¿Me baño o qué?
 
 48
-00:04:32,000 --> 00:04:34,000
-Y luego, ya, seguiré.
+00:01:57,020 --> 00:01:58,120
+No, primer día.
 
 49
-00:04:34,000 --> 00:04:37,000
-Ah, un tema muy importante. El tema de los jabalíes. No sé si os habéis enterado.
+00:01:58,120 --> 00:01:58,940
+No hace mucho frío.
 
 50
-00:04:37,000 --> 00:04:42,000
-Hay una especie de plaga de peste porcina, no sé cómo le llaman,
+00:01:58,960 --> 00:01:59,960
+No hace mucho frío, ¿eh?
 
 51
-00:04:42,000 --> 00:04:46,000
-y está cerrado. Collserola, y digo, bueno, Collserola, no pasa nada,
+00:02:05,140 --> 00:02:07,140
+Hemos llegado al Fòrum.
 
 52
-00:04:46,000 --> 00:04:48,000
-Porque, en total, no voy por Collserola.
+00:02:07,920 --> 00:02:11,340
+A punto de acabar ya Barcelona y entrar en Sant Adrià.
 
 53
-00:04:48,000 --> 00:04:53,000
-Mi intención, spoiler, era acampar en la sierra de Marina, en la zona de Tiana,
+00:02:12,340 --> 00:02:14,340
+Oficialmente he salido de Barcelona.
 
 54
-00:04:53,000 --> 00:04:57,000
-un poco más hacia arriba, había una zona que me parecía plana, digo, voy allí.
+00:02:15,720 --> 00:02:18,120
+Hasta dentro de tres años, si todo va bien.
 
 55
-00:04:58,000 --> 00:05:03,000
-Hay uno, hay ermitas, hay historias, hay una hípica, y digo, bueno,
+00:02:18,300 --> 00:02:21,880
+Podría decir que ha sido un placer, pero bueno, ha sido corto.
 
 56
-00:05:03,000 --> 00:05:08,000
-Pues, hoy, me envía un mensaje esta mañana a Jordi, que no sé dónde está,
+00:02:22,480 --> 00:02:24,800
+Ahora vamos dirección Maresme.
 
 57
-00:05:08,000 --> 00:05:11,000
-Por aquí, por allá, por allá.
+00:02:25,320 --> 00:02:28,120
+Y desde aquí ya veo las famosas tres Chimeneas
 
 58
-00:05:12,000 --> 00:05:16,000
-El oficial, ¿no?, dice, en Collserola no se puede entrar, pero también hay restricciones
+00:02:28,120 --> 00:02:30,120
+El Incinerador de la Ciudad.
 
 59
-00:05:16,000 --> 00:05:21,000
-a todos estos municipios, y eran todos los que era posible de esta zona.
+00:02:30,400 --> 00:02:32,400
+Veremos mejores paisajes, os lo prometo.
 
 60
-00:05:21,000 --> 00:05:22,000
-Por lo tanto, cambiemos.
+00:02:33,400 --> 00:02:34,400
+Si vas a mi canal de YouTube,
 
 61
-00:05:22,000 --> 00:05:25,000
-Por lo tanto, cambio de planes, no pasa nada, no pasa nada.
+00:02:34,400 --> 00:02:37,400
+tenéis unos vídeos en los que atravieso el área metropolitana de Barcelona
 
 62
-00:05:25,000 --> 00:05:28,000
-También había muchos días para enfermar a los malditos cerdos,
+00:02:37,400 --> 00:02:41,400
+de punta a punta, desde el extremo este hasta el extremo oeste.
 
 63
-00:05:28,000 --> 00:05:30,000
-y han escogido hoy, ¿no?, pues, bueno, bien.
+00:02:41,400 --> 00:02:43,400
+Y yo pensaba que pasaría por el mismo trozo,
 
 64
-00:05:30,000 --> 00:05:33,000
-Pero, bueno, como mínimo no llueve, que tenía que llover hoy, y no llueve,
+00:02:43,400 --> 00:02:46,400
+que es justo allí, que lo estoy viendo, pero no.
 
 65
-00:05:33,000 --> 00:05:34,000
-Así que ya está bien.
+00:02:46,400 --> 00:02:49,400
+No sabía que aquí había un paseo, que es bastante más agradable.
 
 66
-00:05:34,000 --> 00:05:38,000
-Y, entonces, lo que haré será ir andando hasta Mataró,
+00:02:49,400 --> 00:02:51,400
+Entonces es una parte nueva para mí.
 
 67
-00:05:38,000 --> 00:05:42,000
-y dormiré en casa de mi tía, que vive en Mataró, y ya está.
+00:02:51,400 --> 00:02:57,400
+14.30, las dos y media, dejamos atrás Sant Adrià del Besòs.
 
 68
-00:05:42,000 --> 00:05:45,000
-Ya está, ya está.
+00:02:58,120 --> 00:03:00,120
+Y entramos en Badalona. Esto es el Besòs.
 
 69
-00:05:45,000 --> 00:05:51,000
-Mañana, mañana, si conectáis a las 12 y pico de la mañana en TV3, los de Tot es Mou,
+00:03:00,120 --> 00:03:02,120
+No, no, no. Estamos cruzando el Besòs.
 
 70
-00:05:51,000 --> 00:05:55,000
-todo se Mueve querían venir en directo a hacerme como una entrevista allí,
+00:03:02,120 --> 00:03:04,120
+No dejamos atrás aún Sant Adrià.
 
 71
-00:05:55,000 --> 00:05:57,000
-llevando un equipo allí, la tele,
+00:03:04,120 --> 00:03:06,120
+Hasta que no pases las Torres, no dejes Sant Adrià.
 
 72
-00:05:57,000 --> 00:06:00,000
-y les dije que nos encontraríamos en Orrius.
+00:03:06,120 --> 00:03:08,120
+Ah, no lo sabía, no lo sabía.
 
 73
-00:06:00,000 --> 00:06:05,000
-Claro, ahora no me viene bien, porque si estoy en Mataró, entonces, no sé,
+00:03:08,120 --> 00:03:11,120
+Pues nada, Besós sólo.
 
 74
-00:06:05,000 --> 00:06:08,000
-No sé donde quedaremos, pero, bueno, a las 12 y pico, mañana, por TV3.
+00:03:11,120 --> 00:03:14,120
+¡Adiós! ¡Adiós, Jordi! ¡Adiós!
 
 75
-00:06:08,000 --> 00:06:12,000
-Recibí otro mensaje, ayer, que me querían encontrar por la tarde los de La Selva,
+00:03:14,120 --> 00:03:16,120
+Gracias por acompañarme Jordi,
 
 76
-00:06:12,000 --> 00:06:13,000
-Este es el programa de la tarde.
+00:03:16,120 --> 00:03:18,120
+a enseñarme estos lugares nuevos,
 
 77
-00:06:13,000 --> 00:06:15,000
-Yo les dije, hombre, quieres decir que no...
+00:03:18,120 --> 00:03:20,120
+De lo contrario, habría ido por la zona del polígono.
 
 78
-00:06:15,000 --> 00:06:19,000
-Demasiado Enric Adventures en TV3, que no os cansáis de mí?
+00:03:20,120 --> 00:03:24,120
+Bueno, pues ahora sí, ya estoy solo.
 
 79
-00:06:19,000 --> 00:06:20,000
-No lo sé, al final, no. No sé cómo ha quedado.
+00:03:24,120 --> 00:03:27,120
+De aquí hasta mucho tiempo.
 
 80
-00:06:21,000 --> 00:06:24,000
-También me querían de la SER, me querían mañana en el Desperta Carreras a las...
+00:03:28,120 --> 00:03:31,120
+Son precisamente las 14.40
 
 81
-00:06:24,000 --> 00:06:26,000
-Da igual.
+00:03:31,120 --> 00:03:34,120
+y quedan unos 24-23 km hasta Mataró.
 
 82
-00:06:26,000 --> 00:06:29,000
-Despierta Carreras a las ocho y veinte.
+00:03:34,120 --> 00:03:36,120
+No está mal.
 
 83
-00:06:29,000 --> 00:06:33,000
-¿Y qué más, poca cosa más? ¿Alguna pregunta?
+00:03:36,120 --> 00:03:40,120
+Llegaré bien entrada la noche, o bien, la tarde,
 
 84
-00:06:33,000 --> 00:06:35,000
-Que tengas suerte, Enric. Muchas gracias.
+00:03:40,120 --> 00:03:42,120
+que estará bien oscuro. Por lo tanto, yo creo que tendré que caminar
 
 85
-00:06:35,000 --> 00:06:39,000
-¿Cómo editas los vídeos? Porque no tienes un laptop aquí, ¿no?
+00:03:42,120 --> 00:03:44,120
+una hora y pica en oscuridad.
 
 86
-00:06:39,000 --> 00:06:40,000
-Lo grabo y lo edito con el móvil.
+00:03:44,120 --> 00:03:46,120
+Pero bueno, es todo el litoral.
 
 87
-00:06:40,000 --> 00:06:42,000
-Con el móvil, también. Sí, todo con el móvil.
+00:03:46,120 --> 00:03:49,120
+Por lo tanto, en principio estará iluminado con faroles y tal.
 
 88
-00:06:42,000 --> 00:06:47,000
-A ver, que levante la mano quien sea familia. Por aquí.
+00:03:49,120 --> 00:03:51,120
+Atención, que hay uno que...
 
 89
-00:06:47,000 --> 00:06:51,000
-Que levante la mano compañeros o antiguos compañeros de trabajo.
+00:03:51,120 --> 00:03:53,120
+que se ha parado y me ha saludado con el coche.
 
 90
-00:06:51,000 --> 00:06:55,000
-Aquí, allá. Muy bien.
+00:03:53,120 --> 00:03:55,120
+Vamos a ver quién es. ¡Hola!
 
 91
-00:06:55,000 --> 00:07:00,000
-Gente de Esplugues.
+00:03:55,120 --> 00:03:56,120
+¡Hola Enrique!
 
 92
-00:07:00,000 --> 00:07:03,000
-Baix Llobregat.
+00:03:56,120 --> 00:03:59,120
+Ah, me has venido persiguiendo.
 
 93
-00:07:03,000 --> 00:07:11,000
-Muy bien. Terraza.
+00:03:59,120 --> 00:04:01,120
+No, no, no.
 
 94
-00:07:11,000 --> 00:07:15,000
-Gente de Lleida. ¿Que ha venido gente de Lleida? Algunos.
+00:04:01,120 --> 00:04:03,120
+Pasaba por aquí porque vivo aquí.
 
 95
-00:07:15,000 --> 00:07:20,000
-Pallars Sobirà. Ostras. ¿Alguien de Tor? ¿Hay alguien de Tor?
+00:04:03,120 --> 00:04:05,120
+Por casualidad. E ibas mirando a ver si me encontrabas, ¿no?
 
 96
-00:07:21,000 --> 00:07:23,000
-.
+00:04:05,120 --> 00:04:07,120
+Muy bien. ¿Cómo te llamas?
 
 97
-00:07:23,000 --> 00:07:27,000
-Tarragona. Tarragona. Los únicos valientes, ¿eh?
+00:04:07,120 --> 00:04:09,120
+Yo soy Paco Cadenas.
 
 98
-00:07:27,000 --> 00:07:31,000
-Y Girona. Nadie. ¿Por aquí?
+00:04:09,120 --> 00:04:11,120
+Paco Cadenas, me suena tu nombre, ¿verdad?
 
 99
-00:07:31,000 --> 00:07:33,000
-Que si irás a buscar setas.
+00:04:11,120 --> 00:04:13,120
+Me saludaste.
 
 100
-00:07:33,000 --> 00:07:35,000
-¿Que si iré a buscar setas?
+00:04:13,120 --> 00:04:16,120
+Hoy, una ensalada rusa,
 
 101
-00:07:35,000 --> 00:07:38,000
-Me han dicho que hay un níscalo en México que es de color azul.
+00:04:16,120 --> 00:04:19,120
+que tenía que ser mi cena, pero bueno,
 
 102
-00:07:38,000 --> 00:07:40,000
-El níscalo índigo. Totalmente índigo.
+00:04:19,120 --> 00:04:22,120
+como cenaré en casa, después os cuento,
 
 103
-00:07:40,000 --> 00:07:42,000
-Bueno, no lo sé.
+00:04:22,120 --> 00:04:24,120
+me lo como ahora.
 
 104
-00:07:42,000 --> 00:07:47,000
-Muy bien. Gracias, gracias.
+00:04:24,120 --> 00:04:26,120
+Muy bien, ya he comido.
 
 105
-00:07:47,000 --> 00:07:49,000
-Gracias, gracias, gracias.
+00:04:26,120 --> 00:04:29,120
+Pasando por aquí, por la Fábrica de anís del Mono.
 
 106
-00:07:49,000 --> 00:07:50,000
-Muy bien, muy bien, muy bien.
+00:04:29,120 --> 00:04:31,120
+Tengo que explicaros algo muy importante.
 
 107
-00:07:51,000 --> 00:08:03,000
-Un momento, ¿eh?
+00:04:31,120 --> 00:04:33,120
+Antes os he dicho que iba hasta Mataró, ¿no?
 
 108
-00:08:03,000 --> 00:08:10,000
-Voy al vídeo.
+00:04:33,120 --> 00:04:35,120
+A dormir en casa de no sé quién.
 
 109
-00:08:10,000 --> 00:08:14,000
-A ver. Senderismo.
+00:04:35,120 --> 00:04:37,120
+Bueno, a ver, esto os lo tengo que explicar bien,
 
 110
-00:08:14,000 --> 00:08:17,000
-Ahora está cogiendo la señal de GPS.
+00:04:37,120 --> 00:04:39,120
+porque claro, muchos veréis el vídeo ahora,
 
 111
-00:08:17,000 --> 00:08:19,000
-¡Bien! Play.
+00:04:39,120 --> 00:04:41,120
+es decir, esta semana que lo estoy grabando,
 
 112
-00:08:19,000 --> 00:08:21,000
-y finalmente empieza la vuelta al mundo a pie.
+00:04:41,120 --> 00:04:45,120
+pero otros lo veréis de aquí semanas, meses o años
 
 113
-00:08:22,000 --> 00:08:24,000
-¡Nervidos!
+00:04:45,120 --> 00:04:47,120
+después de haberlo subido.
 
 114
-00:08:35,000 --> 00:08:37,000
-¡Adiós, adiós!
+00:04:47,120 --> 00:04:49,120
+Pues bien, resulta que hay un brote
 
 115
-00:08:49,000 --> 00:08:51,000
-¡Adiós, adiós!
+00:04:49,120 --> 00:04:51,120
+de peste porcina africana, o algo así,
+
+116
+00:04:51,120 --> 00:04:53,120
+que afecta a jabalíes que han encontrado en Cerdanyola.
+
+117
+00:04:54,120 --> 00:04:56,120
+¿Y qué?
+
+118
+00:04:56,120 --> 00:04:58,120
+Pues que resulta que esta peste porcina,
+
+119
+00:04:58,120 --> 00:05:02,120
+si se expande a las granjas de cerdos normales,
+
+120
+00:05:02,120 --> 00:05:04,120
+pues se han de sacrificar todos los cerdos
+
+121
+00:05:04,120 --> 00:05:06,120
+No son aptos para el consumo.
+
+122
+00:05:06,120 --> 00:05:08,120
+Entonces, claro, las autoridades están intentando
+
+123
+00:05:08,120 --> 00:05:10,120
+contener mucho este brote y que solo sea
+
+124
+00:05:10,120 --> 00:05:13,120
+muy concentrado en la zona esta de Collserola,
+
+125
+00:05:13,120 --> 00:05:15,120
+Están poniendo muchas restricciones.
+
+126
+00:05:15,120 --> 00:05:17,120
+En Collserola no se puede pasar.
+
+127
+00:05:17,120 --> 00:05:19,120
+Yo no iba a Collserola.
+
+128
+00:05:19,120 --> 00:05:21,120
+Pero han puesto restricciones más limitadas,
+
+129
+00:05:21,120 --> 00:05:23,120
+Pero también se han metido en la zona
+
+130
+00:05:23,120 --> 00:05:25,120
+de la cordillera de Marina,
+
+131
+00:05:25,120 --> 00:05:27,120
+que es de esta cordillera que veis aquí al fondo.
+
+132
+00:05:27,120 --> 00:05:29,120
+Y aquí es donde quería acampar yo.
+
+133
+00:05:29,120 --> 00:05:31,120
+Y dirás, hombre, Enric, si tú tienes una tía en Mataró,
+
+134
+00:05:31,120 --> 00:05:33,120
+¿Por qué no te has planteado directamente
+
+135
+00:05:33,120 --> 00:05:35,120
+¿Vamos a matar, no?
+
+136
+00:05:35,120 --> 00:05:37,120
+Por supuesto, mi idea era que, ya que este era
+
+137
+00:05:37,120 --> 00:05:39,120
+El primer vídeo, quería que quedara,
+
+138
+00:05:39,120 --> 00:05:41,120
+entre comillas, épico, ¿no?, un poco,
+
+139
+00:05:41,120 --> 00:05:43,120
+Terminamos con una acampada
+
+140
+00:05:43,120 --> 00:05:45,120
+para dejar claro que mi intención
+
+141
+00:05:45,120 --> 00:05:47,120
+es ir acampando a la vuelta del mundo.
+
+142
+00:05:47,120 --> 00:05:49,120
+Pero bueno, en fin, no es posible,
+
+143
+00:05:49,120 --> 00:05:51,120
+porque han restringido el acceso y tal.
+
+144
+00:05:51,120 --> 00:05:52,120
+¿Y por qué?
+
+145
+00:05:52,120 --> 00:05:54,120
+Pues mira, si yo sin quererlo,
+
+146
+00:05:54,120 --> 00:05:56,120
+cogiera es una garrapata, o un lugar donde haya estado
+
+147
+00:05:56,120 --> 00:05:58,120
+uno de estos puertos infectados,
+
+148
+00:05:58,120 --> 00:06:00,120
+yo podría ir transportando
+
+149
+00:06:00,120 --> 00:06:02,120
+esta enfermedad hacia otro lugar
+
+150
+00:06:02,120 --> 00:06:04,120
+y quizás ir transmitiendo, porque es muy infecciosa,
+
+151
+00:06:04,120 --> 00:06:06,120
+hacia otras zonas.
+
+152
+00:06:06,120 --> 00:06:08,120
+Y claro, eso es peligroso. A ver, yo sinceramente
+
+153
+00:06:08,120 --> 00:06:10,120
+podría ir allí,
+
+154
+00:06:10,120 --> 00:06:12,120
+acampar un poco en un bosque,
+
+155
+00:06:12,120 --> 00:06:14,120
+sin adentrarme mucho,
+
+156
+00:06:14,120 --> 00:06:16,120
+y ya está.
+
+157
+00:06:18,120 --> 00:06:20,120
+Gracias.
+
+158
+00:06:20,120 --> 00:06:22,120
+No te preocupes. Muchas gracias.
+
+159
+00:06:22,120 --> 00:06:24,120
+Esta mañana. ¿Esta mañana? Sí.
+
+160
+00:06:24,120 --> 00:06:26,120
+Muchas gracias.
+
+161
+00:06:26,120 --> 00:06:28,120
+Adiós.
+
+162
+00:06:30,120 --> 00:06:32,120
+Pues bien, lo que os decía, yo podría ir allí y acampar
+
+163
+00:06:32,120 --> 00:06:34,120
+y yo creo que no pasaría nada. Pero, como
+
+164
+00:06:34,120 --> 00:06:36,120
+me seguís muchas personas y quiero ser un
+
+165
+00:06:36,120 --> 00:06:38,120
+modelo a seguir, entre comillas,
+
+166
+00:06:38,120 --> 00:06:40,120
+pues vamos a hacerlo bien, vamos a hacerlo legal,
+
+167
+00:06:40,120 --> 00:06:42,120
+no vamos a liarla,
+
+168
+00:06:42,120 --> 00:06:44,120
+entonces lo haré bien y no iré por la
+
+169
+00:06:44,120 --> 00:06:46,120
+de esta zona que está restringida.
+
+170
+00:06:46,120 --> 00:06:48,120
+Hasta Vilassar existe la restricción hoy.
+
+171
+00:06:48,120 --> 00:06:50,120
+Espero que no se extienda más, porque si no, ¿qué?
+
+172
+00:06:52,120 --> 00:06:54,120
+Muy bien,
+
+173
+00:06:54,120 --> 00:06:56,120
+llegado ya a Montgat,
+
+174
+00:06:56,120 --> 00:06:58,120
+Mucha tranquilidad, un domingo
+
+175
+00:06:58,120 --> 00:07:00,120
+a las cuatro y cuarto de la tarde.
+
+176
+00:07:00,120 --> 00:07:02,120
+Pues bien, ved todos estos chiringuitos
+
+177
+00:07:02,120 --> 00:07:04,120
+y bares y casas que hay aquí delante de la playa?
+
+178
+00:07:04,120 --> 00:07:06,120
+¿Tan bonito, aquí, con la arena?
+
+179
+00:07:06,120 --> 00:07:08,120
+Pues, casi nos quedamos sin.
+
+180
+00:07:08,120 --> 00:07:10,120
+Esta playa, ha ido retrocediendo con el tiempo
+
+181
+00:07:10,120 --> 00:07:12,120
+por culpa de los temporales,
+
+182
+00:07:12,120 --> 00:07:14,120
+Y llegó un punto que casi llegó
+
+183
+00:07:14,120 --> 00:07:16,120
+el agua aquí, en las casas. Y se tuvo que
+
+184
+00:07:16,120 --> 00:07:18,120
+hacer una obra de emergencia. Y aquí
+
+185
+00:07:18,120 --> 00:07:20,120
+Uno de los grandes patrocinadores
+
+186
+00:07:20,120 --> 00:07:22,120
+de la vuelta al mundo a pie,
+
+187
+00:07:22,120 --> 00:07:24,120
+Demeter. La empresa Demeter cogió,
+
+188
+00:07:24,120 --> 00:07:26,120
+y ya os digo, con una actuación de urgencia,
+
+189
+00:07:26,120 --> 00:07:28,120
+Vino aquí, fue
+
+190
+00:07:28,120 --> 00:07:30,120
+poner la escollera aquella que vemos allí,
+
+191
+00:07:30,120 --> 00:07:32,120
+y la que vemos aquí,
+
+192
+00:07:32,120 --> 00:07:34,120
+y protegió
+
+193
+00:07:34,120 --> 00:07:36,120
+esta zona de los temporales. ¿Qué pasa?
+
+194
+00:07:36,120 --> 00:07:38,120
+Meter escollera no es difícil, vienes aquí con una máquina
+
+195
+00:07:38,120 --> 00:07:40,120
+y la vas metiendo. El problema es que
+
+196
+00:07:40,120 --> 00:07:42,120
+Las tierras estaban contaminadas.
+
+197
+00:07:42,120 --> 00:07:44,120
+Antes de esto, las industrias
+
+198
+00:07:44,120 --> 00:07:46,120
+o vertidos o lo que sea,
+
+199
+00:07:46,120 --> 00:07:48,120
+y algunas de las tierras estaban contaminadas, y claro
+
+200
+00:07:48,120 --> 00:07:50,120
+cuando es tierra contaminada no la puedes mezclar
+
+201
+00:07:50,120 --> 00:07:52,120
+con el resto de tierras, porque, en fin,
+
+202
+00:07:52,120 --> 00:07:54,120
+es obligatorio, por normativa,
+
+203
+00:07:54,120 --> 00:07:56,120
+Por lo tanto, excavar de una manera
+
+204
+00:07:56,120 --> 00:07:58,120
+para poder separarlas y que no se
+
+205
+00:07:58,120 --> 00:08:00,120
+mezclar, hacer unos procesos de
+
+206
+00:08:00,120 --> 00:08:02,120
+descontaminación complicados, en fin, una cosa
+
+207
+00:08:02,120 --> 00:08:04,120
+que hay que ser muy especialista,
+
+208
+00:08:04,120 --> 00:08:06,120
+y nada, descontaminaron,
+
+209
+00:08:06,120 --> 00:08:08,120
+metieron esta escollera y, al final,
+
+210
+00:08:08,120 --> 00:08:10,120
+Por lo que se ve, queda
+
+211
+00:08:10,120 --> 00:08:12,120
+una playa bastante bonita, que no había venido
+
+212
+00:08:12,120 --> 00:08:14,120
+desde que no había terminado la obra.
+
+213
+00:08:14,120 --> 00:08:16,120
+Si trabajáis en el mundo de la construcción,
+
+214
+00:08:16,120 --> 00:08:18,120
+cuenta con Demeter
+
+215
+00:08:18,120 --> 00:08:20,120
+por derribos, movimientos de tierras y
+
+216
+00:08:20,120 --> 00:08:22,120
+descontaminaciones. Gracias por patrocinar
+
+217
+00:08:22,120 --> 00:08:24,120
+la vuelta al mundo a pie. Bueno, como os he dicho,
+
+218
+00:08:24,120 --> 00:08:26,120
+Montgat, los confines
+
+219
+00:08:26,120 --> 00:08:28,120
+del área metropolitana de Barcelona,
+
+220
+00:08:28,120 --> 00:08:30,120
+y el siguiente pueblo que es Premià, diría
+
+221
+00:08:30,120 --> 00:08:32,120
+que ya es Maresme. Vaya,
+
+222
+00:08:32,120 --> 00:08:34,120
+pues primero
+
+223
+00:08:34,120 --> 00:08:36,120
+contratiempo del viaje. La pasarela
+
+224
+00:08:36,120 --> 00:08:38,120
+esta tan conveniente está
+
+225
+00:08:38,120 --> 00:08:40,120
+cerrada. Se deberá
+
+226
+00:08:40,120 --> 00:08:42,120
+Destruye alguna parte o algo.
+
+227
+00:08:42,120 --> 00:08:44,120
+Ya, ¿y ahora qué hago?
+
+228
+00:08:44,120 --> 00:08:46,120
+Vuelvo atrás, que es bastante rato,
+
+229
+00:08:46,120 --> 00:08:48,120
+creo, hasta un paso inferior,
+
+230
+00:08:48,120 --> 00:08:50,120
+no lo sé.
+
+231
+00:08:50,120 --> 00:08:52,120
+O voy por ahí.
+
+232
+00:08:52,120 --> 00:08:54,120
+Yo diría que se puede.
+
+233
+00:08:54,120 --> 00:08:56,120
+Lo intentaré.
+
+234
+00:08:56,120 --> 00:08:58,120
+Venga, conseguido.
+
+235
+00:08:58,120 --> 00:09:00,120
+Fácil.
+
+236
+00:09:00,120 --> 00:09:02,120
+Pero la cuentas de seguir por allí,
+
+237
+00:09:02,120 --> 00:09:04,120
+seguir por la rocalla,
+
+238
+00:09:04,120 --> 00:09:06,120
+lo que tengo que hacer es pasar por debajo de las vías del tren
+
+239
+00:09:06,120 --> 00:09:08,120
+y ya
+
+240
+00:09:08,120 --> 00:09:10,120
+Sigo por ahí.
+
+241
+00:09:10,120 --> 00:09:12,120
+Esta carretera
+
+242
+00:09:12,120 --> 00:09:14,120
+que en principio
+
+243
+00:09:14,120 --> 00:09:16,120
+yo espero que tenga una acera
+
+244
+00:09:16,120 --> 00:09:18,120
+y en algún momento me dejen pasar al otro lado.
+
+245
+00:09:18,120 --> 00:09:20,120
+Pues no.
+
+246
+00:09:20,120 --> 00:09:22,120
+No me han dejado
+
+247
+00:09:22,120 --> 00:09:24,120
+cruzar al otro lado.
+
+248
+00:09:24,120 --> 00:09:26,120
+Por cierto, no es Premià, es El Masnou,
+
+249
+00:09:26,120 --> 00:09:28,120
+Entramos ahora. Nada,
+
+250
+00:09:28,120 --> 00:09:30,120
+Pues estoy aquí atrapado en el otro lado. Allí está el paseo.
+
+251
+00:09:30,120 --> 00:09:32,120
+Y estoy atrapado
+
+252
+00:09:32,120 --> 00:09:34,120
+En la Nacional 2.
+
+253
+00:09:34,120 --> 00:09:36,120
+No es ideal. Una carretera con poco arcén
+
+254
+00:09:36,120 --> 00:09:38,120
+Y con muchos coches.
+
+255
+00:09:38,120 --> 00:09:40,120
+En fin.
+
+256
+00:09:40,120 --> 00:09:42,120
+Han sido cinco minutos bastante
+
+257
+00:09:42,120 --> 00:09:44,120
+dolorosos. Yo no me imagino
+
+258
+00:09:44,120 --> 00:09:46,120
+hacer todo el viaje con una carretilla
+
+259
+00:09:46,120 --> 00:09:48,120
+y tener que ir siempre por carretera. Horrible.
+
+260
+00:09:48,120 --> 00:09:50,120
+Vamos al otro lado.
+
+261
+00:09:52,120 --> 00:09:54,120
+Ahora sí.
+
+262
+00:09:56,120 --> 00:09:58,120
+Premià de mar.
+
+263
+00:09:58,120 --> 00:10:00,120
+Se va el sol
+
+264
+00:10:00,120 --> 00:10:02,120
+en este fantástico domingo
+
+265
+00:10:02,120 --> 00:10:04,120
+No, de noviembre.
+
+266
+00:10:04,120 --> 00:10:06,120
+Mañana diciembre.
+
+267
+00:10:06,120 --> 00:10:08,120
+Tengo que decir que empieza a refrescar un poco
+
+268
+00:10:08,120 --> 00:10:10,120
+y aún me quedan unos
+
+269
+00:10:10,120 --> 00:10:12,120
+10 o 11 kilómetros.
+
+270
+00:10:12,120 --> 00:10:14,120
+Dos horas de caminata
+
+271
+00:10:14,120 --> 00:10:16,120
+y ya se están yendo al sol. Ay, ay, ay.
+
+272
+00:10:16,120 --> 00:10:18,120
+Bastante oscuro ya.
+
+273
+00:10:18,120 --> 00:10:20,120
+Mi esperanza es que
+
+274
+00:10:20,120 --> 00:10:22,120
+Estos faroles siguen
+
+275
+00:10:22,120 --> 00:10:24,120
+En lo que queda de camino
+
+276
+00:10:24,120 --> 00:10:26,120
+y no tener que sacar el frontal. De momento,
+
+277
+00:10:26,120 --> 00:10:28,120
+Por lo que parece, bien.
+
+278
+00:10:28,120 --> 00:10:30,120
+Otro paso subterráneo. Los que sois del Maresme
+
+279
+00:10:30,120 --> 00:10:32,120
+Estás acostumbrada
+
+280
+00:10:32,120 --> 00:10:34,120
+a eso. A ver si este
+
+281
+00:10:34,120 --> 00:10:36,120
+no me da la lata como el otro. No.
+
+282
+00:10:36,120 --> 00:10:38,120
+Tiene pinta que bien. Tiene pinta de que hay camino.
+
+283
+00:10:38,120 --> 00:10:40,120
+Ya sabía yo
+
+284
+00:10:40,120 --> 00:10:42,120
+Eso es decirlo y pasar.
+
+285
+00:10:42,120 --> 00:10:44,120
+Está oscuro, oscuro.
+
+286
+00:10:44,120 --> 00:10:46,120
+Madre mía.
+
+287
+00:10:46,120 --> 00:10:48,120
+Vilassar de Mar.
+
+288
+00:10:48,120 --> 00:10:50,120
+Quedan unos 5-6
+
+289
+00:10:50,120 --> 00:10:52,120
+kilómetros, cansado.
+
+290
+00:10:52,120 --> 00:10:54,120
+Cansado. Se nota que
+
+291
+00:10:54,120 --> 00:10:56,120
+no estoy muy entrenado porque empiezo
+
+292
+00:10:56,120 --> 00:10:58,120
+a tener las piernas pesadas. También es verdad
+
+293
+00:10:58,120 --> 00:11:00,120
+que hoy casi no he descansado nada. He parado
+
+294
+00:11:00,120 --> 00:11:02,120
+10 minutos a hacer la ensaladilla aquella y ya está.
+
+295
+00:11:02,120 --> 00:11:04,120
+Venga.
+
+296
+00:11:04,120 --> 00:11:06,120
+Otro paso subterráneo.
+
+297
+00:11:06,120 --> 00:11:08,120
+Eso no cuenta, eh,
+
+298
+00:11:08,120 --> 00:11:10,120
+como desnivel positivo.
+
+299
+00:11:10,120 --> 00:11:12,120
+Mataron a la vista.
+
+300
+00:11:12,120 --> 00:11:14,120
+Dos, tres kilómetros.
+
+301
+00:11:14,120 --> 00:11:16,120
+Pensaba que se me harían
+
+302
+00:11:16,120 --> 00:11:18,120
+más duros, estos tramo final,
+
+303
+00:11:18,120 --> 00:11:20,120
+por la oscuridad. A mí, realmente, no me gusta caminar
+
+304
+00:11:20,120 --> 00:11:22,120
+en oscuridad. Pero no, no, está bien.
+
+305
+00:11:22,120 --> 00:11:24,120
+Temperatura, también.
+
+306
+00:11:24,120 --> 00:11:26,120
+No hace frío. De hecho, no he metido la
+
+307
+00:11:26,120 --> 00:11:28,120
+térmica de abajo ni nada. Voy con la camiseta
+
+308
+00:11:28,120 --> 00:11:30,120
+normal. Y bien,
+
+309
+00:11:30,120 --> 00:11:32,120
+bueno, muy plácido.
+
+310
+00:11:32,120 --> 00:11:34,120
+Ahora, cuando llegue, he quedado con un
+
+311
+00:11:34,120 --> 00:11:36,120
+colega que vive en Mataró y haremos
+
+312
+00:11:36,120 --> 00:11:38,120
+una cerveza rápida y luego
+
+313
+00:11:38,120 --> 00:11:40,120
+Iré a casa de mi tía a cenar.
+
+314
+00:11:40,120 --> 00:11:42,120
+Mataró.
+
+315
+00:11:42,120 --> 00:11:44,120
+Ja, ja. Conseguido.
+
+316
+00:11:44,120 --> 00:11:46,120
+Bueno, aún no. Queda más o menos un kilómetro
+
+317
+00:11:46,120 --> 00:11:48,120
+para caminar, pero ya está.
+
+318
+00:11:48,120 --> 00:11:50,120
+Ya lo puedo dar por conseguido.
+
+319
+00:11:50,120 --> 00:11:52,120
+A ver, antes de haceros
+
+320
+00:11:52,120 --> 00:11:54,120
+En resumen, decir que
+
+321
+00:11:54,120 --> 00:11:56,120
+muchas gracias a todos los que habéis venido
+
+322
+00:11:56,120 --> 00:11:58,120
+y muchas gracias a todos los que me habéis enviado
+
+323
+00:11:58,120 --> 00:12:00,120
+apoyo y dado ánimo y
+
+324
+00:12:00,120 --> 00:12:02,120
+todo por las redes sociales.
+
+325
+00:12:02,120 --> 00:12:04,120
+De verdad, muchas gracias.
+
+326
+00:12:04,120 --> 00:12:06,120
+Si hay alguien que quiera
+
+327
+00:12:06,120 --> 00:12:08,120
+Extender su apoyo
+
+328
+00:12:08,120 --> 00:12:10,120
+Un poco más allá,
+
+329
+00:12:10,120 --> 00:12:12,120
+totalmente voluntario, puede
+
+330
+00:12:12,120 --> 00:12:14,120
+ir al Grifo. Grifo es una plataforma
+
+331
+00:12:14,120 --> 00:12:16,120
+de micromecenazgo
+
+332
+00:12:16,120 --> 00:12:18,120
+que es como el Patreon. No sé si conocéis el Patreon.
+
+333
+00:12:18,120 --> 00:12:20,120
+Pues bien, Aixeta lo que
+
+334
+00:12:20,120 --> 00:12:22,120
+Puedes hacer una donación
+
+335
+00:12:22,120 --> 00:12:24,120
+Un libro para un creador que te guste.
+
+336
+00:12:24,120 --> 00:12:26,120
+Yo me he abierto un Grifo,
+
+337
+00:12:26,120 --> 00:12:28,120
+ya se han apuntado unos cuantos, y
+
+338
+00:12:28,120 --> 00:12:30,120
+Si quieres, pues me das esta
+
+339
+00:12:30,120 --> 00:12:32,120
+aportación mensual, que
+
+340
+00:12:32,120 --> 00:12:34,120
+nos servirá para pernoctar, comprar comida,
+
+341
+00:12:34,120 --> 00:12:36,120
+etcétera, etcétera. Y yo
+
+342
+00:12:36,120 --> 00:12:38,120
+Gracias por este aporte,
+
+343
+00:12:38,120 --> 00:12:40,120
+Te envío una postal.
+
+344
+00:12:40,120 --> 00:12:42,120
+Cada mes, de donde me encuentre.
+
+345
+00:12:42,120 --> 00:12:44,120
+Francia, Italia, Nepal, Australia,
+
+346
+00:12:44,120 --> 00:12:46,120
+donde sea, os enviaré una postal
+
+347
+00:12:46,120 --> 00:12:48,120
+en vuestra casa. Si las queréis tener todas,
+
+348
+00:12:48,120 --> 00:12:50,120
+Apuntaos ya, porque
+
+349
+00:12:50,120 --> 00:12:52,120
+una vez haya enviado la primera remesa,
+
+350
+00:12:52,120 --> 00:12:54,120
+Dentro de unos días, claro,
+
+351
+00:12:54,120 --> 00:12:56,120
+Ya no puedo enviar la primera
+
+352
+00:12:56,120 --> 00:12:58,120
+¿No?, a los que os apuntáis después.
+
+353
+00:12:58,120 --> 00:13:00,120
+Por lo tanto, si quieres tener todas las
+
+354
+00:13:00,120 --> 00:13:02,120
+postales de la Vuelta al mundo a pie, os aconsejo,
+
+355
+00:13:02,120 --> 00:13:04,120
+Si quieres, que te inscribas.
+
+356
+00:13:04,120 --> 00:13:06,120
+El resumen sería
+
+357
+00:13:06,120 --> 00:13:08,120
+32 km y pico,
+
+358
+00:13:08,120 --> 00:13:10,120
+0
+
+359
+00:13:10,120 --> 00:13:12,120
+de desnivel positivo,
+
+360
+00:13:12,120 --> 00:13:14,120
+cafés, 2, en mi casa,
+
+361
+00:13:14,120 --> 00:13:16,120
+refrescos, ninguno,
+
+362
+00:13:16,120 --> 00:13:18,120
+gente con la que he hablado,
+
+363
+00:13:18,120 --> 00:13:20,120
+mucha, y realmente
+
+364
+00:13:20,120 --> 00:13:22,120
+un día muy bueno, un día que no olvidaré nunca
+
+365
+00:13:22,120 --> 00:13:24,120
+en mi vida. Ha sido
+
+366
+00:13:24,120 --> 00:13:26,120
+Increíble al principio
+
+367
+00:13:26,120 --> 00:13:28,120
+y también durante el recorrido,
+
+368
+00:13:28,120 --> 00:13:30,120
+me ha gustado mucho, ha sido muy agradable
+
+369
+00:13:30,120 --> 00:13:32,120
+Ojalá todos los días sean así.
+
+370
+00:13:32,120 --> 00:13:34,120
+¡Hasta mañana!
