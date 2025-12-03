@@ -1,1199 +1,1195 @@
 1
-00:00:00,160 --> 00:00:03,120
-La vuelta al mundo a pie, día 2.
+00:00:01,000 --> 00:00:02,000
+Buenas noches.
 
 2
-00:00:04,500 --> 00:00:08,300
-Bueno, una gran noche, me han cuidado mucho en casa mi tía,
+00:00:03,000 --> 00:00:06,000
+Actuación de emergencia, he tenido que desmontar.
 
 3
-00:00:08,800 --> 00:00:11,000
-Muchas gracias, pude descansar.
+00:00:06,000 --> 00:00:08,000
+Todos tranquilos, no he roto nada.
 
 4
-00:00:12,000 --> 00:00:14,300
-me han metido incluso una manta eléctrica de estas
+00:00:08,000 --> 00:00:11,000
+Pero temía que se rompiera la tienda, porque...
 
 5
-00:00:14,300 --> 00:00:16,960
-bajo las piernas en la cama para recuperar bien,
+00:00:11,000 --> 00:00:15,000
+Realmente no hace tanto viento, pero no tener las piquetas clavadas
 
 6
-00:00:17,700 --> 00:00:20,740
-un masaje y todo en la espalda, que me duele un poco, la verdad,
+00:00:15,000 --> 00:00:18,000
+pues hace que la tienda se mueva un montón.
 
 7
-00:00:20,840 --> 00:00:22,300
-no estaba acostumbrado a llevar mochila.
+00:00:30,000 --> 00:00:37,000
+Y... y tenía miedo de que se rompiera, y aparte de que no estaba durmiendo nada porque...
 
 8
-00:00:22,820 --> 00:00:27,960
-¿Y qué más? Sí, sí, una sopita, desayuno, tal, todo muy bien.
+00:00:37,000 --> 00:00:39,000
+porque todo el tiempo era pan, pan, pan.
 
 9
-00:00:27,960 --> 00:00:31,060
-Bien, hoy ya empieza la aventura propiamente dicha,
+00:00:39,000 --> 00:00:41,000
+Entonces pues...
 
 10
-00:00:31,160 --> 00:00:32,960
-porque esta noche si todo va bien, acamparemos,
+00:00:41,000 --> 00:00:45,000
+Pues nada, será cuestión de... me moveré un poco más allá.
 
 11
-00:00:33,060 --> 00:00:36,080
-ya no hay restricciones en principio a dónde vamos.
+00:00:45,000 --> 00:00:49,000
+Que creo que hay un lugar donde puedo clavar la tienda.
 
 12
-00:00:36,720 --> 00:00:40,300
-Y bien, pues aquí en Mataró enfilo el camino real,
+00:00:49,000 --> 00:00:53,000
+Hará un poco de viento igualmente, pero bueno, en fin, como mínimo puedo clavar y...
 
 13
-00:00:40,400 --> 00:00:44,120
-que es la calle donde me encuentro, que atraviesa toda la ciudad hasta el final.
+00:00:53,000 --> 00:00:55,000
+y a ver si no se mueve.
 
 14
-00:00:44,980 --> 00:00:49,360
-Me había envalentonado quizás un poquito y me he tenido que meter el jersey
+00:00:57,000 --> 00:00:59,000
+Segundo día y ya estoy liándola.
 
 15
-00:00:49,360 --> 00:00:51,660
-porque, ostras, hace un poco de frío, todavía no he cogido calor.
-
-16
-00:00:52,120 --> 00:00:53,040
-Cuando dé el sol quizá sí.
-
-17
-00:00:53,660 --> 00:00:56,640
-Pues estas eran las buenas noticias, que me han cuidado bien y estoy bien.
-
-18
-00:00:56,640 --> 00:01:00,560
-Lo malo es que estoy un poco enfermo,
-
-19
-00:01:00,740 --> 00:01:04,680
-Estoy un poco resfriado, ya también normal, ¿no?
-
-20
-00:01:04,720 --> 00:01:07,880
-Porque ayer estuve abrazándome con varias personas
-
-21
-00:01:07,880 --> 00:01:09,340
-y haciéndome fotos con todo el mundo.
-
-22
-00:01:09,820 --> 00:01:12,140
-Alguien me ha enganchado a algo y, bueno, en fin,
-
-23
-00:01:12,320 --> 00:01:14,440
-Un poco de ansiedad y un poco de malestar, poca cosa.
-
-24
-00:01:15,640 --> 00:01:17,800
-Pero bueno, voy tirando de paracetamol.
-
-25
-00:01:18,300 --> 00:01:20,840
-Son las nueve y media, he empezado un poco tarde hoy,
-
-26
-00:01:21,720 --> 00:01:25,660
-y a las doce y pico he quedado con TV3
-
-27
-00:01:26,640 --> 00:01:28,660
-En Arenys de Mar, que está a unos diez kilómetros y pico de aquí.
-
-28
-00:01:29,040 --> 00:01:31,380
-Me da tiempo, pero tengo que joderle.
-
-29
-00:01:32,240 --> 00:01:35,180
-Ostras, tú, ni dos kilómetros y ya me he acabado Mataró.
-
-30
-00:01:36,240 --> 00:01:37,460
-Pensaba que esto sería más grande.
-
-31
-00:01:37,920 --> 00:01:40,960
-Bueno, mi amigo Jordi, que es mataronés, con el que quedé ayer,
-
-32
-00:01:41,560 --> 00:01:43,360
-me dijo que por aquí, una vez he llegado al final,
-
-33
-00:01:43,480 --> 00:01:46,480
-había un paso subterráneo, pero ahora no lo encuentro.
-
-34
-00:01:49,100 --> 00:01:51,500
-Hmm, ostras, no me hagas volver atrás, ¿eh?
-
-35
-00:01:52,200 --> 00:01:54,300
-Vale, ya estoy en marcha.
-
-36
-00:01:55,140 --> 00:01:56,620
-De momento parece que hay este pequeño tramo
-
-37
-00:01:56,640 --> 00:02:00,080
-por aquí, y una vez se acaba la playa,
-
-38
-00:02:00,180 --> 00:02:03,100
-me ha dicho Jordi que entra en la vía
-
-39
-00:02:03,100 --> 00:02:06,200
-y en la zona del espigón hay un pequeño tramo
-
-40
-00:02:06,200 --> 00:02:08,980
-donde puedes pasar. Espero, porque si no,
-
-41
-00:02:09,160 --> 00:02:11,700
-no sé cómo lo haré. Pues este es el camino.
-
-42
-00:02:13,120 --> 00:02:14,860
-Un poco más cerca de mi gusto
-
-43
-00:02:14,860 --> 00:02:17,800
-de las vías del tren. De hecho, estaba pensando,
-
-44
-00:02:17,860 --> 00:02:20,820
-Ostras, ¿quieres decir que se puede caminar por aquí? He visto otra gente que caminaba,
-
-45
-00:02:20,940 --> 00:02:24,120
-corría por ahí ahora. Hombre, no es el camino más cómodo del mundo,
-
-46
-00:02:24,120 --> 00:02:26,080
-pero bueno, tú...
-
-47
-00:02:26,080 --> 00:02:28,080
-Es lo que hay, es lo que hay, no hay alternativa.
-
-48
-00:02:32,940 --> 00:02:36,280
-Mucho mejor ahora, ¿no? Para estos paseo, a ver cuánto dura.
-
-49
-00:02:36,760 --> 00:02:39,880
-Bueno, acabo de hablar con la Cadena SER, programa Aquí Catalunya.
-
-50
-00:02:40,320 --> 00:02:41,680
-Muy simpáticos, muchas gracias.
-
-51
-00:02:42,260 --> 00:02:44,520
-Mira, os cuento esto, por qué me lo he comprado.
-
-52
-00:02:45,280 --> 00:02:48,380
-Pues bien, evidentemente, hará frío, hoy no, pero eso está bien.
-
-53
-00:02:48,560 --> 00:02:52,320
-Entonces, claro, quería comprar una manga larga, pues, para cubrirme un poco del frío, ¿no?
-
-54
-00:02:53,180 --> 00:02:56,060
-Y quería que llevara capucha. Esto se llama sun hoodie,
-
-55
-00:02:56,080 --> 00:02:59,380
-y básicamente, pues, es esto, como una camiseta con capucha,
-
-56
-00:03:00,160 --> 00:03:04,900
-y lo que hace es que, como veis, me protege todo aquí, todo el cuello, y todo.
-
-57
-00:03:04,980 --> 00:03:07,500
-Entonces, no me tengo que ir metiendo crema constantemente.
-
-58
-00:03:07,620 --> 00:03:10,180
-Ahora toca bastante el sol, me he metido solo en la cara,
-
-59
-00:03:10,980 --> 00:03:12,380
-Pero el resto, con eso ya lo tengo cubierto.
-
-60
-00:03:13,100 --> 00:03:16,780
-Playa de Llavaneres. Mira, me han contactado los de TV3,
-
-61
-00:03:16,880 --> 00:03:19,960
-que dicen que quieren hacerlo más tarde, a las 12.50,
-
-62
-00:03:20,680 --> 00:03:25,200
-y que si quieren hagamos un falso directo. Yo les he dicho, no, no, no, hagamos un directo, hagámoslo bien.
-
-63
-00:03:25,200 --> 00:03:29,000
-Yo me espero, no pasa nada, si es dentro de dos horas, pues me pararé un poco a comer,
-
-64
-00:03:30,000 --> 00:03:31,620
-Editar los vídeos, y ya está.
-
-65
-00:03:31,780 --> 00:03:34,220
-Vale, un lavabo. A ver si está abierto.
-
-66
-00:03:35,020 --> 00:03:39,100
-¡No! No! No está abierto.
-
-67
-00:03:40,000 --> 00:03:41,060
-Me estoy meando un poco, ¿eh?
-
-68
-00:03:42,340 --> 00:03:46,860
-Sant Vicenç de Montalt. Empezamos a entrar en la zona pija del Maresme,
-
-69
-00:03:47,280 --> 00:03:48,660
-Caldas de Estrac.
-
-70
-00:03:49,560 --> 00:03:50,920
-El Maresme Tropical, le llaman.
-
-71
-00:03:51,160 --> 00:03:55,120
-Hombre, hoy, si vas andando o corriendo, se puede ir con manga corta tranquilamente, ¿eh?
-
-72
-00:03:55,200 --> 00:04:03,120
-Venga, pues, llegados a los confines de Caldes d'Estrac,
-
-73
-00:04:03,720 --> 00:04:04,760
-ahora toca pasar Arenys.
-
-74
-00:04:05,180 --> 00:04:09,520
-Mi amigo, que es un bestia, me decía que pasara por debajo del túnel este del tren.
-
-75
-00:04:09,900 --> 00:04:10,860
-¡Ni de coña!
-
-76
-00:04:11,480 --> 00:04:14,220
-Hay un paso habilitado bajo las vías del tren,
-
-77
-00:04:14,320 --> 00:04:16,540
-que te lleva hacia la Nacional, donde hay un pequeño paso
-
-78
-00:04:16,540 --> 00:04:20,140
-para superar este acantilado que nos llevará hasta Arenys de Mar.
-
-79
-00:04:22,520 --> 00:04:25,180
-11.50, con la TV3 he quedado allí.
-
-80
-00:04:25,180 --> 00:04:29,420
-El mítico cementerio de Sinera, de Arenys de Mar.
-
-81
-00:04:29,420 --> 00:04:33,980
-Bueno, como todavía queda una hora, iré a hacer un mac coffee,
-
-82
-00:04:33,980 --> 00:04:38,140
-y de paso, pues, cargaré un poco el móvil, iré al lavabo y tal.
-
-83
-00:04:38,140 --> 00:04:44,700
-Realmente, hay una persona que ha decidido hacerlo más de 20.000 kilómetros más pero nosotros la hemos enganchado
-
-84
-00:04:44,700 --> 00:04:46,540
-en los primeros kilómetros de travesía.
-
-85
-00:04:46,540 --> 00:04:47,340
-Muy buenos días.
-
-86
-00:04:47,340 --> 00:04:48,340
-Buenos días, Julia, ¿qué tal?
-
-87
-00:04:48,340 --> 00:04:50,820
-Como tú, ¿qué tal tú? Estás mochila arriba.
-
-88
-00:04:50,820 --> 00:04:53,740
-Bueno, es segundo día, por lo tanto, de momento bien.
-
-89
-00:04:53,740 --> 00:04:54,620
-Pues sigamos.
-
-90
-00:04:55,180 --> 00:05:00,100
-Ya he hablado con TV3. Ostras, me hubiera gustado hablar con Helena (Melero), o decirle hola, como mínimo.
-
-91
-00:05:00,100 --> 00:05:04,180
-Me tenían conectado aquí, pero desde plató yo creo que teníamos prisa y ya está.
-
-92
-00:05:04,180 --> 00:05:06,540
-Sólo he hablado con Julia, muy simpática.
-
-93
-00:05:06,540 --> 00:05:09,820
-Pues nada, seguimos. Arenys de Mar, fantásticas vistas.
-
-94
-00:05:09,820 --> 00:05:16,020
-Realmente, evidentemente, el camino no pasa por aquí, pero he querido subir aquí y les he dicho que vengan los de TV3 aquí,
-
-95
-00:05:16,020 --> 00:05:18,580
-Porque, pues, hombre, había mejores vistas, ¿no?
-
-96
-00:05:18,580 --> 00:05:24,980
-Vale, a ver, la una, la una y diez, y llevo 11,5 kilómetros.
-
-97
-00:05:25,180 --> 00:05:28,660
-No creas que voy muy sobrado, ¿eh? Mucho más, ya no puedo parar.
-
-98
-00:05:28,660 --> 00:05:31,340
-Hoy tengo unos 20 largos, que casi 30.
-
-99
-00:05:34,940 --> 00:05:38,900
-Pues muy bien, este tramo aquí que conecta Arenys y Canet.
-
-100
-00:05:38,900 --> 00:05:41,020
-Creo que esto es nuevo.
-
-101
-00:05:41,020 --> 00:05:42,540
-Bueno, nuevo, a ver.
-
-102
-00:05:42,540 --> 00:05:46,500
-Yo cuando tenía 17 años, es decir, hace ya 20 años,
-
-103
-00:05:46,500 --> 00:05:49,780
-tenía una novieta que era de Canet de Mar, entonces venía bastante por aquí.
-
-104
-00:05:49,780 --> 00:05:52,220
-Y me suena que esa zona no existía.
-
-105
-00:05:52,220 --> 00:05:53,220
-No lo sé.
-
-106
-00:05:55,180 --> 00:05:56,180
-¿Está vivo?
-
-107
-00:05:56,180 --> 00:05:57,180
-¿Está vivo?
-
-108
-00:05:57,180 --> 00:05:58,180
-Soy tonto.
-
-109
-00:05:58,180 --> 00:06:01,180
-Se me ha caído el móvil de aquí arriba.
-
-110
-00:06:01,180 --> 00:06:05,100
-De aquí arriba hasta aquí abajo.
-
-111
-00:06:05,100 --> 00:06:08,880
-Suerte que, suerte que es arena.
-
-112
-00:06:08,880 --> 00:06:09,880
+00:00:59,000 --> 00:01:00,000
 En fin.
 
-113
-00:06:09,880 --> 00:06:12,820
-Lo que no hago por un buen plan.
-
-114
-00:06:12,820 --> 00:06:13,820
-No, no.
-
-115
-00:06:13,820 --> 00:06:14,820
-No, no, no.
-
-116
-00:06:14,820 --> 00:06:15,820
-No, no.
-
-117
-00:06:15,820 --> 00:06:16,820
-No, no, no.
-
-118
-00:06:16,820 --> 00:06:17,820
-Te lo he dicho.
-
-119
-00:06:17,820 --> 00:06:18,820
-No, no, no.
-
-120
-00:06:18,820 --> 00:06:19,820
-No, no, no.
-
-121
-00:06:19,820 --> 00:06:20,820
-No, no.
-
-122
-00:06:20,820 --> 00:06:21,820
-No.
-
-123
-00:06:21,820 --> 00:06:22,820
-No.
-
-124
-00:06:22,820 --> 00:06:23,820
-No, no.
-
-125
-00:06:23,820 --> 00:06:24,820
-No.
-
-126
-00:06:25,180 --> 00:06:27,420
-De Salses a Guardamar.
-
-127
-00:06:28,160 --> 00:06:29,000
-¿Qué quiere decir esto?
-
-128
-00:06:29,700 --> 00:06:33,660
-Pues Guardamar es la última población de los países catalanes por el sur
-
-129
-00:06:33,660 --> 00:06:37,860
-y Salses es la última población de los países catalanes por el norte.
-
-130
-00:06:38,700 --> 00:06:43,100
-Para los que me acabáis de descubrir, os digo que este pasado junio de 2025
-
-131
-00:06:43,100 --> 00:06:45,620
-hice la travesía Cataluña sur-norte.
-
-132
-00:06:45,620 --> 00:06:49,120
-Fui caminando desde el punto más sur de Cataluña hasta el punto más norte,
-
-133
-00:06:49,240 --> 00:06:51,400
-de la Catalunya autonómica, para que nos entendamos.
-
-134
-00:06:51,400 --> 00:06:56,020
-Y mucha gente me había escrito, hombre, tienes que hacer desde Salses hasta Guardamar.
-
-135
-00:06:56,740 --> 00:06:59,240
-Algún día me encantaría hacerlo, algún día me encantaría,
-
-136
-00:06:59,340 --> 00:07:02,420
-Pero claro, tenía 10 días de vacaciones, no podía hacer más.
-
-137
-00:07:02,720 --> 00:07:05,540
-Pues bien, ¿hacia qué dirección vamos? ¿qué metía? ¿166 kilómetros?
-
-138
-00:07:06,300 --> 00:07:06,680
-Pues eso.
-
-139
-00:07:08,820 --> 00:07:09,560
-Canelones de mar.
-
-140
-00:07:12,560 --> 00:07:15,260
-Pura playa, tú me toca caminar por aquí.
-
-141
-00:07:15,620 --> 00:07:20,440
-Es incómodo, incómodo, porque se me van hundiendo los pies y tal.
-
-142
-00:07:21,400 --> 00:07:22,400
-Por supuesto.
-
-143
-00:07:26,900 --> 00:07:29,240
-Sant Pol de Mar, Sant Pol ¿qué hora es?
-
-144
-00:07:29,680 --> 00:07:33,780
-Ostras, me encanta este pueblo y quería parar a comer algo,
-
-145
-00:07:33,940 --> 00:07:36,640
-pero me encuentro que está todo el pueblo levantado.
-
-146
-00:07:37,300 --> 00:07:39,660
-Todo el pueblo, todas las aceras están levantadas, tú.
-
-147
-00:07:40,540 --> 00:07:42,860
-A ver si encuentro alguna placita o algo donde parar.
-
-148
-00:07:43,280 --> 00:07:43,600
-Tengo hambre.
-
-149
-00:07:44,080 --> 00:07:47,660
-Mira, esta placita junto a la estación de tren
-
-150
-00:07:47,660 --> 00:07:50,260
-mujer sol y sombra.
-
-151
-00:07:50,260 --> 00:07:50,340
-Y eso es lo que hace.
-
-152
-00:07:51,400 --> 00:07:52,020
-No hace mucho viento.
-
-153
-00:07:53,000 --> 00:07:54,840
-Y tiene fantásticas vistas del mar.
-
-154
-00:07:55,060 --> 00:07:55,500
-Aquí comeré.
-
-155
-00:08:01,040 --> 00:08:03,920
-Hoy, el camino que sigue a la
-
-156
-00:08:03,920 --> 00:08:06,360
-Prefiere subir por ahí arriba.
-
-157
-00:08:07,420 --> 00:08:08,220
-Hombre, mejores vistas, ¿eh?
-
-158
-00:08:08,220 --> 00:08:10,600
-Aquí ya empieza a ser ya zona...
-
-159
-00:08:10,600 --> 00:08:12,400
-No sé si empieza aquí la Costa Brava, pero...
-
-160
-00:08:13,300 --> 00:08:14,640
-Es un poco rollo Costa Brava, ¿sabes?
-
-161
-00:08:14,660 --> 00:08:16,400
-Con estos acantilados, estas playas...
-
-162
-00:08:17,700 --> 00:08:18,320
-Muy guapo.
-
-163
-00:08:21,400 --> 00:08:26,160
-Calella, Calella de la Costa, aún el Maresme.
-
-164
-00:08:26,160 --> 00:08:30,160
-Hay un seguidor que me ha escrito y me ha dicho, hombre, si pasas por aquí, me gustaría saludarte.
-
-165
-00:08:30,160 --> 00:08:30,640
-Y sí, sí.
-
-166
-00:08:30,640 --> 00:08:32,640
-Oh, claro, pues a ver si me lo cree.
-
-167
-00:08:32,640 --> 00:08:34,640
-Mira qué edificio.
-
-168
-00:08:34,640 --> 00:08:36,640
-Todo lleno de cactus.
-
-169
-00:08:36,640 --> 00:08:38,640
-Brutal.
-
-170
-00:08:38,640 --> 00:08:40,640
-Xavier.
-
-171
-00:08:40,640 --> 00:08:42,640
-Buenas tardes.
-
-172
-00:08:42,640 --> 00:08:44,640
-¿Qué pasa, señor?
-
-173
-00:08:44,640 --> 00:08:46,640
-Hola. Encantado.
-
-174
-00:08:46,640 --> 00:08:48,640
-Calaiense? Calaí? ¿Cómo se llama? Calaiense de toda la vida.
-
-175
-00:08:48,640 --> 00:08:50,640
-Calaiense se llama, ¿eh? El gentilicio. Muy bien.
-
-176
-00:08:50,640 --> 00:08:52,640
-Pues qué, vamos a...
-
-177
-00:08:52,640 --> 00:08:54,640
-No, hombre.
-
-178
-00:08:54,640 --> 00:08:55,640
-Que he visto que has pasado noche en Mataró.
-
-179
-00:08:55,640 --> 00:08:56,640
-Correcto.
-
-180
-00:08:56,640 --> 00:08:59,640
-Y digo, ostras, que pasará por Calella, le tengo que enviar un mensaje, que...
-
-181
-00:08:59,640 --> 00:09:03,640
-Ostras, que pasarás por la vuelta al mundo y digo, que te tengo que conocer.
-
-182
-00:09:03,640 --> 00:09:05,640
-Día dos, sí.
-
-183
-00:09:05,640 --> 00:09:07,640
-¿Vamos a sentarnos en algún sitio?
-
-184
-00:09:07,640 --> 00:09:09,640
-Y charlamos un rato, que estoy un poco también cansado, ¿eh?
-
-185
-00:09:09,640 --> 00:09:10,640
-Sí.
-
-186
-00:09:10,640 --> 00:09:11,640
-Venga, vamos a sentarme.
-
-187
-00:09:11,640 --> 00:09:12,640
-Vamos allá, va.
-
-188
-00:09:12,640 --> 00:09:16,640
-Acabamos de pasar por un paso subterráneo, claro, y le decía, ostras, esto de los pasos subterráneos del Maresme es un drama,
-
-189
-00:09:16,640 --> 00:09:19,640
-porque un sí, un no, huelen a orín.
-
-190
-00:09:19,640 --> 00:09:21,640
-A ver, ¿qué me estás contando?
-
-191
-00:09:21,640 --> 00:09:26,640
-A ver, pasar por un paso subterráneo aquí en el Maresme es una aventura,
-
-192
-00:09:26,640 --> 00:09:31,640
-pero es que lo peor es que cuando lo limpian una vez al año, o dos veces al año, o cuando
-
-193
-00:09:31,640 --> 00:09:35,640
-al final es noticia, se corre la voz de que han limpiado el paso subterráneo,
-
-194
-00:09:35,640 --> 00:09:40,640
-y pasas al día siguiente, y no huele a nada, que es lo sorprendente, pero el fin de una semana ya...
-
-195
-00:09:40,640 --> 00:09:42,640
-Y sale en el periódico, ¿no?
-
-196
-00:09:42,640 --> 00:09:48,640
-Sí, al cabo de una semana, cuando pasas, ya te tienes que tapar la nariz, porque si no no puedes respirar.
-
-197
-00:09:48,640 --> 00:09:49,640
-Ayuntamiento de Calella.
-
-198
-00:09:49,640 --> 00:09:51,640
-Callao, tirad lejía de vez en cuando, por favor.
-
-199
-00:09:51,640 --> 00:09:55,640
-Sí, por favor, y todos los pueblos de alrededor también, se agradecería.
-
-200
-00:09:55,640 --> 00:09:57,640
-¿Qué, te parece que pesa mucho, dices?
-
-201
-00:09:57,640 --> 00:10:01,640
-Cualquiera camina diez kilómetros con eso.
-
-202
-00:10:01,640 --> 00:10:03,640
-Ah, pues no, no es para tanto, yo creo, pero bueno, tú.
-
-203
-00:10:03,640 --> 00:10:05,640
-Lo que está un poco justita.
-
-204
-00:10:05,640 --> 00:10:09,640
-Métetela bien, porque no tienes los de esto bien metidos.
-
-205
-00:10:09,640 --> 00:10:10,640
-Aquí.
-
-206
-00:10:10,640 --> 00:10:12,640
-Tal vez te sea más cómodo, así.
-
-207
-00:10:12,640 --> 00:10:13,640
-Ah, sí, sí, sí.
-
-208
-00:10:13,640 --> 00:10:14,640
-Sí, sí, ¿no?
-
-209
-00:10:14,640 --> 00:10:16,640
-Hombre, sí, los diez kilómetros no se nota tan tan así.
-
-210
-00:10:16,640 --> 00:10:18,640
-Muy bien, Xavi, tío. Un placer conocerte.
-
-211
-00:10:18,640 --> 00:10:20,640
-Un placer, Enric.
-
-212
-00:10:20,640 --> 00:10:21,640
-Hasta otra.
-
-213
-00:10:21,640 --> 00:10:23,640
-Mucha suerte, que vaya muy bien por todos los países.
-
-214
-00:10:23,640 --> 00:10:24,640
-Gracias.
-
-215
-00:10:24,640 --> 00:10:26,640
-Y estamos ahí detrás de la pantalla siempre.
-
-216
-00:10:26,640 --> 00:10:28,640
-En contacto, tío, adiós.
-
-217
-00:10:28,640 --> 00:10:31,640
-Genial tarde, tú, ¿eh? Espectacular.
-
-218
-00:10:31,640 --> 00:10:42,640
-Genial Xavi, y no hace nada de viento, esta playa aquí con las, con las de esto, con las palmeras, la arena, el paseo...
-
-219
-00:10:42,640 --> 00:10:47,640
-Genial. Hoy estoy disfrutando mucho del día, sinceramente, ¿eh? Y Xavi un crack.
-
-220
-00:10:47,640 --> 00:10:57,640
-Aparte de explicarme lo del paso inferior, me ha dicho alguna curiosidad, como por ejemplo que hay un barrio de aquí de Pineda, que se llama Poblenou, que son un poco indepes.
-
-221
-00:10:57,640 --> 00:11:05,640
-Quieren independizarse de la parte central de Pineda, porque están como separados y se sienten así un poco ninguneados.
-
-222
-00:11:05,640 --> 00:11:08,640
-Bueno, en fin, historias del Maresme.
-
-223
-00:11:08,640 --> 00:11:13,640
-Ostras, tú, 5 menos 10. Ya se está acabando el día.
-
-224
-00:11:13,640 --> 00:11:16,640
-Hoy no me hubiera importado caminar un par de horas más, quizás un poco más lento, pero...
-
-225
-00:11:16,640 --> 00:11:22,640
-La estaba disfrutando mucho. Bueno, ¿qué voy a hacer ahora?
-
-226
-00:11:22,640 --> 00:11:27,640
-Pues mira, he decidido que acamparé aquí en Pineda.
-
-227
-00:11:27,640 --> 00:11:39,640
-Ahora ya no se ve, pero hacia allí hay una colina junto a una urbanización y hay una ermita donde hay una especie de porche y creo que allí puedo hacer o vivac o plantar la tienda.
-
-228
-00:11:39,640 --> 00:11:43,640
-Bueno, plantarla sin piquetas. ¿Qué pasa? Que si ahora voy hacia allí, pues me aburriré como una ostra.
-
-229
-00:11:43,640 --> 00:11:45,640
-Entonces, ¿qué haré ahora?
-
-230
-00:11:45,640 --> 00:11:52,640
-Pues pasar por ese paso inferior, subir por Pineda, entrar en algún bar y editar el vídeo de ayer.
-
-231
-00:11:52,640 --> 00:11:57,640
-Que claro, ayer cuando estuve con mis tíos pues no me dio tiempo, además estaba muy cansado.
-
-232
-00:11:57,640 --> 00:12:09,640
-Así que lo editaré para que lo podáis ver y después, allá a las 7 y pico o así, ya empezaré a sacar hacia arriba, con frontal si hace falta y ya pues decidiré si duermo allí o no.
-
-233
-00:12:09,640 --> 00:12:11,640
-Bueno, no tengo otro remedio, supongo.
-
-234
-00:12:11,640 --> 00:12:14,640
-Muy bien, pues me he tomado una fanta en el bar este.
-
-235
-00:12:15,640 --> 00:12:17,640
-Y he podido editar el vídeo.
-
-236
-00:12:17,640 --> 00:12:26,640
-Y ahora dejo esta rotonda y me adentro por esta especie de riera, no sé muy bien qué es esto.
-
-237
-00:12:26,640 --> 00:12:33,640
-Y subiendo por aquí a unos 500 metros encontraremos lo que en principio es el lugar de pernocta.
-
-238
-00:12:33,640 --> 00:12:41,640
-Un poco... un poco tenebroso caminar por estos caminos a estas horas de la tarde.
-
-239
-00:12:41,640 --> 00:12:43,640
-Bueno, son las 7, ¿eh? Son las 7 de la tarde.
-
-240
-00:12:43,640 --> 00:12:46,640
-Tampoco es que sea tarde, pero ya está oscuro.
-
-241
-00:12:46,640 --> 00:12:52,640
-Vale, aquí con fantásticas vistas de Magrat de Mar, creo que es eso.
-
-242
-00:12:52,640 --> 00:12:57,640
-Y aquí tenemos pues el convento, iglesia esta.
-
-243
-00:12:57,640 --> 00:13:00,640
-Y aquí un depósito de agua. A ver...
-
-244
-00:13:00,640 --> 00:13:04,640
-Aquí no pueden llegar coches. Eso siempre es bueno.
-
-245
-00:13:04,640 --> 00:13:07,640
-Menos posibilidad de que nos molesten.
-
-246
-00:13:07,640 --> 00:13:12,640
-Y eso, que es una especie de porche, ahí es donde había pensado meterme.
-
-247
-00:13:13,640 --> 00:13:21,640
-Para los que habéis visto el vídeo de la mochila, mi tienda se puede meter en lugares que no haya que clavar las piquetas.
-
-248
-00:13:21,640 --> 00:13:25,640
-A ver si me puedo meter aquí...
-
-249
-00:13:25,640 --> 00:13:29,640
-Hombre, las vistas son... geniales, ¿eh? A ver...
-
-250
-00:13:32,640 --> 00:13:35,640
-Pues no tiene mala pinta, tú.
-
-251
-00:13:35,640 --> 00:13:41,640
-Otra opción era intentar clavar la tienda fuera, aquí al lado.
-
-252
-00:13:41,640 --> 00:13:42,640
+16
+00:01:00,000 --> 00:01:02,000
+Ya aprendo.
+
+17
+00:01:02,000 --> 00:01:05,000
+Me quedé detrás de la ermita.
+
+18
+00:01:05,000 --> 00:01:09,000
+Tampoco te pienses que es un lugar super...
+
+19
+00:01:09,000 --> 00:01:14,000
+supergenial, porque por aquí no se ve, pero eso son zarzas.
+
+20
+00:01:14,000 --> 00:01:17,000
+Pero bueno, aquí era tierra. Y hombre, mucho mejor, mirad.
+
+21
+00:01:17,000 --> 00:01:19,000
+No se mueve nada, tú.
+
+22
+00:01:19,000 --> 00:01:21,000
+Son casi las 3 de la madrugada.
+
+23
+00:01:22,000 --> 00:01:24,000
+Intentaré dormir un poco.
+
+24
+00:01:29,000 --> 00:01:30,000
 ¡Huy!
 
+25
+00:01:30,000 --> 00:01:32,000
+La vuelta al mundo a pie.
+
+26
+00:01:32,000 --> 00:01:34,000
+Día 3.
+
+27
+00:01:34,000 --> 00:01:39,000
+Bueno, para sorpresa de nadie he dormido fatal.
+
+28
+00:01:39,000 --> 00:01:43,000
+Me alejo porque tengo que tener una cara, que no quiero que me veáis.
+
+29
+00:01:43,000 --> 00:01:46,000
+Sí, sí, sí.
+
+30
+00:01:46,000 --> 00:01:49,000
+Entre el tema del que me he despertado...
+
+31
+00:01:49,000 --> 00:01:52,000
+Bueno, me he despertado, no he podido dormir hasta las 4 o 3 y pico.
+
+32
+00:01:52,000 --> 00:01:55,000
+Y todo el tema de los mocos, que todavía...
+
+33
+00:01:55,000 --> 00:01:58,000
+Pero bueno, el refranero no, y durará, ¿eh?
+
+34
+00:01:58,000 --> 00:02:00,000
+Durará todavía unos cuantos días.
+
+35
+00:02:00,000 --> 00:02:02,000
+Fatal, fatal, fatal.
+
+36
+00:02:02,000 --> 00:02:05,000
+Ahora tengo un poco de energía, pero...
+
+37
+00:02:05,000 --> 00:02:07,000
+Ya veo que hoy costará.
+
+38
+00:02:07,000 --> 00:02:09,000
+Bueno, en fin, son las 8 y pico, ya.
+
+39
+00:02:09,000 --> 00:02:12,000
+Bueno, 8, voy a recoger, voy a recoger y...
+
+40
+00:02:12,000 --> 00:02:14,000
+y vamos tirando.
+
+41
+00:02:14,000 --> 00:02:15,000
+Muy bien.
+
+42
+00:02:15,000 --> 00:02:17,000
+Empiezo a caminar...
+
+43
+00:02:17,000 --> 00:02:19,000
+contra tiempo.
+
+44
+00:02:19,000 --> 00:02:23,000
+Grave, bueno... relativamente grave...
+
+45
+00:02:23,000 --> 00:02:26,000
+Lo malo es que Garmin no me funciona.
+
+46
+00:02:26,000 --> 00:02:30,000
+Y ahora, de pronto, tiene ese logo azul y no sale de ahí.
+
+47
+00:02:30,000 --> 00:02:36,000
+He buscado por internet y se ve que lo tendré que resetear, probablemente, de fábrica.
+
+48
+00:02:36,000 --> 00:02:40,000
+Ostras, tú, y lo tendré que volver a emparejar con mi móvil,
+
+49
+00:02:40,000 --> 00:02:43,000
+con la cuenta de Garmin, todo. Vaya pereza, tú.
+
+50
+00:02:43,000 --> 00:02:47,000
+Bueno, el día de hoy lo tendré que grabar con el strava con el móvil.
+
+51
+00:02:47,000 --> 00:02:51,000
+Que no pasa nada, bueno, gasta más cobertura, no, más batería.
+
+52
+00:02:51,000 --> 00:02:53,000
+Pero bueno, en fin, espero que...
+
+53
+00:02:53,000 --> 00:02:54,000
+Que se grabe bien.
+
+54
+00:02:54,000 --> 00:02:56,000
+Pues nada, no, ya está.
+
+55
+00:02:56,000 --> 00:02:57,000
+Ya está solucionado.
+
+56
+00:02:57,000 --> 00:03:01,000
+Simplemente tenía que apagar, que eran 30 segundos apretando el botón de apagar
+
+57
+00:03:01,000 --> 00:03:02,000
+y luego volver a encender.
+
+58
+00:03:02,000 --> 00:03:03,000
+No, no lo sabía.
+
+59
+00:03:03,000 --> 00:03:05,000
+Garmin este lo tengo desde hace poco.
+
+60
+00:03:05,000 --> 00:03:08,000
+En fin, no, no, no, no era un problema grave.
+
+61
+00:03:08,000 --> 00:03:10,000
+Relativicemos, por favor, a Enrique.
+
+62
+00:03:10,000 --> 00:03:13,000
+Esto no es un problema grave.
+
+63
+00:03:13,000 --> 00:03:15,000
+No nos rehogamos en un vaso de agua.
+
+64
+00:03:15,000 --> 00:03:19,000
+También te diré que ahora, claro, he empezado a grabar con la strava, llevo 700 metros.
+
+65
+00:03:19,000 --> 00:03:24,000
+Ahora no volveré arriba para empezar a grabar con Garmin, ni de coña.
+
+66
+00:03:24,000 --> 00:03:26,000
+Un problema grave sería, por ejemplo, si me cayera.
+
+67
+00:03:26,000 --> 00:03:30,000
+Si estuviera solo en la montaña y me tuvieran que rescatar.
+
+68
+00:03:30,000 --> 00:03:33,000
+Si me cogiera una gastroenteritis en medio del desierto.
+
+69
+00:03:33,000 --> 00:03:40,000
+Pero mira, incluso por eso no me tengo que preocupar porque tengo la cobertura y la ayuda de Seguros Escriba.
+
+70
+00:03:40,000 --> 00:03:45,000
+Seguros Escriba es una correduría de seguros de aquí, de
+
+71
+00:03:45,000 --> 00:03:47,000
+que se puso en contacto conmigo y me dijo
+
+72
+00:03:47,000 --> 00:03:51,000
+Enric, nos gusta mucho la aventura que quieres hacer y te haremos el seguro.
+
+73
+00:03:51,000 --> 00:03:56,000
+Ellos son especialistas en seguros de trekking y de viajes por todo el mundo.
+
+74
+00:03:56,000 --> 00:03:59,000
+Es perfecto para mí, porque es literalmente lo que haré yo.
+
+75
+00:03:59,000 --> 00:04:05,000
+Viajes, trekking y cualquier tipo de problema que pueda haber en la ciudad por todo el mundo.
+
+76
+00:04:05,000 --> 00:04:07,000
+Entonces, pues es perfecto.
+
+77
+00:04:07,000 --> 00:04:10,000
+¿Qué vais a hacer la GR11? Seguros Escriba.
+
+78
+00:04:10,000 --> 00:04:12,000
+¿Que vais a hacer el Tour del Mont Blanc? Seguros Escriba.
+
+79
+00:04:12,000 --> 00:04:15,000
+¿Que vais a hacer algún trekking por Nepal? Seguros Escriba.
+
+80
+00:04:15,000 --> 00:04:21,000
+Os cubren no solo el problema de la montaña, accidentes, rescates en helicóptero, lo que sea,
+
+81
+00:04:21,000 --> 00:04:25,000
+sino cualquier otro tipo de problema de viaje, como por ejemplo problemas con los retrasos de aviones,
+
+82
+00:04:26,000 --> 00:04:32,000
+que te coja una gastroenteritis, en Katmandú, que te muerda un perro en Chamonix, no lo sé, cualquier cosa.
+
+83
+00:04:32,000 --> 00:04:37,000
+Muchas gracias por colaborar con la Volta al Mont. Visitad su web.
+
+84
+00:04:37,000 --> 00:04:43,000
+Coger sensores se consideraría hacer trampa? Yo creo que sí, ¿no?
+
+85
+00:04:43,000 --> 00:04:48,000
+Pasamos la carretera esta, que no sé cómo se llama, por este puente.
+
+86
+00:04:48,000 --> 00:04:55,000
+Ahora de aquí breves instantes tendré la última entrevista ya de la primera tanda de la salida de la Vuelta al Mundo a Pie.
+
+87
+00:04:55,000 --> 00:04:59,000
+Y me hace ilusión porque será con Sergi Unanue. No sé si lo conocéis.
+
+88
+00:04:59,000 --> 00:05:06,000
+Los Viajes de Wallibert es un canal de YouTube que hace, bueno, hace cosas de senderismo, pero también aventuras y tal.
+
+89
+00:05:06,000 --> 00:05:09,000
+Por eso tengo colocado el auricular y todo.
+
+90
+00:05:09,000 --> 00:05:17,000
+Muy bien, aparte de tener un canal de YouTube, Sergi es periodista de Vilaweb, así que claro, no le podía decir que no.
+
+91
+00:05:17,000 --> 00:05:23,000
+Bueno, mirad. Creo que estoy peor que esta mañana cuando os he hablado.
+
+92
+00:05:23,000 --> 00:05:27,000
+Pues bien, he hecho la entrevista con Sergi, muy bien, muy guay.
+
+93
+00:05:27,000 --> 00:05:35,000
+Y ahora he quedado con uno que se llama Víctor, que me ha dado una cosita y me ha invitado a cenar.
+
+94
+00:05:35,000 --> 00:05:39,000
+Ay, a cenar, a desayunar. Muy amable, muy amable.
+
+95
+00:05:39,000 --> 00:05:47,000
+Yo no lo he pedido, pero tú, se ha ofrecido, ha conducido hasta aquí, me ha dado esto que veis aquí y me ha invitado a desayunar.
+
+96
+00:05:47,000 --> 00:05:49,000
+Muchas gracias, Víctor.
+
+97
+00:05:49,000 --> 00:05:51,000
+Lo usaré. Lo usaré.
+
+98
+00:05:51,000 --> 00:05:53,000
+La crema solar que me has dado.
+
+99
+00:05:53,000 --> 00:06:03,000
+Bueno, no me encuentro muy bien. A ver si, a medida que va pasando el día, mejora la cosa, pero me está costando.
+
+100
+00:06:09,000 --> 00:06:20,000
+Bueno, ya me lo dijo Xavi ayer, Xavi de Calella, que podía ir siguiendo la zona de la costa, pero llegaría un momento que me tendría que desviar por la desembocadura del río Tordera, que es donde estoy ahora.
+
+101
+00:06:20,000 --> 00:06:21,000
+.
+
+102
+00:06:21,000 --> 00:06:31,000
+Entonces, pues nada, ahora tocará desviarse hasta un poco más arriba, donde allí puedo cruzar ya y entrar en Blanes, salir de la provincia de Barcelona y entrar en la Selva.
+
+103
+00:06:31,000 --> 00:06:39,500
+¿Qué demonios es esto? ¿Un sombrero para las lechugas? ¿Alguien lo sabe? Ostras, no lo he visto nunca.
+
+104
+00:06:44,500 --> 00:06:49,500
+Cruzando el puente sobre el río Tordera que separa el Maresme de la Selva. Ya lo he dicho antes, pero es que...
+
+105
+00:06:50,000 --> 00:07:00,000
+Me hace ilusión, tú, entrar en tierras gerundenses. Gerundenses, selvenses, no sé cómo se llama, ampurdaneses... Venid a mí.
+
+106
+00:07:00,000 --> 00:07:05,000
+Bueno, segunda persona que me reconoce hoy, David, aquí en la entrada de Blanes. ¿Eres de Blanes?
+
+107
+00:07:05,000 --> 00:07:06,000
+Sí.
+
+108
+00:07:06,000 --> 00:07:09,000
+Muy bien. ¿Me has venido a buscar o me has encontrado así por casualidad?
+
+109
+00:07:09,000 --> 00:07:12,000
+No, te he visto el camino este y veo un chico que está grabando y digo, este es Enric?
+
+110
+00:07:12,000 --> 00:07:14,000
+Soy yo. Era yo.
+
+111
+00:07:14,000 --> 00:07:16,000
+Bueno, tú, nos estamos siguiendo.
+
+112
+00:07:16,000 --> 00:07:17,000
+Ánimo.
+
+113
+00:07:17,000 --> 00:07:18,000
+Muchas gracias.
+
+114
+00:07:18,000 --> 00:07:19,000
+Venga, chao.
+
+115
+00:07:19,000 --> 00:07:20,000
+Vamos, vamos.
+
+116
+00:07:20,000 --> 00:07:21,000
+Adiós.
+
+117
+00:07:21,000 --> 00:07:27,000
+Queda un poco forzado cuando hago esto de parar, grabar y decir hola, ya lo sé, ya lo sé, un poco forzado.
+
+118
+00:07:27,000 --> 00:07:36,000
+Pero me gusta que salgáis, los que me encuentro por casualidad, me gusta que salgáis en el vídeo y si queréis, claro, evidentemente no es obligatorio.
+
+119
+00:07:36,000 --> 00:07:38,000
+Y me hace ilusión grabaros.
+
+120
+00:07:38,000 --> 00:07:45,000
+Bueno, me he comprado una manzana, hay que comer fruta, espero, no lo he comprobado, más les vale que sea manzana de Girona.
+
+121
+00:07:48,000 --> 00:08:00,000
+Muy bien, de momento, la gente de la Selva, me he encontrado a David de antes, una chica que no ha querido salir en el vídeo y ahora un chico que se llama Sebastián que tampoco ha querido salir.
+
+122
+00:08:00,000 --> 00:08:10,000
+Muy bien, tú, le he preguntado a Sebastián que qué me recomendaba, ¿no? Porque, mirad, aquí está este castillo que me he olvidado del nombre, el GR92 pasa por allí.
+
+123
+00:08:10,000 --> 00:08:17,000
+Pero, claro, es subir todo esto. Entonces, existe la opción de ir por la izquierda o ir por la derecha. Le he dicho, ¿qué me recomiendas?
+
+124
+00:08:17,000 --> 00:08:20,000
+Dice, no, no, vete mejor por la derecha porque tienes unas vistas brutales.
+
+125
+00:08:20,000 --> 00:08:26,000
+Así que es lo que voy a hacer. No lo sé, tiene muy buena pinta. Todo lo que son caminos que van por el lado de la costa siempre son bastante guapos.
+
+126
+00:08:31,000 --> 00:08:35,000
+Enganchamos camino de ronda. Increíble, espectacular.
+
+127
+00:08:35,000 --> 00:08:38,000
+Ahora estoy bajando en Cala de Sant Francesc.
+
+128
+00:08:38,000 --> 00:08:44,000
+Mira, no hace sol, ¿eh? Esta mañana estaba tan frío porque el viento era como fresco, como frío.
+
+129
+00:08:44,000 --> 00:08:46,000
+Pero mira, esta hora, esta hora bien.
+
+130
+00:08:46,000 --> 00:08:49,000
+Lástima que no hace sol, ¿eh? Pero ninguna queja, tú, ninguna queja.
+
+131
+00:08:49,000 --> 00:08:55,000
+Gracias, Sebastià, por la recomendación. Sí que es verdad que haré un poco de subida y bajada.
+
+132
+00:08:55,000 --> 00:09:00,000
+Pero tú creo que vale la pena, ¿no? No siempre pasaré por sitios así.
+
+133
+00:09:00,000 --> 00:09:05,000
+Todos los que decís que tengo que llevar una carretilla, ¿cómo pasas por aquí con una carretilla? No se puede.
+
+134
+00:09:05,000 --> 00:09:06,000
+No se puede.
+
+135
+00:09:06,000 --> 00:09:07,000
+No se puede.
+
+136
+00:09:07,000 --> 00:09:08,000
+No se puede.
+
+137
+00:09:08,000 --> 00:09:09,000
+No se puede.
+
+138
+00:09:09,000 --> 00:09:10,000
+No se puede.
+
+139
+00:09:10,000 --> 00:09:11,000
+No se puede.
+
+140
+00:09:11,000 --> 00:09:13,000
+No se puede.
+
+141
+00:09:13,000 --> 00:09:14,000
+No se puede.
+
+142
+00:09:14,000 --> 00:09:15,000
+No se puede.
+
+143
+00:09:15,000 --> 00:09:17,000
+No se puede.
+
+144
+00:09:17,000 --> 00:09:21,000
+Creo que por primera vez en todo el viaje estoy sudando, sudando.
+
+145
+00:09:21,000 --> 00:09:29,000
+Y es que he tenido que hacer esta subida de aquí y todavía me quedan todas estas escaleras de aquí.
+
+146
+00:09:29,000 --> 00:09:31,000
+¡Dios-hi-do!
+
+147
+00:09:31,000 --> 00:09:33,000
+¡Me caches!
+
+148
+00:09:34,000 --> 00:09:38,000
+Está cerrado, tú. El camino de Ronda teóricamente seguía por ahí.
+
+149
+00:09:38,000 --> 00:09:40,000
+Hay una cadena.
+
+150
+00:09:41,000 --> 00:09:43,000
+Y no dice el motivo.
+
+151
+00:09:43,000 --> 00:09:44,000
+¡Mirad!
+
+152
+00:09:45,000 --> 00:09:48,000
+A saber, puede que haya desprendimientos,
+
+153
+00:09:48,000 --> 00:09:51,000
+crías de algún pájaro de estos, no lo sé.
+
+154
+00:09:51,000 --> 00:09:53,000
+Vaya, pues me tengo que desviar.
+
+155
+00:09:53,000 --> 00:09:56,000
+Pues he retomado el camino del GR oficial,
+
+156
+00:09:56,000 --> 00:09:59,000
+un camino bastante rándomo, como podéis ver,
+
+157
+00:09:59,000 --> 00:10:01,000
+por una carretera asfaltada.
+
+158
+00:10:01,000 --> 00:10:04,000
+Entonces, ahora el GR oficial seguía por allí,
+
+159
+00:10:04,000 --> 00:10:07,000
+pero me desvío por aquí, que está la ermita de Santa Cristina.
+
+160
+00:10:07,000 --> 00:10:09,000
+No sé si será bonito, pero tiene buena pinta.
+
+161
+00:10:09,000 --> 00:10:11,000
+Todo lo que está cerca del mar tiene buena pinta.
+
+162
+00:10:11,000 --> 00:10:13,000
+Se ve que es la patrona de Lloret
+
+163
+00:10:13,000 --> 00:10:15,000
+y tiene como más de 250 años.
+
+164
+00:10:15,000 --> 00:10:19,000
+Y bien, aquí se hacen todo tipo de eventos desde siempre,
+
+165
+00:10:19,000 --> 00:10:22,000
+de los que lloran y tal.
+
+166
+00:10:22,000 --> 00:10:25,000
+Y ostras, qué vistas, tú! Impresionante, ¿eh?
+
+167
+00:10:25,000 --> 00:10:27,000
+Muy bonito.
+
+168
+00:10:27,000 --> 00:10:30,000
+Pues no, no había bancos.
+
+169
+00:10:30,000 --> 00:10:32,000
+De hecho, no había ni salida.
+
+170
+00:10:32,000 --> 00:10:34,000
+Yo pensaba que si bajaba la playa de abajo
+
+171
+00:10:34,000 --> 00:10:36,000
+podía salir por el otro lado, pero no, no hay camino.
+
+172
+00:10:36,000 --> 00:10:38,000
+¿Entonces tengo que volver atrás por dónde he venido?
+
+173
+00:10:38,000 --> 00:10:40,000
+Bueno, no pasa nada, ha merecido la pena.
+
+174
+00:10:40,000 --> 00:10:43,000
+Lástima que no estuviera abierta la iglesia o ermita esta,
+
+175
+00:10:43,000 --> 00:10:46,000
+porque dentro hay unos barcos
+
+176
+00:10:46,000 --> 00:10:48,000
+Colgante de las columnas.
+
+177
+00:10:48,000 --> 00:10:51,000
+Guapísimo. Los he podido ver por una reja.
+
+178
+00:10:51,000 --> 00:10:53,000
+Impresionante. Bueno, tú, ha venido la pena.
+
+179
+00:10:53,000 --> 00:10:55,000
+Pues inesperadamente son las dos de la tarde
+
+180
+00:10:55,000 --> 00:10:57,000
+y se me ha hecho un poco tarde.
+
+181
+00:10:57,000 --> 00:11:00,000
+Ahora no he hecho todo el tramo de la costa como tenía previsto,
+
+182
+00:11:00,000 --> 00:11:03,000
+porque, digo esto, se me está haciendo un poco tarde.
+
+183
+00:11:03,000 --> 00:11:05,000
+Donde tengo previsto pernoctar hoy
+
+184
+00:11:05,000 --> 00:11:07,000
+son 14 km si hago todo el camino de ronda,
+
+185
+00:11:07,000 --> 00:11:09,000
+que me apetece hacerlo,
+
+186
+00:11:09,000 --> 00:11:12,000
+y unos 10 km si fuera aquello... en línea recta.
+
+187
+00:11:12,000 --> 00:11:14,000
+Bueno, intentaré hacer el camino de ronda, yo creo,
+
+188
+00:11:14,000 --> 00:11:17,000
+aunque tenga que quitar el frontal durante una hora o así.
+
+189
+00:11:17,000 --> 00:11:19,000
+Mira, es lo que hay.
+
+190
+00:11:20,000 --> 00:11:22,000
+He encontrado aquí un enchufe
+
+191
+00:11:22,000 --> 00:11:25,000
+disponible de un restaurante que está cerrado.
+
+192
+00:11:25,000 --> 00:11:29,000
+Y nada, para comer ya aprovecharé para
+
+193
+00:11:29,000 --> 00:11:31,000
+Cargar un poco.
+
+194
+00:11:33,000 --> 00:11:35,000
+Que luego tengo llamada con el RAC1,
+
+195
+00:11:35,000 --> 00:11:37,000
+con los taloners del Versió RAC1,
+
+196
+00:11:37,000 --> 00:11:39,000
+Es un programa que escucho mucho
+
+197
+00:11:39,000 --> 00:11:41,000
+Me hace mucha ilusión entrar en directo.
+
+198
+00:11:42,000 --> 00:11:45,000
+Las 4 de la tarde, fantástica tarde.
+
+199
+00:11:45,000 --> 00:11:48,000
+Ahora sí que ha salido el sol, perfecto.
+
+200
+00:11:48,000 --> 00:11:52,000
+Bueno, dejar atrás lo que sería el núcleo de Lloret de Mar
+
+201
+00:11:52,000 --> 00:11:54,000
+y enfilar de nuevo el camino de la ronda
+
+202
+00:11:54,000 --> 00:11:56,000
+y todas estas urbanizaciones que hay aquí.
+
+203
+00:11:56,000 --> 00:11:57,000
+No vamos muy bien.
+
+204
+00:11:57,000 --> 00:12:00,000
+Son las 4 de la tarde, quedan todavía unos...
+
+205
+00:12:00,000 --> 00:12:02,000
+no sé si 10 km hasta la zona de acampada,
+
+206
+00:12:02,000 --> 00:12:05,000
+Sinceramente, no sé muy bien cómo es.
+
+207
+00:12:12,000 --> 00:12:25,000
+.
+
+208
+00:12:25,000 --> 00:12:32,000
+Última playa, creo, del día de hoy
+
+209
+00:12:32,000 --> 00:12:34,000
+que pasaré tan cerca, playa de Canyelles.
+
+210
+00:12:34,000 --> 00:12:37,000
+Un amigo me sugirió que
+
+211
+00:12:37,000 --> 00:12:39,000
+que acampe aquí
+
+212
+00:12:39,000 --> 00:12:40,000
+y que nadie me diría nada.
+
+213
+00:12:40,000 --> 00:12:43,460
+pues me tienta
+
+214
+00:12:43,460 --> 00:12:45,560
+me tienta, pero no lo haré
+
+215
+00:12:45,560 --> 00:12:47,680
+por si acaso, por si acaso alguien dice
+
+216
+00:12:47,680 --> 00:12:48,820
+Joder, policía.
+
+217
+00:12:48,820 --> 00:12:51,560
+Hombre, pues no estaba aquí
+
+218
+00:12:51,560 --> 00:12:53,140
+No es un mal lugar
+
+219
+00:12:53,140 --> 00:12:56,260
+es plano, está cerca de la carretera
+
+220
+00:12:56,260 --> 00:12:57,880
+pero no se me ve desde la
+
+221
+00:12:57,880 --> 00:13:00,260
+y hay estas casas aquí
+
+222
+00:13:00,260 --> 00:13:01,420
+No se si se ve
+
+223
+00:13:01,420 --> 00:13:04,060
+pero bueno, creo que todas están cerradas
+
+224
+00:13:04,060 --> 00:13:05,440
+para esta época del año
+
+225
+00:13:05,440 --> 00:13:07,940
+y aunque estén abiertas
+
+226
+00:13:07,940 --> 00:13:10,100
+realmente desde aquí a menos que la lii
+
+227
+00:13:10,100 --> 00:13:12,240
+no se me ve
+
+228
+00:13:12,240 --> 00:13:14,360
+a ver, aquí no vendrá a hacerme nadie nada
+
+229
+00:13:14,360 --> 00:13:16,040
+El tema es que
+
+230
+00:13:16,040 --> 00:13:18,100
+La gente de estas urbanizaciones
+
+231
+00:13:18,100 --> 00:13:20,580
+Tiene miedo a los robos
+
+232
+00:13:20,580 --> 00:13:22,320
+Sobre todo en esta época del año
+
+233
+00:13:22,320 --> 00:13:24,540
+es terreno abonado por los ladrones
+
+234
+00:13:24,540 --> 00:13:26,600
+porque claro, no hay nadie, pueden entrar y tal
+
+235
+00:13:26,600 --> 00:13:28,780
+y los que deben vivir aquí todo el año
+
+236
+00:13:28,780 --> 00:13:29,800
+Supongo que
+
+237
+00:13:29,800 --> 00:13:32,780
+deben de estar muy atentos, deben de tener un grupo de whatsapp
+
+238
+00:13:32,780 --> 00:13:34,080
+Llamaron a la policía
+
+239
+00:13:34,080 --> 00:13:35,720
+entonces a la que me vean
+
+240
+00:13:35,720 --> 00:13:37,580
+Podrían alertar
+
+241
+00:13:37,580 --> 00:13:38,940
+pero bueno, también dicho esto
+
+242
+00:13:38,940 --> 00:13:40,940
+Si llega la policía
+
+243
+00:13:40,940 --> 00:13:43,240
+les podría decir, mira, estoy haciendo el GR
+
+244
+00:13:43,240 --> 00:13:44,220
+y acampo aquí, ¿sabes?
+
+245
+00:13:44,340 --> 00:13:45,600
+tampoco creo que fuera demasiado drama
+
+246
+00:13:45,600 --> 00:13:48,900
+bueno, me lo pienso y os digo
+
+247
+00:13:48,900 --> 00:13:51,020
+pues sí, va, me quedo
+
+248
+00:13:51,020 --> 00:13:52,760
+Creo que aquí
+
+249
+00:13:52,760 --> 00:13:55,180
+que es bastante plano, relativamente ancho
+
+250
+00:13:55,180 --> 00:13:57,580
+lo que pasa es que claro, son las 6 de la tarde
+
+251
+00:13:57,580 --> 00:13:59,400
+Todavía hay un poco de luz
+
+252
+00:13:59,400 --> 00:14:01,280
+lo que haré será esperar un poco
+
 253
-00:13:43,640 --> 00:13:45,640
-Pero, bueno, de hecho...
+00:14:01,280 --> 00:14:03,000
+hasta las 8-9
 
 254
-00:13:45,640 --> 00:13:48,640
-Pues yo diría que aquí estoy bien.
+00:14:03,000 --> 00:14:04,980
+y allí, cuando oscurezca
 
 255
-00:13:48,640 --> 00:13:53,640
-Me planteaba si hacer vivac o meter la tienda...
+00:14:04,980 --> 00:14:06,780
+plantaré la tienda
 
 256
-00:13:55,640 --> 00:14:00,640
-No lo sé. Diría que pondré la tienda. Pero me lo pienso.
+00:14:06,780 --> 00:14:08,940
+muy bien, ya estoy entre la tienda
 
 257
-00:14:00,640 --> 00:14:03,640
-Pues bien, ya está montada la tienda.
+00:14:08,940 --> 00:14:11,720
+hoy 31 km y pico
 
 258
-00:14:03,640 --> 00:14:08,640
-Mira, teniendo en cuenta que es la tercera vez que la montaba y que es de noche,
+00:14:11,720 --> 00:14:13,060
+y 600 y pico
 
 259
-00:14:08,640 --> 00:14:11,640
-y por lo tanto he tenido que usar el frontal y tal, me ha costado bastante.
+00:14:13,060 --> 00:14:14,040
+de desnivel positivo
 
 260
-00:14:11,640 --> 00:14:15,640
-Otro día, ya os enseño más el proceso, algún otro día que tenga más tiempo.
+00:14:14,040 --> 00:14:16,720
+Pocas bromas con los arboles
 
 261
-00:14:15,640 --> 00:14:18,640
-Ha quedado bien al final, ¿eh? Pero...
+00:14:16,720 --> 00:14:18,260
+y los sube-bajas estos del camino de ronda
 
 262
-00:14:18,640 --> 00:14:21,640
-Me he estado un rato porque no acabarán de cuadrar los clips y tal, pero bueno, al final...
+00:14:18,260 --> 00:14:19,420
+que al final han sumado bastante
 
 263
-00:14:21,640 --> 00:14:23,640
-Todo bien, todo bien.
+00:14:19,420 --> 00:14:21,680
+hay un animal ahí fuera
 
 264
-00:14:23,640 --> 00:14:26,640
-A ver, día... día fantástico.
+00:14:21,680 --> 00:14:24,300
+que me está tocando la pera, bueno, no está haciendo nada
 
 265
-00:14:26,640 --> 00:14:29,640
-Han salido, lo veréis en pantalla, ¿eh? Pero...
+00:14:24,300 --> 00:14:25,860
+y espero que siga sin hacer nada
 
 266
-00:14:29,640 --> 00:14:33,640
-27 kilómetros, creo, al principio, o 28, por ahí.
+00:14:25,860 --> 00:14:27,960
+pero la escucho, no sé qué es, he salido
 
 267
-00:14:33,640 --> 00:14:37,640
-Y desnivel, no sé, si 100 o 200, muy poca cosa.
+00:14:27,960 --> 00:14:29,700
+he mirado, no es un puerco-sangrante
 
 268
-00:14:37,640 --> 00:14:39,640
-Día fantástico, día fantástico. Hoy he disfrutado mucho.
+00:14:29,700 --> 00:14:31,780
+porque es una cosa pequeña, tal vez, no sé
 
 269
-00:14:39,640 --> 00:14:44,640
-Bueno, atender a los medios ha sido divertido, de momento.
+00:14:31,780 --> 00:14:33,660
+Tal vez una rata o
 
 270
-00:14:44,640 --> 00:14:47,640
-Espero que algún día no me canse.
+00:14:33,660 --> 00:14:35,580
+o un gato
 
 271
-00:14:47,640 --> 00:14:57,640
-Después, todo el paseo marítimo, todas las palmeras, los pinos allá en la playa, las dunas...
+00:14:35,580 --> 00:14:36,660
+no sé
 
 272
-00:14:57,640 --> 00:14:59,640
-Muy bonito, muy bonito, realmente.
+00:14:36,780 --> 00:14:38,340
+yo en cualquier caso he cogido la comida
 
 273
-00:14:59,640 --> 00:15:04,640
-Me he encontrado con este par de seguidores, hay uno que no os he dicho, pero me ha saludado brevemente.
+00:14:38,340 --> 00:14:39,540
+y lo he colgado de un árbol
 
 274
-00:15:04,640 --> 00:15:08,640
-Y, en fin, he parado y he podido comer un poco, hacía buen tiempo,
+00:14:39,540 --> 00:14:41,540
+espero que no me moleste, bueno
 
 275
-00:15:08,640 --> 00:15:11,640
-buena temperatura. Ahora, mirad, mirad cómo estoy.
+00:14:41,540 --> 00:14:43,540
+a ver
 
 276
-00:15:11,640 --> 00:15:16,640
-Quiero decir, no me he tenido que poner el plumas ni nada.
+00:14:43,540 --> 00:14:45,540
+cafés, dos
 
 277
-00:15:16,640 --> 00:15:18,640
-Estoy muy bien. No hace frío.
+00:14:45,540 --> 00:14:48,340
+por la mañana en el bar con Víctor que me ha invitado
 
 278
-00:15:18,640 --> 00:15:21,640
-Perfecto. A ver, resumen.
+00:14:48,340 --> 00:14:49,540
+Muchas gracias Víctor
 
 279
-00:15:21,640 --> 00:15:24,640
-Refrescos, uno, una fanta.
+00:14:49,540 --> 00:14:52,540
+dos cafés, refrescos
 
 280
-00:15:24,640 --> 00:15:27,640
-Cafés, esta mañana, uno, en casa de mi tía.
+00:14:52,540 --> 00:14:54,540
+hoy ninguno, hoy ningún refresco
 
 281
-00:15:27,640 --> 00:15:30,640
-No, dos, dos. Dos que he hecho, también, en el McCoffee.
+00:14:54,540 --> 00:14:58,540
+dinero gastado, 44 céntimos
 
 282
-00:15:30,640 --> 00:15:35,640
-Personas con las que he hablado, interacción cara a cara, ¿eh? No por teléfono.
+00:14:58,540 --> 00:15:01,140
+la manzana que he comido
 
 283
-00:15:35,640 --> 00:15:37,640
-Pues, ostras.
+00:15:01,140 --> 00:15:05,340
+de momento todavía tiro de la comida con la que salí de casa
 
 284
-00:15:37,640 --> 00:15:39,640
-Tendré que contar más, mejor, el próximo día.
+00:15:05,340 --> 00:15:06,780
+Llevaba demasiado, quizá
 
 285
-00:15:39,640 --> 00:15:45,640
-Tipo 5 o así. 5 o 6.
+00:15:06,780 --> 00:15:08,780
+personas con las que he hablado
 
 286
-00:15:45,640 --> 00:15:51,640
-Y kilómetros totales creo que llevamos ya 59.
+00:15:08,780 --> 00:15:13,540
+5, que son 3 aventureros que me he encontrado que me han saludado
 
 287
-00:15:51,640 --> 00:15:55,640
-59, creo, kilómetros totales, más o menos.
+00:15:13,540 --> 00:15:16,540
+Víctor y la camarera del bar
 
 288
-00:15:55,640 --> 00:16:03,640
-Y el dinero que he gastado hoy. Hoy he gastado 4,40, creo.
+00:15:16,540 --> 00:15:17,540
+nada más
 
 289
-00:16:03,640 --> 00:16:06,640
-El café y el refresco. 4,40.
+00:15:17,540 --> 00:15:19,540
+y nada, podría haber sido un muy mal día
 
 290
-00:16:07,640 --> 00:16:12,640
-Yo no podré ir llevando todo el dinero que gasto.
+00:15:19,540 --> 00:15:21,540
+teniendo en cuenta que había dormido fatal
 
 291
-00:16:12,640 --> 00:16:14,640
-No tengo tiempo para hacerlo todo.
+00:15:21,540 --> 00:15:23,540
+que estaba como, todavía enfermo
 
 292
-00:16:14,640 --> 00:16:16,640
-Si alguien con mucho tiempo y muy motivado
+00:15:23,540 --> 00:15:25,540
+y tal, podría haber sido un muy mal día
 
 293
-00:16:16,640 --> 00:16:18,640
-me quiere ir contando todo el dinero que gasto,
+00:15:25,540 --> 00:15:27,540
+y mira, ha estado bien, ha estado bien
 
 294
-00:16:18,640 --> 00:16:21,640
-Y luego, que me lo pase.
+00:15:27,540 --> 00:15:29,540
+me han gustado mucho las vistas
 
 295
-00:16:21,640 --> 00:16:25,640
-Muy bien. A ver cómo se levanta mañana el día.
+00:15:29,540 --> 00:15:31,540
+El camino de ronda muy bonito
 
 296
-00:16:25,640 --> 00:16:29,640
-Tendré que recogerlo pronto, porque aquí supongo que vendrá gente a pasear al perro, o lo que sea.
+00:15:31,540 --> 00:15:33,540
+mañana será similar, creo
 
 297
-00:16:29,640 --> 00:16:32,640
-Fantásticas vistas. Voy a comer un poco.
+00:15:33,540 --> 00:15:35,540
+espero que también haga bueno, también haga sol
 
 298
-00:16:32,640 --> 00:16:34,640
-Y hasta mañana.
+00:15:35,540 --> 00:15:38,300
+para que te lo enseñen bien
 
 299
-00:16:37,640 --> 00:16:39,640
-Hasta mañana.
-
-300
-00:16:39,640 --> 00:16:41,640
-Hasta mañana.
+00:15:38,300 --> 00:15:40,300
+hasta mañana
