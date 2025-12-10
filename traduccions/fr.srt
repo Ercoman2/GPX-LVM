@@ -1,859 +1,1091 @@
 1
-00:00:00,000 --> 00:00:02,800
-Le tour du monde à pied, jour 8.
+00:00:00,000 --> 00:00:08,200
+Le tour du monde à pied, 10e jour.
 
 2
-00:00:03,120 --> 00:00:07,160
-Aujourd'hui, je fais une semaine de route et une nuit très froide.
+00:00:10,020 --> 00:00:11,000
+Très bonne nuit aujourd'hui.
 
 3
-00:00:07,780 --> 00:00:13,400
-Pas tellement à cause du froid, que je pense que le minimum était de 3 ou ainsi à la station Meteocat de San Pedro,
+00:00:11,160 --> 00:00:13,440
+Aujourd’hui, je dors, je ne pense pas qu’il y ait un autre jour.
 
 4
-00:00:14,320 --> 00:00:16,080
-Mais très humide, n'est-ce pas, Lau?
+00:00:14,180 --> 00:00:15,000
+J'en avais besoin, hein ?
 
 5
-00:00:16,340 --> 00:00:18,000
-Très, très humide, très humide.
+00:00:16,140 --> 00:00:18,080
+Mais bon, on m'a dit de ne pas y mettre le feu.
 
 6
-00:00:18,240 --> 00:00:26,640
-Les sacs de plumes, lorsqu’ils sont mouillés, perdent leur capacité d’isoler.
+00:00:18,380 --> 00:00:20,820
+Je ne ferai pas de feu, mais je ne cuisinerai pas non plus avec un fourneau.
 
 7
-00:00:26,640 --> 00:00:30,940
-Je me suis réveillée à 4h du matin car j'avais un peu froid.
+00:00:21,160 --> 00:00:22,480
+Au cas où, il en parlait aussi.
 
 8
-00:00:31,080 --> 00:00:36,380
-Rien de dramatique non plus, mais j'ai eu du mal à dormir depuis.
+00:00:23,140 --> 00:00:25,020
+Je vais donc aller prendre un café en bas.
 
 9
-00:00:36,740 --> 00:00:38,300
-Nous avons déjà déjeuné.
+00:00:30,000 --> 00:00:38,280
+Bonne journée.
 
 10
-00:00:39,240 --> 00:00:40,460
-J'ai déjeuné.
+00:00:41,160 --> 00:00:41,780
+Bonne journée.
 
 11
-00:00:41,760 --> 00:00:47,820
-Et maintenant, je vais commencer à ramasser la tente, qui sera humide et je vais devoir la ranger hors de mon sac à dos.
+00:00:42,840 --> 00:00:44,180
+Un café au lait, s'il vous plaît.
 
 12
-00:00:48,080 --> 00:00:50,440
-Nous arrivons à Sant Pere Pescador.
+00:00:44,740 --> 00:00:45,840
+Grand ou coupé ?
 
 13
-00:00:50,660 --> 00:00:52,000
-Voilà notre boutique.
+00:00:46,160 --> 00:00:47,300
+Grand, oui, merci.
 
 14
-00:00:52,520 --> 00:00:55,700
-Et voici la Lau, qui a fait aujourd'hui une innovation.
+00:00:48,420 --> 00:00:50,200
+Eh bien, le premier café de Catalogne Nord.
 
 15
-00:00:55,700 --> 00:00:56,500
-Une boutique a été créée.
+00:00:50,340 --> 00:00:51,580
+Je vous raconte mon expérience.
 
 16
-00:00:56,640 --> 00:00:59,280
-C’est un tube ultra-léger qui pèse environ 600 grammes.
+00:00:52,660 --> 00:00:54,440
+J'ai l'intention de parler catalan.
 
 17
-00:00:59,460 --> 00:01:01,060
-Mon poids est d'un kilo en comparaison.
+00:00:54,760 --> 00:00:57,120
+On sait que ça peut parfois être compliqué ici.
 
 18
-00:01:01,340 --> 00:01:04,520
-Vous n’avez pas encore réussi, n’est-ce pas ?
+00:00:57,760 --> 00:00:59,980
+Et je vois un homme avec une casquette bleue,
 
 19
-00:01:04,580 --> 00:01:06,540
-C’était ma première boutique.
+00:00:59,980 --> 00:01:03,020
+avec une étoile qui met la Catalogne.
 
 20
-00:01:06,960 --> 00:01:09,420
-Il n’y en a pas 600, c’est 400.
+00:01:03,240 --> 00:01:04,440
+Et je dis, huîtres, lui dis-je, bonjour.
 
 21
-00:01:09,600 --> 00:01:11,020
-400 et escaig? Huîtres, vous.
+00:01:04,640 --> 00:01:05,800
+Et il répond, bonjour.
 
 22
-00:01:11,260 --> 00:01:14,620
-Et comme ça faisait des années que je ne l'avais pas sorti, je vais voir.
+00:01:11,300 --> 00:01:15,300
+Puis le serveur s’adresse à moi en français et je lui dis :
 
 23
-00:01:14,760 --> 00:01:17,600
-La dernière était dans la Pique d'État, que je ne l'ai pas ouverte, moins mal.
+00:01:15,340 --> 00:01:16,420
+Et je lui dis, non, un café au lait.
 
 24
-00:01:18,420 --> 00:01:21,420
-Je préférerais une bâche, mais c'est plus résistant au vent.
+00:01:16,500 --> 00:01:17,860
+Et il dit, ah, vale, grand.
 
 25
-00:01:21,940 --> 00:01:24,480
-Laura est coiffeuse, je vais voir si tu peux me poser un peu.
+00:01:18,200 --> 00:01:18,840
+Et je lui dis, oui.
 
 26
-00:01:24,960 --> 00:01:25,940
-Skieur de coiffure.
+00:01:19,420 --> 00:01:22,900
+Et il m'apporte ce café que vous voyez ici, grand,
 
 27
-00:01:25,960 --> 00:01:26,500
-C'est difficile, hein ?
+00:01:23,100 --> 00:01:24,980
+avec le lait à côté, curieux,
 
 28
-00:01:26,640 --> 00:01:27,580
-C'est un peu...
+00:01:25,900 --> 00:01:29,780
+Et un petit Croissant qui n'était pas grand-chose.
 
 29
-00:01:27,580 --> 00:01:28,920
-Oh, oh, quels beaux cheveux tu as.
+00:01:29,980 --> 00:01:32,540
+Je conduis la batterie, comme ça, très bien.
 
 30
-00:01:29,200 --> 00:01:30,540
-Bon, maintenant, je suis un peu gras.
+00:01:33,380 --> 00:01:34,700
+Quand est-ce que tu me diras que ça m'a coûté ?
 
 31
-00:01:31,020 --> 00:01:32,040
-Non, mais vous l'avez...
+00:01:36,580 --> 00:01:37,260
+plus ou moins.
 
 32
-00:01:32,040 --> 00:01:32,640
-Bon, mieux...
+00:01:37,300 --> 00:01:39,620
+C’est la France, la France est un pays plus cher, nous le savons déjà.
 
 33
-00:01:33,700 --> 00:01:35,240
-Il vaut mieux qu'il soit un peu gras.
+00:01:40,500 --> 00:01:42,060
+3 euros pour 80.
 
 34
-00:01:35,320 --> 00:01:36,160
-Oups, je n'ai pas de ciseaux.
+00:01:43,500 --> 00:01:47,500
+3 euros avec 80 un grand café, avec un gâteau.
 
 35
-00:01:36,280 --> 00:01:36,800
-Avez-vous des ciseaux?
+00:01:47,620 --> 00:01:48,420
+Ma mère.
 
 36
-00:01:37,040 --> 00:01:38,620
-Non, non, non, non, on ne commence pas.
+00:01:49,180 --> 00:01:52,260
+Je laisse la plage et la côte derrière moi pendant un moment.
 
 37
-00:01:39,300 --> 00:01:40,360
-Homme, je peux...
+00:01:53,020 --> 00:01:56,940
+Et je vous raconte une chose, c'est que j'ai parlé à une personne qui suit ces jours-ci,
 
 38
-00:01:40,360 --> 00:01:40,980
-Homme...
+00:01:57,460 --> 00:01:59,140
+qui m'a donné quelques conseils parce qu'il a fait
 
 39
-00:01:40,980 --> 00:01:41,760
-Non, non, non, non.
+00:01:59,140 --> 00:02:02,740
+beaucoup de cyclotourisme en France, cette personne, non?
 
 40
-00:01:41,860 --> 00:01:43,960
-Je peux le faire comme ça, un peu plus haut, non ?
+00:02:03,580 --> 00:02:06,620
+Et il a dit qu'il voulait venir, qu'il voulait venir quelques jours pour marcher avec moi,
 
 41
-00:01:44,120 --> 00:01:44,620
-À plus tard.
+00:02:06,740 --> 00:02:08,380
+Je ne sais pas si un, deux, trois,
 
 42
-00:01:44,920 --> 00:01:45,340
-Jusqu'à maintenant.
+00:02:10,180 --> 00:02:12,140
+Je ne sais pas pourquoi, je dis oui à tout le monde.
 
 43
-00:01:45,860 --> 00:01:46,220
-Au revoir.
+00:02:13,740 --> 00:02:16,060
+Cette personne est très jalouse de sa vie privée,
 
 44
-00:01:47,220 --> 00:01:48,780
-Nous sommes allés à Sant Pere del Pescador.
+00:02:16,100 --> 00:02:17,460
+Ce que je respecte parfaitement,
 
 45
-00:01:50,400 --> 00:01:51,680
-Ici, quelqu'un qui fait du parapente.
+00:02:17,820 --> 00:02:20,700
+Et il ne veut pas apparaître dans la vidéo, il ne veut pas que son nom soit là, ni rien, ni rien.
 
 46
-00:01:52,260 --> 00:01:54,480
-J'ai dit au revoir à Laura.
+00:02:21,220 --> 00:02:24,060
+Mais peut-être me suis-je passé par trois peuples, parce que moi, je ne la connais pas du tout.
 
 47
-00:01:55,360 --> 00:01:56,620
-et d'Oscar.
+00:02:24,580 --> 00:02:25,420
+Je n'ai même pas vu son visage.
 
 48
-00:01:56,640 --> 00:01:58,500
-Óscar et Joy, qui sont venus me rendre visite.
+00:02:27,300 --> 00:02:28,900
+Mais bon, il viendra, il conduit déjà ici,
 
 49
-00:01:59,040 --> 00:01:59,700
-Très Majeur.
+00:02:29,140 --> 00:02:33,580
+Eh bien, il dit qu’il va dormir à l’hôtel, et moi je camperai là, quoi que ce soit, je ne sais pas, enfin.
 
 50
-00:02:00,020 --> 00:02:01,500
-Oscar était marin.
+00:02:34,660 --> 00:02:37,780
+Cela peut être intéressant parce qu'il dit que la seule chose que je donnerai à cette personne, c'est que
 
 51
-00:02:02,020 --> 00:02:04,960
-Et il m'a donné ceci, qui est comme la tête principale
+00:02:38,100 --> 00:02:39,820
+Il y a 19 ans, il a fait le tour du monde.
 
 52
-00:02:05,900 --> 00:02:08,440
-avec lequel les navires sont poussés au port.
+00:02:40,380 --> 00:02:44,260
+Ce qui se passe, c'est qu'il l'a fait en mode routard, ni à pied, ni à vélo.
 
 53
-00:02:08,760 --> 00:02:11,220
-Et c'est, bon, un rouleau métaphorique, symbolique,
+00:02:44,580 --> 00:02:48,820
+Bon, je pense que ça peut être intéressant pour moi, pas pour vous, parce que vous ne l'écouterez pas,
 
 54
-00:02:11,220 --> 00:02:13,640
-Qu'il soit de nouveau chez lui.
+00:02:48,860 --> 00:02:50,780
+Mais bon, ce sera un appareil photo, j'aurai un appareil photo.
 
 55
-00:02:14,220 --> 00:02:15,640
-Très gentils, très sympathiques.
+00:02:51,220 --> 00:02:53,180
+Et moi qui pensais qu’en allant en Catalogne
 
 56
-00:02:15,720 --> 00:02:16,980
-C'est un plaisir de vous rencontrer.
+00:02:53,220 --> 00:02:56,460
+Il serait difficile pour moi de continuer à faire un peu de promotion de Demeter.
 
 57
-00:02:17,220 --> 00:02:18,620
-Je vois que ce n'est pas du parapente, hein?
+00:02:59,140 --> 00:03:01,700
+Demeter, je ne sais pas ce que cela signifie dans quel contexte,
 
 58
-00:02:18,680 --> 00:02:20,840
-C'est un vol à moteur, parce qu'on l'entend d'ici.
+00:03:01,740 --> 00:03:03,460
+C’est ce qu’on appelle l’agriculture biodynamique.
 
 59
-00:02:21,360 --> 00:02:21,860
-Très bien.
+00:03:04,260 --> 00:03:07,100
+Mais le Demeter que je connais est une entreprise de décombres,
 
 60
-00:02:22,920 --> 00:02:23,960
-Quel est l’objectif aujourd’hui ?
+00:03:07,620 --> 00:03:09,860
+les mouvements de terres et la décontamination,
 
 61
-00:02:24,700 --> 00:02:25,720
-Arrivée à Llançà.
+00:03:10,460 --> 00:03:15,700
+spécialiste des décombres emblématiques comme celui dont j'ai parlé l'autre jour de Radio Liberty,
 
 62
-00:02:25,740 --> 00:02:26,620
-Sans entrer à Llançà,
+00:03:16,380 --> 00:03:18,860
+Le camp de Sarria del Español a également été démoli par Demeter.
 
 63
-00:02:26,640 --> 00:02:27,980
-mais plus ou moins à l'extérieur,
+00:03:18,900 --> 00:03:23,620
+et le premier travail dans lequel le recyclage des débris provenant de la démolition a commencé,
 
 64
-00:02:28,640 --> 00:02:29,340
-Je vais camper là-bas.
+00:03:23,660 --> 00:03:27,740
+Tout le monde le fait maintenant, mais Demeter a commencé à le faire en 1987,
 
 65
-00:02:30,560 --> 00:02:32,820
-Alors, bien sûr, je vais droit au but.
+00:03:27,780 --> 00:03:28,700
+C'était un projet,
 
 66
-00:02:32,820 --> 00:02:35,520
-C'est-à-dire que je ne me détournerai pas vers Roses,
+00:03:29,140 --> 00:03:30,820
+La construction du village olympique.
 
 67
-00:02:35,520 --> 00:02:36,780
-Tout le Cap de Creus, non.
+00:03:31,340 --> 00:03:34,220
+Nous marchons sur une route maintenant avec un trottoir très généreux.
 
 68
-00:02:37,180 --> 00:02:37,840
-Je vais directement.
+00:03:34,900 --> 00:03:38,580
+Regardez, je vous explique pour que vous compreniez un peu comment je monte les jours et les routes à partir de maintenant.
 
 69
-00:02:37,860 --> 00:02:38,940
-Je vais aussi vous dire une chose,
+00:03:38,780 --> 00:03:40,260
+En Catalogne, je l’ai fait différemment, mais à partir de maintenant.
 
 70
-00:02:38,960 --> 00:02:40,100
-Le Cap de Creus,
+00:03:41,140 --> 00:03:42,940
+Si j'étais ici, du côté de la mer,
 
 71
-00:02:40,160 --> 00:02:41,160
-Comme un espace naturel,
+00:03:43,580 --> 00:03:46,620
+il y a une sorte de falaises, un très beau chemin de ronde,
 
 72
-00:02:41,360 --> 00:02:42,640
-On ne peut pas camper, c'est interdit.
+00:03:47,020 --> 00:03:48,540
+Où il y aurait la mer et la mer.
 
 73
-00:02:42,940 --> 00:02:44,260
-Je veux être un bon exemple,
+00:03:48,860 --> 00:03:51,620
+Deux fois plus de kilomètres que sur la route.
 
 74
-00:02:44,380 --> 00:02:45,320
-Je ne vais pas camper.
+00:03:51,860 --> 00:03:53,660
+En arrivant à Collioure,
 
 75
-00:02:45,780 --> 00:02:48,080
-Nous camperons à l’extérieur du parc naturel.
+00:03:53,820 --> 00:03:57,860
+Il y a aussi une zone de falaises, face à la mer, très belle.
 
 76
-00:02:48,660 --> 00:02:49,020
-Résumé.
+00:03:58,260 --> 00:03:58,740
+Par conséquent,
 
 77
-00:02:49,260 --> 00:02:50,500
-Il est onze heures et demie
+00:03:59,140 --> 00:04:03,220
+Je ferai la zone belle quand j'y arriverai, mais cette étape je l'épargne.
 
 78
-00:02:50,500 --> 00:02:53,260
-et il reste environ 17 kilomètres jusqu'à Vilajuïga,
+00:04:03,580 --> 00:04:05,100
+C'est plus ou moins ce que je vais faire.
 
 79
-00:02:53,340 --> 00:02:54,620
-Je vais trouver d'autres abonnés.
+00:04:05,420 --> 00:04:09,420
+J'irai des parties d'aller tout droit et des parties de plaisir, entre guillemets.
 
 80
-00:02:54,840 --> 00:02:55,160
-Let’s go !
+00:04:09,580 --> 00:04:10,180
+à combiner.
 
 81
-00:02:56,640 --> 00:02:56,640
-
+00:04:24,860 --> 00:04:26,260
+C'est la deuxième fois que ça m'arrive, oui.
 
 82
-00:02:58,620 --> 00:02:59,060
-
+00:04:27,700 --> 00:04:28,900
+Mais maintenant, il est tombé dans les herbes, non?
 
 83
-00:03:02,400 --> 00:03:02,840
-
+00:04:29,980 --> 00:04:30,980
+Il ne s'est rien passé.
 
 84
-00:03:18,360 --> 00:03:20,120
-On voit que les températures ont augmenté
+00:04:31,580 --> 00:04:32,580
+Port Vendu.
 
 85
-00:03:20,120 --> 00:03:21,800
-Parce que j'ai chaud en ce moment.
+00:04:32,740 --> 00:04:36,060
+J'ai dû regarder quatre fois le nom du village parce que je l'oubliais toujours.
 
 86
-00:03:21,900 --> 00:03:22,860
-J'irais avec des manches courtes.
+00:04:36,500 --> 00:04:39,900
+Je pense que ce sera une constante ici en France et dans le reste du monde.
 
 87
-00:03:30,460 --> 00:03:34,680
-Le tronçon monotone de cette route qui ne passe presque pas de voitures.
+00:04:40,500 --> 00:04:44,500
+Bon, je ne sais pas si ce sera ici, mais aujourd'hui je dois gérer le sujet de la SIM oui ou oui.
 
 88
-00:03:35,180 --> 00:03:40,760
-J'en profite pour vous dire que je vais peut-être changer mon sac, non ?
+00:04:44,860 --> 00:04:46,260
+Je n'ai pas pu mettre la vidéo hier.
 
 89
-00:03:40,840 --> 00:03:47,640
-Par un adepte de Transpyrénéenne qui avait le même que moi, mais en gris et plus grand, de 48, la moitié de 38.
+00:04:46,620 --> 00:04:49,860
+Je l'ai fait le matin parce que j'ai laissé mon téléphone portable.
 
 90
-00:03:48,280 --> 00:03:50,580
-J'ai finalement abandonné l'idée, pourquoi ?
+00:04:50,300 --> 00:04:54,420
+Mais non, non, avec la carte SIM Roaming ne donne pas.
 
 91
-00:03:51,200 --> 00:03:55,800
-Parce que, tout d’abord, j’ai appris à l’emballer un peu mieux et maintenant j’optimise plus l’espace.
+00:04:55,020 --> 00:04:59,100
+Je vais voir si je peux trouver un bureau de tabac et me faire une carte SIM de ceux d'une compagnie bon marché.
 
 92
-00:03:55,800 --> 00:03:58,700
-Deuxièmement, voyez-vous une différence?
+00:04:59,260 --> 00:05:01,940
+Type Lyca Mobile ou Lebara ou l'un d'eux.
 
 93
-00:03:59,680 --> 00:04:01,480
-Avant, il portait un drapeau sur lui, maintenant il ne l'est plus.
+00:05:02,620 --> 00:05:04,980
+Je suis en train de regarder des cartes postales car je dois vous envoyer la carte postale dans quelques jours.
 
 94
-00:04:02,200 --> 00:04:05,340
-Qu'est-ce que j'ai fait? J'ai mis le champignon dans le sac à dos.
+00:05:05,460 --> 00:05:08,100
+Au cas où quelqu'un ne le saurait pas, je me suis ouvert le robinet,
 
 95
-00:04:05,651,200 --> 00:03:55,800
-Parce que, tout d’abord, j’ai appris à l’emballer un peu mieux et maintenant j’optimise plus l’espace.
-
-92
-00:03:55,800 --> 00:03:58,700
-Deuxièmement, voyez-vous une différence?
-
-93
-00:03:59,680 --> 00:04:01,480
-Avant, il portait un drapeau sur lui, maintenant il ne l'est plus.
-
-94
-00:04:02,200 --> 00:04:05,340
-Qu'est-ce que j'ai fait? J'ai mis le champignon dans le sac à dos.
-
-95
-00:04:05,680 --> 00:04:14,500
-Le champignon ou le cerveau, comme vous voulez l'appeler, est la partie supérieure qui couvre le sac à dos et a comme une poche sur le dessus, à l'intérieur.
+00:05:08,500 --> 00:05:13,100
+Il s’agit d’une plateforme de micro-financement sur laquelle vous pouvez faire des contributions volontaires.
 
 96
-00:04:15,500 --> 00:04:21,660
-Eh bien, je l'avais enlevé parce que je pensais qu'il me restait 38 litres et pour économiser un peu de poids, je l'avais enlevé.
+00:05:13,180 --> 00:05:17,460
+Si quelqu'un veut m'aider financièrement dans ce projet,
 
 97
-00:04:22,080 --> 00:04:24,760
-Alors je l'avais laissé à la maison, mais bien sûr, comme il allait un peu juste,
+00:05:17,500 --> 00:05:20,220
+Je t'envoie un mail tous les mois.
 
 98
-00:04:25,240 --> 00:04:32,600
-Hier, quand mes parents sont venus, je leur ai dit, apportez-le-moi, apportez-le-moi, parce que ça me servira au moins pour l’hiver, pour garder plus de choses et ainsi de suite.
+00:05:20,780 --> 00:05:23,700
+Et quelqu'un m'avait dit que c'était difficile ou cher de trouver des cartes postales.
 
 99
-00:04:32,740 --> 00:04:36,640
-C'est dommage, mais maintenant j'ai plus d'espace.
+00:05:24,140 --> 00:05:28,300
+Je suis allé au premier endroit que j'ai vu et, mec, 10 cartes postales pour 4 euros, c'est bien.
 
 100
-00:04:36,700 --> 00:04:39,140
-Ça se voit, ça se voit, non ?
+00:05:29,140 --> 00:05:29,580
+Très bien.
 
 101
-00:04:49,700 --> 00:04:52,860
-Bar La Pujada, ici derrière moi.
+00:05:30,180 --> 00:05:35,020
+Maintenant, la question sera de savoir combien coûte l'expédition, mais bon, les cartes postales sont au moins couvertes.
 
 102
-00:04:53,800 --> 00:04:55,740
-Un lieu mythique pour moi.
+00:05:38,500 --> 00:05:38,940
+atteint.
 
 103
-00:04:56,560 --> 00:05:01,640
-Dans ma Transpyrénéenne, ce fut mon avant-dernière, ou avant-dernière étape,
+00:05:40,240 --> 00:05:44,100
+Atteint 200 gigas pour un mois, 10 euros.
 
 104
-00:05:01,800 --> 00:05:06,220
-Je suis passé par là, c'est Vilajuïga, et je suis entré dans cet endroit qui est un kebab.
+00:05:44,980 --> 00:05:45,700
+Ça va, non ?
 
 105
-00:05:07,380 --> 00:05:12,340
-J'ai commandé un kebab et la sauce ne sortait pas, elle ne sortait pas du pot de sauce typique.
+00:05:46,460 --> 00:05:51,180
+200 gigas, 10 euros, avec 5G, appels illimités, je n'appellerai pas beaucoup,
 
 106
-00:05:12,620 --> 00:05:20,160
-Et j'ai beaucoup serré et il a explosé et m'a rempli tout le ventre et tous les pantalons de sauce kebab.
+00:05:51,900 --> 00:05:55,160
+et puis 32 gigas d'utiliser dehors l'Europe.
 
 107
-00:05:20,500 --> 00:05:22,840
-Et j'ai passé une journée entière à sentir la sauce.
+00:05:55,300 --> 00:05:56,940
+Ça m’aidera quand je serai en Italie.
 
 108
-00:05:22,860 --> 00:05:23,280
-Et j'ai passé une journée entière à sentir la sauce kebab.
+00:05:57,660 --> 00:05:58,200
+Parfait, toi.
 
 109
-00:05:23,540 --> 00:05:30,400
-C'est sur... sur YouTube, vous l'avez, si vous allez aux vidéos de la Transpyrénéenne, moment mythique.
+00:05:58,300 --> 00:05:58,940
+C'est aussi SFR.
 
 110
-00:05:30,780 --> 00:05:35,920
-Eh bien, maintenant je viens de dire au revoir à Francisco et Esther, quelques cracks, encore une fois.
+00:05:59,140 --> 00:06:04,700
+SFR, qui je pense est une bonne compagnie, n'est pas la meilleure, je pense que la meilleure est Orange, mais bon, c'est bien.
 
 111
-00:05:36,540 --> 00:05:37,580
-Merci beaucoup pour le repas.
+00:06:05,460 --> 00:06:09,120
+Très bien, arrivés à Collioure, maquissime cette promenade en bord de mer de la route.
 
 112
-00:05:37,940 --> 00:05:41,260
-Nous n’avons pas pu manger plus catalan.
+00:06:09,660 --> 00:06:16,060
+Comme vous pouvez le voir, j'ai déjà mon appareil photo anonyme avec moi, qui m'accompagnera pendant on ne sait combien, quelques jours peut-être.
 
 113
-00:05:41,700 --> 00:05:46,500
-Demain, je quitte la Catalogne sud, pourrait-on dire, et aujourd'hui, j'ai fait un repas très catalan.
+00:06:16,980 --> 00:06:22,440
+Maintenant, nous descendons et nous allons voir si nous achetons quelque chose pour le petit déjeuner ou aller déjeuner.
 
 114
-00:05:46,900 --> 00:05:49,400
-Tout d’abord, à la catalane.
+00:06:22,860 --> 00:06:26,120
+Nous sommes partis de Collioure, très beau, très beau.
 
 115
-00:05:49,720 --> 00:05:51,840
-Deuxièmement, boudin.
+00:06:26,120 --> 00:06:29,120
+Nous sommes allés à la boulangerie et nous avons acheté la première baguette.
 
 116
-00:05:51,840 --> 00:05:54,680
-Et le troisième, dessert, crème catalane.
+00:06:29,140 --> 00:06:31,480
+Celui-ci, il vient de prix, 1,1 €.
 
 117
-00:05:55,200 --> 00:05:55,680
-Incroyable.
+00:06:32,780 --> 00:06:36,600
+Allez, la vérité, c'est que quand je suis sorti, j'ai dit, huîtres, c'est déjà ça.
 
 118
-00:05:56,040 --> 00:06:03,200
-Il n’est pas encore 4 heures du matin et il est temps d’aller chercher la zone de couchage.
+00:06:37,800 --> 00:06:39,980
+Nous aurions dû rester un peu plus longtemps.
 
 119
-00:06:03,820 --> 00:06:04,860
-Et je sais où il est.
+00:06:40,780 --> 00:06:42,520
+Plage de Posidonia, ici.
 
 120
-00:06:05,000 --> 00:06:06,260
-Bon, bon, on prend le temps.
+00:06:43,340 --> 00:06:45,380
+Ça ne sent pas mauvais, normalement ça sent mauvais.
 
 121
-00:06:06,480 --> 00:06:08,740
-Aujourd'hui, nous allons dormir dans le monde perdu.
+00:06:45,520 --> 00:06:47,700
+Ui, je vais me mouiller ici, hein? J'espère que non, ça va.
 
 122
-00:06:16,300 --> 00:06:19,320
-Il est interdit de camper dans le parc naturel du Cap de Creus.
+00:06:48,480 --> 00:06:54,760
+Allez, prochain village, je pense que c'est déjà la zone de la plage d'Argelès, qui a une histoire assez intéressante.
 
 123
-00:06:19,800 --> 00:06:21,680
-J'en suis parfaitement conscient.
+00:06:59,140 --> 00:07:16,500
+Bonsoir, 13h20, 18 kilomètres déjà, et en ce moment je me trouve sur la plage d'Argelès.
 
 124
-00:06:21,840 --> 00:06:27,840
-Et comme je planifiais le tour du monde à pied, c’était l’étape de la Catalogne où je savais où je devais terminer.
+00:07:17,100 --> 00:07:26,420
+Cet endroit est célèbre parce qu’en 1939, après la victoire franquiste, les républicains, venant du sud, de Portbou, ont traversé et se sont retrouvés ici.
 
 125
-00:06:28,040 --> 00:06:36,880
-Je veux être un bon exemple, comme je vous l’ai dit plusieurs fois, et je camperai un peu au-delà de la limite du parc naturel du Cap de Creus pour que personne ne puisse me dire quoi que ce soit.
+00:07:26,700 --> 00:07:29,120
+Le gouvernement français a fait un camp de concentration.
 
 126
-00:06:42,500 --> 00:06:43,640
-Dernière hausse de la journée.
+00:07:29,140 --> 00:07:37,380
+Il était surveillé militairement et, donc, il y avait là, cela, près d’un demi-million de personnes, dans des conditions inhumaines.
 
 127
-00:06:44,500 --> 00:06:45,520
-La première, en fait.
+00:07:37,980 --> 00:07:44,340
+On dit qu'il était surveillé, ça, ils ne pouvaient pas sortir d'ici, ils n'avaient que quatre baraques,
 
 128
-00:06:48,200 --> 00:06:50,480
-Bon, la zone de camping est comme une sorte d'ermitage.
+00:07:44,840 --> 00:07:53,740
+Certains dormaient sur le sable, d’autres sur quelque bois, avaient faim, hiver, été, printemps, pluie, vent, tout ici.
 
 129
-00:06:51,840 --> 00:06:56,980
-Que j'ai vu que j'étais un peu gênée par le vent, parce que bien sûr, quand j'ai planifié cela, je ne savais pas quel temps je ferais.
+00:07:53,900 --> 00:07:55,280
+Des conditions difficiles.
 
 130
-00:06:57,500 --> 00:07:01,500
-J'ai pensé que ce serait une bonne idée d'être un peu emportée par le vent.
+00:07:55,280 --> 00:07:58,280
+On dit qu'en hiver, ils avaient tellement froid qu'ils ont attrapé...
 
 131
-00:07:02,600 --> 00:07:04,980
-On verra après, car il y a toujours des surprises.
+00:07:59,140 --> 00:08:06,940
+Les bois des quelques baraquements qu'ils avaient, et ils les brûlaient, ce qui, bien sûr, faisait qu'ils n'avaient pas d'abri pour quand venait le mauvais temps.
 
 132
-00:07:05,500 --> 00:07:11,300
-Vous êtes sur le point d'arriver à la zone de camping, mais regardez ce moment magique.
+00:08:06,940 --> 00:08:16,940
+Imaginez, adultes, enfants, personnes âgées, femmes enceintes, ont monté ici comme une sorte de... camp, hôpital, ainsi, improvisé,
 
 133
-00:07:12,280 --> 00:07:15,320
-D'un côté le coucher de soleil, orange.
+00:08:16,940 --> 00:08:20,940
+Cela a peut-être duré quelques jours, mais ça a duré longtemps.
 
 134
-00:07:16,680 --> 00:07:21,540
-Et de l'autre côté, nous tournons et voyons Llançà et ce ciel.
+00:08:20,940 --> 00:08:26,940
+Aujourd'hui, mardi 9 décembre, qui d'ailleurs, je n'avais pas dit la date, j'avais dit que je le dirais au début de la vidéo, j'oublie toujours,
 
 135
-00:07:21,840 --> 00:07:23,660
-Et de l'autre côté, le rose de la Méditerranée.
+00:08:26,940 --> 00:08:34,740
+Il y a cette sorte de commémoration que nous avons ici avec des images de ce que ce camp avait été ici.
 
 136
-00:07:25,160 --> 00:07:27,060
-Je ne sais pas si vous appréciez la photo, mais... la vidéo.
+00:08:34,740 --> 00:08:37,740
+C’est vrai que c’est assez impressionnant, les conditions de vie.
 
 137
-00:07:28,340 --> 00:07:28,900
-Mais, à la fin.
+00:08:37,740 --> 00:08:43,740
+À partir de ce champ, certains ont été distribués dans d'autres domaines, dans des centres de travail,
 
 138
-00:07:32,880 --> 00:07:36,000
-17-14, je suis déjà là.
+00:08:43,740 --> 00:08:48,740
+Certains ont même rejoint l'armée française pour la résistance de la Seconde Guerre mondiale.
 
 139
-00:07:37,240 --> 00:07:39,720
-Voyons, c’est cet ermitage là-bas, je ne sais pas si on le voit.
+00:08:48,740 --> 00:08:54,740
+Ma grand-mère, mon grand-père a dû fuir parce qu’il a été emprisonné en France.
 
 140
-00:07:42,660 --> 00:07:43,400
-Ici en bas.
+00:08:54,740 --> 00:09:01,740
+Il dut fuir à Espolla, qui était son lieu de résidence, de l’autre côté, c’est-à-dire en Catalogne.
 
 141
-00:07:44,520 --> 00:07:46,520
-Nous allons nous rapprocher pour voir.
+00:09:01,740 --> 00:09:08,740
+Il a dû fuir une nuit, une catastrophe, son village, avec ses deux filles sur les épaules,
 
 142
-00:07:47,400 --> 00:07:48,660
-J'ouvre la porte, regarde.
+00:09:08,740 --> 00:09:14,740
+Ils arrivèrent en France et les placèrent sur la plage d'Argelès.
 
 143
-00:07:49,560 --> 00:07:50,940
-On ouvre et on ferme toujours.
+00:09:14,740 --> 00:09:21,740
+C’est-à-dire qu’ils ont connu les champs, les ont entassés dans des huttes, m dans des champs.
 
 144
-00:07:52,100 --> 00:07:52,580
-Iupala.
+00:09:21,740 --> 00:09:23,740
+Et puis ma grand-mère...
 
 145
-00:07:53,200 --> 00:07:54,020
-Bien fait, Ermitage.
+00:09:24,740 --> 00:09:27,740
+Ma grand-mère avait une belle-sœur ici en France,
 
 146
-00:07:55,240 --> 00:07:58,340
-Je ne sais pas comment appeler ce type de construction.
+00:09:27,740 --> 00:09:30,740
+Ils sont venus les chercher et les ont conduits chez eux.
 
 147
-00:07:58,440 --> 00:07:58,880
-Je ne sais pas comment appeler ce type de construction.
+00:09:30,740 --> 00:09:36,740
+Pour moi, il représente ici un lieu emblématique de la vie de ma mère, de ma grand-mère,
 
 148
-00:07:59,600 --> 00:08:00,080
-Je ne sais pas comment appeler ce type de construction.
+00:09:36,740 --> 00:09:40,740
+et de notre famille, et que nous porterons toujours dans notre cœur, voilà.
 
 149
-00:08:00,120 --> 00:08:00,600
-Église.
+00:09:43,740 --> 00:09:47,740
+Vale, la mapy nous a mal indiqué, il m'a indiqué par ici,
 
 150
-00:08:00,640 --> 00:08:02,480
-Il y a un panneau qui met l'église.
+00:09:47,740 --> 00:09:50,740
+Il n'y a donc pas d'autre choix que de sauter la clôture.
 
 151
-00:08:03,840 --> 00:08:07,220
-Église de San Genís de Terrer.
+00:09:50,740 --> 00:09:53,740
+Regarde, maintenant je tombe, je casse quelque chose et le tour de mon pied est terminé.
 
 152
-00:08:07,880 --> 00:08:08,540
-Très bien.
+00:09:54,740 --> 00:09:56,740
+Aïe, aïe, aïe.
 
 153
-00:08:09,940 --> 00:08:12,040
-Une église du 10ème siècle, non ?
+00:09:56,740 --> 00:09:58,740
+Et surtout que personne ne nous voit, parce que...
 
 154
-00:08:12,040 --> 00:08:12,880
-Ouf, c'est très ancien.
+00:10:01,740 --> 00:10:03,740
+C'est déjà.
 
 155
-00:08:13,780 --> 00:08:14,400
-Très bien.
+00:10:03,740 --> 00:10:08,740
+Il est midi, maintenant dans 15 minutes, j'ai un appel avec la COPE.
 
 156
-00:08:14,480 --> 00:08:15,740
-Homme... Ouais, regarde.
+00:10:08,740 --> 00:10:12,740
+Eh bien, nous n'allons pas très bien, la vérité, parce qu'aujourd'hui, je voulais faire environ 30 et piu kilomètres,
 
 157
-00:08:16,440 --> 00:08:17,980
-Peut-être même qu'ils peuvent planter des piquets.
+00:10:12,740 --> 00:10:15,740
+36, et nous en avons 20.
 
 158
-00:08:18,140 --> 00:08:18,660
-Je ne crois pas, hein ?
+00:10:15,740 --> 00:10:19,740
+Alors, bon, c'est possible, c'est possible, mais je ne sais pas.
 
 159
-00:08:19,500 --> 00:08:20,940
-Mais là dedans...
+00:10:19,740 --> 00:10:22,740
+Il touche le tronçon de route, donc nous pouvons avancer plus vite.
 
 160
-00:08:20,940 --> 00:08:21,900
-Mais là dedans...
+00:10:24,740 --> 00:10:42,740
+Eh bien, nous nous sommes arrêtés pour manger un peu, nous avions faim, nous avons fait un sandwich baguette au fouet,
 
 161
-00:08:21,900 --> 00:08:22,660
-Un bivouac tombe.
+00:10:42,740 --> 00:10:44,740
+Je veux te montrer quelque chose, viens, viens.
 
 162
-00:08:22,780 --> 00:08:23,960
-C'est... c'est sûr, hein ?
+00:10:44,740 --> 00:10:48,740
+Le jour de mon départ, un fan m'a suivi depuis longtemps.
 
 163
-00:08:24,240 --> 00:08:24,860
-Très bien.
+00:10:48,740 --> 00:10:51,740
+Il s’appelle Das et il m’a donné ce cadeau.
 
 164
-00:08:25,180 --> 00:08:28,180
-D'habitude, j'édite d'abord, puis je résume, mais...
+00:10:51,740 --> 00:10:53,740
+Il est beau, n'est-ce pas ?
 
 165
-00:08:28,180 --> 00:08:31,460
-Je pense qu'il vaut la peine de profiter de ces couleurs que nous avons maintenant pour faire le résumé final.
+00:10:53,740 --> 00:10:56,740
+C'est le couteau à champignons typique de tout ce qui est catalan.
 
 166
-00:08:31,960 --> 00:08:36,020
-Près de 28 kilomètres et environ 300 mètres de dénivelé positif.
+00:10:56,740 --> 00:10:59,740
+Et mon nom est sérigraphié, mon...
 
 167
-00:08:36,340 --> 00:08:41,900
-Très bonne journée, avec soleil, sans vent, très placide.
+00:10:59,740 --> 00:11:01,740
+Bueno, le nom de YouTube, Enric Adventures.
 
 168
-00:08:42,340 --> 00:08:47,260
-J'ai rencontré des gens très gentils qui m'ont donné toute leur gentillesse et leur temps,
+00:11:01,740 --> 00:11:03,740
+Wow, j'adore.
 
 169
-00:08:47,920 --> 00:08:48,920
-Impressionnant merci beaucoup.
+00:11:03,740 --> 00:11:05,740
+En plus, je l'utilise maintenant, il est très grand.
 
 170
-00:08:49,180 --> 00:08:50,280
-Toutes les bonnes choses ont une fin.
+00:11:05,740 --> 00:11:08,740
+Merci beaucoup pour ce cadeau, il est incroyable.
 
 171
-00:08:50,800 --> 00:08:53,440
-Demain, franchissez la frontière, frontières invisibles.
+00:11:08,740 --> 00:11:11,740
+L'opinel que j'ai, je vais le prendre...
 
 172
-00:08:53,480 --> 00:08:57,180
-Croyez-le en Catalogne Nord, où je doute qu’on me reconnaisse tant.
+00:11:11,740 --> 00:11:14,740
+Bon, je ne jette pas, mais je vais devoir le donner à quelqu'un, parce que ça me suffit.
 
 173
-00:08:57,400 --> 00:09:01,260
-Il y a une personne qui vient beaucoup à voir, mais il vient de Catalogne Sud.
+00:11:14,740 --> 00:11:19,740
+Belle promenade maritime entre cette pinède et la plage.
 
 174
-00:09:01,440 --> 00:09:01,940
-Non, il habite là-bas.
+00:11:19,740 --> 00:11:22,740
+Nous évaluons maintenant, et Saint-Marie-le-Mer,
 
 175
-00:09:02,740 --> 00:09:03,460
-Cafés, deux.
+00:11:22,740 --> 00:11:25,740
+L'objectif d'aujourd'hui, c'est loin.
 
 176
-00:09:03,680 --> 00:09:05,120
-Une dans le magasin et une dans le bar.
+00:11:25,740 --> 00:11:28,740
+Nous arrivons à sept heures, alors qu'il fait déjà sombre depuis longtemps.
 
 177
-00:09:05,920 --> 00:09:07,040
-personnes avec qui j'ai parlé.
+00:11:28,740 --> 00:11:29,740
+Trop loin.
 
 178
-00:09:07,220 --> 00:09:09,960
-Laura et son ami Tony.
+00:11:29,740 --> 00:11:32,740
+Puis nous avons regardé un peu et nous avons vu un hôtel
 
 179
-00:09:12,320 --> 00:09:13,480
-Oscar et Joy.
+00:11:32,740 --> 00:11:36,740
+super bon prix, mais pas super bon prix selon les normes françaises,
 
 180
-00:09:14,660 --> 00:09:16,680
-Et Francisco et Esther. Et Sergi.
+00:11:36,740 --> 00:11:38,740
+Comme vous pouvez le voir, ils sont chers.
 
 181
-00:09:17,120 --> 00:09:17,780
-Six personnes.
+00:11:38,740 --> 00:11:43,740
+Non, non, un hôtel, des standards aussi catalans.
 
 182
-00:09:18,760 --> 00:09:20,220
-L'argent que j'ai dépensé aujourd'hui...
+00:11:43,740 --> 00:11:45,740
+Pour environ 20 euros, vous pouvez dormir.
 
 183
-00:09:20,220 --> 00:09:20,580
-...ré.
+00:11:45,740 --> 00:11:47,740
+C'est parfait, on y va.
 
 184
-00:09:21,120 --> 00:09:21,960
-On ne me l'a pas laissé.
+00:11:47,740 --> 00:11:50,740
+Quand je traçais la route de cette zone,
 
 185
-00:09:22,160 --> 00:09:22,720
-On ne me l'a pas laissé.
+00:11:50,740 --> 00:11:53,740
+Je me demandais toujours ce que c'était que de marcher ici.
 
 186
-00:09:22,920 --> 00:09:25,240
-A partir de demain, je pense que nous allons commencer.
+00:11:53,740 --> 00:11:56,740
+Parce qu'il y a une petite route très propre
 
 187
-00:09:25,580 --> 00:09:27,380
-Mon sac est aussi plein de nourriture.
+00:11:56,740 --> 00:11:59,740
+entre cet étang, qui est l'étang de Canet,
 
 188
-00:09:27,400 --> 00:09:28,660
-Et la nourriture, qui pèse lourd.
+00:11:59,740 --> 00:12:00,740
+et la plage.
 
 189
-00:09:29,060 --> 00:09:30,120
-J'ai beaucoup de bonbons.
+00:12:00,740 --> 00:12:01,740
+Eh bien, c'est ainsi.
 
 190
-00:09:30,240 --> 00:09:31,720
-Je ne sais pas ce que je vais faire avec tant de douceur.
+00:12:01,740 --> 00:12:04,740
+Très beau, surtout à cette heure-ci avec le coucher de soleil
 
 191
-00:09:31,800 --> 00:09:32,460
-Bon, le manger.
+00:12:04,740 --> 00:12:06,740
+Les Pyrénées sont au fond.
 
 192
-00:09:32,960 --> 00:09:33,940
-Que veux-tu que je fasse ?
+00:12:06,740 --> 00:12:08,740
+C'est bien, beaucoup de trafic, non ?
 
 193
-00:09:34,480 --> 00:09:35,620
-Il y a un écho à l’intérieur.
+00:12:08,740 --> 00:12:11,740
+Il reste encore 9 à 8 kilomètres.
 
 194
-00:09:35,660 --> 00:09:38,320
-Je pense que ça protège de tout.
+00:12:11,740 --> 00:12:13,740
+.
 
 195
-00:09:38,600 --> 00:09:41,620
-Maintenant, j'ai remarqué que sur l'affiche de l'église
+00:12:18,740 --> 00:12:20,740
+Fatigué, hein ?
 
 196
-00:09:42,940 --> 00:09:45,460
-Il y avait des balles.
+00:12:20,740 --> 00:12:22,740
+J'ai hâte d'arriver à l'hôtel, mais
 
 197
-00:09:46,380 --> 00:09:47,580
-Ces trous sont des balles.
+00:12:22,740 --> 00:12:26,740
+C’est le premier gros achat du voyage.
 
 198
-00:09:47,920 --> 00:09:49,140
-Je ne pense pas que ce soit des balles.
+00:12:26,740 --> 00:12:28,740
+Pas très grand non plus, car, honnêtement,
 
 199
-00:09:49,380 --> 00:09:50,280
-C’est... Eh bien, je ne sais pas.
+00:12:28,740 --> 00:12:31,740
+Nous allons passer par les supermarchés tous les deux par trois, mais
 
 200
-00:09:50,400 --> 00:09:51,420
-Quelqu'un est venu ici pour faire des tests.
+00:12:31,740 --> 00:12:34,740
+Je vais acheter un croissant, un fruit,
 
 201
-00:09:52,200 --> 00:09:54,780
-En tout cas, je suis sûr que je ne reçois pas de visites de sangliers.
+00:12:34,740 --> 00:12:37,740
+un peu de pain, saucisson qui est déjà fini,
 
 202
-00:09:55,400 --> 00:09:56,960
-Peut-être que je vois une crotte de...
+00:12:37,740 --> 00:12:39,740
+et un peu de légume, type salade,
 
 203
-00:09:56,960 --> 00:09:58,340
-Non, ce sont des crottes.
+00:12:39,740 --> 00:12:40,740
+pour le dîner.
 
 204
-00:09:58,500 --> 00:09:59,600
-Non, ce sont des crottes.
+00:12:40,740 --> 00:12:42,740
+Un plat préparé pour le dîner.
 
 205
-00:09:59,600 --> 00:10:00,960
-J'allais dire des cacas de chèvre.
+00:12:51,740 --> 00:12:52,740
+Ouf !
 
 206
-00:10:00,960 --> 00:10:01,740
-Non, ce sont des crottes.
+00:12:52,740 --> 00:12:54,740
+Fatigué.
 
 207
-00:10:01,760 --> 00:10:03,540
-Ou d'un arbre ou d'un arbre.
+00:12:54,740 --> 00:12:55,740
+Fatigué.
 
 208
-00:10:04,460 --> 00:10:05,080
-Rien de plus.
+00:12:55,740 --> 00:12:56,740
+Il est 7 heures de l'après-midi.
 
 209
-00:10:06,280 --> 00:10:07,540
-Demain, jour important.
+00:12:56,740 --> 00:12:59,740
+Aujourd'hui, nous avons parcouru 39 km
 
 210
-00:10:08,200 --> 00:10:09,020
-Frontières invisibles.
+00:12:59,740 --> 00:13:02,740
+400 mètres de dénivelé positif.
 
 211
-00:10:09,340 --> 00:10:10,000
+00:13:02,740 --> 00:13:04,740
+Aujourd'hui, record. Record.
+
+212
+00:13:04,740 --> 00:13:07,740
+Meilleur background impossible
+
+213
+00:13:07,740 --> 00:13:09,740
+pour faire ce résumé.
+
+214
+00:13:09,740 --> 00:13:11,740
+Les 400, honnêtement,
+
+215
+00:13:11,740 --> 00:13:13,740
+Je ne les ai pas remarqués parce qu'ils étaient
+
+216
+00:13:13,740 --> 00:13:15,740
+un peu du chemin de ronde et du début,
+
+217
+00:13:15,740 --> 00:13:17,740
+C'était donc peu de chose.
+
+218
+00:13:17,740 --> 00:13:19,740
+Mais les 39 kilomètres, je les ai remarqués, n'est-ce pas?
+
+219
+00:13:19,740 --> 00:13:21,740
+Parce que nous sommes ici dans les
+
+220
+00:13:21,740 --> 00:13:23,740
+sept heures et demie, six heures et demie,
+
+221
+00:13:23,740 --> 00:13:25,740
+Et il est devenu paresseux.
+
+222
+00:13:25,740 --> 00:13:27,740
+Il est devenu long et, bon,
+
+223
+00:13:27,740 --> 00:13:28,740
+Je n'avais pas autant marché depuis le 1er
+
+224
+00:13:28,740 --> 00:13:29,740
+Je suis allé à Mataro,
+
+225
+00:13:29,740 --> 00:13:31,740
+Chez ma tante, tu te souviens ?
+
+226
+00:13:31,740 --> 00:13:33,740
+C'était une super bonne journée.
+
+227
+00:13:33,740 --> 00:13:35,740
+Bonne température, comme toujours.
+
+228
+00:13:35,740 --> 00:13:37,740
+Sans vent, sans soleil,
+
+229
+00:13:37,740 --> 00:13:39,740
+Voir les plages...
+
+230
+00:13:39,740 --> 00:13:41,740
+Je dois dire aussi que
+
+231
+00:13:41,740 --> 00:13:43,740
+une partie de la route,
+
+232
+00:13:43,740 --> 00:13:45,740
+bon, plus d'un,
+
+233
+00:13:45,740 --> 00:13:47,740
+nous avons fait. Mais bon, vous,
+
+234
+00:13:47,740 --> 00:13:49,740
+J'ai pris beaucoup de plaisir aujourd'hui.
+
+235
+00:13:49,740 --> 00:13:51,740
+Il faut vivre le présent et aujourd'hui est un bon jour
+
+236
+00:13:51,740 --> 00:13:53,740
+Et voilà, tu sais ?
+
+237
+00:13:53,740 --> 00:13:55,740
+Très bien, douche aujourd'hui.
+
+238
+00:13:55,740 --> 00:13:57,740
+Douche et laver le linge.
+
+239
+00:13:57,740 --> 00:13:59,740
+Très important. Il y a maintenant quatre jours
+
+240
+00:13:59,740 --> 00:14:01,740
+Il ne lavait pas ses vêtements.
+
+241
+00:14:01,740 --> 00:14:03,740
+Non, je ne me douchais pas.
+
+242
+00:14:03,740 --> 00:14:05,740
+J'ai passé trois nuits à camper
+
+243
+00:14:05,740 --> 00:14:07,740
+La quatrième, c’est quand
+
+244
+00:14:07,740 --> 00:14:09,740
+Je viens à l'hôtel, non? J'aime ça, j'aime ce bas.
+
+245
+00:14:09,740 --> 00:14:11,740
+Je pourrais rester un jour de plus, mais je l'aime bien
+
+246
+00:14:11,740 --> 00:14:13,740
+ce moyen. Eh bien, quoi d'autre?
+
+247
+00:14:13,740 --> 00:14:15,740
+Des gens avec qui j'ai parlé ?
+
+248
+00:14:15,740 --> 00:14:17,740
+Deux. Regardez, la femme est
+
+249
+00:14:17,740 --> 00:14:19,740
+que j'ai fait l'interview, Cati,
+
+250
+00:14:19,740 --> 00:14:21,740
+et la personne
+
+251
+00:14:21,740 --> 00:14:23,740
+qui m'a accompagné. La personne.
+
+252
+00:14:23,740 --> 00:14:25,740
+Oui, parce que, bien sûr,
+
+253
+00:14:25,740 --> 00:14:27,740
+En français, j'ai parlé avec le serveur
+
+254
+00:14:27,740 --> 00:14:29,740
+et tel, mais des conversations et des conversations
+
+255
+00:14:29,740 --> 00:14:31,740
+Je n'ai pas eu.
+
+256
+00:14:31,740 --> 00:14:33,740
+Et de l'argent. Je me souviens de l'argent aujourd'hui, hein?
+
+257
+00:14:33,740 --> 00:14:35,740
+Aussi. Regardez, 10 euros,
+
+258
+00:14:35,740 --> 00:14:37,740
+et de la SIM.
+
+259
+00:14:37,740 --> 00:14:39,740
+3,80 de café,
+
+260
+00:14:39,740 --> 00:14:41,740
+deux et pico d'une boulangerie qui
+
+261
+00:14:41,740 --> 00:14:43,740
+Nous y sommes allés, et maintenant
+
+262
+00:14:43,740 --> 00:14:45,740
+Je pense que l'achat a été 9,9 €,
+
+263
+00:14:45,740 --> 00:14:47,740
+donc je pense que la somme, et 20 euros
+
+264
+00:14:47,740 --> 00:14:49,740
+de l'auberge
+
+265
+00:14:49,740 --> 00:14:51,740
+Celui de l'hôtel,
+
+266
+00:14:51,740 --> 00:14:53,740
+Soit 45,
+
+267
+00:14:53,740 --> 00:14:55,740
+je crois, ou 42, bon, ajoutez-y vous,
+
+268
+00:14:55,740 --> 00:14:57,740
+mais je dirais que cela ajoute. Cafés un
+
+269
+00:14:57,740 --> 00:14:59,740
+Aucun rafraîchissement.
+
+270
+00:14:59,740 --> 00:15:01,740
+Rien de plus,
+
+271
+00:15:01,740 --> 00:15:03,740
+Demain, je serai accompagné
+
+272
+00:15:03,740 --> 00:15:05,740
+J'espère qu'il fera aussi beau qu'aujourd'hui.
+
+273
+00:15:05,740 --> 00:15:07,740
 à demain.
