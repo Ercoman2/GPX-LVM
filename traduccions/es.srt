@@ -1,1548 +1,1264 @@
 1
-00:00:00,000 --> 00:00:09,700
+00:00:00,000 --> 00:00:03,640
 La vuelta al mundo a pie
 
 2
-00:00:09,700 --> 00:00:12,020
-Día 50
+00:00:03,640 --> 00:00:07,340
+Día 51
 
 3
-00:00:12,020 --> 00:00:19,980
-Hoy, domingo 18 de enero de 2026
+00:00:07,340 --> 00:00:13,720
+Temperatura de 3 grados según la aplicación del móvil ahora mismo
 
 4
-00:00:19,980 --> 00:00:22,820
-Creo que esto es lo que llevo andado hasta ahora
+00:00:13,720 --> 00:00:16,140
+Se está bien
 
 5
-00:00:22,820 --> 00:00:27,180
-Pues una noche donde ha pulido un poco
+00:00:16,140 --> 00:00:18,380
+Y ya empiezo a recoger
 
 6
-00:00:27,180 --> 00:00:29,860
-Pero realmente me la esperaba mucho más húmeda
+00:00:18,380 --> 00:00:21,640
+Y caminar hasta Piacenza
 
 7
-00:00:29,860 --> 00:00:34,240
-Me esperaba encontrar la tienda realmente llena de humedad
+00:00:21,640 --> 00:00:23,160
+Pueblo de hoy
 
 8
-00:00:34,240 --> 00:00:36,320
-Y no, será como que estamos un poco elevados
+00:00:23,160 --> 00:00:26,340
+Ha sido una buena noche, pero ha llovido
 
 9
-00:00:36,320 --> 00:00:37,660
-Porque estoy viendo la niebla
+00:00:26,340 --> 00:00:28,460
+Ha llovido durante bastante rato
 
 10
-00:00:37,660 --> 00:00:40,800
-En toda la parte baja
+00:00:28,460 --> 00:00:29,420
+Sí y no
 
 11
-00:00:40,800 --> 00:00:41,740
-Como estamos un poco elevados
+00:00:29,420 --> 00:00:31,840
+Pero lluvia fina
 
 12
-00:00:41,740 --> 00:00:44,220
-Bueno, y como os he dicho el pi y esto
+00:00:31,840 --> 00:00:35,280
+Pero sí claro, ahora está mojada la tienda, es inevitable
 
 13
-00:00:44,220 --> 00:00:45,860
-Nos ha protegido
+00:00:35,280 --> 00:00:37,240
+Guau, mira
 
 14
-00:00:45,860 --> 00:00:49,200
-Muy bien, son casi las 8
+00:00:37,240 --> 00:00:39,640
+Entonces está todo lleno de barro
 
 15
-00:00:49,200 --> 00:00:52,920
-Es cuando he salido de la tienda hace un rato
+00:00:39,640 --> 00:00:44,020
+No pasa nada, todo bien
 
 16
-00:00:52,920 --> 00:00:55,300
-Había escopetazos
+00:00:44,020 --> 00:00:48,020
+Hoy es lunes 19 de enero
 
 17
-00:00:55,300 --> 00:00:58,440
-Escopetazos como cada domingo que estoy acampado
+00:00:48,020 --> 00:00:52,000
+Y esto es lo que llevo recorrido hasta ahora
 
 18
-00:00:58,440 --> 00:00:59,640
-Siempre hay alguien que
+00:00:52,000 --> 00:00:54,240
+Hoy llegamos a Plasencia
 
 19
-00:00:59,640 --> 00:01:01,820
-Qué bueno, tiene esta afición
+00:00:59,420 --> 00:01:13,960
+Ha, Castello di Luzzano
 
 20
-00:01:01,820 --> 00:01:03,760
-De disparar animales
+00:01:13,960 --> 00:01:16,760
+¿Cómo que Castello di Luzzano?
 
 21
-00:01:03,760 --> 00:01:06,140
-Vale, recojo y vamos tirando
+00:01:20,400 --> 00:01:21,600
+Castillo de Luzzano
 
 22
-00:01:20,400 --> 00:01:22,340
-Dos kilómetros más o menos
+00:01:21,600 --> 00:01:22,640
+Hombre, pues vamos, ¿no?
 
 23
-00:01:22,340 --> 00:01:24,840
-Estoy saliendo de Torrats a Coste
+00:01:23,180 --> 00:01:23,580
+Vamos
 
 24
-00:01:24,840 --> 00:01:27,660
-Me olvidé de comprar café ayer
+00:01:23,580 --> 00:01:26,280
+Vale, esto es una especie de pequeño pueblo
 
 25
-00:01:27,660 --> 00:01:29,040
-Ayer fui al supermercado
+00:01:26,280 --> 00:01:27,800
+Muy, muy, muy pequeño
 
 26
-00:01:29,040 --> 00:01:29,620
-Y me olvidé de comprar café ayer
+00:01:27,800 --> 00:01:29,400
+Y tiene un...
 
 27
-00:01:29,620 --> 00:01:31,020
-Olvidé comprar el café soluble
+00:01:29,420 --> 00:01:31,120
+Un castillo, que es este restaurante
 
 28
-00:01:31,020 --> 00:01:32,300
-Y no tengo
+00:01:31,120 --> 00:01:32,420
+Ahora es un restaurante
 
 29
-00:01:32,300 --> 00:01:33,160
-Tengo té
+00:01:32,420 --> 00:01:35,420
+Donde deben hacer convites y...
 
 30
-00:01:33,160 --> 00:01:34,720
-Pero claro, tiene no es lo mismo
+00:01:36,360 --> 00:01:37,780
+Bodas y tal
 
 31
-00:01:34,720 --> 00:01:36,260
-Entonces venía aquí
+00:01:37,780 --> 00:01:39,540
+Y esta pequeña iglesia
 
 32
-00:01:36,260 --> 00:01:37,820
-En el bar
+00:01:39,540 --> 00:01:41,020
+Y hay una explicación aquí
 
 33
-00:01:37,820 --> 00:01:40,060
-Y resulta que justamente hoy
+00:01:41,020 --> 00:01:43,660
+Que dice que el nombre de este de Luzzano
 
 34
-00:01:40,060 --> 00:01:41,260
-El domingo
+00:01:43,660 --> 00:01:46,120
+Viene de unos descubrimientos que
 
 35
-00:01:41,260 --> 00:01:42,700
-Abre a las 12
+00:01:46,120 --> 00:01:47,500
+En 1995
 
 36
-00:01:42,700 --> 00:01:43,760
-Normalmente abre a las 8
+00:01:47,500 --> 00:01:49,700
+Había una especie de villa romana
 
 37
-00:01:43,760 --> 00:01:44,640
-Hoy a las 12
+00:01:49,700 --> 00:01:51,280
+Con una extensión muy grande de agricultura
 
 38
-00:01:44,640 --> 00:01:45,680
-En fin
+00:01:51,280 --> 00:01:53,420
+Y se llamaba Luzianus
 
 39
-00:01:45,680 --> 00:01:48,240
-A ver dónde encuentro el siguiente
+00:01:54,140 --> 00:01:54,740
+O algo así
 
 40
-00:01:48,240 --> 00:01:50,240
-Porque hoy voy a ir mucho por
+00:01:54,740 --> 00:01:56,460
+En latín, en cualquier caso
 
 41
-00:01:50,240 --> 00:01:52,860
-Pueblos, carreteras muy secundarias
+00:01:56,460 --> 00:01:58,840
+Luzzano, tú, qué gracia
 
 42
-00:01:52,860 --> 00:01:55,360
-Caminos, tal
+00:01:59,420 --> 00:02:00,920
+Por si alguien ha despistado
 
 43
-00:01:55,360 --> 00:01:57,080
-Entonces no sé muy bien qué encontraré
+00:02:00,920 --> 00:02:03,120
+Me llamo Luzan de primer apellido
 
 44
-00:01:59,620 --> 00:02:08,620
-Vuelve a llover
+00:02:03,120 --> 00:02:04,180
+Entonces, si parece
 
 45
-00:02:08,620 --> 00:02:10,620
-Hoy no había prevista lluvia
+00:02:04,180 --> 00:02:06,780
+Y aquí tenemos el cartel de Luzzano
 
 46
-00:02:10,620 --> 00:02:13,620
-Supongo que esto la aplicación no lo considera lluvia
+00:02:06,780 --> 00:02:11,180
+Que por fuerza tiene que ser la portada del día de hoy
 
 47
-00:02:13,620 --> 00:02:14,620
-Porque es como así
+00:02:11,180 --> 00:02:13,160
+Vale, poca broma
 
 48
-00:02:14,620 --> 00:02:16,620
-Plugim pequeño
+00:02:13,160 --> 00:02:15,340
+Porque ayer cargué la batería al 90%
 
 49
-00:02:16,620 --> 00:02:18,620
-Pero claro
+00:02:15,340 --> 00:02:16,680
+O sea, arriba de todo, en aquel bar
 
 50
-00:02:18,620 --> 00:02:20,620
-Va calando, voy calando como dije ayer
+00:02:16,680 --> 00:02:18,960
+Pero al final, ayer tanto y eso gasto
 
 51
-00:02:20,620 --> 00:02:22,620
-Bruto, bruto giorno
+00:02:18,960 --> 00:02:20,180
+Ahora he tenido dos llamadas
 
 52
-00:02:22,620 --> 00:02:24,620
-Bueno, en las afueras del pueblo de Capelleta
+00:02:20,180 --> 00:02:21,940
+Con la experta Carreras y con Radio Flashback
 
 53
-00:02:24,620 --> 00:02:26,620
-Tenemos esta iglesia, esta parroquia
+00:02:21,940 --> 00:02:24,820
+Y estoy en el 30... 31
 
 54
-00:02:26,620 --> 00:02:28,620
-El domingo está lleno de coches
+00:02:24,820 --> 00:02:28,480
+Y en la batería tengo un 5 así
 
 55
-00:02:28,620 --> 00:02:30,620
-Esto de la misa a los italianos
+00:02:28,480 --> 00:02:28,920
+Por lo tanto...
 
 56
-00:02:30,620 --> 00:02:32,620
-Parece que soprende en serio
+00:02:29,420 --> 00:02:32,560
+Está siendo complicado en invierno, el tema de la batería
 
 57
-00:02:32,620 --> 00:02:34,620
-Misa de domingo
+00:02:32,560 --> 00:02:35,080
+Tengo que ir cargando cada día y apurando
 
 58
-00:02:34,620 --> 00:02:36,620
-Pero re, esto son todo campos y cuatro casas
+00:02:35,080 --> 00:02:38,140
+Buf, pues apurando, ¿eh?
 
 59
-00:02:36,620 --> 00:02:37,620
-Jefe bar
+00:02:38,140 --> 00:02:40,140
+Apurando, se ha apagado el móvil
 
 60
-00:02:37,620 --> 00:02:39,620
-Que es lo que me interesa
+00:02:40,140 --> 00:02:42,940
+He tenido que ir aquí al bar este
 
 61
-00:02:44,620 --> 00:02:46,620
-Entrando en Borgo Priolo
+00:02:42,940 --> 00:02:44,700
+Que estaba la mitad de bares
 
 62
-00:02:46,620 --> 00:02:48,620
-Otro pueblo
+00:02:44,700 --> 00:02:46,700
+O el 90% de bares del pueblo este
 
 63
-00:02:48,620 --> 00:02:49,620
-Veo una iglesia
+00:02:46,700 --> 00:02:48,100
+No recuerdo cómo se llama
 
 64
-00:02:49,620 --> 00:02:51,620
-Bueno, a veces cuando hay iglesia hay bar
+00:02:48,100 --> 00:02:48,940
+Cerrados
 
 65
-00:02:51,620 --> 00:02:52,620
-En cualquier caso,
+00:02:48,940 --> 00:02:50,700
+Había un
 
 66
-00:02:52,620 --> 00:02:53,620
-Puente
+00:02:50,700 --> 00:02:53,140
+Regentado por unos chinos
 
 67
-00:02:53,620 --> 00:02:54,620
-Puente del día
+00:02:53,140 --> 00:02:54,540
+Este sí que estaba abierto
 
 68
-00:02:54,620 --> 00:02:56,620
-Un Tres
+00:02:54,540 --> 00:02:55,340
+Y bueno, en fin
 
 69
-00:02:56,620 --> 00:02:57,620
-Un tres, un puente...
+00:02:55,340 --> 00:02:57,340
+Ha sido un buen rato pero tampoco he cargado todo, ¿eh?
 
 70
-00:02:57,620 --> 00:03:00,620
-Un puente feo con ganas
+00:02:57,340 --> 00:02:58,820
+Luego tendría que volver a parar
 
 71
-00:03:00,620 --> 00:03:02,620
-Borgo Priolo
+00:02:58,820 --> 00:02:59,420
+En fin
 
 72
-00:03:02,620 --> 00:03:04,620
-Había un lugar
+00:02:59,420 --> 00:03:01,420
+También ya está bien, ¿eh? Parar
 
 73
-00:03:04,620 --> 00:03:06,620
-Que quizás algún día fue un bar
+00:03:01,420 --> 00:03:03,420
+Parar ya me gusta, vale
 
 74
-00:03:06,620 --> 00:03:08,620
-O en alguna época del año fue un
+00:03:03,420 --> 00:03:03,920
+¿Ahora qué?
 
 75
-00:03:08,620 --> 00:03:09,620
-Pero re
+00:03:03,920 --> 00:03:04,920
+Ahora supermercado
 
 76
-00:03:09,620 --> 00:03:10,620
-He parado
+00:03:04,920 --> 00:03:06,920
+Porque es lunes y ya hacía unos días que no...
 
 77
-00:03:10,620 --> 00:03:12,620
-He hecho un segundo desayuno
+00:03:06,920 --> 00:03:08,920
+Que no compraba
 
 78
-00:03:12,620 --> 00:03:15,620
-Un segundo desayuno con pan y mortadela
+00:03:08,920 --> 00:03:11,920
+Y en el bar este no tenían nada para comer
 
 79
-00:03:15,620 --> 00:03:16,620
-Bologna DOP
+00:03:11,920 --> 00:03:15,420
+Tenían unas barritas tipo snickers, Twix de estos y ya está
 
 80
-00:03:16,620 --> 00:03:18,620
-Me encanta la mortadela esta de Bologna
+00:03:15,420 --> 00:03:16,420
+En fin
 
 81
-00:03:18,620 --> 00:03:21,620
-Creo que es el embutido italiano que más me gusta
+00:03:16,420 --> 00:03:17,420
+Tengo hambre
 
 82
-00:03:21,620 --> 00:03:23,620
-10 y 36
+00:03:17,420 --> 00:03:19,420
+No tenían café
 
 83
-00:03:23,620 --> 00:03:25,620
-Re, pues seguimos hasta el siguiente pueblo
+00:03:19,420 --> 00:03:20,420
+No tenían café
 
 84
-00:03:27,620 --> 00:03:33,620
-
+00:03:20,420 --> 00:03:21,420
+Bueno, sí tenían
 
 85
-00:03:33,620 --> 00:03:37,620
-Montalto Pavese, ciudad del vino
+00:03:21,420 --> 00:03:23,420
+Lo que no tenían es el café que yo necesito
 
 86
-00:03:37,620 --> 00:03:38,620
-Ojo, eh
+00:03:23,420 --> 00:03:25,420
+Yo necesito café soluble
 
 87
-00:03:38,620 --> 00:03:39,620
-Todavía...
+00:03:25,420 --> 00:03:26,420
+Con sobres
 
 88
-00:03:39,620 --> 00:03:40,620
-Todavía probamos algún vino
+00:03:26,420 --> 00:03:28,420
+Y que no sea formatos grandes, es decir...
 
 89
-00:03:40,620 --> 00:03:41,620
-No, no creo
+00:03:29,420 --> 00:03:31,420
+Mira, había estos botes, ¿no?
 
 90
-00:03:41,620 --> 00:03:42,620
-De acuerdo
+00:03:31,420 --> 00:03:32,420
+Gigantes de café soluble
 
 91
-00:03:42,620 --> 00:03:45,620
-Para llegar al centro de Montalto Pavese
+00:03:32,420 --> 00:03:34,420
+Pero claro, era botes de cristal o...
 
 92
-00:03:45,620 --> 00:03:49,620
-Tenemos que subir este turonet
+00:03:34,420 --> 00:03:36,420
+200 gramos de cafés, no
 
 93
-00:03:49,620 --> 00:03:51,620
-Costarut
-
-94
-00:03:51,620 --> 00:03:53,620
-Un kilómetro y pico
-
-95
-00:03:57,620 --> 00:04:09,620
-Ambiente fantasmagórico
-
-96
-00:04:09,620 --> 00:04:11,620
-Con esta niebla en Montalto Pavese
-
-97
-00:04:11,620 --> 00:04:13,620
-Bueno, metía amigos
-
-98
-00:04:13,620 --> 00:04:15,620
-Ayuntamiento amigo
-
-99
-00:04:15,620 --> 00:04:17,620
-Del turismo itinerante
-
-100
-00:04:17,620 --> 00:04:19,620
-Yo soy turismo itinerante, ¿no?
-
-101
-00:04:19,620 --> 00:04:21,620
-Veo que hay un poco más de vida
-
-102
-00:04:21,620 --> 00:04:22,620
-Hay bastantes coches
-
-103
-00:04:22,620 --> 00:04:24,620
-Bueno, dentro de lo que cabe eh
-
-104
-00:04:24,620 --> 00:04:26,620
-Y salía algo abierto
-
-105
-00:04:27,620 --> 00:04:28,620
-No lo sé
-
-106
-00:04:28,620 --> 00:04:30,620
-Mira, hay un horno de pan
-
-107
-00:04:30,620 --> 00:04:31,620
-Horno de pan
-
-108
-00:04:31,620 --> 00:04:32,620
-Bueno, puedo comprar
-
-109
-00:04:32,620 --> 00:04:33,620
-No sé si está abierto
-
-110
-00:04:33,620 --> 00:04:34,620
-No, está chapado eso, ¿no?
-
-111
-00:04:34,620 --> 00:04:36,620
-Esto está chapadísimo
-
-112
-00:04:36,620 --> 00:04:41,620
-Bueno, es que haya una dentro
-
-113
-00:04:41,620 --> 00:04:42,620
-Uh
-
-114
-00:04:42,620 --> 00:04:43,620
-¿Esto qué es?
-
-115
-00:04:43,620 --> 00:04:44,620
-¿Un supermarket?
-
-116
-00:04:44,620 --> 00:04:45,620
-Mete market allí
-
-117
-00:04:45,620 --> 00:04:46,620
-Bueno, me sirve
-
-118
-00:04:46,620 --> 00:04:47,620
-Me sirve
-
-119
-00:04:47,620 --> 00:04:48,620
-Hay un bar
-
-120
-00:04:48,620 --> 00:04:49,620
-Hay un bar
-
-121
-00:04:49,620 --> 00:04:50,620
-Hay un bar
-
-122
-00:04:50,620 --> 00:04:51,620
-Hay un bar
-
-123
-00:04:51,620 --> 00:04:52,620
-Podré cargar la batería
-
-124
-00:04:52,620 --> 00:04:53,620
-Que es lo importante
-
-125
-00:04:53,620 --> 00:04:54,620
-Y va
-
-126
-00:04:54,620 --> 00:04:55,620
-El café también
-
-127
-00:04:55,620 --> 00:04:56,620
-Ya que estamos
-
-128
-00:04:56,620 --> 00:04:58,620
-Veo que se estaba ahí dentro
-
-129
-00:04:58,620 --> 00:05:00,620
-Con la estufa
-
-130
-00:05:00,620 --> 00:05:03,620
-La crostata, que es el pastel este
-
-131
-00:05:03,620 --> 00:05:04,620
-El capuchino
-
-132
-00:05:04,620 --> 00:05:05,620
-O cappuccio, como le llaman ellos
-
-133
-00:05:05,620 --> 00:05:07,620
-Lo hacen este diminutivo
-
-134
-00:05:07,620 --> 00:05:08,620
-Y a cambio ahí fuera
-
-135
-00:05:08,620 --> 00:05:11,620
-Oh, qué humedad
-
-136
-00:05:11,620 --> 00:05:12,620
-Frío
-
-137
-00:05:12,620 --> 00:05:14,620
-Y esta niebla
-
-138
-00:05:15,620 --> 00:05:16,620
-Bueno, le da un toque, ¿eh?
-
-139
-00:05:16,620 --> 00:05:19,620
-Le da un toque muy fantasmagórico
-
-140
-00:05:20,620 --> 00:05:21,620
-En todo el ambiente
-
-141
-00:05:21,620 --> 00:05:22,620
-Un poco peligroso, también
-
-142
-00:05:22,620 --> 00:05:24,620
-Porque, claro, los coches
-
-143
-00:05:24,620 --> 00:05:25,620
-Por quién vean
-
-144
-00:05:25,620 --> 00:05:26,620
-Bueno, por suerte
-
-145
-00:05:26,620 --> 00:05:28,620
-No pasa que casi nadie, ¿eh?
-
-146
-00:05:28,620 --> 00:05:29,620
-De acuerdo
-
-147
-00:05:29,620 --> 00:05:30,620
-El uno
-
-148
-00:05:30,620 --> 00:05:31,620
-Pases
-
-149
-00:05:31,620 --> 00:05:34,620
-Y no llevo ni veinte kilómetros
-
-150
-00:05:34,620 --> 00:05:35,620
-Hoy, bien
-
-151
-00:05:35,620 --> 00:05:36,620
-Si salen treinta y pico
-
-152
-00:05:36,620 --> 00:05:37,620
-Ya es suficiente, ¿eh?
-
-153
-00:05:53,620 --> 00:05:54,620
-Carolo
-
-154
-00:05:54,620 --> 00:05:56,620
-La tierra del pinot noir
-
-155
-00:05:56,620 --> 00:05:57,620
-Mete aquí
-
-156
-00:05:57,620 --> 00:05:58,620
-Muy bien
-
-157
-00:05:58,620 --> 00:06:00,620
-Ayer, cuando subí a la ermita esta
-
-158
-00:06:00,620 --> 00:06:02,620
-Donde acabé durmiendo
-
-159
-00:06:02,620 --> 00:06:04,620
-Sí, estaba bastante embarrado
-
-160
-00:06:04,620 --> 00:06:07,620
-Y me arriesgué un poco sin caerme
-
-161
-00:06:07,620 --> 00:06:09,620
-Pero es que estaba muy, muy embarrado
-
-162
-00:06:09,620 --> 00:06:12,620
-Y hoy he intentado planificar la etapa
-
-163
-00:06:12,620 --> 00:06:13,620
-Lo máximo posible por asfalto
-
-164
-00:06:13,620 --> 00:06:16,620
-Y para no tener que ir por este tipo
-
-165
-00:06:24,620 --> 00:06:47,620
-Ha sido a media subida
-
-166
-00:06:47,620 --> 00:06:49,620
-Uh, sube mucho
-
-167
-00:06:49,620 --> 00:06:51,620
-Dos
-
-168
-00:06:51,620 --> 00:06:53,620
-Mirad el barro que tengo en las zapatillas
-
-169
-00:06:53,620 --> 00:06:55,620
-Ha
-
-170
-00:06:55,620 --> 00:06:57,620
-Y éste pesa en el triple ahora
-
-171
-00:06:57,620 --> 00:06:59,620
-De su peso original
-
-172
-00:06:59,620 --> 00:07:01,620
-Pero se puede, se puede, se puede
-
-173
-00:07:01,620 --> 00:07:02,620
-Se puede
-
-174
-00:07:02,620 --> 00:07:03,620
-Seguimos
-
-175
-00:07:03,620 --> 00:07:04,620
-Ya está
-
-176
-00:07:04,620 --> 00:07:05,620
-Alcanzado
-
-177
-00:07:05,620 --> 00:07:06,620
-En la entrada no había ninguna señal, ¿no?
-
-178
-00:07:06,620 --> 00:07:09,620
-No había ningún cartel de prohibido pasar
-
-179
-00:07:09,620 --> 00:07:10,620
-Aquí sí
-
-180
-00:07:10,620 --> 00:07:11,620
+00:03:36,420 --> 00:03:37,420
 Eh...
 
+94
+00:03:37,420 --> 00:03:38,420
+No pasa nada
+
+95
+00:03:38,420 --> 00:03:41,420
+En el siguiente pueblo a ver si encuentro
+
+96
+00:03:41,420 --> 00:03:43,420
+Ahora acabo de parar
+
+97
+00:03:43,420 --> 00:03:45,420
+Para grabar el podcast con Sergi Marín
+
+98
+00:03:45,420 --> 00:03:47,420
+Y eso significa que cuando escuchas...
+
+99
+00:03:47,420 --> 00:03:48,420
+Cuando veas este video
+
+100
+00:03:48,420 --> 00:03:51,420
+Ya está disponible el podcast de esta semana
+
+101
+00:03:51,420 --> 00:03:53,420
+Escuchad el de la semana anterior
+
+102
+00:03:53,420 --> 00:03:55,420
+Porque creo que no lo comenté
+
+103
+00:03:55,420 --> 00:03:56,420
+Que hay podcast
+
+104
+00:03:56,420 --> 00:03:58,420
+También hay podcast de la semana anterior
+
+105
+00:03:58,420 --> 00:04:01,420
+Hoy día de bastante carretera
+
+106
+00:04:01,420 --> 00:04:03,420
+Bastante recta, lo que está bien
+
+107
+00:04:03,420 --> 00:04:05,420
+Y podré avanzar bastante
+
+108
+00:04:05,420 --> 00:04:07,420
+Pero en fin, bastantes coches
+
+109
+00:04:07,420 --> 00:04:09,420
+Ahora es una excepción
+
+110
+00:04:09,420 --> 00:04:11,420
+Porque me estoy metiendo por dentro de un pueblo
+
+111
+00:04:11,420 --> 00:04:13,420
+Y recortar unos cuantos metros
+
+112
+00:04:28,420 --> 00:04:30,420
+
+
+113
+00:04:30,420 --> 00:04:32,420
+
+
+114
+00:04:32,420 --> 00:04:34,420
+
+
+115
+00:04:34,420 --> 00:04:36,420
+
+
+116
+00:04:36,420 --> 00:04:38,420
+
+
+117
+00:04:38,420 --> 00:04:39,420
+
+
+118
+00:04:39,420 --> 00:04:41,420
+
+
+119
+00:04:41,420 --> 00:04:42,420
+
+
+120
+00:04:42,420 --> 00:04:43,420
+
+
+121
+00:04:43,420 --> 00:04:44,420
+
+
+122
+00:04:44,420 --> 00:04:45,420
+
+
+123
+00:04:45,420 --> 00:04:46,420
+
+
+124
+00:04:46,420 --> 00:04:48,420
+
+
+125
+00:04:48,420 --> 00:04:49,420
+
+
+126
+00:04:49,420 --> 00:04:50,020
+
+
+127
+00:04:50,020 --> 00:04:51,420
+
+
+128
+00:04:51,420 --> 00:04:52,420
+
+
+129
+00:04:52,420 --> 00:04:53,420
+
+
+130
+00:04:53,420 --> 00:04:54,420
+
+
+131
+00:04:54,420 --> 00:04:55,420
+
+
+132
+00:04:55,420 --> 00:04:56,420
+
+
+133
+00:04:56,420 --> 00:04:57,420
+
+
+134
+00:04:57,420 --> 00:04:58,420
+
+
+135
+00:04:58,420 --> 00:05:13,580
+Viva los carriles bici y viva las bicis.
+
+136
+00:05:14,260 --> 00:05:16,760
+Una de estas dos afirmaciones es mentira.
+
+137
+00:05:17,840 --> 00:05:20,580
+Bueno, son las 3 ya, pero ¿qué dices?
+
+138
+00:05:21,660 --> 00:05:22,920
+¡Pero si acabo de empezar a caminar!
+
+139
+00:05:23,580 --> 00:05:24,780
+¿Cómo es posible que sean las tres?
+
+140
+00:05:24,780 --> 00:05:27,720
+A veces me preguntáis, Enric, que te aburres.
+
+141
+00:05:28,420 --> 00:05:30,020
+Tantas horas caminando solo.
+
+142
+00:05:30,120 --> 00:05:32,260
+Pero si se me pasa superrápido volando.
+
+143
+00:05:32,440 --> 00:05:33,240
+Pero si no he hecho nada.
+
+144
+00:05:33,580 --> 00:05:34,660
+No he hecho absolutamente nada.
+
+145
+00:05:35,420 --> 00:05:37,040
+Bien, caminando por un carril bici,
+
+146
+00:05:37,940 --> 00:05:39,180
+bendito carril bici porque
+
+147
+00:05:39,180 --> 00:05:40,960
+por aquí junto a la carretera
+
+148
+00:05:40,960 --> 00:05:42,620
+No es una carretera principal.
+
+149
+00:05:42,760 --> 00:05:43,600
+Es como una comarcal.
+
+150
+00:05:44,260 --> 00:05:46,120
+pero no hay arcén y pasan de vez en cuando
+
+151
+00:05:46,120 --> 00:05:49,420
+Hay camiones que pasan muy rápido.
+
+152
+00:05:49,600 --> 00:05:50,540
+Bueno, vamos fatal de tiempo.
+
+153
+00:05:51,480 --> 00:05:52,860
+No sé cómo me lo montaré hoy, pero bueno.
+
+154
+00:05:53,860 --> 00:05:55,320
+Con una hora y media o así
+
+155
+00:05:55,320 --> 00:05:56,340
+estamos en Piacenza,
+
+156
+00:05:57,200 --> 00:05:58,120
+on, magari,
+
+157
+00:05:58,120 --> 00:05:59,360
+Deberíamos comer una pizza, porque
+
+158
+00:05:59,920 --> 00:06:00,720
+No puede ser
+
+159
+00:06:01,460 --> 00:06:02,960
+que Italia haya comido
+
+160
+00:06:03,220 --> 00:06:04,680
+Más kebabs que pizza.
+
+161
+00:06:04,680 --> 00:06:06,260
+No, no, eso no puede ser.
+
+162
+00:06:06,880 --> 00:06:08,980
+Pues ya ha llegado el motivo por el que he hecho
+
+163
+00:06:08,980 --> 00:06:12,040
+todo este recorrido desde hace dos días y medio,
+
+164
+00:06:12,680 --> 00:06:13,560
+Ese es el puente.
+
+165
+00:06:13,760 --> 00:06:15,240
+Claro, yo estoy limitado a los puentes
+
+166
+00:06:15,240 --> 00:06:17,000
+y, bueno, todos los coches y todos los vehículos.
+
+167
+00:06:18,000 --> 00:06:19,920
+El siguiente puente hacia allí
+
+168
+00:06:19,920 --> 00:06:21,020
+es donde pasa la
+
+169
+00:06:21,920 --> 00:06:23,680
+La carretera más importante
+
+170
+00:06:24,680 --> 00:06:26,760
+y el siguiente era este, que es menos principal,
+
+171
+00:06:26,760 --> 00:06:27,260
+Semillas
+
+172
+00:06:28,120 --> 00:06:28,760
+Por aquí.
+
+173
+00:06:29,660 --> 00:06:30,160
+Entonces,
+
+174
+00:06:30,160 --> 00:06:32,660
+estoy viendo algo muy sorprendente
+
+175
+00:06:33,560 --> 00:06:35,560
+que, evidentemente, en Google Maps no salía,
+
+176
+00:06:36,120 --> 00:06:37,360
+Es que tiene un paso
+
+177
+00:06:38,120 --> 00:06:39,360
+para bicis y peatones
+
+178
+00:06:39,360 --> 00:06:41,360
+debajo del puente.
+
+179
+00:06:42,460 --> 00:06:42,960
+¡Guau!
+
+180
+00:06:43,620 --> 00:06:44,620
+¿De verdad esto es así?
+
 181
-00:07:11,620 --> 00:07:12,620
-Providas privadas
+00:06:45,460 --> 00:06:46,720
+Nunca lo había visto en mi vida.
 
 182
-00:07:12,620 --> 00:07:14,620
-Prohibido acceder
+00:06:47,720 --> 00:06:48,420
+Ostras, que bien.
 
 183
-00:07:14,620 --> 00:07:15,620
-Y además
+00:06:48,420 --> 00:06:50,420
+Bueno, le tengo que dar la vuelta por debajo del puente,
 
 184
-00:07:15,620 --> 00:07:16,620
-Mete prohibido
+00:06:50,420 --> 00:06:52,420
+entrar por detrás y tal.
 
 185
-00:07:16,620 --> 00:07:17,620
-Más grande lo mete
+00:06:53,280 --> 00:06:54,880
+Es un señor puente, ¿eh?
 
 186
-00:07:17,620 --> 00:07:18,620
-Prohibido
+00:06:54,880 --> 00:06:55,880
+Es un señor puente
 
 187
-00:07:18,620 --> 00:07:19,620
-Apoya difungui
+00:06:56,820 --> 00:06:57,920
+bastante grande y,
 
 188
-00:07:19,620 --> 00:07:21,620
-Recoger setas
+00:06:57,920 --> 00:06:59,920
+y guapo, y el hecho de que tenga el carril bici este,
 
 189
-00:07:21,620 --> 00:07:22,620
-Bueno
+00:06:59,920 --> 00:07:01,920
+Pues mira, le pongo un 8.
 
 190
-00:07:22,620 --> 00:07:23,620
-Tú, escucha
+00:07:01,920 --> 00:07:02,920
+Un 8.
 
 191
-00:07:23,620 --> 00:07:24,620
-A ver, lo he metido abajo
+00:07:02,920 --> 00:07:03,920
+¡Enrique!
 
 192
-00:07:24,620 --> 00:07:25,620
-Entonces ya no accedía
+00:07:03,920 --> 00:07:05,920
+Esto no es un puente, esto es un viaducto!
 
 193
-00:07:25,620 --> 00:07:26,620
-Propiedad privada
+00:07:05,920 --> 00:07:06,920
+¡Vete a la mía!
 
 194
-00:07:26,620 --> 00:07:28,620
-La que tengo aquí colgada
+00:07:06,920 --> 00:07:08,920
+
 
 195
-00:07:40,620 --> 00:07:43,620
-El fondo de este valle italiano
+00:07:08,920 --> 00:07:10,920
+
 
 196
-00:07:43,620 --> 00:07:45,620
-Se encuentra en el pueblo más grande de hoy
+00:07:10,920 --> 00:07:12,920
+
 
 197
-00:07:45,620 --> 00:07:48,620
-Santa Maria della Versa
+00:07:12,920 --> 00:07:14,920
+
 
 198
-00:07:48,620 --> 00:07:50,620
-Tres y cuarto
+00:07:14,920 --> 00:07:16,920
+
 
 199
-00:07:50,620 --> 00:07:52,620
-Llevo ya 25 km o así
+00:07:16,920 --> 00:07:18,920
+
 
 200
-00:07:52,620 --> 00:07:54,620
-Sopla un poco de viento, ¿eh?
+00:07:18,920 --> 00:07:20,920
+
 
 201
-00:07:54,620 --> 00:07:55,620
-Pero me gustaría
+00:07:20,920 --> 00:07:21,920
+
 
 202
-00:07:55,620 --> 00:07:56,620
-Parar un poco
+00:07:21,920 --> 00:07:22,920
+
 
 203
-00:07:56,620 --> 00:07:59,620
-Aunque sean 15 minutos a descansar
+00:07:22,920 --> 00:07:24,920
+
 
 204
-00:07:59,620 --> 00:08:02,620
-Y comer algo de lo que llevo en la mochila
+00:07:24,920 --> 00:07:25,920
+
 
 205
-00:08:02,620 --> 00:08:06,620
-Intentaré a ver si la iglesia tiene algún porche que esté un poco resguardado
+00:07:25,920 --> 00:07:26,920
+
 
 206
-00:08:06,620 --> 00:08:07,620
-Porque aquí hay un parque
+00:07:26,920 --> 00:07:28,920
+
 
 207
-00:08:07,620 --> 00:08:08,620
-Pero ya te digo
+00:07:28,920 --> 00:07:29,920
+
 
 208
-00:08:08,620 --> 00:08:09,620
-Pon un poco de viento y...
+00:07:29,920 --> 00:07:33,920
+
 
 209
-00:08:09,620 --> 00:08:10,620
-No me gusta
+00:07:33,920 --> 00:07:34,920
+
 
 210
-00:08:10,620 --> 00:08:12,620
-Apart
+00:07:34,920 --> 00:07:36,920
+Por algún motivo, en este carril bici hay un coche
 
 211
-00:08:12,620 --> 00:08:13,620
-Aunque me gustara
+00:07:36,920 --> 00:07:40,920
+tipo de servicio de estos de grúa...
 
 212
-00:08:13,620 --> 00:08:15,620
-Por alguna razón que desconozco
+00:07:46,920 --> 00:07:49,920
+Actualización, 4 de la tarde.
 
 213
-00:08:15,620 --> 00:08:20,620
-Este parque está cerrado en clave un domingo a las 3 de la tarde
+00:07:49,920 --> 00:07:52,920
+Entrada Piacenza más tranquila de lo esperado.
 
 214
-00:08:20,620 --> 00:08:21,620
-Tú, te felicito, hijo
+00:07:52,920 --> 00:07:54,920
+Gracias a este carril,
 
 215
-00:08:22,620 --> 00:08:25,620
-Gazzaniga Estudio Fisioterapico
+00:07:54,920 --> 00:08:02,800
+Este camino paralelo a la carretera que no tenía previsto y, hombre, se agradece muchísimo.
 
 216
-00:08:25,620 --> 00:08:28,620
-¿Esto no es un jugador del Girona, Gazzaniga?
+00:08:02,800 --> 00:08:11,860
+Quedan unos 4 km para llegar a la ciudad y bueno, no vamos bien de tiempo, pero como mínimo creo
 
 217
-00:08:28,620 --> 00:08:30,620
-La iglesia, nada
+00:08:11,860 --> 00:08:19,880
+que podré encontrar, quizás espero, un bazar para comprar de una vez por todas el chaleco
 
 218
-00:08:30,620 --> 00:08:32,620
-Me he metido en la segunda iglesia del pueblo, que es el
+00:08:19,880 --> 00:08:23,760
+reflectante para caminar por la noche y, como he dicho, una pizzería.
 
 219
-00:08:32,620 --> 00:08:34,620
-Y allí sí que está cubierto y...
+00:08:23,760 --> 00:08:30,400
+Chishi amo, shishi amo ragats, hemos llegado a Piacenza y estoy a punto de entrar en un bazar.
 
 220
-00:08:34,620 --> 00:08:36,620
-Y he comido un poco
+00:08:30,400 --> 00:08:35,200
+¿Tendrán el chaleco reflectante? Ahora lo descubriremos.
 
 221
-00:08:36,620 --> 00:08:38,620
-Uf
+00:08:35,200 --> 00:08:44,920
+Me han dicho que aquí al final del pasillo, aquí están las cosas del coche, a ver,
 
 222
-00:08:38,620 --> 00:08:39,620
-Seguimos, tú
+00:08:44,920 --> 00:08:49,080
+No lo veo, no lo veo, no lo veo.
 
 223
-00:08:39,620 --> 00:08:40,620
-Subiditas, ¿eh? Hoy
+00:08:49,080 --> 00:08:49,840
+Aquí está, aquí está.
 
 224
-00:08:40,620 --> 00:08:43,620
-Ya llevo 700 de desnivel, ¿eh? No está mal
+00:08:49,840 --> 00:08:59,240
+Lo tenemos, naranja y amarillo, va, cogeré el amarillo, talla L, suficiente.
 
 225
-00:08:43,620 --> 00:08:45,620
-Mmm
+00:08:59,240 --> 00:09:06,880
+A ver, lo único malo es que son pasadas las 4 y media y claro, ninguna pizzería así normal
 
 226
-00:08:45,620 --> 00:08:46,620
-Torrone
+00:09:06,880 --> 00:09:10,440
+está abierta a esta hora, lo único que está abierto son los kebabs.
 
 227
-00:08:46,620 --> 00:08:47,620
-Las 4 y 10, ya
+00:09:10,440 --> 00:09:16,960
+Lo que pasa aquí, en Italia, los kebabs hacen buenas pizzas o pizzas bastante, bastante decentes,
 
 228
-00:08:47,620 --> 00:08:48,620
-No me doy cuenta y...
+00:09:16,960 --> 00:09:19,040
+Te lo prometo, te lo prometo.
 
 229
-00:08:48,620 --> 00:08:50,620
-Se me ha pasado el día volando, ¿eh?
+00:09:19,040 --> 00:09:24,040
+Hombre, nunca será como una pizzería napolitana, pero bastante bien, a ver si lo consigo.
 
 230
-00:08:50,620 --> 00:08:52,620
-Volante
+00:09:24,040 --> 00:09:25,200
+Ciao.
 
 231
-00:08:52,620 --> 00:08:53,620
-Bueno, no lo he planificado bien esto
+00:09:25,200 --> 00:09:25,480
+Ciao.
 
 232
-00:08:53,620 --> 00:08:56,620
-Debería haber llenado agua en Santa María y no lo he hecho
+00:09:25,480 --> 00:09:25,680
+Ciao.
 
 233
-00:08:56,620 --> 00:08:59,620
-Y ahora estoy... Bueno, no estoy sin agua
+00:09:25,680 --> 00:09:28,480
+¿Qué avete para comer dentro o so for?
 
 234
-00:08:59,620 --> 00:09:02,620
-Pero no tengo suficiente agua como para acampar y hacerme...
+00:09:28,480 --> 00:09:29,480
+Sí, para bajar aquí.
 
 235
-00:09:02,620 --> 00:09:06,620
-Todo lo que me hago, que es la comida de deshidratado, el puré, lo que sea
+00:09:29,480 --> 00:09:31,480
+¿Sí? ¿Pizza, anche?
 
 236
-00:09:06,620 --> 00:09:09,620
-Y por lo que he visto en la mapa no hay ninguna fuente aquí cercana
+00:09:31,480 --> 00:09:33,480
+Pizza, pero...
 
 237
-00:09:13,620 --> 00:09:15,620
-A ver... A ver cómo me lo monto esto
+00:09:33,480 --> 00:09:37,480
+Pizza... diábola.
 
 238
-00:09:15,620 --> 00:09:17,620
-Al final siempre encuentras algo, ¿eh?
+00:09:37,480 --> 00:09:38,480
+¿Diábola?
 
 239
-00:09:17,620 --> 00:09:19,620
-Hasta el día que llega que no encuentras nada
+00:09:38,480 --> 00:09:42,480
+Sí. De vere prendo una fanta, ok?
 
 240
-00:09:20,620 --> 00:09:22,620
-A ver...
+00:09:42,480 --> 00:09:44,480
+Buenas tardes.
 
 241
-00:09:25,620 --> 00:09:26,620
-Solucionado
+00:09:44,480 --> 00:09:46,480
+Son las 6 y cuarto, llevo un buen rato aquí.
 
 242
-00:09:26,620 --> 00:09:28,620
-Ha sido bastante rápido
+00:09:46,480 --> 00:09:55,920
+Me he comido la pinza, buena, bastante buena, y cargando esto, llevo más de hora y media.
 
 243
-00:09:28,620 --> 00:09:30,620
-Había un hombre en un coche, no sé...
+00:09:55,920 --> 00:10:02,440
+Lo he corrido cargando un poco móvil y un poco eso, y ya estamos en el 80, por lo tanto ya he salido.
 
 244
-00:09:30,620 --> 00:09:33,620
-Estaba limpiando un poco su coche fuera de la calle
+00:10:02,440 --> 00:10:12,440
+Nunca he hecho eso, nunca, absolutamente nunca he hecho eso de quedarme hasta bien entrada la oscuridad en un establecimiento
 
 245
-00:09:33,620 --> 00:09:34,620
-Y le he preguntado
+00:10:12,440 --> 00:10:16,540
+y ahora tendré que caminar unos 5-6 kilómetros dentro de la ciudad, y luego también fuera de la ciudad.
 
 246
-00:09:34,620 --> 00:09:37,620
-He hecho el micrófono a ver si podía grabarlo,...
+00:10:16,480 --> 00:10:18,480
+y ahora tendré que caminar unos 5-6 kilómetros dentro de la ciudad, y luego también fuera de la ciudad.
 
 247
-00:09:37,620 --> 00:09:41,620
-Para decir, claro, este tipo de conversaciones es interesante grabarlas, ¿no? En vídeo
+00:10:18,480 --> 00:10:21,560
+Para ir a acampar, no lo he hecho nunca a la vuelta con una pie.
 
 248
-00:09:41,620 --> 00:09:42,620
-Pero no me ha dado tiempo
+00:10:21,560 --> 00:10:28,360
+No es algo que me guste, pero la zona de acampada está relativamente cerca de la ciudad, por lo tanto,
 
 249
-00:09:42,620 --> 00:09:45,620
-Y no era plan de meterle el móvil en la cara, ¿sabes?
+00:10:28,360 --> 00:10:33,640
+tema de luz, tema de coches, no debería ser muy complicado.
 
 250
-00:09:45,620 --> 00:09:47,620
-En nada, me ha hecho las típicas preguntas
+00:10:33,640 --> 00:10:35,200
+Vemos.
 
 251
-00:09:47,620 --> 00:09:49,620
-Le he dicho que estaba dando la vuelta con una pie y... Ostras, tal, no sé qué...
+00:10:35,520 --> 00:10:39,400
+Salgo de la pizzería con el frontal, a bolsillo, y estas pintas.
 
 252
-00:09:49,620 --> 00:09:51,620
-Y dice, uuuh, con estos fríos...
+00:10:39,400 --> 00:10:42,000
+Sí, la gente por la calle se me queda mirando.
 
 253
-00:09:51,620 --> 00:09:52,620
-Lo típico es
+00:10:42,000 --> 00:10:46,440
+Piacenza es una ciudad que merece la pena pasearse un poco pero no da tiempo.
 
 254
-00:09:52,620 --> 00:09:53,620
-Superbien
+00:10:46,440 --> 00:10:48,640
+Me limito a cruzar el centro en línea recta.
 
 255
-00:09:53,620 --> 00:09:55,620
-Vale, pues tengo una botella de agua
+00:10:48,920 --> 00:10:49,880
+A ver qué os puedo contar.
 
 256
-00:09:55,620 --> 00:09:58,620
-Y ostras...
+00:10:50,580 --> 00:10:55,740
+Piacenza es una ciudad fundada por los romanos en el año 200 antes de Cristo como colonia militar.
 
 257
-00:09:58,620 --> 00:10:01,620
-Lo que espero es no tener que acampar...
+00:10:56,180 --> 00:10:59,140
+Como estaba junto al río Po, que es el río más grande del norte de Italia,
 
 258
-00:10:01,620 --> 00:10:03,620
-Aquí
+00:10:59,700 --> 00:11:02,760
+servía como control de paso entre cometas entre el norte y el sur.
 
 259
-00:10:03,620 --> 00:10:04,620
-Es decir...
+00:11:03,540 --> 00:11:07,060
+Por ahí pasó literalmente Aníbal con sus elefantes.
 
 260
-00:10:04,620 --> 00:10:06,620
-Un juego más arraserado, ¿no?
+00:11:07,760 --> 00:11:11,060
+Leo que es la ciudad del norte de Italia con más iglesias románicas.
 
 261
-00:10:06,620 --> 00:10:08,620
-Porque una cosa es que haya esta niebla y otra cosa es que...
+00:11:11,360 --> 00:11:12,800
+¿Esta lo es? No lo sé.
 
 262
-00:10:08,620 --> 00:10:10,620
-Que haga encima viento
+00:11:12,800 --> 00:11:17,660
+Bueno, esto es un poco la plaza central y esta iglesia lo es, de románica?
 
 263
-00:10:10,620 --> 00:10:12,620
-Esto es un poco desagradable
+00:11:18,060 --> 00:11:20,580
+Pues tampoco lo sé. Es que no me ha dado tiempo de visitar nada.
 
 264
-00:10:12,620 --> 00:10:14,620
-No sé si encontraré un juego tan bien como hoy, ¿eh?
+00:11:21,080 --> 00:11:23,940
+He cruzado el centro, me ha gustado y enseguida ya estoy fuera.
 
 265
-00:10:14,620 --> 00:10:17,620
-Actualización casi a las 5 de la tarde
+00:11:24,480 --> 00:11:30,480
+Me he animado a hacer la ruta esta nocturna porque he visto que la carretera que toca
 
 266
-00:10:17,620 --> 00:10:18,620
-Empieza...
+00:11:30,480 --> 00:11:37,120
+para ir hasta el lugar de acampada es muy secundaria junto a una zona industrial
 
 267
-00:10:18,620 --> 00:10:20,620
-Empieza a apretar el tiempo
+00:11:37,120 --> 00:11:39,960
+que en principio a esta hora no debería tener mucho tráfico.
 
 268
-00:10:20,620 --> 00:10:22,620
-Estoy en Rovescala
+00:11:39,960 --> 00:11:40,840
+Y acierto.
 
 269
-00:10:22,620 --> 00:10:27,620
-Y aquí dejo un poco esta carretera que iba por encima de la cresta de esta...
+00:11:41,420 --> 00:11:42,300
+Muy pocos coches.
 
 270
-00:10:27,620 --> 00:10:29,620
-De estos montículos y había bastante viento
+00:11:42,800 --> 00:11:45,500
+Y con el chaleco reflectante y el frontal, he hecho.
 
 271
-00:10:29,620 --> 00:10:31,620
-Y a partir de aquí ya empiezo a bajar
+00:11:45,720 --> 00:11:50,440
+Esta imagen es un poco para que veáis el ejemplo de cómo ha sido caminar esta carretera.
 
 272
-00:10:31,620 --> 00:10:34,620
-Y en este descenso, antes de llegar abajo de todo
+00:11:50,840 --> 00:11:53,320
+Estaba un poco iluminada, ¿eh? por las fábricas de alrededor.
 
 273
-00:10:34,620 --> 00:10:39,620
-Porque abajo de todo, junto al río o del torrente es demasiado húmedo
+00:11:53,980 --> 00:11:55,020
+Ya ha llegado el lugar este.
 
 274
-00:10:39,620 --> 00:10:41,620
-Tendría que encontrar algo
+00:11:56,680 --> 00:11:59,220
+Hay cartel de propiedad privada, vietato el acceso.
 
 275
-00:10:41,620 --> 00:10:42,620
-Cruzamos los dedos
+00:12:00,460 --> 00:12:01,120
+Voy a entrar igualmente.
 
 276
-00:10:46,620 --> 00:10:47,620
-Vale, creo que ya lo tengo, ¿eh?
+00:12:02,000 --> 00:12:03,200
+Es un lugar muy raro, ¿eh?
 
 277
-00:10:47,620 --> 00:10:48,620
-Creo que acampo aquí
+00:12:04,260 --> 00:12:06,520
+Es un lugar muy raro para acampar.
 
 278
-00:10:48,620 --> 00:10:50,620
-A ver, ¿dónde estoy?
+00:12:10,380 --> 00:12:11,360
+No se ve nada.
 
 279
-00:10:50,620 --> 00:10:52,620
-He seguido todavía el camino este que me alejaba
+00:12:11,360 --> 00:12:18,520
+No os puedo enseñar exactamente lo raro que es, así que, bueno, me meto y hablamos cuando esté plantado.
 
 280
-00:10:52,620 --> 00:10:54,620
-Que iba bajando pero todavía estaba en la cresta
+00:12:20,200 --> 00:12:22,740
+Otra noche de luz roja.
 
 281
-00:10:54,620 --> 00:10:56,620
-Y estaba sintiendo viento
+00:12:23,640 --> 00:12:25,780
+Qué lugar más raro y más malo, realmente.
 
 282
-00:10:56,620 --> 00:10:59,620
-Pero si bajaba abajo de todo
+00:12:25,920 --> 00:12:28,520
+He recorrido todo el campo este de árboles.
 
 283
-00:10:59,620 --> 00:11:01,620
-Como podéis ver en las imágenes
+00:12:29,500 --> 00:12:33,400
+Que claro, yo pensaba que me quedaría un poco frondoso y me apartaría de las vistas de la carretera,
 
 284
-00:11:01,620 --> 00:11:05,620
-Hay una zona muy llana junto a este arroyo
+00:12:33,520 --> 00:12:35,740
+pero claro, me he dado cuenta al llegar que están todos los árboles pelados.
 
 285
-00:11:05,620 --> 00:11:09,620
-Aquí mañana por la mañana tendré una inversión térmica que me hará polvo
+00:12:36,720 --> 00:12:39,520
+Ya se ve claramente, si alguien enfocara, me vería.
 
 286
-00:11:09,620 --> 00:11:12,620
-Por la humedad y por el frío
+00:12:39,520 --> 00:12:41,320
+Además, es parcialmente
 
 287
-00:11:12,620 --> 00:11:15,620
-En las cotas bajas por la mañana se suele acumular el frío
+00:12:41,440 --> 00:12:43,960
+iluminado por las luces de las fábricas que hay aquí al lado.
 
 288
-00:11:15,620 --> 00:11:17,620
-Y en las cotas altas ya un poco menos
+00:12:44,760 --> 00:12:48,760
+Aquí hay una depuradora, hay otras fábricas y algo iluminado está.
 
 289
-00:11:17,620 --> 00:11:19,620
-Y ya menos humedad
+00:12:50,480 --> 00:12:53,300
+A ver, te dudo, no creo que me venga a molestar nadie, ¿eh?
 
 290
-00:11:19,620 --> 00:11:23,620
-Entonces digo, es que si bajo luego ya no tengo tiempo de subir a la siguiente
+00:12:53,600 --> 00:12:54,880
+Ni ningún animal, tampoco, ni nada.
 
 291
-00:11:23,620 --> 00:11:25,620
-En la segunda parte ya había muchas casas
+00:12:55,360 --> 00:12:56,960
+Pero es un lugar...
 
 292
-00:11:25,620 --> 00:11:27,620
-En cambio aquí, claro, me preocupaba el viento
+00:12:56,960 --> 00:12:58,360
+En fin, tenía pocas alternativas, ¿eh?
 
 293
-00:11:27,620 --> 00:11:30,620
-Pero me he dado cuenta de que si estoy en el camino sopla bastante viento
+00:12:58,360 --> 00:12:59,740
+Pero realmente...
 
 294
-00:11:30,620 --> 00:11:32,620
-Entre comillas, tampoco os penséis en un huracán
+00:12:59,740 --> 00:13:00,880
+Vaya lugar.
 
 295
-00:11:32,620 --> 00:11:37,620
-Pero si estoy justo aquí, al lado, un poco más abajo
+00:13:01,040 --> 00:13:02,780
+Hoy no plato las piquetas, creo que no hace falta.
 
 296
-00:11:37,620 --> 00:11:39,620
-No siento nada de viento
+00:13:03,180 --> 00:13:04,360
+Cero, absolutamente cero viento.
 
 297
-00:11:39,620 --> 00:11:42,620
-Ahora mismo está soplando y no estoy sintiendo nada
+00:13:05,000 --> 00:13:09,840
+4 grados, en teoría, es la parte buena que dice que 4 grados a la aplicación del móvil,
 
 298
-00:11:42,620 --> 00:11:45,620
-Pues ya está, perfecto, perfecto
+00:13:09,840 --> 00:13:11,280
+pero yo no tengo sensación de frío.
 
 299
-00:11:45,620 --> 00:11:46,620
-Vale, ¿cuál puede ver?
+00:13:11,520 --> 00:13:14,520
+4 grados ya es frío y ahora mismo no tengo esa sensación.
 
 300
-00:11:46,620 --> 00:11:48,620
-Aquí tenemos un pueblo
+00:13:14,960 --> 00:13:16,480
+Estoy literalmente al lado del río Po.
 
 301
-00:11:48,620 --> 00:11:51,620
-Allí tenemos una casa
+00:13:17,740 --> 00:13:19,480
+No sé, eso hace regular la temperatura.
 
 302
-00:11:51,620 --> 00:11:55,620
-Y allí tenemos el pueblo principal, el de antes
+00:13:20,320 --> 00:13:22,480
+No sé si mañana nos levantaremos, bueno, seguramente nos levantaremos
 
 303
-00:11:55,620 --> 00:11:58,620
-Están lejos, están lejos
+00:13:22,480 --> 00:13:24,660
+con toda la tienda húmeda por fuera de la humedad.
 
 304
-00:11:58,620 --> 00:12:01,620
-Y bueno, en cualquier caso si me ven una lucecita no pasará nada
+00:13:26,980 --> 00:13:28,620
+Es lo que hay, tú, es lo que hay.
 
 305
-00:12:01,620 --> 00:12:04,620
-Aquí hay una casa pero está por construir
+00:13:30,480 --> 00:13:33,520
+En fin, kilómetros 37, casi.
 
 306
-00:12:04,620 --> 00:12:06,620
-Está deshabitada, supongo que mañana vendrán con las herramientas
+00:13:34,940 --> 00:13:35,860
+Cafés, 2.
 
 307
-00:12:06,620 --> 00:12:08,620
-Pero bueno, está lo suficientemente lejos como para que no me digan nada
+00:13:36,640 --> 00:13:37,840
+No he hablado con nadie.
 
 308
-00:12:08,620 --> 00:12:10,620
-Y hay unas viñas
+00:13:37,840 --> 00:13:39,840
+Y de dinero que me he gastado serían...
 
 309
-00:12:10,620 --> 00:12:12,620
-Pero no hay ninguna señal de prohibido
+00:13:40,600 --> 00:13:41,660
+4,5 en el bar del desayuno
 
 310
-00:12:12,620 --> 00:12:14,620
-Lo que me tranquiliza
+00:13:42,320 --> 00:13:46,160
+8 y medio en el supermercado y 9 y medio la pizza.
 
 311
-00:12:14,620 --> 00:12:16,620
-Vale, muy bien
+00:13:46,800 --> 00:13:49,120
+No ha sido un mal día, pero tampoco ha sido un buen día.
 
 312
-00:12:16,620 --> 00:12:18,620
-Pues voy a montar
+00:13:49,640 --> 00:13:54,700
+Realmente, ha sido un día de tirar kilómetros, kilómetros y ya está, tú.
 
 313
-00:12:18,620 --> 00:12:21,620
-Las 6 de la tarde y ya es noche cerrada
+00:13:54,700 --> 00:13:58,700
+Un día de fichar en la oficina y ya está.
 
 314
-00:12:21,620 --> 00:12:24,620
-Supongo que hay luna nueva, o poca luz
+00:13:59,720 --> 00:14:07,360
+Señores, nos acercamos al objetivo, vamos sobreviviendo al invierno, vamos pasando los días, esto es lo que importa,
 
 315
-00:12:24,620 --> 00:12:27,620
-Y además, ya en la niebla esta no se ve nada
+00:14:07,520 --> 00:14:12,160
+un día menos para llegar a la primavera, a los Balcanes y al Adriático.
 
 316
-00:12:27,620 --> 00:12:30,620
-Lo que sí se ve es aquí detrás
-
-317
-00:12:30,620 --> 00:12:33,620
-¿Veis que hay como una especie de luz?
-
-318
-00:12:33,620 --> 00:12:36,620
-No sé muy bien qué será, ¿eh?
-
-319
-00:12:36,620 --> 00:12:42,620
-En fin, hoy 33 km y casi 900 de desnivel positivo
-
-320
-00:12:42,620 --> 00:12:48,620
-Dios mío, hay algunos tramos complicados con el barro
-
-321
-00:12:48,620 --> 00:12:50,620
-Quería avanzar más, es decir, quería hacer...
-
-322
-00:12:50,620 --> 00:12:52,620
-Tenía planificado 39 hoy
-
-323
-00:12:52,620 --> 00:12:54,620
-Pero no se pudo, no fue posible
-
-324
-00:12:54,620 --> 00:12:56,620
-Y no he parado tanto, ¿eh? He parado...
-
-325
-00:12:56,620 --> 00:12:58,620
-Hora y media o así
-
-326
-00:12:58,620 --> 00:13:03,620
-En fin, muy bien tú que hiciera dos cappuccinos
-
-327
-00:13:03,620 --> 00:13:05,620
-Personales con los que he hablado
-
-328
-00:13:05,620 --> 00:13:08,620
-Una, que es el hombre éste que me ha dado el agua
-
-329
-00:13:08,620 --> 00:13:11,620
-Y de dinero me he gastado 1,60€ en el supermercado
-
-330
-00:13:11,620 --> 00:13:15,620
-Y 5,60€ en el bar
-
-331
-00:13:15,620 --> 00:13:16,620
-Hoy nada más
-
-332
-00:13:16,620 --> 00:13:18,620
-Hacía tiempo que no hacía fuego
-
-333
-00:13:18,620 --> 00:13:21,620
-Así que, venga, un par de preguntas
-
-334
-00:13:21,620 --> 00:13:24,620
-Peyo me pregunta cuál es mi altura
-
-335
-00:13:24,620 --> 00:13:27,620
-Porque dice, claro, ostras, un 46 de pie
-
-336
-00:13:27,620 --> 00:13:29,620
-Yo te medía 1,80
-
-337
-00:13:29,620 --> 00:13:31,620
-Pues no, no, no, mido 1,83
-
-338
-00:13:31,620 --> 00:13:35,620
-Que, bueno, se parece, pero no 1,80, no, 1,83
-
-339
-00:13:35,620 --> 00:13:38,620
-Pero aparte de esto, o sea
-
-340
-00:13:38,620 --> 00:13:41,620
-Tengo el pie excepcionalmente grande para mi altura
-
-341
-00:13:41,620 --> 00:13:43,620
-Siempre lo he tenido grande y ya está
-
-342
-00:13:43,620 --> 00:13:45,620
-Tampoco es un pie de payaso pero...
-
-343
-00:13:45,620 --> 00:13:47,620
-Sí, sí, es un buen barco
-
-344
-00:13:47,620 --> 00:13:49,620
-Vale, y otra pregunta es
-
-345
-00:13:49,620 --> 00:13:52,620
-El tema de si las zapatillas llevan Gore-Tex o no
-
-346
-00:13:52,620 --> 00:13:53,620
-¿Y por qué no
-
-347
-00:13:53,620 --> 00:13:55,620
-No, no llevan Gore-Tex
-
-348
-00:13:55,620 --> 00:13:57,620
-Yo siempre estoy en contra de las zapatillas que llevan Gore-Tex
-
-349
-00:13:57,620 --> 00:13:59,620
-El motivo principal es el siguiente
-
-350
-00:13:59,620 --> 00:14:00,620
-Bueno, son dos
-
-351
-00:14:00,620 --> 00:14:02,620
-No transpiran lo suficiente
-
-352
-00:14:02,620 --> 00:14:04,620
-Y yo necesito que el pie transpire y no sude
-
-353
-00:14:04,620 --> 00:14:06,620
-Y dos
-
-354
-00:14:06,620 --> 00:14:08,620
-En caso de lluvia fina
-
-355
-00:14:08,620 --> 00:14:10,620
-Pues está muy bien porque no te mojas el pie
-
-356
-00:14:10,620 --> 00:14:13,620
-Pero en caso de mucha lluvia
-
-357
-00:14:13,620 --> 00:14:15,620
-Al final te acaba entrando agua individualmente
-
-358
-00:14:15,620 --> 00:14:17,620
-Porque el agua te entra por aquí
-
-359
-00:14:17,620 --> 00:14:19,620
-Por el calcetín, por el pie
-
-360
-00:14:19,620 --> 00:14:20,620
-Y se mete dentro
-
-361
-00:14:20,620 --> 00:14:22,620
-Si estás mucho rato caminando en lluvia
-
-362
-00:14:22,620 --> 00:14:24,620
-Al final se te acaba calando
-
-363
-00:14:24,620 --> 00:14:28,620
-Y con el Gore-Tex lo que pasa es que después
-
-364
-00:14:28,620 --> 00:14:30,620
-Para que se seque la zapatilla
-
-365
-00:14:30,620 --> 00:14:31,620
-Tarda muchísimo
-
-366
-00:14:31,620 --> 00:14:34,620
-Porque, claro, la membrana esta hace que no respire bien
-
-367
-00:14:34,620 --> 00:14:39,620
-Por lo tanto, puedes estar un día o dos enteros con la zapatilla mojada
-
-368
-00:14:39,620 --> 00:14:42,620
-En cambio, con las zapatillas no Gore-Tex
-
-369
-00:14:42,620 --> 00:14:44,620
-Pues se seca más rápido
-
-370
-00:14:44,620 --> 00:14:45,620
-Mucho más rápido
-
-371
-00:14:45,620 --> 00:14:46,620
-Especialmente en verano
-
-372
-00:14:46,620 --> 00:14:47,620
-En invierno no tanto
-
-373
-00:14:47,620 --> 00:14:50,620
-Pero en invierno, de hecho, es que llueve poco
-
-374
-00:14:50,620 --> 00:14:53,620
-Desde que estamos en frío invierno-invierno
-
-375
-00:14:53,620 --> 00:14:55,620
-No me ha llovido ningún día
-
-376
-00:14:55,620 --> 00:14:57,620
-Te cree con los dedos, ¿eh?
-
-377
-00:14:57,620 --> 00:14:58,620
-Cruz con los dedos
-
-378
-00:14:58,620 --> 00:14:59,620
-Entonces, sí, sí
-
-379
-00:14:59,620 --> 00:15:00,620
-La lucha contra el Gore-Tex
-
-380
-00:15:00,620 --> 00:15:02,620
-El único motivo por el que traería Gore-Tex
-
-381
-00:15:02,620 --> 00:15:05,620
-Es si estuviera haciendo alpinismo
-
-382
-00:15:05,620 --> 00:15:07,620
-Es decir, cosas con nieve
-
-383
-00:15:07,620 --> 00:15:08,620
-Entonces sí tiene sentido
-
-384
-00:15:08,620 --> 00:15:10,620
-Pero si no, no
-
-385
-00:15:10,620 --> 00:15:11,620
-Muy bien
-
-386
-00:15:11,620 --> 00:15:13,620
-Eso es todo, amigos míos
-
-387
-00:15:13,620 --> 00:15:15,620
-Hasta mañana
+00:14:12,760 --> 00:14:13,180
+Hasta mañana.
 
