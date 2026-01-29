@@ -41,6 +41,7 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add *.gpx || echo "No new files to add"
+        git add geojson/*.json || echo "No new GeoJSON files to add"
         git add latest_file.txt
         git add total_distance.txt
         git add routes.csv
