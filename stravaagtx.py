@@ -9,6 +9,9 @@ import csv
 import os
 import asyncio
 import gpxpy.geo
+# Imports per a la conversió a GeoJSON
+import xml.etree.ElementTree as ET
+import json
 
 
 async def main():
@@ -127,6 +130,30 @@ async def main():
             writer = csv.writer(file)
             writer.writerow([stage, day, date_str, distance, file_name, strava_url, pais])
 
+    def gpx_to_geojson(gpx_file_path):
+        tree = ET.parse(gpx_file_path)
+        root = tree.getroot()
+        
+        # Iterem sobre tots els punts del GPX, i afegim les coordenades a una llista
+        coordinates = []
+        for trkpt in root.findall('.//{http://www.topografix.com/GPX/1/1}trkpt'):
+            lon = float(trkpt.get('lon'))
+            lat = float(trkpt.get('lat'))
+            coordinates.append([lon, lat])
+        
+        # Creem l'estructura del GeoJSON
+        geojson = {
+            "type": "FeatureCollection",
+            "features": [{
+                "type": "Feature",
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": coordinates
+                }
+            }]
+        }
+        
+        return json.dumps(geojson)
    
     # create an instance of strava2gpx
     s2g = strava2gpx(client_id, client_secret, refresh_token)
@@ -162,6 +189,12 @@ async def main():
     else:
         print ("Diferent activitat")
         await s2g.write_to_gpx(activity_id, filename)       
+
+        # Conversió de GPX a GeoJSON
+        geojson_data = gpx_to_geojson(str(filename)+".gpx")
+        with open("geojson/"+str(filename)+".geojson", "w") as geojson_file:
+            geojson_file.write(geojson_data)
+            
         with open("latest_file.txt", "w") as file:
             file.write(str(filename)+".gpx")
         with open("total_distance.txt", "r") as file:
