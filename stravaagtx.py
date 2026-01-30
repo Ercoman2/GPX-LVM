@@ -192,7 +192,7 @@ async def main():
 
         # Conversió de GPX a GeoJSON
         geojson_data = gpx_to_geojson(str(filename)+".gpx")
-        with open("geojson/"+str(filename)+".geojson", "w") as geojson_file:
+        with open("geojson/"+str(filename)+".json", "w") as geojson_file:
             geojson_file.write(geojson_data)
             
         with open("latest_file.txt", "w") as file:
