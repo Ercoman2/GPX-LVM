@@ -1,906 +1,1095 @@
 1
-00:00:00,680 --> 00:00:08,160
-Buon giorno. Le tour du monde à pied, jour 61.
+00:00:00,000 --> 00:00:02,760
+Le tour du monde à pied, 62e jour.
 
 2
-00:00:08,815 --> 00:00:14,095
-Regardez quel paysage.
+00:00:03,980 --> 00:00:05,900
+Je me suis réveillé plus tôt que d'habitude
 
 3
-00:00:14,685 --> 00:00:21,388
-C'est la plus absolue, la plus absolue
-pendant des mètres. Je ne vois aucune maison,
+00:00:05,900 --> 00:00:09,500
+Et bien, alors je n'ai pas enregistré parce qu'il faisait trop sombre.
 
 4
-00:00:21,388 --> 00:00:23,412
-Il y en a, il y en a.
+00:00:10,820 --> 00:00:12,460
+Il est 7,47
 
 5
-00:00:23,751 --> 00:00:28,245
-Je ne vois pas la route, je ne vois rien planté, je ne vois rien.
+00:00:12,460 --> 00:00:15,160
+J'ai parcouru 1,1 km.
 
 6
-00:00:28,245 --> 00:00:33,708
-Une journée normale à Lleida à cette époque de l'année, non?
+00:00:15,720 --> 00:00:19,220
+Rien, j'ai ramassé, je suis revenu, j'ai grimpé le talus
 
 7
-00:00:33,708 --> 00:00:40,000
-Mais je ne suis pas habitué. Il ne fait pas très froid.
-Il a plu ce soir, mais pas maintenant.
+00:00:19,220 --> 00:00:21,280
+Et je suis retourné dans la rue.
 
 8
-00:00:40,000 --> 00:00:44,879
-Maintenant, il pleut et aujourd'hui, il ne faut pas
-Il pleut. Croisons les doigts et espérons.
+00:00:22,460 --> 00:00:24,300
+Qu’est-ce qui nous attend aujourd’hui ?
 
 9
-00:00:44,879 --> 00:00:50,310
-Très bien. Eh bien, comme toujours, recueillir et
-Aujourd'hui, beaucoup de kilomètres.
+00:00:24,560 --> 00:00:26,420
+Une journée horrible.
 
 10
-00:00:50,310 --> 00:00:56,639
-Je suis déjà sur la route.
-Aujourd’hui ou ce matin, il faut porter un casque, non ?
+00:00:27,080 --> 00:00:29,360
+Aujourd'hui, un jour horrible, non pas parce qu'il va pleuvoir,
 
 11
-00:00:56,639 --> 00:00:59,164
-On ne voit pas trois dans un âne.
+00:00:29,360 --> 00:00:31,120
+Non pas parce qu'il y a du vent, non,
 
 12
-00:01:00,000 --> 00:01:03,371
-Ehm, regarde, maintenant je vais à droite parce que trois voitures approchent.
+00:00:32,040 --> 00:00:33,160
+Mais pour la route.
 
 13
-00:01:03,589 --> 00:01:06,520
-Une chose est sûre, je me suis couché un peu tard.
+00:00:33,740 --> 00:00:37,300
+J'essaie toujours de le gérer pour ne pas avoir à prendre la route,
 
 14
-00:01:06,520 --> 00:01:11,520
-Normalement, à 10 heures, je suis déjà tombé, mais
-hier, j'écoutais le Barça. Victoria,
+00:00:37,400 --> 00:00:38,100
+Montez-le bien,
 
 15
-00:01:11,520 --> 00:01:17,116
-et le classement. Très bien. Et, mais bien sûr, hein, j'ai déjà dévoilé un peu,
+00:00:38,600 --> 00:00:40,660
+Mais il y a des jours où la déviation,
 
 16
-00:01:17,116 --> 00:01:18,735
-Jusqu'à 11h, je n'ai pas dormi.
+00:00:41,320 --> 00:00:43,160
+Pénalité pour ne pas avoir à prendre la route
 
 17
-00:01:18,735 --> 00:01:21,001
-Aujourd'hui, j'ai plus de sommeil.
+00:00:43,160 --> 00:00:44,560
+Il est trop grand comme aujourd'hui.
 
 18
-00:01:53,782 --> 00:01:59,880
-Café fait et plus de 9 km déjà parcourus. J'ai trouvé ce monument maintenant ici
+00:00:45,760 --> 00:00:48,080
+Aujourd'hui, si tout va bien,
 
 19
-00:01:59,880 --> 00:02:03,974
-derrière moi de la Première Guerre mondiale,
-d'hommage
+00:00:48,320 --> 00:00:50,480
+Près de 30 kilomètres de route.
 
 20
-00:02:03,974 --> 00:02:09,560
-à 3000 morts et ainsi de suite. Je suppose que les gens
-de cette région. Eh bien, là, je vous ai dit que
+00:00:51,360 --> 00:00:51,900
+C'est beaucoup.
 
 21
-00:02:09,560 --> 00:02:15,000
-aujourd'hui, il y avait un paquet surprise à
-recueillir. Le prochain village qui est Saint
+00:00:52,980 --> 00:00:55,420
+Et la route de ces Italiens qui n'ont pas de bas-côté.
 
 22
-00:02:15,000 --> 00:02:21,720
-Pavie je ne sais quoi, hein, juste à l'extérieur de cette
-village je dois arriver avant la 1, ils sont
+00:00:55,660 --> 00:00:57,040
+On apprend des français, non ?
 
 23
-00:02:21,720 --> 00:02:27,519
-10h39, ça devrait aller, c'est de là que je pense
-environ 7 km, ehm, pour ramasser un
+00:00:57,200 --> 00:00:59,300
+Qu'une chose qu'ils font bien, c'est de mettre des bordures,
 
 24
-00:02:27,519 --> 00:02:32,239
-paquet; pour moi ce n'est pas une surprise, je sais que
-Il y a à l'intérieur, hein, il y a un micro qui
+00:00:59,360 --> 00:01:00,740
+sur les routes.
 
 25
-00:02:32,239 --> 00:02:36,920
-remplacera ce microphone. Regardez,
-Ce micro a deux problèmes.
+00:01:01,400 --> 00:01:03,000
+Je vais voir comment je le porte, je sais.
 
 26
-00:02:36,920 --> 00:02:41,193
-1. Certains jours, j'échouais, je ne sais pas si vous
-Rappelez-vous qu'il faisait comme [bruits d'interférence].
+00:01:04,420 --> 00:01:06,160
+J'espère que ce sera plus ou moins facile, je ne sais pas.
 
 27
-00:02:41,193 --> 00:02:46,120
-Cela a cessé de se produire heureusement, parce que j'ai changé l'unité, j'ai deux unités. Pour les jours qui
+00:01:06,620 --> 00:01:08,500
+En tout cas, la première chose, comme toujours,
 
 28
-00:02:46,120 --> 00:02:49,920
-je fais des interviews je mets une unité à
-chaque personne et telle, mais l'autre unité
+00:01:08,820 --> 00:01:09,260
+Aller au bar.
 
 29
-00:02:49,920 --> 00:02:54,800
-est que comme il ne fonctionnait pas bien. Aussi
-avait perdu l'un des aimants qui se connectent
+00:01:16,560 --> 00:01:17,340
+Nous l'avons déjà.
 
 30
-00:02:54,800 --> 00:02:58,360
-Il y a un autre problème que je ne connais pas
-Si vous avez remarqué qu’il y a des
+00:01:18,380 --> 00:01:19,060
+9:30.
 
 31
-00:02:58,360 --> 00:03:02,800
-clips qui, au début du clip, fait un
-cliquez. Faites [clic].
+00:01:20,040 --> 00:01:23,540
+9, 10, 12 kilomètres jusqu'à Portogruaro.
 
 32
-00:03:02,800 --> 00:03:09,080
-Je ne sais pas si je vous ai donné. Il est très
-embêtant. À moi me donne beaucoup de TOC et il est
+00:01:24,740 --> 00:01:25,740
+La route infernale.
 
 33
-00:03:09,080 --> 00:03:12,055
-horrible et ne devrait pas arriver. Je ne sais pas,
-Il aurait pu demander une garantie, ce qui
+00:01:25,800 --> 00:01:28,600
+J'ai vu des tracteurs, des remorques...
 
 34
-00:03:12,055 --> 00:03:15,198
-soit. En tout cas, quand je vais
-Il est à noter que le microphone n’est pas
+00:01:29,360 --> 00:01:30,740
+Voitures et tout.
 
 35
-00:03:15,198 --> 00:03:23,714
-j'allais bien, eh, ils m'ont mis en contact
-pour m'aider et dire, "Hey, je t'achète
+00:01:31,320 --> 00:01:32,140
+Sans bordure,
 
 36
-00:03:23,714 --> 00:03:28,519
-un nouveau." Moi sans rien demander ou.
-Et l'homme, alors,
+00:01:32,760 --> 00:01:32,980
+YOLO.
 
 37
-00:03:28,519 --> 00:03:32,200
-c'est très bien. Nous avons un nouveau
-microphones, et en second lieu nous aurons aussi
+00:01:39,220 --> 00:01:40,220
+.
 
 38
-00:03:32,200 --> 00:03:39,239
-de nouvelles chaussettes. Il y a une entreprise qui
-Il m'a envoyé des chaussettes que j'ai ouvertes,
+00:01:59,360 --> 00:02:01,360
+.
 
 39
-00:03:39,239 --> 00:03:43,760
-c'est-à-dire qu'ils viennent d'être produits. Je suis une
-petit cochon d'Inde, et si tout va bien
+00:02:01,360 --> 00:02:02,340
+.
 
 40
-00:03:43,760 --> 00:03:47,040
-Nous allons travailler ensemble, mais
-Il faut que je teste, parce que si ça marche
+00:02:02,340 --> 00:02:03,360
+.
 
 41
-00:03:47,040 --> 00:03:50,760
-qui sont, qui sont horribles, qui sont une
-châtaigne donc, ô homme, ne les
+00:02:03,360 --> 00:02:04,360
+.
 
 42
-00:03:50,760 --> 00:03:53,834
-Je vais promouvoir, je vais seulement promouvoir si
-S'ils sont bien.
+00:02:04,360 --> 00:02:05,360
+.
 
 43
-00:04:06,760 --> 00:04:13,201
-Le pont du jour : un pont bien étrange.
-Je vois un, je vois que ça ressemble à un péage, n'est-ce pas?
+00:02:05,360 --> 00:02:06,360
+.
 
 44
-00:04:13,201 --> 00:04:18,919
-Parce que les voitures s'arrêtent. Ils doivent payer. Rare, n'est-ce pas? Payer pour un... Voyons,
+00:02:06,360 --> 00:02:07,360
+.
 
 45
-00:04:18,919 --> 00:04:23,914
-Le pont est pas mal.
-mais bizarre, n'est-ce pas? Comme si c'était un superpont ici
+00:02:07,360 --> 00:02:08,360
+.
 
 46
-00:04:23,914 --> 00:04:27,120
-Cela aurait coûté des millions
-de construire.
+00:02:08,360 --> 00:02:09,360
+.
 
 47
-00:04:27,120 --> 00:04:31,440
-Je ne comprends pas très bien. En outre,
-Je vois aussi ici un drapeau de l'Union européenne, une
+00:02:09,360 --> 00:02:10,360
+.
 
 48
-00:04:31,440 --> 00:04:34,467
-Drapeau de l'Italie et un drapeau de la région
-du Vénétie, avec le célèbre lion.
+00:02:10,360 --> 00:02:11,360
+.
 
 49
-00:04:37,000 --> 00:04:41,680
-Nous allons le traverser à pied. J'espère qu'il ne
-me faire payer. Oui, oui, c'est un péage,
+00:02:11,360 --> 00:02:12,360
+.
 
 50
-00:04:41,680 --> 00:04:46,880
-ponte pago. Il y a des prix très bon marché.
+00:02:12,360 --> 00:02:13,360
+.
 
 51
-00:04:46,880 --> 00:04:53,440
-Pas de frais au cas où, hein? Juste au cas où. Tracteur 1 euro, moto 10 centimes,
+00:02:13,360 --> 00:02:14,360
+.
 
 52
-00:04:53,440 --> 00:05:00,039
-moto 40 cents, voiture, je ne sais pas quoi
-Ça veut dire que la voiture doit être une voiture, non? 70 centimes.
+00:02:14,360 --> 00:02:15,360
+.
 
 53
-00:05:00,039 --> 00:05:02,259
-Je passe à pied et je vais dire buon giorno.
+00:02:15,360 --> 00:02:16,360
+.
 
 54
-00:05:04,919 --> 00:05:07,800
-Bonno. À pied gratuit?
+00:02:16,360 --> 00:02:17,360
+.
 
 55
-00:05:07,800 --> 00:05:09,651
-Oui. Ok, grazie.
+00:02:17,360 --> 00:02:18,360
+.
 
 56
-00:05:15,560 --> 00:05:18,720
-Ils ont regardé le téléphone, hein? Il m'a regardé
-vers le bas comme disant, "Que faites-vous? Que faites-vous? Qu'est-ce que
+00:02:18,360 --> 00:02:19,360
+.
 
 57
-00:05:18,720 --> 00:05:24,766
-tu fais ? » Vale, quelle note je mets dans le
-pont? Un cinq. Un cinq gratté.
+00:02:19,360 --> 00:02:20,360
+.
 
 58
-00:05:28,639 --> 00:05:31,960
-Je suis sur le point d'arriver à l'endroit où je dois
-ramasser le microphone. Qui, d'ailleurs,
+00:02:20,360 --> 00:02:21,360
+.
 
 59
-00:05:31,960 --> 00:05:36,199
-ces micros une bonne chose que vous
-Si je veux, je peux activer le mode
+00:02:21,360 --> 00:02:22,360
+.
 
 60
-00:05:36,199 --> 00:05:40,199
-annulation de bruit. C'est très
-utile pour quand je suis sur une route qui
+00:02:22,360 --> 00:02:23,360
+Portogruaro, je suis là.
 
 61
-00:05:40,199 --> 00:05:45,120
-Il y a des voitures qui font sentir moins les
-les voitures, mais aussi les chiens, pour que les
+00:02:23,360 --> 00:02:24,320
+Ce n'était pas aussi dramatique que je le pensais.
 
 62
-00:05:45,120 --> 00:05:48,759
-Les chiens font du bruit.
-Dans cette maison, il y en a trois.
+00:02:24,320 --> 00:02:25,320
+Les routes que j'ai faites en Italie ont été pires.
 
 63
-00:05:48,759 --> 00:05:53,720
-En tout cas, ces jours-ci, il n'y a pas
-Je vais à l'hôtel jusqu'à Trieste.
+00:02:25,320 --> 00:02:26,320
+.
 
 64
-00:05:53,720 --> 00:05:56,560
-Bon, je peux camper, je campe.
-Alors, bien sûr, avec ce que j'économise,
+00:02:26,320 --> 00:02:27,320
+.
 
 65
-00:05:56,560 --> 00:06:01,400
-Je pense que je pourrais faire de temps en temps un
-menu.
+00:02:27,320 --> 00:02:28,340
+Et ils ont été pires.
 
 66
-00:06:01,400 --> 00:06:06,639
-Mais cette terrasse est fermée.
+00:02:29,400 --> 00:02:31,260
+Celle-ci n'avait pas tant
 
 67
-00:06:06,639 --> 00:06:11,759
-mais fermé rouleau scellé, hein? Je veux
-Je ne sais pas si c'est fermé pour vacances
+00:02:31,260 --> 00:02:32,820
+de trafic.
 
 68
-00:06:11,759 --> 00:06:17,319
-Ou les ont-ils assommés pour
-problème de santé. Je vais voir.
+00:02:33,760 --> 00:02:35,440
+Les camions passaient, les voitures
 
 69
-00:06:17,319 --> 00:06:24,344
-Locale sottoposto a sequestro préventive.
-Je parle italien, mais je ne comprends pas.
+00:02:35,440 --> 00:02:37,340
+et tel, mais bon, plus ou moins
 
 70
-00:06:25,845 --> 00:06:31,259
-Si quelqu'un veut regarder, si quelqu'un me dit
-Que voulez-vous dire par là, je suis curieux.
+00:02:37,340 --> 00:02:39,280
+j'ai pu faire. Écoutez,
 
 71
-00:06:41,960 --> 00:06:47,440
-D'accord, je l'ai déjà. Maintenant, je l'ouvre, je le
-je regarde, ce qui est, tel, je l'installe, je le configure,
+00:02:39,360 --> 00:02:40,440
+J'ai parlé à Mathieu.
 
 72
-00:06:47,440 --> 00:06:52,720
-etc. Le seul restaurant qui est
-ouvert est ce sushi là-bas.
+00:02:41,680 --> 00:02:43,340
+Mathieu, je ne me souviens plus de son nom.
 
 73
-00:06:52,720 --> 00:06:55,263
-Il y avait une pizzeria mais elle est fermée
-Juste aujourd'hui, jeudi.
+00:02:44,080 --> 00:02:45,160
+Il m'a contacté par Strava,
 
 74
-00:06:56,280 --> 00:06:59,000
-Et je dis, huîtres, un sushi. Bon,
-J'aime bien, mais c'est vrai que ce n'est pas très
+00:02:45,480 --> 00:02:47,260
+Lui aussi fait le tour
 
 75
-00:06:59,000 --> 00:07:04,400
-italien. Je viens de voir que c'est "all you can eat". Buffet gratuit. Bon, buffet libre
+00:02:47,260 --> 00:02:49,520
+monde à pied, mais il le fait en courant.
 
 76
-00:07:04,400 --> 00:07:08,360
-ou tu demandes, de ceux que tu vas
-demander et vous allez apporter. Illimité.
+00:02:49,720 --> 00:02:50,180
+L'oeil, hein ?
 
 77
-00:07:08,360 --> 00:07:13,759
-Buah, ils ne savent pas ce qui les attend. Aujourd'hui,
+00:02:51,540 --> 00:02:53,020
+Courir, oui. Et il est parti de Bologne,
 
 78
-00:07:13,759 --> 00:07:18,358
-Aujourd'hui, je mange, je dîne, je dîne ici.
+00:02:53,120 --> 00:02:54,520
+Il est français, mais il est parti de Bologne.
 
 79
-00:07:19,012 --> 00:07:22,513
-C'est bon, j'ai trop mangé, hein ?
+00:02:55,560 --> 00:02:57,160
+Et bien, il va un peu
 
 80
-00:07:23,879 --> 00:07:29,240
-Soupe miso, que j'aime. Sushi de toutes sortes.
+00:02:57,160 --> 00:02:58,920
+Plus tard que moi, il est déjà
 
 81
-00:07:29,240 --> 00:07:33,000
-Poulet, légumes aux champignons, typique bambou avec,
+00:02:58,920 --> 00:03:00,880
+La Croatie arrive à Split.
 
 82
-00:07:33,000 --> 00:07:39,440
-bambou avec des champignons, et enfin, j'ai fait trois
-tours de vaisselle. Souffle, souffle, souffle, souffle.
+00:03:01,720 --> 00:03:03,320
+Mais nous ne sommes pas vraiment loin
 
 83
-00:07:39,440 --> 00:07:44,856
-Rouler, hein? Je pourrais rouler aujourd'hui.
-Problème? Ils sont déjà les deux,
+00:03:03,320 --> 00:03:05,340
+et je sais quoi. Peut-être
 
 84
-00:07:46,479 --> 00:07:51,479
-Bon, alors, bon, enfin.
-Oui, oui, je n'ai pas perdu beaucoup ici
+00:03:05,340 --> 00:03:07,340
+à un moment donné nous nous croiserons s'il décide
 
 85
-00:07:51,479 --> 00:07:56,319
-de temps, mais bon, hein, deux heures, hein, presque?, entre le paquet, supermarché qui
+00:03:07,340 --> 00:03:09,240
+arrêter et je tire assez,
 
 86
-00:07:56,319 --> 00:08:00,039
-je suis allé maintenant, le restaurant, tel. J'ai
-Il y avait aussi une vidéo avec
+00:03:09,320 --> 00:03:11,000
+nous verrons. Je suis allé au super
 
 87
-00:08:00,039 --> 00:08:05,039
-l'école de la retraite, le
-économique, autres cracks.
+00:03:11,000 --> 00:03:13,200
+Maintenant je vais aller voir
 
 88
-00:08:05,039 --> 00:08:10,240
-Salutations d'ici. Bon, alors
-Nous continuerons, nous poursuivrons et ferons ce que nous pouvons,
+00:03:13,200 --> 00:03:14,260
+Si je peux manger quelque chose.
 
 89
-00:08:10,240 --> 00:08:14,680
-environ 15 km plus, au moins. Et j'ai déjà
-les microphones installés. Ce sont
+00:03:15,140 --> 00:03:17,140
+Je ne sais pas ce que je vais trouver, je pense que c'est une ville relativement
 
 90
-00:08:14,680 --> 00:08:19,120
-les nouveaux. Je les ai essayé un peu. Dans
-début vont bien. Parfait. Beaucoup
+00:03:17,140 --> 00:03:18,980
+assez grand. Nous avons déjà mangé.
 
 91
-00:08:19,120 --> 00:08:24,159
-Merci à tous, Jean, Antoine et
-en François. Beaucoup, beaucoup,
+00:03:19,680 --> 00:03:20,720
+Je voulais manger quelque chose rapidement
 
 92
-00:08:24,159 --> 00:08:29,879
-Merci beaucoup. 10 fois merci.
-Merci aussi aux spectateurs.
+00:03:20,720 --> 00:03:22,460
+pour tirer
 
 93
-00:08:29,879 --> 00:08:34,279
-qu'ils entendront tout beaucoup mieux. Les
-chaussettes je ne les ai pas mis. Les
+00:03:22,460 --> 00:03:25,160
+et j'ai trouvé cet endroit qui font de la nourriture rapide
 
 94
-00:08:34,279 --> 00:08:40,760
-Je vais essayer demain pour la première fois. Ici
-nous avons une zone de canaux comme toujours. Et
+00:03:25,160 --> 00:03:27,080
+Et je ne savais pas très bien
 
 95
-00:08:40,760 --> 00:08:46,160
-je vois ce letrero, et bon, il parle de ce qu'ils essaient
+00:03:27,080 --> 00:03:28,620
+où entrer. Il y avait des gens à la porte
 
 96
-00:08:46,160 --> 00:08:50,800
-semble donc éradiquer la peste de maipus, que grâce à
+00:03:28,620 --> 00:03:29,640
+On me dit qu'on entre par là.
 
 97
-00:08:50,800 --> 00:08:55,680
-vous qui me l'avez dit dans les commentaires,
-sont espèce envahissante. Maintenant, j'ai vu un,
+00:03:30,600 --> 00:03:32,220
+Et moi, ah, et comment est l'endroit? Est-ce que ça va?
 
 98
-00:08:55,680 --> 00:09:01,640
-j'ai pu l'enregistrer verticalement. Je ne sais pas quel mal ils doivent faire. J'imagine que
+00:03:32,620 --> 00:03:34,500
+Et il me dit, mec, je suis le propriétaire.
 
 99
-00:09:01,640 --> 00:09:03,916
-Ils doivent faire quelque chose pour pouvoir les tuer.
+00:03:36,460 --> 00:03:37,180
+Ils disent que c'est bien.
 
 100
-00:09:19,839 --> 00:09:27,240
-4, village de Ceggia. Bufo, j'ai déjà terminé la journée, vous, quelle vitesse.
+00:03:37,680 --> 00:03:39,080
+Eh bien oui, oui, c'était bien. Attends, j'allume
 
 101
-00:09:27,240 --> 00:09:32,200
-Bon, pas encore, je peux encore prolonger une heure et demie, mais oui,
+00:03:39,080 --> 00:03:40,940
+le track. C'était bien,
 
 102
-00:09:32,200 --> 00:09:37,240
-Oui, nous l'avons déjà, aujourd'hui non planifié
-rien. Je n'ai rien vu, toi. Où que j'arrive
+00:03:41,040 --> 00:03:42,900
+avaient, eh bien, nous avons fait un hamburger avec des pommes de terre
 
 103
-00:09:37,240 --> 00:09:41,257
-nuit, car probablement dans un champ,
-J'arrête, et voilà.
+00:03:42,900 --> 00:03:44,460
+L'eau avec du gaz, vous.
 
 104
-00:09:56,279 --> 00:10:02,279
-Quelle belle après-midi. Quel coucher de
-soleil. C'est bon. Maintenant, il y a des jours que je n'ai pas vu une
+00:03:45,020 --> 00:03:46,180
+Bien, bien, bien, bien, bien.
 
 105
-00:10:02,279 --> 00:10:06,839
-beau coucher de soleil, ici avec le canal. Toutes les prairies semées.
+00:03:47,120 --> 00:03:48,700
+Bon, allons-y, continuons.
 
 106
-00:10:06,839 --> 00:10:09,640
-Aussi un peu Lleida, non? Que seulement
-nous parlons de Lleida par le brouillard. Eh bien
+00:03:48,760 --> 00:03:50,380
+Aujourd'hui je veux faire, aujourd'hui je veux faire au moins
 
 107
-00:10:09,640 --> 00:10:17,083
-aussi à Lleida est parfois beau. Maintenant en Véneto. Et maintenant, je suis à Villa Zano.
+00:03:50,380 --> 00:03:52,740
+25 plus. Ce sont les
 
 108
-00:10:17,083 --> 00:10:22,839
-Villa Zeno. Bon, ehm, je suis venu ici parce que le
+00:03:52,740 --> 00:03:54,840
+12.37. Voyons si
 
 109
-00:10:22,839 --> 00:10:27,880
-Mapy, qui est l'application que je fais
-servir, il a dit que c'était une localisation
+00:03:54,840 --> 00:03:57,000
+me donne le temps. Mensonge, je viens de regarder,
 
 110
-00:10:27,880 --> 00:10:32,480
-patrimoine de l'humanité par l'UNESCO.
-Il y a un petit panneau sur la carte où le
+00:03:57,000 --> 00:03:58,840
+Il n'est pas 12h37, il est 12h50.
 
 111
-00:10:32,480 --> 00:10:37,760
-indique, tous les sites du patrimoine de l'UNESCO, et l'homme est normalement un monument de l'UNESCO
+00:03:59,000 --> 00:03:59,160
+Allez, hein ?
 
 112
-00:10:37,760 --> 00:10:42,519
-C’est souvent quelque chose qui a beaucoup d’importance.
-Et oui, je savais que ça arriverait
+00:04:01,640 --> 00:04:03,000
+Traversée Portogruano
 
 113
-00:10:42,519 --> 00:10:48,000
-Et aujourd'hui, j'ai été, et voilà, je suis
-"étudiant", étudiant un peu l'histoire pour pouvoir vous la raconter,
+00:04:03,000 --> 00:04:04,760
+rapidement sans passer
 
 114
-00:10:49,279 --> 00:10:53,399
-Mais je pense que pour commencer, je
-est ouvert, chose rare. Et deuxièmement, il est un
+00:04:04,760 --> 00:04:06,860
+dans le centre historique. Cette non
 
 115
-00:10:53,399 --> 00:10:58,320
-bâtiment... Enfin, qu'est-ce que c'est? Villa Zeno. C'est un de
+00:04:06,860 --> 00:04:08,580
+C'est comme ça que je veux faire le tour du monde à pied.
 
 116
-00:10:58,320 --> 00:11:03,800
-les villas conçues par l'architecte
-Andrea Palladio, que j'ai lu, est un
+00:04:09,140 --> 00:04:11,200
+Sauf qu'au 1er février
 
 117
-00:11:03,800 --> 00:11:09,160
-Les architectes les plus influents de la
-histoire de l'humanité. Attention. Nous sommes
+00:04:11,200 --> 00:04:13,180
+Il faut être à Trieste.
 
 118
-00:11:09,160 --> 00:11:14,320
-plaisantant. Ce monsieur a fait
-Il a fait des châteaux, il a fait des palais, il a tout fait,
+00:04:13,900 --> 00:04:15,120
+Demain je dois arriver
 
 119
-00:11:14,320 --> 00:11:19,720
-Il est plus connu et plus connu pour
-Ces villes, ces villages, ces villes,
+00:04:15,120 --> 00:04:17,040
+dans le Ronchi dei Legionari.
 
 120
-00:11:19,720 --> 00:11:24,760
-Bono, demeures seigneuriales de campagne,
-grande, et très luxueuse, je suppose que pour
+00:04:17,380 --> 00:04:18,820
+Pourquoi? Quand j'étais petit
 
 121
-00:11:24,760 --> 00:11:28,639
-intérieur. L'ensemble architectural de
-toutes les villes Palladies est patrimoine
+00:04:18,820 --> 00:04:20,500
+Je suis devenue amie avec un Italien
 
 122
-00:11:28,639 --> 00:11:32,647
-de l'humanité. Et cela ne doit pas être
-les plus gracieuses.
+00:04:20,500 --> 00:04:22,940
+C'était le fils d'un ami de mes parents.
 
 123
-00:11:33,519 --> 00:11:38,440
-L'état de conservation n'est pas digne d'un
-Ce monument est le patrimoine de la
+00:04:23,640 --> 00:04:25,180
+Peut-être il y a 20 ans
 
 124
-00:11:38,440 --> 00:11:43,079
-UNESCO. J'avais lu sur Internet que
-était en reconstruction,
+00:04:25,180 --> 00:04:26,940
+Je n'ai pas parlé avec lui, mais il
 
 125
-00:11:43,079 --> 00:11:46,639
-Les photos que j'ai vues ont été
-La porte était fermée, mais elle était ouverte.
+00:04:27,000 --> 00:04:29,000
+sur Instagram, alors je vous laisse
 
 126
-00:11:46,639 --> 00:11:51,279
-Il ne me semblait pas,
-en marchant à l'intérieur, qui était dans, qui
+00:04:29,000 --> 00:04:31,220
+Envoyer un message, il a répondu
 
 127
-00:11:51,279 --> 00:11:54,680
-Il y a eu une sorte de reconstruction.
-Ceci est plus laissé de la main de Dieu
+00:04:31,220 --> 00:04:32,760
+Aujourd'hui, nous avons parlé au téléphone
 
 128
-00:11:54,680 --> 00:12:00,279
-que je sais. Bon, alors rien, hein,
-est venu les Palladies de la Vénétie. Nous avons vu
+00:04:32,760 --> 00:04:34,640
+Oui, oui, nous sommes restés
 
 129
-00:12:00,279 --> 00:12:01,511
-Celle-ci, peu de chose.
+00:04:34,640 --> 00:04:36,820
+demain soir. De Portotruano
 
 130
-00:12:19,600 --> 00:12:24,360
-5 et 3 heures. J'ai déjà plus ou moins clair
-où je camperai. Regardez, nous sommes maintenant
+00:04:36,820 --> 00:04:38,800
+64 kilomètres, donc
 
 131
-00:12:24,360 --> 00:12:29,309
-plus ou moins là-bas. Je dois continuer, traverser les rails de train ci-dessous,
+00:04:38,800 --> 00:04:40,900
+J'ai beaucoup de mal à avancer aujourd'hui.
 
 132
-00:12:29,309 --> 00:12:34,320
-et puis là-bas. Voici une
-l'église, et je prendrai de l'eau, et près d'ici,
+00:04:41,540 --> 00:04:42,880
+D'accord? Quel divertissement
 
 133
-00:12:34,320 --> 00:12:38,480
-que l'on ne voit pas sur la carte, c'est là où je campe,
-côté de la rivière. Puis quand vous y arrivez
+00:04:42,880 --> 00:04:44,720
+ai-je sur la route? Eh bien, je ne sais pas,
 
 134
-00:12:38,480 --> 00:12:44,628
-nous verrons, hein? Ceci sur la carte est tout
-très beau. Sur le point d'arriver à la zone de camping
+00:04:44,960 --> 00:04:46,500
+Ces statues que je vois en marge,
 
 135
-00:12:45,000 --> 00:12:47,616
-C'est un autre endroit ici que j'aime
+00:04:47,000 --> 00:04:48,840
+qu'est-ce qu'un don Quichotte? En dehors de
 
 136
-00:12:47,616 --> 00:12:52,399
-est juste en dessous du talus est qui est à côté de la rivière. Je le garde. Je pense qu'il n'y a pas
+00:04:48,840 --> 00:04:50,340
+Et pour ça, écouter la radio.
 
 137
-00:12:52,399 --> 00:12:58,000
-beaucoup de vue de moi ici. Les voitures dans
-Vous ne devriez pas me voir au début, et c'est plat.
+00:04:50,820 --> 00:04:52,820
+Et maintenant, je me tais, voici le bon côté de la chanson.
 
 138
-00:12:58,000 --> 00:13:01,880
-Mais bon, je le garde au cas où l'autre ne serait pas
-J'aime ce qui est à côté.
+00:04:57,000 --> 00:05:26,980
+.
 
 139
-00:13:01,880 --> 00:13:06,480
-Je préfère cet endroit, la vérité. Je
-suivi par la route, puis cette
+00:05:27,000 --> 00:05:29,000
+.
 
 140
-00:13:06,480 --> 00:13:12,320
-terre d'ici, la maison, on ne la voit pas maintenant,
-La maison qui correspond
+00:05:30,640 --> 00:05:31,040
+Quatre
 
 141
-00:13:12,320 --> 00:13:17,480
-abandonné, point positif. Deuxièmement, il y a
-Ce talus que j'ai suivi et
+00:05:31,040 --> 00:05:31,740
+moins le quart,
 
 142
-00:13:17,480 --> 00:13:21,079
-J'ai vu qu'en descendant, il y avait
-cette esplanade où je suis maintenant, et il n'est pas
+00:05:32,600 --> 00:05:34,980
+Il est déjà entré et sorti de la tisane.
 
 143
-00:13:21,079 --> 00:13:25,600
-à la vue des voitures. L'autre était...
-Si une voiture s'arrêtait et me regardait
+00:05:36,420 --> 00:05:37,080
+Aucune source
 
 144
-00:13:25,600 --> 00:13:30,120
-pouvait voir. Ici je sens la voiture passer
-comme maintenant,
+00:05:37,080 --> 00:05:38,920
+Ça fonctionnait. Pour le moment non
 
 145
-00:13:30,120 --> 00:13:34,600
-mais je ne vois pas. Donc, si je ne vois pas
-moi à lui, il ne me voit pas non plus. Là,
+00:05:38,920 --> 00:05:40,880
+J'ai besoin d'eau, mais
 
 146
-00:13:34,600 --> 00:13:37,160
-Je serai plus loin de la route, mais
-directement est que vous n'avez pas besoin. Autrement dit, je
+00:05:40,880 --> 00:05:42,920
+je voulais remplir déjà, il y en a un autre, il y a en théorie
 
 147
-00:13:37,160 --> 00:13:44,002
-je pense que je viens ici et vous êtes. Ils sont
-5:30. Bonne heure. Je plante la tente.
+00:05:42,920 --> 00:05:45,120
+deux sources, dans deux kilomètres
 
 148
-00:13:44,680 --> 00:13:49,327
-Résumé : 34 km, trois cafés.
+00:05:45,120 --> 00:05:47,020
+à un rond-point. Un rouleau, un rouleau
 
 149
-00:13:50,320 --> 00:13:56,553
-Je n'ai parlé à personne aujourd'hui, je n'ai
-il n'y avait personne, sur la route. Et de l'argent, hein, 6 euros
+00:05:47,020 --> 00:05:48,640
+Un soir, un après-midi, rien ne va.
 
 150
-00:13:56,553 --> 00:14:01,360
-du petit déjeuner, 21 euros du buffet et 2 euros et demi du
+00:05:49,520 --> 00:05:50,720
+Nous continuons, nous avançons,
 
 151
-00:14:01,360 --> 00:14:07,639
-supermarché. Très bonne journée. Il a été très
-bonne journée. J'ai eu de la bonne nourriture. J'ai eu
+00:05:50,980 --> 00:05:52,800
+qui est ce qui compte. Plus
 
 152
-00:14:07,639 --> 00:14:11,920
-deux petits cadeaux. J'ai eu, hein, le beau coucher de soleil.
+00:05:52,800 --> 00:05:54,800
+Kilomètres aujourd'hui, moins
 
 153
-00:14:11,920 --> 00:14:17,759
-Il a fait une bonne journée. À la fin, j'ai pu
-avancer assez. Très bien, vous. Très bien.
+00:05:54,800 --> 00:05:55,500
+Je devrais le faire demain.
 
 154
-00:14:17,759 --> 00:14:21,279
-Certains diront que c'est un jour
-ennuyeux. Bon, hein, le fait que ce soit
+00:05:57,000 --> 00:05:57,760
+Eau
 
 155
-00:14:21,279 --> 00:14:26,199
-abruti signifie que je ne suis pas passé
-mauvaises choses, vous savez? Si vous souffriez pas
+00:05:57,760 --> 00:06:00,000
+Qui coule sans bouton,
 
 156
-00:14:26,199 --> 00:14:29,560
-Je m'ennuierais. Maintenant, j'ai rempli l'eau,
-à une source qui était là à côté
+00:06:01,200 --> 00:06:02,900
+même dynamique que toujours, de cette
 
 157
-00:14:29,560 --> 00:14:33,560
-qui me marquait le Mapy. C'était un rejolinet qui riait, n'est-ce pas? Ce n'était pas une source
+00:06:02,900 --> 00:06:05,160
+Nous n'avons pas pu nous baigner,
 
 158
-00:14:33,560 --> 00:14:37,680
-de ceux-ci appuyer sur bouton. Ces sources à
-parfois pas fiables parce que vous ne savez pas si
+00:06:05,160 --> 00:06:07,120
+Nous ne l’utiliserons que pour
 
 159
-00:14:37,680 --> 00:14:41,160
-vient de la canalisation publique ou vient
-l'eau du canal ou de la rivière.
+00:06:07,120 --> 00:06:09,120
+nettoyer les mains
 
 160
-00:14:41,160 --> 00:14:44,399
-Alors j'ai rempli la gourde,
-Je l'utilise pour me nettoyer
+00:06:09,120 --> 00:06:11,420
+ou quoi que ce soit,
 
 161
-00:14:44,399 --> 00:14:49,800
-moi-même, que je nettoie parfois les
-mains, ou je nettoie le pot de cuisson, ou le
+00:06:11,520 --> 00:06:12,900
+Nettoyer la brosse à dents.
 
 162
-00:14:49,800 --> 00:14:55,959
-que ce soit. Aujourd'hui oui, nous faisons un feu de camp, je ne sais pas
-Ici ou là.
+00:06:14,200 --> 00:06:15,000
+Il fait chaud, hein ?
 
 163
-00:14:55,959 --> 00:15:01,639
-Et nous avons une question, deux. La première est
-Si j'ai douté
+00:06:16,900 --> 00:06:18,400
+C'est mauvais signe, non ?
 
 164
-00:15:01,639 --> 00:15:06,360
-une certaine routine absurde depuis que
-je marche. Et j'ai pensé
+00:06:19,000 --> 00:06:19,960
+Qu'il soit chaud.
 
 165
-00:15:06,360 --> 00:15:10,440
-assez dans cette question, c'est une bonne
-question. Routine absurde je ne sais pas,
+00:06:20,960 --> 00:06:22,060
+Qu'est-ce que j'ai trouvé maintenant ?
 
 166
-00:15:10,440 --> 00:15:15,160
-mais manie? Mania oui. Le microphone, aujourd'hui
-j'ai le nouveau micro, mais c'est la même chose
+00:06:23,400 --> 00:06:24,960
+Le drapeau de Maradona
 
 167
-00:15:15,160 --> 00:15:20,839
-Le premier est composé de deux choses.
-L'émetteur, qui est ce qui est où
+00:06:24,960 --> 00:06:26,720
+du pape.
 
 168
-00:15:20,839 --> 00:15:24,560
-je parle, c'est ce que vous voyez ici qui est de
-couleur noire, et le récepteur qui est
+00:06:27,000 --> 00:06:28,080
+Oui, Maradona-Papa.
 
 169
-00:15:24,560 --> 00:15:27,880
-se connecte au mobile. Le récepteur ne sont pas toujours
-Je l'ai mis dans mon portable, sinon
+00:06:29,460 --> 00:06:30,860
+Dans le nord de l'Italie,
 
 170
-00:15:27,880 --> 00:15:33,959
-La batterie de mon téléphone portable est usée et il n’est pas nécessaire.
-Je l'ai mis dans ma poche et je
+00:06:31,240 --> 00:06:32,300
+C'est la maison d'un Napolitain.
 
 171
-00:15:33,959 --> 00:15:37,759
-je perds le récepteur est déjà, il ne sert pas
-rien le microphone. Je dois en acheter un nouveau.
+00:06:32,960 --> 00:06:34,640
+Il doit l'être, à 100%.
 
 172
-00:15:37,759 --> 00:15:43,319
-Alors je suis trop souvent
-s'assurer qu'il est sur place, que
+00:06:34,640 --> 00:06:36,280
+100%.
 
 173
-00:15:43,319 --> 00:15:46,600
-poche. Toujours à la recherche que
-il y a la poche. Une fois que j'ai
+00:06:36,280 --> 00:06:37,880
+4 heures de l'après-midi,
 
 174
-00:15:46,600 --> 00:15:50,560
-je suis tombé, je suis désolé parce que ça fait du bruit
-qui tombe sur l'asphalte, non? Surtout
+00:06:38,740 --> 00:06:40,280
+Une heure et demie, une heure et demie pour marcher.
 
 175
-00:15:50,560 --> 00:15:55,600
-Quand je sors quelque chose d'autre de ma poche,
-ou quoi que ce soit. J'ai trop, trop de TOC
+00:06:40,740 --> 00:06:41,820
+Presque cinq heures de l'après-midi
 
 176
-00:15:55,600 --> 00:16:00,839
-avec cela de l'émetteur. Et la deuxième
-La question est d'Elisabeth, je crois, et
+00:06:41,820 --> 00:06:44,460
+Arrivée à Palazzolo
 
 177
-00:16:00,839 --> 00:16:06,225
-Je me demande si j'ai peur de la place
-Catalogne ou des premiers jours.
+00:06:44,460 --> 00:06:45,880
+dell'Ostela, regardez quel pont.
 
 178
-00:16:07,000 --> 00:16:12,759
-Je ne regrette pas la Plaza Catalunya, l'adieu.
+00:06:47,360 --> 00:06:48,320
+Regardez le pont
 
 179
-00:16:12,759 --> 00:16:17,880
-C'est très beau, mais je ne pense pas
-"Oh, j'aimerais bien y retourner."
+00:06:48,320 --> 00:06:50,500
+avec des lattes de bois, seulement
 
 180
-00:16:17,880 --> 00:16:21,759
-non? Mais oui je manque un peu la
-sensations des deux premières semaines,
+00:06:50,500 --> 00:06:51,320
+par les piétons.
 
 181
-00:16:21,759 --> 00:16:25,120
-mais la sensation, pas ce qui s'est passé,
-Ce que je ressentais à l’intérieur de moi, c’était une
+00:06:52,320 --> 00:06:55,000
+Et ainsi de...
 
 182
-00:16:25,120 --> 00:16:30,360
-beaucoup d'émotion, comme d'être
-faire le tour du monde à pied, comme par la
+00:06:55,000 --> 00:06:56,800
+Un pont suspendu.
 
 183
-00:16:30,360 --> 00:16:36,720
-accueil que j'avais. C'est-à-dire, je ni
-Selon mes meilleurs pronostics, je
+00:06:57,000 --> 00:06:57,660
+Il s'appelle, non ?
 
 184
-00:16:36,720 --> 00:16:41,399
-que cela aurait tant d'impact, hein, de
-visites, des médias, des
+00:06:58,660 --> 00:07:00,240
+Je devrais le savoir, je suppose, en tant qu'ingénieur.
 
 185
-00:16:41,399 --> 00:16:48,560
-disciples, de tel... non, je n'imaginais pas
-Tout le monde, vous savez, vous avez
+00:07:01,340 --> 00:07:02,340
+Il ne tremble pas, hein ?
 
 186
-00:16:48,560 --> 00:16:52,399
-Je vois que vous avez laissé beaucoup de
-commentaires, les premières vidéos, tel,
+00:07:02,340 --> 00:07:03,960
+Oui, oui, oui, oui, oui, oui, un peu, non ?
 
 187
-00:16:52,399 --> 00:16:58,000
-tout, il est très "heavy" et je me souviens
-Rester toute la journée comme super excité.
+00:07:05,160 --> 00:07:06,480
+Le Népal espère le traverser...
 
 188
-00:16:58,000 --> 00:17:02,199
-Je devrais avoir le même sentiment
-Les visites sont encore nombreuses
+00:07:06,480 --> 00:07:07,720
+Ouais, ouais, ouais, beaucoup d'entre eux.
 
 189
-00:17:02,199 --> 00:17:07,640
-Et tout ça, mais au final, il y a un
-l'habitude, je suis depuis 61 jours. Un
+00:07:07,960 --> 00:07:09,760
+Comme c'est amusant. Il tremble, ça.
 
 190
-00:17:07,640 --> 00:17:12,720
-s'habitue à tout. De même, hein, très
-Satisfait, très content.
+00:07:09,860 --> 00:07:11,200
+Je ne sais pas si c'est une caméra, je suppose que non.
 
 191
-00:17:12,720 --> 00:17:14,834
-C'est tout. À demain.
+00:07:12,400 --> 00:07:14,320
+Jambes écartées, jambes absolument
+
+192
+00:07:14,320 --> 00:07:16,480
+déchets. Je suis fatigué.
+
+193
+00:07:16,980 --> 00:07:18,000
+J'ai déjà localisé la...
+
+194
+00:07:18,000 --> 00:07:19,580
+Théoriquement, c'est la zone de campement.
+
+195
+00:07:20,140 --> 00:07:21,820
+Pas mal ici, hein? Dommage qu'il soit si visible.
+
+196
+00:07:22,900 --> 00:07:24,540
+Je crois qu'il y a une source
+
+197
+00:07:24,540 --> 00:07:26,980
+Je puis y puis prendre de l'eau bonne, non pas comme celle que j'ai prise.
+
+198
+00:07:27,000 --> 00:07:29,340
+D'ailleurs, nous avons ici une aire de camping-cars.
+
+199
+00:07:31,080 --> 00:07:32,880
+Tu crois qu'on peut camper ici ?
+
+200
+00:07:33,360 --> 00:07:35,100
+C'est une zone de camping
+
+201
+00:07:35,100 --> 00:07:36,900
+de camping-cars, non? Vous croyez
+
+202
+00:07:36,900 --> 00:07:38,040
+Qu'est-ce que je pourrais mettre ici la tente?
+
+203
+00:07:38,660 --> 00:07:40,360
+Probablement personne ne me dit rien.
+
+204
+00:07:42,180 --> 00:07:43,620
+Mais je ne sais pas si je serais tranquille, vous savez.
+
+205
+00:07:51,340 --> 00:07:52,480
+En dehors du village,
+
+206
+00:07:53,180 --> 00:07:55,440
+Ici, nous avons le terrain de football.
+
+207
+00:07:55,780 --> 00:07:56,820
+Nous avons des maisons ici.
+
+208
+00:07:57,000 --> 00:07:59,000
+Là, une école.
+
+209
+00:07:59,000 --> 00:08:01,000
+Pistes de padel.
+
+210
+00:08:01,000 --> 00:08:03,000
+Et voici le centre...
+
+211
+00:08:03,000 --> 00:08:05,000
+La mairie, on pourrait dire.
+
+212
+00:08:05,000 --> 00:08:07,000
+Vous ne pouvez pas imaginer quelque chose de très sale.
+
+213
+00:08:07,000 --> 00:08:09,000
+C'est un centre de recyclage et tout.
+
+214
+00:08:09,000 --> 00:08:11,000
+L’idée est de continuer sur cette voie
+
+215
+00:08:11,000 --> 00:08:13,000
+S'engager sur la piste forestière
+
+216
+00:08:13,000 --> 00:08:15,000
+Et trouver un endroit.
+
+217
+00:08:15,000 --> 00:08:17,000
+J'ai vu qu'il n'y avait absolument pas de maison.
+
+218
+00:08:17,000 --> 00:08:19,000
+Je pense que nous serons méga-tranquilles.
+
+219
+00:08:21,000 --> 00:08:23,000
+J'ai vu des lumières dans les vestiaires du stade.
+
+220
+00:08:23,000 --> 00:08:25,000
+Il ne se passe rien.
+
+221
+00:08:25,000 --> 00:08:27,000
+Et le centre de recyclage, là-haut.
+
+222
+00:08:27,000 --> 00:08:29,000
+Il y a encore une voiture, donc.
+
+223
+00:08:29,000 --> 00:08:31,000
+Il y a peut-être encore des employés.
+
+224
+00:08:31,000 --> 00:08:33,000
+Mais je n'ai vu personne.
+
+225
+00:08:33,000 --> 00:08:37,000
+En outre, il y a comme trois antennes et j'ai la 5G à portée de main.
+
+226
+00:08:41,000 --> 00:08:45,000
+C'est là que j'ai eu une bonne image
+
+227
+00:08:45,000 --> 00:08:47,000
+vue satellite, il y a une clôture.
+
+228
+00:08:47,000 --> 00:08:49,000
+Il y a une clôture.
+
+229
+00:08:49,000 --> 00:08:51,000
+On continue un peu plus.
+
+230
+00:08:51,000 --> 00:08:53,000
+Il fallait que je bouge un peu
+
+231
+00:08:53,000 --> 00:08:55,000
+Parce que j'étais comme dans le champ là derrière
+
+232
+00:08:55,000 --> 00:08:57,000
+Et je n'ai pas fini de me plaire.
+
+233
+00:08:57,000 --> 00:08:59,000
+Je suis déjà venu ici.
+
+234
+00:08:59,000 --> 00:09:01,000
+La piste par laquelle je suis venu est là.
+
+235
+00:09:01,000 --> 00:09:03,000
+Je suis très visible.
+
+236
+00:09:03,000 --> 00:09:05,000
+Mais il n'y a presque jamais de piste qui passe.
+
+237
+00:09:05,000 --> 00:09:07,000
+Donc ça m'est égal.
+
+238
+00:09:07,000 --> 00:09:09,000
+Je vais rester ici.
+
+239
+00:09:09,000 --> 00:09:11,000
+En outre, cet endroit où je suis maintenant
+
+240
+00:09:11,000 --> 00:09:13,000
+Tout est assez encombré.
+
+241
+00:09:13,000 --> 00:09:15,000
+Tout est très humide.
+
+242
+00:09:15,000 --> 00:09:17,000
+En échange, ici
+
+243
+00:09:17,000 --> 00:09:19,000
+Je vois un poil plus sec.
+
+244
+00:09:19,000 --> 00:09:21,000
+Et voilà, vous.
+
+245
+00:09:21,000 --> 00:09:23,000
+Je plante ici.
+
+246
+00:09:25,000 --> 00:09:27,000
+Près de 39 km.
+
+247
+00:09:29,000 --> 00:09:31,000
+Trois cafés.
+
+248
+00:09:31,000 --> 00:09:33,000
+Je n'ai parlé à personne.
+
+249
+00:09:33,000 --> 00:09:35,000
+Pour l'argent, 13,50.
+
+250
+00:09:35,000 --> 00:09:37,000
+Pour le déjeuner, 5,80.
+
+251
+00:09:37,000 --> 00:09:39,000
+Le petit déjeuner et 7,50 au supermarché.
+
+252
+00:09:39,000 --> 00:09:41,000
+Jour très dur physiquement.
+
+253
+00:09:41,000 --> 00:09:43,000
+Très dur.
+
+254
+00:09:43,000 --> 00:09:45,000
+J'ai dû arrêter
+
+255
+00:09:45,000 --> 00:09:47,000
+plusieurs fois, deux,
+
+256
+00:09:47,000 --> 00:09:49,000
+étirer au milieu de la journée.
+
+257
+00:09:49,000 --> 00:09:51,000
+Je viens de faire une séance d'étirements.
+
+258
+00:09:51,000 --> 00:09:53,000
+Depuis le 49,
+
+259
+00:09:53,000 --> 00:09:55,000
+que je marche sans me reposer,
+
+260
+00:09:55,000 --> 00:09:57,000
+Il y a 13 jours.
+
+261
+00:09:57,000 --> 00:09:59,000
+J'ai besoin de repos.
+
+262
+00:09:59,000 --> 00:10:01,000
+En plus, je suis assez gourmande.
+
+263
+00:10:01,000 --> 00:10:03,000
+Mais non, je ne peux pas me reposer.
+
+264
+00:10:03,000 --> 00:10:05,000
+En outre,
+
+265
+00:10:05,000 --> 00:10:07,000
+Une surface assez dure.
+
+266
+00:10:07,000 --> 00:10:09,000
+99% d'asphalte.
+
+267
+00:10:09,000 --> 00:10:11,000
+Et ceci...
+
+268
+00:10:11,000 --> 00:10:13,000
+Passez la facture.
+
+269
+00:10:13,000 --> 00:10:15,000
+Mais je peux continuer.
+
+270
+00:10:15,000 --> 00:10:17,000
+Ne vous inquiétez pas.
+
+271
+00:10:17,000 --> 00:10:19,000
+Deux jours
+
+272
+00:10:19,000 --> 00:10:21,000
+Pour finir l'Italie.
+
+273
+00:10:21,000 --> 00:10:23,000
+à demain.
+
+274
+00:10:25,000 --> 00:10:27,000
+à demain.
