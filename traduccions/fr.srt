@@ -1,903 +1,1111 @@
 1
-0:00:00.000 --> 0:00:08.000
-Dobro jutro [Bonjour en croate]. Le tour du monde à pied, jour 76.
+00:00:00,000 --> 00:00:02,620
+Le tour du monde à pied, 77e jour.
 
 2
-0:00:08.000 --> 0:00:16.000
-Regarde, je ne vous l’ai pas montré, mais j’ai monté la tente à l’intérieur de cette maison abandonnée... Un moment que la voiture passe.
+00:00:03,720 --> 00:00:05,760
+J'ai été... eh bien, cette maison que vous voyez au fond,
 
 3
-0:00:19.000 --> 0:00:24.000
-Heureusement que je l'ai fait. Vraiment au début de la nuit n'était pas nécessaire parce qu'il n'y avait pas de vent ou de faire quoi que ce soit, j'aurais pu faire bivouac.
+00:00:06,600 --> 00:00:08,460
+pas tout pour moi, hein? Juste le rez-de-chaussée.
 
 4
-0:00:24.000 --> 0:00:30.000
-Mais à l'intérieur de la tente, vous êtes toujours un peu plus à la maison, n'est-ce pas? C'est la maison. Et aussi, huîtres, j'ai acheté cette tente.
+00:00:09,000 --> 00:00:11,320
+Un endroit tout à fait normal.
 
 5
-0:00:30.000 --> 0:00:36.000
-C’est une tente complètement autoportante, c’est-à-dire que vous n’avez pas besoin de piquets pour la planter, précisément pour dormir dans de tels endroits.
+00:00:11,760 --> 00:00:15,580
+Les prévisions semblent s’être envolées ces jours-ci.
 
 6
-0:00:36.000 --> 0:00:44.000
-Donc, puisque j'ai dépensé beaucoup d'argent dans ce magasin, parce que je l'utilise avec l'utilisation que j'avais, n'est-ce pas? C'est autoportant.
+00:00:15,960 --> 00:00:17,280
+Hier, il disait qu'il ferait soleil, il a fait soleil.
 
 7
-0:00:44.000 --> 0:00:49.000
-Soudain, à une heure ou trois du matin, un vent se lève.
+00:00:18,140 --> 00:00:19,640
+J'ai déjà dit que j'étais un peu comme ça,
 
 8
-0:00:54.000 --> 0:00:59.000
-Qui m’a réveillé, évidemment, et puis m’a coûté de me rendormir, pour changer.
+00:00:19,960 --> 00:00:21,800
+C'est comme ça et ainsi, en fait.
 
 9
-0:00:59.000 --> 0:01:11.000
-Vale, 7.25, bonne heure. Je sors du milieu de la route, ne pas me faire écraser, bien qu'il y ait peu de circulation, hein? Et allons-y.
+00:00:22,140 --> 00:00:25,340
+Pour l'instant il ne pleut pas, mais il a l'air de tomber un jour.
 
 10
-0:01:24.000 --> 0:01:41.000
-Plus de maisons abandonnées et un autre cimetière, je m'étais approché parce que je l'avais vu de la route et je dis de voir s'il y a une fontaine.
+00:00:26,420 --> 00:00:27,820
+Aujourd’hui, nous changeons de cap.
 
 11
-0:01:41.000 --> 0:01:48.000
-Parce que je vais à court d'eau, mais non, non, non. Il n'y a pas de source, il n'y a rien. Absolument rien.
+00:00:27,820 --> 00:00:29,000
+Bon, allons voir.
 
 12
-0:01:48.000 --> 0:01:51.000
-Aujourd'hui, c'est ça le problème, hein ?
+00:00:29,620 --> 00:00:32,720
+Je crois que jusqu'à aujourd'hui, jusqu'à aujourd'hui,
 
 13
-0:01:51.000 --> 0:01:54.000
-C'est essentiellement marcher une fois de plus sur la route par cette
+00:00:33,300 --> 00:00:35,200
+ce qui a été mon tour du monde à pied
 
 14
-0:01:54.000 --> 0:01:58.000
-Paysage désolant, rocailleux.
+00:00:35,200 --> 00:00:39,760
+J'ai essayé de prendre le chemin le plus direct possible
 
 15
-0:01:58.000 --> 0:02:04.000
-Avec certains villages, avec des maisons sur la mer, mais qui sont déserts parce qu’il n’y a personne.
+00:00:39,760 --> 00:00:40,460
+vers mon objectif.
 
 16
-0:02:04.000 --> 0:02:15.000
-Au moins, aujourd'hui, apparemment, la prévision a raison et il ne fait pas de soleil, mais il ne pleut pas, il n'y a pas de vent, il y a moins de nuages...
+00:00:40,600 --> 00:00:42,740
+D'abord, c'était la frontière de l'Italie-France,
 
 17
-0:02:15.000 --> 0:02:17.000
-Contente, non ?
+00:00:43,280 --> 00:00:44,360
+la frontière avec la Slovénie,
 
 18
-0:02:17.000 --> 0:02:25.000
-Voici une voiture. Il semble qu'il y ait une trace de civilisation.
+00:00:44,780 --> 00:00:45,840
+Et maintenant, je marche vers la Crète.
 
 19
-0:02:25.000 --> 0:02:28.000
-Je vais voir si je peux demander un peu d'eau.
+00:00:46,060 --> 00:00:50,520
+Je crois que c'est le premier jour où je fais un premier détour.
 
 20
-0:02:28.452 --> 0:02:37.026
-[chien aboie]
+00:00:50,700 --> 00:00:53,460
+Une déviation qui n’est pas sur mon chemin,
 
 21
-0:02:40.109 --> 0:02:42.000
-Vous pouvez prendre cette
+00:00:53,780 --> 00:00:55,460
+Pour visiter la ville de Zadar.
 
 22
-0:02:42.000 --> 0:02:45.000
-La bouteille entière? OK. Merci beaucoup
+00:00:55,460 --> 00:00:57,260
+Nous n'allons pas arriver aujourd'hui à Zadar, nous y arriverons demain,
 
 23
-0:02:45.000 --> 0:02:47.000
-Ça va bien ? oui, oui.
+00:00:57,820 --> 00:01:00,520
+mais vraiment, si je voulais aller aussi droit que possible vers Split,
 
 24
-0:02:47.000 --> 0:02:48.637
-Hvala [merci en croate]
+00:01:01,620 --> 00:01:04,040
+Je ne passerais pas par Zadar, parce qu’il faut faire une déviation.
 
 25
-0:02:48.637 --> 0:02:50.924
-Vous êtes Autrichienne ?
+00:01:04,480 --> 00:01:05,560
+Mais bon, je n'y suis jamais allée,
 
 26
-0:02:50.924 --> 0:02:52.329
-Je l'ai vu sur la plaque d'immatriculation.
+00:01:06,440 --> 00:01:07,980
+Je pense qu'il vaut peut-être la peine d'y aller.
 
 27
-0:02:52.329 --> 0:02:54.000
-Oui, oui, oui
+00:01:08,700 --> 00:01:10,980
+Une ville magnifique, touristique et historique.
 
 28
-0:02:54.000 --> 0:02:55.205
-Passez une bonne journée.
+00:01:12,080 --> 00:01:13,220
+Pas de problème, toi.
 
 29
-0:02:55.205 --> 0:02:57.000
-Merci beaucoup. Adieu.
+00:01:13,380 --> 00:01:14,340
+Il y en aura beaucoup d'entre eux.
 
 30
-0:02:57.000 --> 0:03:04.000
-Je ne sais pas si c'est enregistré parce que je ne voulais pas enregistrer cette femme, mais elle m'a donné une bouteille entière, toi.
+00:01:14,600 --> 00:01:15,180
+Celle-ci est la première.
 
 31
-0:03:04.000 --> 0:03:07.000
-Parfait. Ils n'étaient pas Croates, hein?
+00:01:19,260 --> 00:01:21,620
+Ca fait cinq minutes que je suis là et il pleut.
 
 32
-0:03:07.000 --> 0:03:10.000
-Ils étaient originaires d’Autriche, d’Autriche.
+00:01:22,900 --> 00:01:24,160
+C'est toujours l'histoire, hein ?
 
 33
-0:03:10.000 --> 0:03:14.000
-Et je suppose qu'ils vivent ici aussi en hiver. C'est plus logique.
+00:01:24,160 --> 00:01:25,260
+Je le dis toujours et toujours.
 
 34
-0:03:15.000 --> 0:03:18.000
-Que les Croates ici ne... ne vivent pas.
+00:01:25,860 --> 00:01:27,620
+Je ne sais pas si je dois mettre ma veste de pluie ou non.
 
 35
-0:03:24.000 --> 0:03:27.000
-Je ne sais pas si c'est l'homme qui est derrière.
+00:01:27,620 --> 00:01:30,620
+Il ne pleut pas beaucoup, n’est-ce pas ?
 
 36
-0:03:27.000 --> 0:03:29.000
-Il ne parlait pas anglais, mais je lui ai demandé.
+00:01:32,020 --> 00:01:33,460
+Oui, oui, je le mets, je le mets.
 
 37
-0:03:29.000 --> 0:03:31.000
-« Supermarché » ?
+00:01:38,420 --> 00:01:39,120
+Pluie et vent.
 
 38
-0:03:31.000 --> 0:03:35.000
-Et il dit... Il m'a fait signe 15. 15.
+00:01:39,540 --> 00:01:40,700
+Beaucoup de pluie et beaucoup de vent.
 
 39
-0:03:35.000 --> 0:03:38.000
-15 kilomètres. Eh bien, 15 kilomètres...
+00:01:40,700 --> 00:01:42,060
+C'est très difficile d'enregistrer aujourd'hui.
 
 40
-0:03:38.000 --> 0:03:40.000
-3 heures.
+00:01:43,460 --> 00:01:47,180
+Je pense que vous n'aurez pas beaucoup de vidéo ce matin.
 
 41
-0:03:40.000 --> 0:03:43.000
-Non, mais je vais bien. J'ai de l'eau et j'ai de la nourriture. Je résiste, je résiste.
+00:01:47,940 --> 00:01:48,820
+De plus, la route.
 
 42
-0:03:43.000 --> 0:03:44.000
+00:01:48,820 --> 00:01:49,820
 Oh!
 
 43
-0:03:45.000 --> 0:03:49.000
-Le soleil. Le soleil, non, il s'en va. Il s'en va.
+00:01:50,820 --> 00:01:52,300
+Je continue à marcher, d'accord ?
 
 44
-0:03:49.000 --> 0:03:52.000
-Je l'ai eu pendant un moment.
+00:01:53,060 --> 00:01:54,100
+Oups, rien, rien, rien.
 
 45
-0:03:52.000 --> 0:04:13.000
-9 et demi. Il est encore tôt. Mais je vais manger.
+00:01:54,100 --> 00:01:57,460
+Il y a cinq minutes, ce fut cinq minutes de chaos.
 
 46
-0:04:13.000 --> 0:04:15.000
-Je vais manger un...
+00:01:57,460 --> 00:02:00,100
+De la destruction, et puis c’est fait, c’est fait.
 
 47
-0:04:15.000 --> 0:04:17.000
-Burek, vous avez dit.
+00:02:00,100 --> 00:02:01,100
+Maintenant, il vient.
 
 48
-0:04:17.000 --> 0:04:21.000
-C'est une sorte de pâte feuilletée avec de la viande à l'intérieur.
+00:02:02,420 --> 00:02:03,860
+Bon, d'accord, c'est quoi ça ici ?
 
 49
-0:04:21.000 --> 0:04:24.000
-Je l'ai mordu parce que je me suis trompé.
+00:02:03,860 --> 00:02:06,820
+Il est 11h20 et c'est quoi ?
 
 50
-0:04:24.000 --> 0:04:27.000
-Je pensais que j'étais en train d'enregistrer et j'ai enregistré ma réaction en mordant.
+00:02:06,820 --> 00:02:07,660
+Comme des tambours ?
 
 51
-0:04:27.000 --> 0:04:30.000
-Je dois dire que pour être d'hier, il est encore assez croustillant.
+00:02:08,180 --> 00:02:10,460
+Eh bien, je suppose que sous ces bidons ou quoi que ce soit,
 
 52
-0:04:30.000 --> 0:04:34.000
-Je veux dire, très bien. C'est relativement bon marché, ils sont 2,60.
+00:02:10,900 --> 00:02:12,580
+Il y a comme des ragots, non ?
 
 53
-0:04:34.000 --> 0:04:37.000
-Que pour la quantité de nourriture qu'il est, étant donné qu'il est en Croatie,
+00:02:12,580 --> 00:02:14,780
+Et là, les moules se collent, non ?
 
 54
-0:04:37.000 --> 0:04:39.000
-C'est un peu cher, c'est très bien.
+00:02:14,780 --> 00:02:17,020
+Ce doit être des épaulettes, bien que les épaulettes que j'ai vues
 
 55
-0:04:39.000 --> 0:04:41.000
-Et le soleil revient. Le soleil revient.
+00:02:17,020 --> 00:02:18,340
+Les galiléens sont carrés, n'est-ce pas ?
 
 56
-0:04:41.000 --> 0:04:43.000
-Quelle maison, hein ?
+00:02:18,340 --> 00:02:19,940
+Ils sont différents, c'est pareil.
 
 57
-0:04:43.000 --> 0:04:46.000
-Oui, oui. Bon, vide, comme tout.
+00:02:20,540 --> 00:02:21,300
+Rien, nous suivons.
 
 58
-0:04:46.000 --> 0:04:48.000
-Très bien.
+00:02:21,300 --> 00:02:25,380
+Dans quelques kilomètres, je vais rencontrer une femme.
 
 59
-0:04:50.000 --> 0:04:53.000
-Il est 11 heures, presque 17 kilomètres.
+00:02:27,460 --> 00:02:42,980
+Pour aller à Zadar, il faut traverser un petit canal.
 
 60
-0:04:53.000 --> 0:04:56.000
-Ce n’est pas la meilleure méthode, mais on continue.
+00:02:43,900 --> 00:02:47,220
+Ce n'est pas une rivière, mais un canal naturel qui appartient à la mer.
 
 61
-0:04:56.000 --> 0:05:00.000
-Aujourd’hui, c’est comme tous les autres jours que nous avons passés.
+00:02:48,380 --> 00:02:49,820
+Il y a deux ponts pour le faire.
 
 62
-0:05:00.000 --> 0:05:04.000
-Mais seulement parce qu’il y a du soleil, qu’il n’y a pas de pluie et qu’il n’y a pas de vent,
+00:02:49,820 --> 00:02:53,660
+L'un est en haut de l'autoroute, que j'ai à quelques mètres,
 
 63
-0:05:04.000 --> 0:05:06.000
-Les émotions sont beaucoup plus élevées.
+00:02:54,220 --> 00:02:56,500
+Je ne peux pas y aller parce que je ne peux pas aller sur les autoroutes
 
 64
-0:05:06.000 --> 0:05:15.000
-D'autres jours, de ces derniers, qu'il pleuvait ou quoi que ce soit,
+00:02:56,500 --> 00:02:57,780
+À pied, n’est-ce pas ?
 
 65
-0:05:15.000 --> 0:05:17.000
-Ou il y avait du vent, ça, comme ça,
+00:02:57,780 --> 00:03:00,620
+Et il y en a un autre qui est celui de la route normale,
 
 66
-0:05:17.000 --> 0:05:22.000
-Je regardais les kilomètres qu'il restait au bar ou au supermarché ou quoi que ce soit,
+00:03:00,620 --> 00:03:04,300
+la route pour les vélos, les piétons et les voitures.
 
 67
-0:05:22.000 --> 0:05:24.000
-Pour me protéger un peu.
+00:03:05,020 --> 00:03:07,100
+Il faut que je me retourne un peu pour l'attraper.
 
 68
-0:05:24.000 --> 0:05:26.000
-Pas aujourd'hui, toi. Aujourd'hui, j'ai marché tranquillement pour que tu regardes, toi.
+00:03:15,140 --> 00:03:17,820
+Il y a beaucoup de vent sur ce pont.
 
 69
-0:05:26.000 --> 0:05:28.000
-C'est que tu regardes.
+00:03:17,820 --> 00:03:18,540
+Beau, n'est-ce pas ?
 
 70
-0:05:28.000 --> 0:05:30.000
-Regardez comme c'est merveilleux.
+00:03:20,020 --> 00:03:20,740
+Beau.
 
 71
-0:05:30.000 --> 0:05:32.000
-Mer au calme.
+00:03:20,740 --> 00:03:23,180
+Regardez là derrière moi, il est bleu.
 
 72
-0:05:32.000 --> 0:05:35.000
-Comme je vous le dis les jours précédents,
+00:03:24,380 --> 00:03:26,260
+C’est la plateforme ou l’appareil
 
 73
-0:05:35.000 --> 0:05:38.000
-Si tout le tour du monde était comme ça,
+00:03:26,260 --> 00:03:29,420
+pour faire du puenting, du bungee jumping,
 
 74
-0:05:38.000 --> 0:05:40.000
-Je rentre chez moi,
+00:03:29,420 --> 00:03:31,700
+Sur la pancarte, on peut lire « Bungee Jumping ».
 
 75
-0:05:40.000 --> 0:05:42.000
-Des jours comme aujourd'hui je dirais
+00:03:32,620 --> 00:03:35,580
+Je n'ai jamais fait de sport à risque.
 
 76
-0:05:42.000 --> 0:05:44.000
-Si seulement tous les jours étaient comme aujourd'hui.
+00:03:35,580 --> 00:03:41,220
+type saut à l'élastique, type parachutisme, parapente.
 
 77
-0:05:44.000 --> 0:05:45.000
-Fantastique.
+00:03:41,740 --> 00:03:43,580
+Je n'ai jamais fait ce genre de sport
 
 78
-0:05:45.000 --> 0:05:47.000
-Eh bien, voici quelques restaurants,
+00:03:43,580 --> 00:03:46,980
+J'aimerais ne jamais les faire de ma vie.
 
 79
-0:05:47.000 --> 0:05:49.000
-J'imagine qu'ils sont fermés, mais
+00:03:48,140 --> 00:03:51,780
+Si je peux mourir sans avoir jamais pratiqué ce sport,
 
 80
-0:05:49.000 --> 0:05:50.000
-ESSAYONS.
+00:03:51,780 --> 00:03:53,180
+vraiment mieux.
 
 81
-0:06:29.000 --> 0:06:31.000
-Un de moins dix.
+00:03:53,180 --> 00:03:54,900
+Non, Enrique, mais c'est très amusant.
 
 82
-0:06:31.000 --> 0:06:33.000
-Presque 25 kilomètres.
+00:03:54,900 --> 00:03:56,060
+Alors amusez-vous, hein ?
 
 83
-0:06:33.000 --> 0:06:36.000
-C'est peut-être le jour
+00:03:56,260 --> 00:03:57,260
+Oui, oui.
 
 84
-0:06:36.000 --> 0:06:41.000
-Que j'ai fait d'autre sans entrer dans aucun établissement ?
+00:03:57,260 --> 00:03:59,140
+Allez-y, en toute liberté.
 
 85
-0:06:41.000 --> 0:06:43.000
-Je dirais oui.
+00:03:59,140 --> 00:04:00,580
+Tu passes bien.
 
 86
-0:06:43.000 --> 0:06:45.000
-Mais bien tranquille, hein ?
+00:04:00,580 --> 00:04:01,580
+Moi pas.
 
 87
-0:06:45.000 --> 0:06:48.000
-Eh bien, maintenant je suis arrivé au plus grand village
+00:04:11,660 --> 00:04:15,060
+A une heure et demie, je meurs de faim
 
 88
-0:06:48.000 --> 0:06:51.000
-que, bon, qu'il y a
+00:04:15,060 --> 00:04:18,940
+et je dis : eh bien, je vais m’arrêter ici, car je suis déjà face à la mer
 
 89
-0:06:51.000 --> 0:06:53.000
-pour cette zone
+00:04:18,940 --> 00:04:19,780
+Et il commence à pleuvoir.
 
 90
-0:06:53.000 --> 0:06:55.000
-Il y a deux supermarchés.
+00:04:19,780 --> 00:04:21,100
+C'est quatre gouttes, non ?
 
 91
-0:06:57.000 --> 0:06:59.000
-Je ne sais pas, en théorie, il y a un bureau de poste, donc aussi
+00:04:21,100 --> 00:04:22,420
+Mais regarde, c'est pareil.
 
 92
-0:06:59.000 --> 0:07:01.000
-s'il y a un bureau de poste, c'est en théorie un village
+00:04:22,420 --> 00:04:23,420
+Qu'est-ce que je fais?
 
 93
-0:07:01.000 --> 0:07:03.000
-comme Dieu commande
+00:04:24,180 --> 00:04:25,380
+Je vais me mettre sous cet arbre.
 
 94
-0:07:03.000 --> 0:07:05.000
-Et oui, je vois là,
+00:04:25,380 --> 00:04:26,100
+J'espère qu'il n'y a personne.
 
 95
-0:07:05.000 --> 0:07:07.000
-que je mets sur le marché, je ne sais pas,
+00:04:26,100 --> 00:04:28,100
+S'il n'y a personne dans cette maison... eh bien, je n'y entre pas non plus, hein?
 
 96
-0:07:07.000 --> 0:07:09.000
-C'est ouvert, je dirais oui.
+00:04:28,100 --> 00:04:30,100
+Je vais m'asseoir ici
 
 97
-0:07:09.000 --> 0:07:11.000
-Oui, oui, oui, c'est ouvert, c'est très bien.
+00:04:32,100 --> 00:04:35,100
+J'ai mangé un chou que j'ai acheté hier.
 
 98
-0:07:11.000 --> 0:07:13.000
-Bonjour à vous.
+00:04:41,100 --> 00:04:42,100
+Bonsoir.
 
 99
-0:07:13.000 --> 0:07:15.000
-Speak English? Italien?
+00:04:43,100 --> 00:04:49,100
+Il est trois heures et demie du samedi 14 février, jour de la Saint-Valentin.
 
 100
-0:07:15.000 --> 0:07:17.000
-[en italien] Oui, je parle.
+00:04:49,100 --> 00:04:53,100
+Je viens d'avoir mon rendez-vous de la Saint-Valentin.
 
 101
-0:07:17.000 --> 0:07:19.719
-Y a-t-il un bar ou un restaurant ouvert ?
+00:04:53,100 --> 00:04:54,100
+Oui, oui, oui, oui.
 
 102
-0:07:20.000 --> 0:07:23.294
-Le premier restaurant...
+00:04:54,100 --> 00:04:55,100
+Oui, oui, oui, oui.
 
 103
-0:07:24.000 --> 0:07:26.274
-Est-ce loin ? 12 km
+00:04:55,100 --> 00:04:56,100
+Maintenant, je suis avec Rachel.
 
 104
-0:07:26.274 --> 0:07:29.000
-Je ne peux pas car je suis à pied
+00:04:56,100 --> 00:05:00,100
+C’est la Catalane qui vit ici, je vous l’ai déjà dit.
 
 105
-0:07:29.000 --> 0:07:31.000
-J'achète quelque chose ici.
+00:05:00,100 --> 00:05:01,100
+Ce n'était pas un rendez-vous, hein ?
 
 106
-0:07:31.000 --> 0:07:33.000
-Je vous remercie.
+00:05:01,100 --> 00:05:02,100
+Je viens d'inventer ça.
 
 107
-0:07:35.000 --> 0:07:37.000
-Très bien, toi, bon, très bien.
+00:05:02,100 --> 00:05:04,100
+Nous sommes simplement restés...
 
 108
-0:07:37.000 --> 0:07:39.000
-C'est pas mal,
+00:05:04,100 --> 00:05:06,100
+Rachel a un mari et des enfants.
 
 109
-0:07:39.000 --> 0:07:41.000
-Pas mal, j'ai acheté
+00:05:06,100 --> 00:05:07,100
+Je veux dire, ne flippons pas.
 
 110
-0:07:41.000 --> 0:07:43.000
-des lentilles, qui depuis longtemps
+00:05:07,100 --> 00:05:08,100
+Non, non, non.
 
 111
-0:07:43.000 --> 0:07:45.000
-qui ne mangeait pas de légumineuses,
+00:05:08,100 --> 00:05:10,100
+Ce qui est sûr, c'est qu'il n'a pas voulu partir.
 
 112
-0:07:45.000 --> 0:07:47.000
-avec une salade
+00:05:10,100 --> 00:05:12,100
+Il n'a pas voulu apparaître dans la vidéo.
 
 113
-0:07:47.000 --> 0:07:49.000
-de thon.
+00:05:12,100 --> 00:05:14,100
+Il avait honte, quoi qu'il arrive.
 
 114
-0:07:49.000 --> 0:07:51.000
-Bon, je vais le mélanger un peu comme ça.
+00:05:14,100 --> 00:05:16,100
+Il m'a dit beaucoup de choses intéressantes, non ?
 
 115
-0:07:51.000 --> 0:07:53.000
-Je vais le manger, manger froid, c'est bien.
+00:05:16,100 --> 00:05:17,100
+Il vit ici depuis huit ans.
 
 116
-0:07:53.000 --> 0:07:55.000
-Ça pour grignoter
+00:05:17,100 --> 00:05:20,100
+Il a encore du mal à parler la langue et les Croates lui coûtent.
 
 117
-0:07:55.000 --> 0:07:57.000
-J'aime bien parce que
+00:05:20,100 --> 00:05:23,100
+Les Croates sont des gens qui prennent tout très calmement
 
 118
-0:07:57.000 --> 0:07:59.000
-il y a un symbole d'un tracteur,
+00:05:23,100 --> 00:05:26,100
+Ils n’ont pas trop d’expressions faciales.
 
 119
-0:07:59.000 --> 0:08:01.000
-Je ne sais pas pourquoi,
+00:05:26,100 --> 00:05:28,100
+Je veux dire, il ne sait pas très bien s'ils sont très heureux ou si c'est le cas.
 
 120
-0:08:01.000 --> 0:08:03.000
-Et de boire un rafraîchissement
+00:05:28,100 --> 00:05:33,100
+Ce que j'ai déjà lu ou entendu ailleurs.
 
 121
-0:08:03.000 --> 0:08:05.000
-qui vient toujours bien,
+00:05:33,100 --> 00:05:36,100
+Mais bon, bon, c'est très bien ici.
 
 122
-0:08:05.000 --> 0:08:07.000
-ici en face de la mer. Et aussi une glace
+00:05:36,100 --> 00:05:38,100
+Et ils vont déjà normalement à Zadar.
 
 123
-0:08:07.000 --> 0:08:09.000
-que j'ai laissé au congélateur
+00:05:38,100 --> 00:05:41,100
+En fait, ils allaient maintenant à Zadar, où je vais aujourd’hui.
 
 124
-0:08:09.000 --> 0:08:11.000
-Je te l'ai dit, je te le paie, et puis
+00:05:41,100 --> 00:05:43,100
+C'est 19 kilomètres que je vois ici sur l'affiche.
 
 125
-0:08:11.000 --> 0:08:13.000
-Je le prends. Très bien, allez,
+00:05:43,100 --> 00:05:44,100
+Nous ne sommes pas arrivés aujourd'hui.
 
 126
-0:08:13.000 --> 0:08:15.000
-à déjeuner.
+00:05:44,100 --> 00:05:46,100
+Et puis Zadar est très beau.
 
 127
-0:08:33.000 --> 0:08:35.000
-Maman, comme ça change d'un jour de soleil
+00:05:46,100 --> 00:05:48,100
+Je suis content, bon.
 
 128
-0:08:35.000 --> 0:08:37.000
-Un jour de nuage, non ?
+00:05:48,100 --> 00:05:49,100
+Un grand merci à Raquel,
 
 129
-0:08:37.000 --> 0:08:39.000
-Hier et avant-hier
+00:05:49,100 --> 00:05:52,100
+Si vous regardez cette vidéo, vous pouvez prendre un café avec moi.
 
 130
-0:08:39.000 --> 0:08:41.000
-On aurait dit un paysage martien.
+00:05:52,100 --> 00:05:53,100
+Je vous remercie.
 
 131
-0:08:41.000 --> 0:08:43.000
-tout sombre
+00:05:53,100 --> 00:05:55,100
+En plus du café, j’ai mangé.
 
 132
-0:08:43.000 --> 0:08:45.000
-Là, surpeuplé,
+00:05:55,100 --> 00:05:59,100
+Parce que nous étions dans la cafétéria de Plodine,
 
 133
-0:08:45.000 --> 0:08:47.000
-.
+00:05:59,100 --> 00:06:01,100
+C’est le supermarché.
 
 134
-0:08:47.000 --> 0:08:49.000
-aucun arbre, arbustes
+00:06:01,100 --> 00:06:03,100
+Ils font de la nourriture préparée à l'intérieur.
 
 135
-0:08:49.000 --> 0:08:51.000
-Là, les roches colorées
+00:06:03,100 --> 00:06:05,100
+Vous pouvez le prendre et le manger à la cafétéria.
 
 136
-0:08:51.000 --> 0:08:53.000
-gris foncé...
+00:06:05,100 --> 00:06:07,100
+J'ai mangé du poulet avec des pommes de terre.
 
 137
-0:08:53.000 --> 0:08:55.000
-Aujourd’hui, avec toutes les couleurs, il met en valeur
+00:06:07,100 --> 00:06:10,100
+J'avais déjà mangé le pain, donc je n'avais pas faim.
 
 138
-0:08:55.000 --> 0:08:57.000
-L’eau de mer,
+00:06:10,100 --> 00:06:11,100
+Mais bon, bon, bon.
 
 139
-0:08:57.000 --> 0:08:59.000
-Le vert de quelque pic là, enfin,
+00:06:11,100 --> 00:06:13,100
+Un dîner, disons.
 
 140
-0:08:59.000 --> 0:09:01.000
-Merveilleux, vous,
+00:06:13,100 --> 00:06:15,100
+Oui, la Saint-Valentin.
 
 141
-0:09:01.000 --> 0:09:03.000
-Super, c'est pour ça qu'il est venu.
+00:06:15,100 --> 00:06:16,100
+Henri Valentin.
 
 142
-0:09:03.000 --> 0:09:05.000
-Je crois que, malheureusement, la joie
+00:06:16,100 --> 00:06:18,100
+Je vais assez lentement.
 
 143
-0:09:05.000 --> 0:09:07.000
-Il ne me reste plus beaucoup de temps car demain il pleuvra.
+00:06:18,100 --> 00:06:20,100
+Bon, plutôt non, mais un peu oui.
 
 144
-0:09:07.000 --> 0:09:09.000
-Profitons de ce qu'il en reste.
+00:06:20,100 --> 00:06:22,100
+Moi, pour ce que j’avais des étapes et telle
 
 145
-0:09:09.000 --> 0:09:11.000
-Écoutez, ce sont les deux
+00:06:22,100 --> 00:06:24,100
+regardé,
 
 146
-0:09:11.000 --> 0:09:13.000
-Cinq et depuis peu
+00:06:24,100 --> 00:06:28,100
+En général, j'avance de 10 à 15% plus lentement que prévu.
 
 147
-0:09:13.000 --> 0:09:15.000
-que je suis sorti de la ville ce. Le soir
+00:06:28,100 --> 00:06:30,100
+Ce qui est bien, n'est-ce pas ?
 
 148
-0:09:15.000 --> 0:09:17.000
-Il nous reste encore du chemin à faire, aujourd’hui nous avons fait une belle
+00:06:30,100 --> 00:06:32,100
+Ce n'est pas non plus un drame.
 
 149
-0:09:17.000 --> 0:09:19.000
-kilomètres. Eh bien, nous allons faire quinze
+00:06:32,100 --> 00:06:36,100
+10 à 15%, ce n'est pas trop long.
 
 150
-0:09:19.000 --> 0:09:21.000
-Je vais faire 15 km de plus, c'est-à-dire
+00:06:36,100 --> 00:06:39,100
+Donc, en théorie, je suis plus ou moins en train de suivre les étapes.
 
 151
-0:09:21.000 --> 0:09:23.000
-J'en ai une quarantaine parce que
+00:06:39,100 --> 00:06:41,100
+Mon idée est d'arriver à Istanbul en avril.
 
 152
-0:09:23.000 --> 0:09:25.000
-le village de je ne sais quoi, qui est à environ quinze
+00:06:41,100 --> 00:06:43,100
+Je crois que j'y arriverai.
 
 153
-0:09:25.000 --> 0:09:27.000
-Aujourd'hui, j'ai parcouru un kilomètre
+00:06:43,100 --> 00:06:45,100
+C'est peut-être la fin du mois d'avril plutôt que le début du mois.
 
 154
-0:09:27.000 --> 0:09:29.000
-Une chambre, un appartement.
-
-155
-0:09:29.000 --> 0:09:31.000
-Ces plages avec ce type de pins,
-
-156
-0:09:31.000 --> 0:09:33.000
-Les huîtres ne cessent de me surprendre, n’est-ce pas ?
-
-157
-0:09:33.000 --> 0:09:35.000
-Ne ressemble-t-il pas à un pi comme beaucoup
-
-158
-0:09:35.000 --> 0:09:37.000
-Alpine, comme pour être
-
-159
-0:09:37.000 --> 0:09:39.000
-Si près de la mer ?
-
-160
-0:09:45.000 --> 0:09:47.000
-Quelle journée, hein,
-
-161
-0:09:47.000 --> 0:09:49.000
-de soleil? Je mets de la crème,
-
-162
-0:09:49.000 --> 0:09:51.000
-Je me mets plus à la
-
-163
-0:09:51.000 --> 0:09:53.000
-côté droit du visage que sur la gauche
-
-164
-0:09:53.000 --> 0:09:55.000
-Parce que le soleil me frappe tout le temps,
-
-165
-0:09:55.000 --> 0:09:57.000
-Toute la journée, de ce côté-là.
-
-166
-0:09:57.000 --> 0:09:59.000
-Ce que je pense aujourd’hui, vous savez ce que c’est ?
-
-167
-0:09:59.000 --> 0:10:01.000
-On n'est jamais content, hein ?
-
-168
-0:10:01.000 --> 0:10:03.000
-Les jours précédents, parce qu'il faisait trop froid. Aujourd'hui,
-
-169
-0:10:03.000 --> 0:10:05.000
-regarde, je suis un peu en baisse maintenant,
-
-170
-0:10:05.000 --> 0:10:07.000
-Une petite baisse, mais
-
-171
-0:10:07.000 --> 0:10:09.000
-Avant qu'il ne monte,
-
-172
-0:10:09.000 --> 0:10:11.000
-J'ai mis le soleil dans mon sac
-
-173
-0:10:11.000 --> 0:10:13.000
-et je dis, bon, si aujourd'hui nous sommes à
-
-174
-0:10:13.000 --> 0:10:15.000
-Je ne sais pas combien de février, quel jour sommes-nous aujourd'hui?
-
-175
-0:10:15.000 --> 0:10:17.000
+00:06:45,100 --> 00:06:46,100
 Je ne sais pas.
 
+155
+00:06:46,100 --> 00:06:47,100
+Nous suivons.
+
+156
+00:07:12,100 --> 00:07:15,100
+Qu'est-ce qui se passe?
+
+157
+00:07:22,100 --> 00:07:24,100
+Aujourd'hui c'est samedi.
+
+158
+00:07:26,100 --> 00:07:27,100
+L'alcool doit couler.
+
+159
+00:07:32,100 --> 00:07:34,100
+J'ai vu un drapeau avec une croix et le drapeau croate.
+
+160
+00:07:34,100 --> 00:07:35,100
+Aucune idée.
+
+161
+00:07:35,100 --> 00:07:36,100
+C'est peut-être un mariage.
+
+162
+00:07:36,100 --> 00:07:37,100
+Ça doit être un mariage.
+
+163
+00:07:38,100 --> 00:07:39,100
+Les 5 et 10.
+
+164
+00:07:39,100 --> 00:07:42,100
+Eh bien, nous entrons dans une ville.
+
+165
+00:07:42,100 --> 00:07:44,100
+Je ne peux pas camper.
+
+166
+00:07:44,100 --> 00:07:47,100
+Et d'où il vient maintenant, au bord de la route,
+
+167
+00:07:47,100 --> 00:07:50,100
+J'ai vu beaucoup de bons jeux.
+
+168
+00:07:50,100 --> 00:07:51,100
+Bon, maintenant, comment ça se passe ?
+
+169
+00:07:52,100 --> 00:07:54,100
+Désolé pour l'interruption, mais...
+
+170
+00:07:57,100 --> 00:07:59,100
+Je retourne sur la route.
+
+171
+00:07:59,100 --> 00:08:02,100
+D'où je venais, il y avait de très bonnes prairies pour camper.
+
+172
+00:08:02,100 --> 00:08:06,100
+Mais, bon, alors, moi un peu plus, je camperai après le peuple.
+
+173
+00:08:11,100 --> 00:08:13,100
+Bien, 5.34.
+
+174
+00:08:13,100 --> 00:08:16,100
+Je vois ici une pinède au bord de la route
+
+175
+00:08:16,100 --> 00:08:21,100
+Bon, bon, ça peut être intéressant.
+
 176
-0:10:17.000 --> 0:10:19.000
-Si je suis déjà en sueur,
+00:08:21,100 --> 00:08:22,100
+Je m'approcherai.
 
 177
-0:10:19.000 --> 0:10:21.000
-J'avais chaud dans mon pantalon, et puis...
+00:08:22,100 --> 00:08:26,100
+Je vais voir s'il y a peu de forêt sous la forêt et je peux planter la tente ici.
 
 178
-0:10:21.000 --> 0:10:23.000
-Comment sera-t-il dans un mois,
+00:08:27,100 --> 00:08:29,100
+Vous avez peur de cet endroit ?
 
 179
-0:10:23.000 --> 0:10:25.000
-en mars, et je ne vous en dirai pas plus, en avril,
+00:08:32,100 --> 00:08:33,100
+C'est un bosquet.
 
 180
-0:10:25.000 --> 0:10:27.000
-Quand je suis en Grèce, en Turquie,
+00:08:33,100 --> 00:08:36,100
+Et bien sûr, l’heure a toujours un impact.
 
 181
-0:10:27.000 --> 0:10:29.000
-comme ça, bon,
+00:08:36,100 --> 00:08:40,100
+Si c'était le cas, à midi, je n'aurais rien à craindre.
 
 182
-0:10:29.000 --> 0:10:31.000
-J'espère que le mois de juin sera bon, mais bon, c'est déjà ça ?
+00:08:40,100 --> 00:08:42,100
+C'est un peu humide, le sol.
 
 183
-0:10:31.000 --> 0:10:33.000
-Que juin, juillet, soit chaud.
+00:08:43,100 --> 00:08:46,100
+Mais oui, je vois qu'il n'y a plus beaucoup de sous-bois.
 
 184
-0:10:33.000 --> 0:10:35.000
-Je ne dis pas non plus que nous manquerons la météo de l'Italie,
+00:08:47,100 --> 00:08:48,100
+Il est à côté de la route.
 
 185
-0:10:35.000 --> 0:10:37.000
-Parce que ce n'est pas ça non plus,
+00:08:48,100 --> 00:08:50,100
+Je veux dire, à cette heure,
 
 186
-0:10:37.000 --> 0:10:39.000
-Je pense que celle d'aujourd'hui est parfaite.
+00:08:50,100 --> 00:08:52,100
+Il y aura un peu de bruit.
 
 187
-0:10:39.000 --> 0:10:41.000
-presque parfaite.
+00:08:52,100 --> 00:08:54,100
+Mais le soir, ça ira mieux.
 
 188
-0:10:41.000 --> 0:10:43.000
-Plus un rouleau est froid, et plus il est chaud,
+00:08:54,100 --> 00:08:57,100
+Mais cette pinède s’arrête là, fondamentalement.
 
 189
-0:10:43.000 --> 0:10:45.000
-également.
+00:08:57,100 --> 00:09:00,100
+Ici, c'est un peu plus ouvert et je vois un endroit qui...
 
 190
-0:10:49.000 --> 0:10:51.000
-Attention, je vois de la neige.
+00:09:00,100 --> 00:09:03,100
+Il n'y a pas d'arbustes, pas de pierres, rien.
 
 191
-0:10:51.000 --> 0:10:53.000
-Je vois de la neige en ce moment.
+00:09:03,100 --> 00:09:05,100
+Je plante donc ici.
 
 192
-0:10:53.000 --> 0:10:55.000
-Ça a du sens en fait, non ?
+00:09:05,100 --> 00:09:07,100
+Allez-y.
 
 193
-0:10:55.000 --> 0:10:57.000
-C'est logique, mais c'est surprenant
+00:09:07,100 --> 00:09:09,100
+Ça a l'air d'être un bon endroit.
 
 194
-0:10:57.000 --> 0:10:59.000
-Avec la chaleur qu'il fait en ce jour.
+00:09:09,100 --> 00:09:12,100
+Maintenant, le front que j'ai accroché là pour bien m'éclairer
 
 195
-0:10:59.000 --> 0:11:01.000
-Il a neigé en toute sécurité ces derniers jours.
+00:09:12,100 --> 00:09:15,100
+J'ai eu des frissons, je veux dire, la batterie est à plat.
 
 196
-0:11:01.000 --> 0:11:03.000
-Et au-delà, oui,
+00:09:15,100 --> 00:09:17,100
+Je vais devoir le charger.
 
 197
-0:11:03.000 --> 0:11:05.000
-Je ne sais plus. Enfin,
+00:09:17,100 --> 00:09:19,100
+Aujourd’hui, 28 km...
 
 198
-0:11:05.000 --> 0:11:07.000
-Aller au supermarché, au supermarché
+00:09:19,100 --> 00:09:22,100
+Presque 29.
 
 199
-0:11:07.000 --> 0:11:09.000
-plus grand depuis plusieurs jours.
+00:09:22,100 --> 00:09:26,100
+3 cafés, 2 rafraîchissements...
 
 200
-0:11:09.000 --> 0:11:11.000
-Est-ce que je suis passé ?
+00:09:26,100 --> 00:09:28,100
+J'ai parlé à Rachel
 
 201
-0:11:11.000 --> 0:11:13.000
-Peut-être que oui.
+00:09:28,100 --> 00:09:30,100
+J'ai dépensé 4 euros.
 
 202
-0:11:15.000 --> 0:11:17.000
-J'en profite pour aller dans un appartement
+00:09:30,100 --> 00:09:32,100
+Très mal réparti, en fait.
 
 203
-0:11:17.000 --> 0:11:19.000
-et j'ai acheté un peu plus de choses, et aussi pour
+00:09:32,100 --> 00:09:35,100
+2 euros très bien dépensés pour le repas.
 
 204
-0:11:19.000 --> 0:11:21.000
-pour demain. Deux kilomètres,
+00:09:35,100 --> 00:09:37,100
+Ont été...
 
 205
-0:11:21.000 --> 0:11:23.000
-Deux kilomètres pour finir la journée.
+00:09:37,100 --> 00:09:39,100
+C'est que ce plat, superplat, 2 euros.
 
 206
-0:11:23.000 --> 0:11:25.000
-Allez, allons-y.
+00:09:39,100 --> 00:09:41,100
+Génial. En plus chaud.
 
 207
-0:11:39.000 --> 0:11:41.000
-Quand je n'enregistre pas le résumé, juste à l'arrivée
+00:09:41,100 --> 00:09:43,100
+2 euros pour un rafraîchissement.
 
 208
-0:11:41.000 --> 0:11:43.000
-dans la zone de campement ou dans l'appartement,
+00:09:43,100 --> 00:09:45,100
+Cher, n'est-ce pas ?
 
 209
-0:11:43.000 --> 0:11:45.000
-Où que je sois, c'est très difficile parce que
+00:09:45,100 --> 00:09:48,100
+J'avais envie de le prendre et c'est tout.
 
 210
-0:11:45.000 --> 0:11:47.000
-Puis le sommeil m'envahit et me fait chier.
+00:09:48,100 --> 00:09:50,100
+Drôle de goût, ce rafraîchissement.
 
 211
-0:11:47.000 --> 0:11:49.000
-42 kilomètres,
+00:09:50,100 --> 00:09:52,100
+Ce n'est pas du citron, je ne sais pas.
 
 212
-0:11:49.000 --> 0:11:51.000
-Un marathon, c'est pas mal.
+00:09:52,100 --> 00:09:54,100
+D’autres pays ont des goûts étranges.
 
 213
-0:11:51.000 --> 0:11:53.000
-Et pas de café.
+00:09:54,100 --> 00:09:56,100
+Rien de comparable avec le soda vert
 
 214
-0:11:53.000 --> 0:11:55.000
-Je dirais que c'est le jour, le seul jour où je n'ai pas fait de café,
+00:09:56,100 --> 00:09:58,100
+J'ai été avec Georgia.
 
 215
-0:11:55.000 --> 0:11:57.000
-non? Je ne sais pas. Le matin,
+00:09:58,100 --> 00:10:00,100
+Ceux qui ont vu la Transcaucasie s’en souviendront.
 
 216
-0:11:57.000 --> 0:11:59.000
-J'ai pris de l'eau et j'ai décidé
+00:10:00,100 --> 00:10:03,100
+C’était une journée de transition.
 
 217
-0:11:59.000 --> 0:12:01.000
-ne pas le faire. Je n'ai pas eu de conversation
+00:10:03,100 --> 00:10:06,100
+Je suis resté avec Rachel
 
 218
-0:12:01.000 --> 0:12:03.000
-avec personne, mais bon, j'ai parlé
+00:10:06,100 --> 00:10:09,100
+et que je suis sorti à 10 heures et pico de l'appartement celui-ci,
 
 219
-0:12:03.000 --> 0:12:05.000
-Avec quelques personnes,
+00:10:09,100 --> 00:10:11,100
+Ils n’ont fait que quelques kilomètres.
 
 220
-0:12:05.000 --> 0:12:07.000
-quelques phrases. Types
+00:10:11,100 --> 00:10:14,100
+Mais oui, c'est une journée plutôt rare.
 
 221
-0:12:07.000 --> 0:12:09.000
-3 ou 4. Et puis,
+00:10:14,100 --> 00:10:16,100
+Météorologiquement, pas à pas...
 
 222
-0:12:09.000 --> 0:12:11.000
-d'argent, sont
+00:10:16,100 --> 00:10:18,100
+Et tout ensemble.
 
 223
-0:12:11.000 --> 0:12:13.000
-8 et demi dans le premier supermarché,
+00:10:18,100 --> 00:10:20,100
+Mais bon, un jour de plus.
 
 224
-0:12:13.000 --> 0:12:15.000
-40 de l'appartement,
+00:10:20,100 --> 00:10:22,100
+Bon, puisque la vidéo est un peu floue,
 
 225
-0:12:15.000 --> 0:12:17.000
-et 18 et demi du deuxième supermarché.
+00:10:22,100 --> 00:10:25,100
+Je vous rappelle que les chaussures...
 
 226
-0:12:17.000 --> 0:12:19.000
-Bonsoir, et à demain.
+00:10:25,100 --> 00:10:27,100
+Je ne vous ferai pas un rouleau comme l'autre jour, ne vous inquiétez pas.
+
+227
+00:10:27,100 --> 00:10:29,100
+Je dis simplement que ces chaussures
+
+228
+00:10:29,100 --> 00:10:33,100
+Ils sont déjà à 1 360 km.
+
+229
+00:10:33,100 --> 00:10:35,100
+D'accord ?
+
+230
+00:10:35,100 --> 00:10:37,100
+Alors je vous l’ai dit, à ceux d’Icebug.
+
+231
+00:10:37,100 --> 00:10:39,100
+Il s'agit d'un Icebug Jarv.
+
+232
+00:10:39,100 --> 00:10:41,100
+Vous pouvez les acheter avec le lien que vous avez dans la description,
+
+233
+00:10:41,100 --> 00:10:43,100
+avec une remise.
+
+234
+00:10:43,100 --> 00:10:45,100
+C’est la marque qui me sponsorise, Icebug.
+
+235
+00:10:46,100 --> 00:10:48,100
+Super, méga, enchanté,
+
+236
+00:10:48,100 --> 00:10:50,100
+après 1 350 kilomètres,
+
+237
+00:10:50,100 --> 00:10:52,100
+1 360 kilomètres,
+
+238
+00:10:52,100 --> 00:10:54,100
+superbement. Aucun boursouflure,
+
+239
+00:10:54,100 --> 00:10:56,100
+aucun dérangement,
+
+240
+00:10:56,100 --> 00:10:58,100
+spectaculaires. Mais bien sûr,
+
+241
+00:10:58,100 --> 00:11:00,100
+Comme tu peux le voir,
+
+242
+00:11:00,100 --> 00:11:02,100
+Après avoir marché sur l'asphalte
+
+243
+00:11:02,100 --> 00:11:04,100
+et après 1360 kilomètres,
+
+244
+00:11:04,100 --> 00:11:06,100
+L'homme,
+
+245
+00:11:06,100 --> 00:11:07,100
+Il a assez résisté, non ?
+
+246
+00:11:07,100 --> 00:11:09,100
+L'upper est parfait, je veux dire,
+
+247
+00:11:09,100 --> 00:11:11,100
+C'est comme si c'était nouveau, non ?
+
+248
+00:11:11,100 --> 00:11:13,100
+L’upper, parfait ; la seule, car elle est là,
+
+249
+00:11:13,100 --> 00:11:15,100
+particulièrement à l'avant,
+
+250
+00:11:15,100 --> 00:11:17,100
+C'est plat, c'est tout droit.
+
+251
+00:11:17,100 --> 00:11:19,100
+Alors je lui ai dit, écoute, quoi ?
+
+252
+00:11:19,100 --> 00:11:21,100
+M'envoyez-vous d'autres? Et oui, oui, oui,
+
+253
+00:11:21,100 --> 00:11:23,100
+Bien sûr que oui, mec, Icebug est en train de tomber sur moi.
+
+254
+00:11:23,100 --> 00:11:25,100
+D'autres m'ont envoyé
+
+255
+00:11:25,100 --> 00:11:27,100
+On me les a déjà ramassées.
+
+256
+00:11:27,100 --> 00:11:29,100
+J'en profite pour vous dire
+
+257
+00:11:29,100 --> 00:11:31,100
+qui me les apporteront, ils ne me les enverront pas
+
+258
+00:11:31,100 --> 00:11:33,100
+par mail, je vous les ferai parvenir
+
+259
+00:11:33,100 --> 00:11:35,100
+Dans les prochains jours, une personne viendra,
+
+260
+00:11:35,100 --> 00:11:37,100
+passer quelques jours avec moi,
+
+261
+00:11:37,100 --> 00:11:39,100
+Car il sera comme un fantôme, cette personne
+
+262
+00:11:39,100 --> 00:11:41,100
+Vous ne voulez pas apparaître dans la vidéo; alors
+
+263
+00:11:41,100 --> 00:11:43,100
+Nous allons faire comme il est pas et
+
+264
+00:11:43,100 --> 00:11:45,100
+Voilà, et je ne vous dirai pas le jour qui vient,
+
+265
+00:11:45,100 --> 00:11:47,100
+Vous allez le voir parce que
+
+266
+00:11:47,100 --> 00:11:49,100
+J'aurai de nouvelles chaussures, mais je ne vous dirai pas le jour où je partirai
+
+267
+00:11:49,100 --> 00:11:51,100
+Rien, tout simplement
+
+268
+00:11:51,100 --> 00:11:53,100
+Il sera là et ne sera pas présent.
+
+269
+00:11:53,100 --> 00:11:55,100
+Merci à Icebug
+
+270
+00:11:55,100 --> 00:11:57,100
+Pour me faire confiance, la vérité est que
+
+271
+00:11:57,100 --> 00:11:59,100
+les chaussures vont très bien, et les dames
+
+272
+00:11:59,100 --> 00:12:01,100
+Si vous n'êtes pas bons, je ne vous le recommanderais pas
+
+273
+00:12:01,100 --> 00:12:03,100
+pas, hein? La vérité est que non
+
+274
+00:12:03,100 --> 00:12:05,100
+Je vous mens
+
+275
+00:12:05,100 --> 00:12:07,100
+quand je vous dis que je ferais tout le tour
+
+276
+00:12:07,100 --> 00:12:09,100
+dans le monde à pied avec ceux-ci parce que vraiment
+
+277
+00:12:09,100 --> 00:12:11,100
+Ils me plaisent beaucoup.
+
+278
+00:12:11,100 --> 00:12:13,100
+Rien de plus, bonne nuit.
