@@ -1,1679 +1,1235 @@
-1
-00:00:00,000 --> 00:00:02,500
-La vuelta con un pie, día 78.
+0:00:00.000,0:00:02.500
+La Vuelta al Mundo a pie, día 78.
 
-2
-00:00:03,240 --> 00:00:04,740
+0:00:03.240,0:00:04.740
 Bueno, hoy un inicio diferente.
 
-3
-00:00:05,740 --> 00:00:06,900
+0:00:05.740,0:00:06.900
 Estoy dentro de la tienda todavía.
 
-4
-00:00:08,060 --> 00:00:09,220
+0:00:08.060,0:00:09.220
 Voy a enseñaros cómo hago el café.
 
-5
-00:00:10,240 --> 00:00:13,440
+0:00:10.240,0:00:13.440
 Mira, no hace mucho frío, pero por la mañana un poco sí que refresca.
 
-6
-00:00:13,480 --> 00:00:17,120
+0:00:13.480,0:00:17.120
 Entonces me pongo esto, que realmente hace días que no me lo estoy poniendo para andar ni nada.
 
-7
-00:00:17,600 --> 00:00:18,280
+0:00:17.600,0:00:18.280
 Esta chaqueta.
 
-8
-00:00:18,780 --> 00:00:21,640
+0:00:18.780,0:00:21.640
 Y me tapo un poco las piernas con el saco.
 
-9
-00:00:22,440 --> 00:00:28,080
+0:00:22.440,0:00:28.080
 Entonces, lleno la taza esta que me regaló el aventurero Alcassa con agua.
 
-10
-00:00:28,080 --> 00:00:31,480
+0:00:28.080,0:00:31.480
 Para saber cuánto agua necesito.
 
-11
-00:00:31,660 --> 00:00:33,860
+0:00:31.660,0:00:33.860
 Y lo aboco a la taza.
 
-12
-00:00:34,940 --> 00:00:36,020
+0:00:34.940,0:00:36.020
 No sé si se está viendo, ¿eh?
 
-13
-00:00:36,440 --> 00:00:42,020
+0:00:36.440,0:00:42.020
 La vertemos en la taza y con el hornillo, vamos a enfocar el hornillo.
 
-14
-00:00:43,480 --> 00:00:48,080
+0:00:43.480,0:00:48.080
 Pues nada, eso ya lo tengo enroscado de ayer, que hice una ramen para cenar.
 
-15
-00:00:49,000 --> 00:00:50,060
+0:00:49.000,0:00:50.060
 Ya hice un ramen.
 
-16
-00:00:51,640 --> 00:00:56,080
+0:00:51.640,0:00:56.080
 Y realmente...
 
-17
-00:00:57,140 --> 00:00:58,060
+0:00:57.140,0:00:58.060
 Ahora saco el café.
 
-18
-00:00:58,600 --> 00:01:01,160
+0:00:58.600,0:01:01.160
 Realmente no hay que calentarlo hasta que se hierva, porque...
 
-19
-00:01:01,800 --> 00:01:03,800
+0:01:01.800,0:01:03.800
 Hasta que hierva, porque entonces después...
 
-20
-00:01:05,520 --> 00:01:07,520
+0:01:05.520,0:01:07.520
 Tengo aquí un paquete de galletas.
 
-21
-00:01:08,280 --> 00:01:10,960
+0:01:08.280,0:01:10.960
 Lo tengo abierto y todas las galletas están por ahí tiradas.
 
-22
-00:01:12,480 --> 00:01:14,880
+0:01:12.480,0:01:14.880
 Pues, si no está demasiado caliente, entonces claro...
 
-23
-00:01:16,440 --> 00:01:17,160
+0:01:16.440,0:01:17.160
 Oh, qué asco.
 
-24
-00:01:18,480 --> 00:01:20,960
+0:01:18.480,0:01:20.960
 Cuando está demasiado caliente entonces después no te lo puedes comer, no te lo puedes beber.
 
-25
-00:01:22,520 --> 00:01:24,840
+0:01:22.520,0:01:24.840
 A ver, tengo este café ginseng del Lidl.
 
-26
-00:01:26,140 --> 00:01:28,040
+0:01:26.140,0:01:28.040
 Mientras se caliente, pues tiro aquí el café.
 
-27
-00:01:28,200 --> 00:01:28,560
+0:01:28.200,0:01:28.700
 Soluble.
 
-28
-00:01:33,160 --> 00:01:34,120
+0:01:33.160,0:01:34.120
 Y ahí se va haciendo.
 
-29
-00:01:35,920 --> 00:01:41,020
+0:01:35.920,0:01:41.020
 Ayer cociné ramen y realmente no le pasé jabón, solo le pasé agua.
 
-30
-00:01:42,720 --> 00:01:48,360
+0:01:42.720,0:01:48.360
 Entonces, no sé, quizás hoy el café tiene sabor a ramen.
 
-31
-00:01:48,480 --> 00:01:49,080
+0:01:48.480,0:01:49.080
 Qué asco.
 
-32
-00:01:49,960 --> 00:01:50,440
+0:01:49.960,0:01:50.460
 ¡Bueno, ramen!
 
-33
-00:01:51,560 --> 00:01:53,080
+0:01:51.560,0:01:53.080
 Estos paquetes de...
 
-34
-00:01:53,080 --> 00:01:54,340
+0:01:53.080,0:01:54.340
 De noodles.
 
-35
-00:01:54,620 --> 00:01:55,960
+0:01:54.620,0:01:55.960
 No sé si se le puede llamar ramen, eso.
 
-36
-00:01:57,020 --> 00:01:57,600
+0:01:57.020,0:01:57.600
 A ver, vamos a oler.
 
-37
-00:01:58,080 --> 00:02:01,880
+0:01:58.080,0:02:01.880
 Bueno, a priori no tiene demasiado olor.
 
-38
-00:02:02,960 --> 00:02:04,480
+0:02:02.960,0:02:04.480
 Ya empieza a salir un poco de humo.
 
-39
-00:02:04,760 --> 00:02:06,280
+0:02:04.760,0:02:06.280
 Uy, ya está bien.
 
-40
-00:02:06,440 --> 00:02:07,820
+0:02:06.440,0:02:07.820
 De hecho, probablemente me he pasado.
 
-41
-00:02:08,320 --> 00:02:08,920
+0:02:08.320,0:02:08.920
 No hacía falta tanto.
 
-42
-00:02:09,280 --> 00:02:09,920
+0:02:09.280,0:02:09.920
 Me habéis despistado.
 
-43
-00:02:10,800 --> 00:02:11,400
+0:02:10.800,0:02:11.400
 Y lo tiro aquí.
 
-44
-00:02:18,080 --> 00:02:20,340
+0:02:18.080,0:02:20.340
 Y lo remojo un poco con la cuchara esta.
 
-45
-00:02:21,900 --> 00:02:23,200
+0:02:21.900,0:02:23.200
 Y no tiene mucho más, ya está.
 
-46
-00:02:23,960 --> 00:02:27,320
+0:02:23.960,0:02:27.320
 Me lo voy bebiendo mientras como galletas.
 
-47
-00:02:27,320 --> 00:02:37,700
+0:02:27.320,0:02:37.700
 Estas de Croacia están buenas, que son las típicas que tienen como un poco de relleno de marmelada o alguna gelatina o lo que sea.
 
-48
-00:02:39,100 --> 00:02:40,340
+0:02:39.100,0:02:40.340
 Vamos a probar el café, a ver.
 
-49
-00:02:44,520 --> 00:02:45,600
+0:02:44.520,0:02:45.600
 Diría que no tiene sabor a ramen.
 
-50
-00:02:45,860 --> 00:02:47,280
+0:02:45.860,0:02:47.280
 Tampoco tiene sabor a demasiada cosa.
 
-51
-00:02:47,460 --> 00:02:50,140
+0:02:47.460,0:02:50.140
 Quiero decir, este café del Lidl, muy normalito.
 
-52
-00:02:50,500 --> 00:02:54,260
+0:02:50.500,0:02:54.260
 Aquí en Croacia me he comprado uno más normal y mejor.
 
-53
-00:02:57,320 --> 00:02:58,640
+0:02:57.320,0:02:58.640
 Y eso es lo que ya hemos probado.
 
-54
-00:03:23,080 --> 00:03:25,520
+0:03:23.080,0:03:25.520
 Quedan todavía unos 7-8 kilómetros para llegar a Zadar,
 
-55
-00:03:25,900 --> 00:03:27,300
+0:03:25.900,0:03:27.300
 pero veo aquí una cafetería,
 
-56
-00:03:27,300 --> 00:03:35,300
+0:03:27.300,0:03:35.300
 no tenía pensado parar hasta Zadar, pero hago un café, ¿no? Hace días que no me hago de máquina.
 
-57
-00:03:35,300 --> 00:03:42,300
+0:03:35.300,0:03:42.300
 He conseguido grabar así un poco de imagen del bar de estrangis. Como podéis ver, hay un hombre allí que está fumando,
 
-58
-00:03:42,300 --> 00:03:48,300
+0:03:42.300,0:03:48.300
 que lo puede hacer tranquilamente, pero para que veáis que... Y no había comida en el bar, para que veáis que es eso,
 
-59
-00:03:48,300 --> 00:03:53,300
+0:03:48.300,0:03:53.300
 que la gente hace el café y fuma dentro, cosa que es un poco loco, ¿no?, comparado con los otros países que hemos estado.
 
-60
-00:03:53,300 --> 00:04:02,300
+0:03:53.300,0:04:02.300
 Y, ostras, qué complicado los cruzados, tío. Es que... Hay algunos que os habéis quejado de que hablo con poca gente,
 
-61
-00:04:02,300 --> 00:04:11,300
+0:04:02.300,0:04:11.300
 lo que sea... es que llevaba el bar, regentaba el negocio una mujer y, ostras, una cara de pocos amigos, parecía que le molestara, allí.
 
-62
-00:04:11,300 --> 00:04:21,300
+0:04:11.300,0:04:21.300
 Sí, sí, no, no, todo bien, pero esta mujer no sonríe desde 1995, por lo menos. Y hablaba inglés, esta mujer,
 
-63
-00:04:21,300 --> 00:04:23,300
+0:04:21.300,0:04:23.300
 y...
 
-64
-00:04:23,300 --> 00:04:26,300
+0:04:23.300,0:04:26.300
 Y al final le digo, bueno, ¿cuándo es tal? Yo con una sonrisa, lo que sea, y dice,
 
-65
-00:04:26,300 --> 00:04:32,300
+0:04:26.300,0:04:32.300
 one ninety, almost two, casi dos.
 
-66
-00:04:32,300 --> 00:04:37,300
+0:04:32.300,0:04:37.300
 Esto me ha dejado descolocado, no sé por quién me lo ha dicho. En fin, seguimos hasta Zadar.
 
-67
-00:04:45,300 --> 00:04:52,300
+0:04:45.300,0:04:52.300
 Entrando ya en Zadar, población mucho más grande de lo que me esperaba, ¿eh?, son casi 90.000 personas, ahí es nada,
 
-68
-00:04:52,300 --> 00:05:00,300
+0:04:52.300,0:05:00.300
 muchos coches, centros comerciales, tiendas... Bueno, espero que me sintáis bien.
 
-69
-00:05:00,300 --> 00:05:10,300
+0:05:00.300,0:05:10.300
 Comentaros que esto es lo que llevo andado hasta ahora.Este mapa lo voy metiendo cada día, lo que pasa es que iré alternando.
 
-70
-00:05:10,300 --> 00:05:20,300
+0:05:10.300,0:05:20.300
 Iré alternando algún día que pondré el mapa como entero y algún día, como hoy, que haré como un zoom en la zona donde estoy, porque cada vez el mapa es como que...
 
-71
-00:05:20,300 --> 00:05:23,300
+0:05:20.300,0:05:23.300
 Se ve menos claro hacia dónde estoy yendo, ¿no?
 
-72
-00:05:23,300 --> 00:05:33,300
+0:05:23.300,0:05:33.300
 Decir que este mapa lo encontráis en mi web, lavoltaalmonapeu.cat. Allí, si vais al apartado donde estoy, tenéis este mapa que es interactivo.
 
-73
-00:05:33,300 --> 00:05:41,300
+0:05:33.300,0:05:41.300
 Es un mapa que tú puedes ir moviendo, hacer zoom, tal... Y este mapa, cuando yo lo diseñé porque lo programé yo, aunque no soy programador,
 
-74
-00:05:41,300 --> 00:05:48,300
+0:05:41.300,0:05:48.300
 me costó mucho, me costó como tres semanas, porque yo no sé, entonces lo tuve que hacer con IA.
 
-75
-00:05:48,300 --> 00:05:49,300
+0:05:48.300,0:05:49.300
 Pues claro, eh...
 
-76
-00:05:50,300 --> 00:06:00,300
+0:05:50.300,0:06:00.300
 Yo no, no sé tanto. Entonces, ¿qué pasó? Que los archivos GPX, que son los que se muestran en el mapa, pues son archivos que uno pesa muy poco,
 
-77
-00:06:00,300 --> 00:06:09,300
+0:06:00.300,0:06:09.300
 pero si vas sumando, van pasando bastante, porque los archivos GPX, al final, no solo te guardan la ruta, sino también te guardan la distancia que has ido tardando
 
-78
-00:06:09,300 --> 00:06:19,300
+0:06:09.300,0:06:19.300
 de un punto a otro, esto, los tiempos... Guardan muchas cosas, ¿vale? Entonces, que son archivos que van pasando, entonces, a la que llevaba 50,
 
-79
-00:06:19,300 --> 00:06:23,300
-esta página tardaba un montón en encargar.
+0:06:19.300,0:06:23.300
+Esta página tardaba un montón en cargar.
 
-80
-00:06:23,300 --> 00:06:37,300
+0:06:23.300,0:06:37.300
 Esto lo notó un chico, que se llama Sergio Díaz, y me dijo, ei, yo soy experto, es mi trabajo, de hecho, con los mapas Lea Flet.
 
-81
-00:06:37,300 --> 00:06:44,300
+0:06:37.300,0:06:44.300
 Creo que me dijo eso. Que son los mapas de código abierto que uso yo para esta aplicación.
 
-82
-00:06:44,300 --> 00:06:47,300
+0:06:44.300,0:06:47.300
 Eso que... Tienes ese problema que te carga tanto...
 
-83
-00:06:47,300 --> 00:06:49,540
+0:06:47.300,0:06:49.540
 te carga tan lento, yo te lo puedo arreglar.
 
-84
-00:06:50,400 --> 00:06:51,520
+0:06:50.400,0:06:51.520
 Y sí, sí, estuvimos hablando,
 
-85
-00:06:51,740 --> 00:06:53,500
+0:06:51.740,0:06:53.500
 me lo pasó, ahora los ficheros
 
-86
-00:06:53,500 --> 00:06:54,940
+0:06:53.500,0:06:54.940
 que se muestran son ficheros
 
-87
-00:06:54,940 --> 00:06:57,440
+0:06:54.940,0:06:57.440
 de otro tipo que solo guardan
 
-88
-00:06:57,440 --> 00:06:59,640
+0:06:57.440,0:06:59.640
 la ruta, por lo tanto, pesan muchos menos,
 
-89
-00:07:01,140 --> 00:07:02,260
+0:07:01.140,0:07:02.260
 GeoJSON
 
-90
-00:07:02,260 --> 00:07:02,760
+0:07:02.260,0:07:02.760
 o algo así,
 
-91
-00:07:03,940 --> 00:07:05,200
+0:07:03.940,0:07:05.200
 y ahora carga mucho más rápido,
 
-92
-00:07:05,700 --> 00:07:07,600
+0:07:05.700,0:07:07.600
 lo he notado porque esto hace allí unos
 
-93
-00:07:07,600 --> 00:07:09,600
+0:07:07.600,0:07:09.600
 10-15 días que lo cambié
 
-94
-00:07:09,600 --> 00:07:11,460
+0:07:09.600,0:07:11.460
 y habréis notado que carga mucho más rápido la página.
 
-95
-00:07:12,080 --> 00:07:13,460
+0:07:12.080,0:07:13.460
 Así que muchísimas gracias Sergio.
 
-96
-00:07:14,080 --> 00:07:15,360
+0:07:14.080,0:07:15.360
 Yo sé que esta web la veis
 
-97
-00:07:15,360 --> 00:07:17,520
+0:07:15.360,0:07:17.520
 hay unos cuantos que la miran asiduamente
 
-98
-00:07:17,520 --> 00:07:19,220
+0:07:17.520,0:07:19.220
 todos los días, F5, F5, F5,
 
-99
-00:07:19,340 --> 00:07:21,400
+0:07:19.340,0:07:21.400
 Y creo que sí, creo que está bastante bien.
 
-100
-00:07:22,480 --> 00:07:23,520
+0:07:22.480,0:07:23.520
 Yo si viera otro aventurero
 
-101
-00:07:23,520 --> 00:07:25,620
+0:07:23.520,0:07:25.620
 que hiciera una aventura así, me gustaría que tuviera
 
-102
-00:07:25,620 --> 00:07:27,340
+0:07:25.620,0:07:27.340
 Este mapa, por lo tanto, por eso lo hice.
 
-103
-00:07:28,100 --> 00:07:29,380
+0:07:28.100,0:07:29.380
 De acuerdo, antes de entrar en el
 
-104
-00:07:29,380 --> 00:07:31,660
+0:07:29.380,0:07:31.660
 Centro Histórico de Zadar, iré al supermercado.
 
-105
-00:07:31,740 --> 00:07:33,660
+0:07:31.740,0:07:33.660
 Hoy es domingo y no tenía previsto que estuviera abierto,
 
-106
-00:07:34,360 --> 00:07:35,860
+0:07:34.360,0:07:35.860
 pero veo que está abierto,
 
-107
-00:07:35,940 --> 00:07:36,980
+0:07:35.940,0:07:36.980
 por lo tanto, vamos.
 
-108
-00:07:37,640 --> 00:07:39,540
+0:07:37.640,0:07:39.540
 Bueno, son las 10 y media, no son
 
-109
-00:07:39,540 --> 00:07:41,680
+0:07:39.540,0:07:41.680
 horas de comida, no son nada
 
-110
-00:07:41,680 --> 00:07:43,940
+0:07:41.680,0:07:43.940
 horas de comida, ni en Croacia,
 
-111
-00:07:44,640 --> 00:07:45,340
+0:07:44.640,0:07:45.340
 Pero cuando estás
 
-112
-00:07:45,340 --> 00:07:47,400
-dando la vuelta con una pie, no hay horas, no hay horas.
+0:07:45.340,0:07:47.400
+dando la vuelta al mundo a pie, no hay horas, no hay horas.
 
-113
-00:07:47,900 --> 00:07:49,440
+0:07:47.900,0:07:49.440
 Entonces, bueno, ya que he venido aquí,
 
-114
-00:07:49,740 --> 00:07:51,240
+0:07:49.740,0:07:51.240
 he visto que había, igual que el otro día,
 
-115
-00:07:51,340 --> 00:07:53,500
+0:07:51.340,0:07:53.500
 el tema este de la comida papelada, y me he cogido
 
-116
-00:07:53,500 --> 00:07:54,940
+0:07:53.500,0:07:54.940
 dos
 
-117
-00:07:54,940 --> 00:07:57,280
+0:07:54.940,0:07:57.280
 Dos pollos así
 
-118
-00:07:57,280 --> 00:07:58,780
+0:07:57.280,0:07:58.780
 un poco despistado,
 
-119
-00:07:58,880 --> 00:08:02,300
+0:07:58.880,0:08:02.300
 Qué raro es eso, mira.
 
-120
-00:08:07,420 --> 00:08:08,620
+0:08:07.420,0:08:08.620
 Y pasta
 
-121
-00:08:08,620 --> 00:08:09,780
+0:08:08.620,0:08:09.780
 con chucrut.
 
-122
-00:08:11,020 --> 00:08:12,840
+0:08:11.020,0:08:12.840
 Me comeré la mitad ahora, y la otra mitad
 
-123
-00:08:12,840 --> 00:08:15,040
+0:08:12.840,0:08:15.040
 me la guardaré para cenar, tú. Así hoy no tengo que cocinar.
 
-124
-00:08:15,340 --> 00:08:17,180
+0:08:15.340,0:08:17.180
 Zadar es bastante grande,
 
-125
-00:08:17,540 --> 00:08:18,920
+0:08:17.540,0:08:18.920
 pero lo único que interesa turísticamente
 
-126
-00:08:18,920 --> 00:08:21,140
+0:08:18.920,0:08:21.140
 es el centro histórico. Mientras camino,
 
-127
-00:08:21,420 --> 00:08:22,280
+0:08:21.420,0:08:22.280
 Me encuentro con este cartel.
 
-128
-00:08:22,960 --> 00:08:24,960
+0:08:22.960,0:08:24.960
 Me suena esta cara, y es que últimamente
 
-129
-00:08:24,960 --> 00:08:26,360
+0:08:24.960,0:08:26.360
 He estado escuchando música croata.
 
-130
-00:08:26,820 --> 00:08:28,760
+0:08:26.820,0:08:28.760
 Y uno de los músicos más famosos en este país
 
-131
-00:08:28,760 --> 00:08:31,160
+0:08:28.760,0:08:31.160
 es este señor, que es bosnio, no es croata.
 
-132
-00:08:31,560 --> 00:08:33,200
+0:08:31.560,0:08:33.200
 Tenéis una canción suya en mi playlist.
 
-133
-00:08:33,940 --> 00:08:35,000
+0:08:33.940,0:08:35.000
 ¿Qué puedo contar de Zadar?
 
-134
-00:08:35,560 --> 00:08:37,180
+0:08:35.560,0:08:37.180
 El origen viene de los romanos.
 
-135
-00:08:37,820 --> 00:08:39,520
+0:08:37.820,0:08:39.520
 El hecho de estar situado en este punto
 
-136
-00:08:39,520 --> 00:08:41,080
+0:08:39.520,0:08:41.080
 del mar Adriático lo ha convertido
 
-137
-00:08:41,080 --> 00:08:42,780
+0:08:41.080,0:08:42.780
 Desgraciadamente, en un punto estratégico.
 
-138
-00:08:43,420 --> 00:08:45,280
+0:08:43.420,0:08:45.280
 Lo digo porque esta ciudad
 
-139
-00:08:45,340 --> 00:08:47,680
+0:08:45.340,0:08:47.680
 Ha sido destruida y reconstruida
 
-140
-00:08:47,680 --> 00:08:48,960
+0:08:47.680,0:08:48.960
 En innumerables ocasiones
 
-141
-00:08:48,960 --> 00:08:50,220
+0:08:48.960,0:08:50.220
 diferentes imperios.
 
-142
-00:08:50,480 --> 00:08:52,860
+0:08:50.480,0:08:52.860
 ¿Quién se lleva la medalla de oro a veces
 
-143
-00:08:52,860 --> 00:08:54,660
+0:08:52.860,0:08:54.660
 que ha destruido esta ciudad es
 
-144
-00:08:54,660 --> 00:08:56,260
+0:08:54.660,0:08:56.260
 La República de Venecia.
 
-145
-00:08:56,600 --> 00:08:58,040
+0:08:56.600,0:08:58.040
 Y también son los que se quedaron más tiempo.
 
-146
-00:08:58,520 --> 00:09:00,020
+0:08:58.520,0:09:00.020
 Por eso el león con el libro.
 
-147
-00:09:00,620 --> 00:09:02,580
+0:09:00.620,0:09:02.580
 Otros que les dio por pasar por aquí
 
-148
-00:09:02,580 --> 00:09:04,580
+0:09:02.580,0:09:04.580
 y prenderle fuego o tirar bombas son
 
-149
-00:09:04,580 --> 00:09:06,940
+0:09:04.580,0:09:06.940
 los romanos, los cruzados,
 
-150
-00:09:07,600 --> 00:09:08,400
+0:09:07.600,0:09:08.400
 El Imperio Bizantino,
 
-151
-00:09:08,840 --> 00:09:10,640
+0:09:08.840,0:09:10.640
 El Imperio Otomano, Napoleón.
 
-152
-00:09:11,340 --> 00:09:11,800
+0:09:11.340,0:09:11.840
 Italia,
 
-153
-00:09:12,600 --> 00:09:14,780
+0:09:12.600,0:09:14.780
 Jugoslavia, y los que hicieron tal vez
 
-154
-00:09:14,780 --> 00:09:15,320
+0:09:14.780,0:09:15.320
 más mal,
 
-155
-00:09:15,340 --> 00:09:17,840
+0:09:15.340,0:09:17.840
 con sus bombas fueron los aliados
 
-156
-00:09:17,840 --> 00:09:18,860
+0:09:17.840,0:09:18.860
 En la Segunda Guerra Mundial.
 
-157
-00:09:19,680 --> 00:09:21,020
+0:09:19.680,0:09:21.020
 Esto se debe a que entonces
 
-158
-00:09:21,020 --> 00:09:23,180
+0:09:21.020,0:09:23.180
 Zadar formaba parte de Italia.
 
-159
-00:09:23,820 --> 00:09:24,840
+0:09:23.820,0:09:24.840
 Dejando de lado la historia,
 
-160
-00:09:25,340 --> 00:09:27,720
+0:09:25.340,0:09:27.720
 Como veis, hoy se celebra el Carnaval,
 
-161
-00:09:28,160 --> 00:09:29,560
+0:09:28.160,0:09:29.560
 la parte infantil
 
-162
-00:09:29,560 --> 00:09:31,120
+0:09:29.560,0:09:31.120
 El Carnaval, y hay un poco
 
-163
-00:09:31,120 --> 00:09:33,580
+0:09:31.120,0:09:33.580
 de fiesta, conciertos y tal.
 
-164
-00:09:34,120 --> 00:09:35,080
+0:09:34.120,0:09:35.080
 Me gusta que en Croacia
 
-165
-00:09:35,080 --> 00:09:37,380
+0:09:35.080,0:09:37.380
 Las piedras y los edificios hechos
 
-166
-00:09:37,380 --> 00:09:39,000
+0:09:37.380,0:09:39.000
 con piedra tienen este color,
 
-167
-00:09:39,180 --> 00:09:41,800
+0:09:39.180,0:09:41.800
 ese color blanco roto,
 
-168
-00:09:42,520 --> 00:09:43,460
+0:09:42.520,0:09:43.460
 beige, como quieras llamarlo,
 
-169
-00:09:43,460 --> 00:09:45,020
+0:09:43.460,0:09:45.020
 que creo que queda muy bien.
 
-170
-00:09:45,340 --> 00:09:47,320
+0:09:45.340,0:09:47.320
 Las antiguas piedras romanas
 
-171
-00:09:47,320 --> 00:09:49,800
+0:09:47.320,0:09:49.800
 están delante de la catedral, así puestas,
 
-172
-00:09:50,240 --> 00:09:51,280
+0:09:50.240,0:09:51.280
 Los niños juegan a saltar
 
-173
-00:09:51,280 --> 00:09:52,760
+0:09:51.280,0:09:52.760
 de una a otra y se meten encima.
 
-174
-00:09:53,540 --> 00:09:55,820
+0:09:53.540,0:09:55.820
 Pocos metros más allá está el paseo marítimo,
 
-175
-00:09:56,080 --> 00:09:57,500
+0:09:56.080,0:09:57.500
 que está muy bien, es muy bonito,
 
-176
-00:09:58,060 --> 00:09:59,580
+0:09:58.060,0:09:59.580
 pero de lejos voy sintiendo
 
-177
-00:09:59,580 --> 00:10:00,320
+0:09:59.580,0:10:00.320
 como algo,
 
-178
-00:10:01,300 --> 00:10:03,260
+0:10:01.300,0:10:03.260
 como una música, algo extraño.
 
-179
-00:10:03,920 --> 00:10:04,560
+0:10:03.920,0:10:04.560
 Me acerco.
 
-180
-00:10:05,140 --> 00:10:07,040
+0:10:05.140,0:10:07.040
 Y aquí tenemos lo que probablemente es
 
-181
-00:10:07,040 --> 00:10:09,320
+0:10:07.040,0:10:09.320
 El instrumento más curioso
 
-182
-00:10:09,320 --> 00:10:10,400
+0:10:09.320,0:10:10.400
 de todo el mundo.
 
-183
-00:10:11,080 --> 00:10:13,640
+0:10:11.080,0:10:13.640
 Un órgano que suena con olas de mar.
 
-184
-00:10:15,340 --> 00:10:26,000
+0:10:15.340,0:10:26.000
 Pero no hay nadie que lo toque.
 
-185
-00:10:26,840 --> 00:10:27,620
+0:10:26.840,0:10:27.620
 Las olas del mar
 
-186
-00:10:27,620 --> 00:10:29,500
+0:10:27.620,0:10:29.500
 entran por unos orificios
 
-187
-00:10:29,500 --> 00:10:31,560
+0:10:29.500,0:10:31.560
 y esto hace que salga el aire por el otro lado
 
-188
-00:10:31,560 --> 00:10:34,240
+0:10:31.560,0:10:34.240
 y hace este sonido tan raro y peculiar
 
-189
-00:10:34,240 --> 00:10:36,340
+0:10:34.240,0:10:36.340
 que cambia, depende del día,
 
-190
-00:10:36,560 --> 00:10:38,040
+0:10:36.560,0:10:38.040
 depende de cómo sople el viento
 
-191
-00:10:38,040 --> 00:10:39,520
+0:10:38.040,0:10:39.520
 y como estén las olas.
 
-192
-00:10:40,240 --> 00:10:41,320
+0:10:40.240,0:10:41.320
 Sigo mi recorrido
 
-193
-00:10:41,320 --> 00:10:43,020
+0:10:41.320,0:10:43.020
 en este día bastante ventoso
 
-194
-00:10:43,020 --> 00:10:45,180
+0:10:43.020,0:10:45.180
 y ya empiezo a terminar en la ciudad.
 
-195
-00:10:45,180 --> 00:10:45,320
-
-
-196
-00:10:45,340 --> 00:10:46,980
+0:10:45.340,0:10:46.980
 Muy rápido, es realmente pequeño.
 
-197
-00:10:47,320 --> 00:10:49,060
+0:10:47.320,0:10:49.060
 En este pedestal que veis, antes
 
-198
-00:10:49,060 --> 00:10:50,820
+0:10:49.060,0:10:50.820
 había uno de estos leones de San Marcos,
 
-199
-00:10:51,000 --> 00:10:52,740
+0:10:51.000,0:10:52.740
 los leones del Reino de Venecia.
 
-200
-00:10:53,580 --> 00:10:55,320
+0:10:53.580,0:10:55.320
 Oigo más música de fondo, que desgraciadamente
 
-201
-00:10:55,320 --> 00:10:57,040
+0:10:55.320,0:10:57.040
 no puedo reproducir porque tiene derechos de autor.
 
-202
-00:10:57,780 --> 00:10:59,480
+0:10:57.780,0:10:59.480
 Me acerco y hay una especie de
 
-203
-00:10:59,480 --> 00:11:01,300
+0:10:59.480,0:11:01.300
 Una fiesta de carnaval muy diferente
 
-204
-00:11:01,300 --> 00:11:01,740
+0:11:01.300,0:11:01.800
 anterior.
 
-205
-00:11:02,840 --> 00:11:04,700
+0:11:02.840,0:11:04.700
 En fin, personajes muy curiosos.
 
-206
-00:11:05,300 --> 00:11:07,140
+0:11:05.300,0:11:07.140
 Parece que imitan como una especie de
 
-207
-00:11:07,140 --> 00:11:08,300
+0:11:07.140,0:11:08.300
 granja, no lo tengo claro.
 
-208
-00:11:08,800 --> 00:11:10,460
+0:11:08.800,0:11:10.460
 En cualquier caso, tienen aquí un bus
 
-209
-00:11:10,460 --> 00:11:12,500
+0:11:10.460,0:11:12.500
 y dentro del autobús
 
-210
-00:11:12,500 --> 00:11:15,320
+0:11:12.500,0:11:15.320
 hay paja y hay cerdos.
 
-211
-00:11:15,340 --> 00:11:17,400
+0:11:15.340,0:11:17.400
 Cerdos vivos de verdad.
 
-212
-00:11:17,980 --> 00:11:19,820
+0:11:17.980,0:11:19.820
 Para acabar, me contacta
 
-213
-00:11:19,820 --> 00:11:21,040
+0:11:19.820,0:11:21.040
 Una familia de catalanes
 
-214
-00:11:21,040 --> 00:11:23,380
+0:11:21.040,0:11:23.380
 que casualmente está de viaje aquí,
 
-215
-00:11:23,520 --> 00:11:23,900
+0:11:23.520,0:11:24.020
 en Zadar.
 
-216
-00:11:25,080 --> 00:11:27,080
+0:11:25.080,0:11:27.080
 ¡Mira quién me he encontrado aquí! Laia, ¿cómo estás?
 
-217
-00:11:27,140 --> 00:11:29,440
+0:11:27.140,0:11:29.440
 Muy bien, ¿y tú? ¿Qué hacéis aquí? ¿Estáis de viaje, no?
 
-218
-00:11:29,540 --> 00:11:31,500
+0:11:29.540,0:11:31.500
 Sí, estamos dando un poco de vuelta por Europa.
 
-219
-00:11:31,880 --> 00:11:32,900
+0:11:31.880,0:11:32.900
 ¿Con autocaravana? Sí.
 
-220
-00:11:33,180 --> 00:11:35,660
+0:11:33.180,0:11:35.660
 Ostras, ¿y qué tal? Bueno, ya estamos acabando,
 
-221
-00:11:35,700 --> 00:11:37,440
+0:11:35.700,0:11:37.440
 ya volvemos a casa. ¿Y cómo ha ido?
 
-222
-00:11:37,480 --> 00:11:39,300
+0:11:37.480,0:11:39.300
 ¿Ha sido el invierno o qué? Empezamos
 
-223
-00:11:39,300 --> 00:11:41,340
+0:11:39.300,0:11:41.340
 La pasada primavera y...
 
-224
-00:11:41,340 --> 00:11:42,400
+0:11:41.340,0:11:42.400
 ¿La primavera pasada? O sea, casi un año.
 
-225
-00:11:42,400 --> 00:11:44,220
+0:11:42.400,0:11:44.220
 Sí, 11 meses, sí.
 
-226
-00:11:44,240 --> 00:11:44,620
+0:11:44.240,0:11:44.740
 Dios-hi-do.
 
-227
-00:11:45,340 --> 00:11:48,400
+0:11:45.340,0:11:48.400
 Y qué, ya os añoráis o simplemente
 
-228
-00:11:48,400 --> 00:11:50,440
+0:11:48.400,0:11:50.440
 Es hora de volver? Es hora de volver, ya está.
 
-229
-00:11:50,700 --> 00:11:52,440
+0:11:50.700,0:11:52.440
 Se nos acaba, sí. De acuerdo, y
 
-230
-00:11:52,440 --> 00:11:54,240
+0:11:52.440,0:11:54.240
 ¿Qué habéis sido? ¿Por toda Europa o...?
 
-231
-00:11:54,240 --> 00:11:56,460
+0:11:54.240,0:11:56.460
 Hemos pasado el verano en el norte, en Finlandia
 
-232
-00:11:56,460 --> 00:11:58,240
+0:11:56.460,0:11:58.240
 y Noruega, luego en octubre
 
-233
-00:11:58,240 --> 00:12:00,340
+0:11:58.240,0:12:00.340
 hemos atravesado el otoño en Europa
 
-234
-00:12:00,340 --> 00:12:02,160
+0:12:00.340,0:12:02.160
 y la Navidad la hemos pasado en Estambul
 
-235
-00:12:02,160 --> 00:12:04,320
+0:12:02.160,0:12:04.320
 y ahora ya estamos de vuelta por la costa del Mediterráneo.
 
-236
-00:12:05,140 --> 00:12:06,240
+0:12:05.140,0:12:06.240
 ¿País que más os ha gustado?
 
-237
-00:12:07,240 --> 00:12:08,160
+0:12:07.240,0:12:08.160
 Bueno...
 
-238
-00:12:08,160 --> 00:12:12,560
+0:12:08.160,0:12:12.560
 Nuestros hijos Finlandia,
 
-239
-00:12:12,560 --> 00:12:13,240
+0:12:12.560,0:12:13.240
 En Noruega.
 
-240
-00:12:13,240 --> 00:12:15,240
+0:12:13.240,0:12:15.240
 ¿Mejor gastronomía?
 
-241
-00:12:15,240 --> 00:12:17,240
+0:12:15.240,0:12:17.240
 Ostras...
 
-242
-00:12:17,240 --> 00:12:19,240
+0:12:17.240,0:12:19.240
 El Mediterráneo.
 
-243
-00:12:19,240 --> 00:12:21,240
+0:12:19.240,0:12:21.240
 Sí, ¿no? Sí. ¿Turquía?
 
-244
-00:12:21,240 --> 00:12:23,240
+0:12:21.240,0:12:23.240
 Tiene buena fama. Muy buena, sí.
 
-245
-00:12:23,240 --> 00:12:25,240
+0:12:23.240,0:12:25.240
 Grecia.
 
-246
-00:12:25,240 --> 00:12:27,240
+0:12:25.240,0:12:27.240
 ¿País que menos te ha gustado?
 
-247
-00:12:27,240 --> 00:12:29,240
+0:12:27.240,0:12:29.240
 Albania.
 
-248
-00:12:29,240 --> 00:12:31,240
+0:12:29.240,0:12:31.240
 Ya sé que ahora vas pero...
 
-249
-00:12:31,240 --> 00:12:33,240
+0:12:31.240,0:12:33.240
 Voy y me han hablado bien.
 
-250
-00:12:33,240 --> 00:12:35,240
+0:12:33.240,0:12:35.240
 Bueno, nos hemos encontrado muchas... ¿El motivo?
 
-251
-00:12:35,240 --> 00:12:37,240
+0:12:35.240,0:12:37.240
 Mucha basura por todas partes,
 
-252
-00:12:37,240 --> 00:12:39,240
+0:12:37.240,0:12:39.240
 Sí. De hecho, si acampas por allí,
 
-253
-00:12:39,240 --> 00:12:41,240
+0:12:39.240,0:12:41.240
 Bueno, ya está muy bien. Muchas
 
-254
-00:12:41,240 --> 00:12:43,240
+0:12:41.240,0:12:43.240
 basura, quiero decir, lugares muy bonitos, con muchos ríos
 
-255
-00:12:43,240 --> 00:12:45,240
+0:12:43.240,0:12:45.240
 y muy bonito, pero lleno de basura
 
-256
-00:12:45,240 --> 00:12:47,240
+0:12:45.240,0:12:47.240
 por todas partes, por todas partes.
 
-257
-00:12:47,240 --> 00:12:48,240
+0:12:47.240,0:12:48.240
 ¿Un lugar más barato?
 
-258
-00:12:48,240 --> 00:12:50,240
+0:12:48.240,0:12:50.240
 Lugar más barato... ¿Albania quizás también?
 
-259
-00:12:50,240 --> 00:12:54,240
+0:12:50.240,0:12:54.240
 Sí, Albania... ¿Cuál?
 
-260
-00:12:54,240 --> 00:12:56,240
+0:12:54.240,0:12:56.240
 Bosnia, sí, también.
 
-261
-00:12:56,240 --> 00:12:58,240
+0:12:56.240,0:12:58.240
 Y el más caro, Noruega, imagino. Sí, Noruega.
 
-262
-00:12:58,240 --> 00:13:00,240
+0:12:58.240,0:13:00.240
 Lo que más os ha gustado es el más caro.
 
-263
-00:13:00,240 --> 00:13:02,240
+0:13:00.240,0:13:02.240
 Bueno, pues muchas gracias. Muchas gracias, Laia.
 
-264
-00:13:02,240 --> 00:13:04,240
+0:13:02.240,0:13:04.240
 Ya ves, que vaya muy bien, nos vemos. Gracias.
 
-265
-00:13:04,240 --> 00:13:12,240
+0:13:04.240,0:13:12.240
 Pues muy bien, Zadar. Muy bien el centro histórico.
 
-266
-00:13:12,240 --> 00:13:14,240
+0:13:12.240,0:13:14.240
 Muy pequeño, realmente.
 
-267
-00:13:14,240 --> 00:13:18,240
+0:13:14.240,0:13:18.240
 He estado más tiempo del que quizás
 
-268
-00:13:18,240 --> 00:13:21,240
+0:13:18.240,0:13:21.240
 era necesario para visitarlo, porque mira,
 
-269
-00:13:21,240 --> 00:13:23,240
+0:13:21.240,0:13:23.240
 Hemos ido unas cuantas vueltas, muy bonito.
 
-270
-00:13:23,240 --> 00:13:25,240
+0:13:23.240,0:13:25.240
 Muy bonita la parte del mar, realmente.
 
-271
-00:13:25,240 --> 00:13:28,240
+0:13:25.240,0:13:28.240
 Muy bonito. Lástima no haber podido ver la puesta de Sol,
 
-272
-00:13:28,240 --> 00:13:30,240
+0:13:28.240,0:13:30.240
 Es la más bonita del mundo, ¿no?
 
-273
-00:13:30,240 --> 00:13:32,240
-Pero me ha flipado el tema del Orga, me ha flipado.
+0:13:30.240,0:13:32.240
+Pero me ha flipado el tema del órgano, me ha flipado.
 
-274
-00:13:32,240 --> 00:13:34,240
+0:13:32.240,0:13:34.240
 Y bien, muchas gracias a Laia.
 
-275
-00:13:34,240 --> 00:13:36,240
+0:13:34.240,0:13:36.240
 Por querer salir en el vídeo.
 
-276
-00:13:36,240 --> 00:13:38,240
+0:13:36.240,0:13:38.240
 El resto de la familia también muy simpáticos.
 
-277
-00:13:38,240 --> 00:13:40,240
+0:13:38.240,0:13:40.240
 Y ahora, nada, pues salida de Zadar
 
-278
-00:13:40,240 --> 00:13:42,240
+0:13:40.240,0:13:42.240
 y seguir avanzando hacia Split.
 
-279
-00:13:42,240 --> 00:13:44,240
+0:13:42.240,0:13:44.240
 La periferia de Zadar es bastante grande
 
-280
-00:13:44,240 --> 00:13:46,240
+0:13:44.240,0:13:46.240
 y ya llevo un rato caminando, son las dos y media.
 
-281
-00:13:46,240 --> 00:13:49,240
+0:13:46.240,0:13:48.025
 Y todavía estoy aquí entre polígonos e historias.
 
-282
-00:14:14,240 --> 00:14:12,240
+0:14:12.240,0:14:13.820
 Las cuatro pasadas de la tarde.
 
-283
-00:14:12,240 --> 00:14:16,240
-Ahora mismo me encuentro en el tranquilo pueblo de Sukosan,
+0:14:13.820,0:14:20.240
+Ahora mismo me encuentro en el tranquilo pueblo de Sukosan, aquí en el estadio de fútbol, donde unos bailets están haciendo un partidillo.
 
-284
-00:14:16,240 --> 00:14:20,240
-Aquí en el estadio de fútbol, donde unos bailets están haciendo un partidillo.
-
-285
-00:14:20,240 --> 00:14:24,240
+0:14:20.240,0:14:24.240
 Bueno, he dicho que no se podía ver la Puesta de Sol en Zadar,
 
-286
-00:14:24,240 --> 00:14:26,240
+0:14:24.240,0:14:26.240
 porque no estaba Zadar, y que esto sería una lástima,
 
-287
-00:14:26,240 --> 00:14:28,240
+0:14:26.240,0:14:28.240
 pero, bueno, toda esta zona en principio
 
-288
-00:14:28,240 --> 00:14:30,240
+0:14:28.240,0:14:30.240
 debería ser bonita para la puesta de Sol.
 
-289
-00:14:30,240 --> 00:14:32,240
+0:14:30.240,0:14:32.240
 Claro, ¿qué pasa?
 
-290
-00:14:32,240 --> 00:14:34,240
+0:14:32.240,0:14:34.240
 Depende de dónde acampe, pues difícil ver el mar, ¿no?
 
-291
-00:14:34,240 --> 00:14:36,240
+0:14:34.240,0:14:36.240
 Porque difícil acampar una playa, tal...
 
-292
-00:14:36,240 --> 00:14:39,240
+0:14:36.240,0:14:39.240
 Y, además, hay unas islas justo enfrente de aquí.
 
-293
-00:14:39,240 --> 00:14:41,240
+0:14:39.240,0:14:41.240
 ¿Qué pasa en las islas?
 
-294
-00:14:41,240 --> 00:14:43,240
+0:14:41.240,0:14:43.240
 Bloquear un poco
 
-295
-00:14:43,240 --> 00:14:47,240
+0:14:43.240,0:14:47.240
 La última bajada del sol hasta abajo, ¿no?
 
-296
-00:14:47,240 --> 00:14:49,240
+0:14:47.240,0:14:49.240
 Porque están como más elevadas.
 
-297
-00:14:49,240 --> 00:14:51,240
+0:14:49.240,0:14:51.240
 ¡Solución!
 
-298
-00:14:51,240 --> 00:14:53,240
+0:14:51.240,0:14:53.240
 Subiré esta montaña de allí,
 
-299
-00:14:53,240 --> 00:14:55,240
+0:14:53.240,0:14:55.240
 caminaré unos cuantos kilómetros,
 
-300
-00:14:55,240 --> 00:14:58,240
+0:14:55.240,0:14:58.240
 Voy a acampar y a ver si puedo ver la puesta de sol.
 
-301
-00:14:58,240 --> 00:15:01,240
+0:14:58.240,0:15:01.240
 Espero que la cresta, la cresta de esta montaña,
 
-302
-00:15:01,240 --> 00:15:03,240
+0:15:01.240,0:15:03.240
 que es bastante plana,
 
-303
-00:15:03,240 --> 00:15:05,240
+0:15:03.240,0:15:05.240
 tenga algo de vistas, porque es muy posible
 
-304
-00:15:05,240 --> 00:15:07,240
+0:15:05.240,0:15:07.240
 que haya todo árboles y no haya vistas,
 
-305
-00:15:07,240 --> 00:15:09,240
+0:15:07.240,0:15:09.240
 Pero bueno, hay que intentarlo.
 
-306
-00:15:09,240 --> 00:15:11,240
+0:15:09.240,0:15:11.240
 Aquí tenéis un mapa, estamos allí,
 
-307
-00:15:11,240 --> 00:15:13,240
+0:15:11.240,0:15:13.240
 Y tenemos que hacerlo así
 
-308
-00:15:13,240 --> 00:15:15,240
+0:15:13.240,0:15:15.240
 Subiendo por aquí hasta aquí.
 
-309
-00:15:15,240 --> 00:15:17,240
+0:15:15.240,0:15:17.240
 El rojo, que he hecho el traductor,
 
-310
-00:15:17,240 --> 00:15:19,240
+0:15:17.240,0:15:19.240
 dice que el rojo es para atletas,
 
-311
-00:15:19,240 --> 00:15:21,240
+0:15:19.240,0:15:21.240
 Y esto es para principiantes.
 
-312
-00:15:21,240 --> 00:15:23,240
+0:15:21.240,0:15:23.240
 Hombre, atletas...
 
-313
-00:15:23,240 --> 00:15:25,240
+0:15:23.240,0:15:25.240
 Tampoco nos flipamos, ¿no?
 
-314
-00:15:25,240 --> 00:15:27,240
+0:15:25.240,0:15:27.240
 Y luego por aquí será alguna de las cumbres,
 
-315
-00:15:27,240 --> 00:15:29,240
+0:15:27.240,0:15:29.240
 o por ahí más adelante, donde dormiremos.
 
-316
-00:15:29,240 --> 00:15:31,240
+0:15:29.240,0:15:31.240
 Espero que no haya mucho viento, ¿eh?.
 
-317
-00:15:31,240 --> 00:15:33,240
-
-
-318
-00:16:01,240 --> 00:16:03,240
-
-
-319
-00:16:03,240 --> 00:16:05,240
-
-
-320
-00:16:05,240 --> 00:16:07,240
+0:16:05.240,0:16:07.240
 Bueno, yo he llegado más o menos arriba.
 
-321
-00:16:07,240 --> 00:16:09,240
+0:16:07.240,0:16:09.240
 La subida, fácil.
 
-322
-00:16:09,240 --> 00:16:11,240
+0:16:09.240,0:16:11.240
 Ahora he hecho el vídeo como si fuera muy drama, pero fácil.
 
-323
-00:16:11,240 --> 00:16:13,240
+0:16:11.240,0:16:13.240
 Pero es que, claro, yo venía a ver la puesta de sol
 
-324
-00:16:13,240 --> 00:16:15,240
+0:16:13.240,0:16:15.240
 y mirad!
 
-325
-00:16:15,240 --> 00:16:17,240
+0:16:15.240,0:16:17.240
 Mirad estas super montañas nevadas.
 
-326
-00:16:17,240 --> 00:16:19,240
+0:16:17.240,0:16:19.240
 ¿Queríais que anduviera por allí, no?
 
-327
-00:16:19,240 --> 00:16:21,240
+0:16:19.240,0:16:21.240
 Quería que caminara por ahí arriba.
 
-328
-00:16:21,240 --> 00:16:23,240
+0:16:21.240,0:16:23.240
 Brutal.
 
-329
-00:16:23,240 --> 00:16:25,240
+0:16:23.240,0:16:25.240
 Casi las 5.
 
-330
-00:16:25,240 --> 00:16:27,240
+0:16:25.240,0:16:27.240
 Tiraré un poco más.
 
-331
-00:16:27,240 --> 00:16:29,240
+0:16:27.240,0:16:29.240
 Hace viento, ¿eh?
 
-332
-00:16:29,240 --> 00:16:31,240
+0:16:29.240,0:16:31.240
 No es un tornado, pero hace viento.
 
-333
-00:16:31,240 --> 00:16:33,240
+0:16:31.240,0:16:33.240
 Y...
 
-334
-00:16:33,240 --> 00:16:35,240
+0:16:33.240,0:16:35.240
 Hay muchos matojos
 
-335
-00:16:35,240 --> 00:16:37,240
+0:16:35.240,0:16:37.240
 y poca zona
 
-336
-00:16:37,240 --> 00:16:39,240
+0:16:37.240,0:16:39.240
 o ninguno
 
-337
-00:16:39,240 --> 00:16:41,240
+0:16:39.240,0:16:41.240
 para poder campar.
 
-338
-00:16:41,240 --> 00:16:43,240
+0:16:41.240,0:16:43.240
 De momento, seguiré tirando.
 
-339
-00:16:43,240 --> 00:16:45,240
+0:16:43.240,0:16:45.240
 Y bueno, el sol...
 
-340
-00:16:45,240 --> 00:16:47,240
+0:16:45.240,0:16:47.240
 Desgraciadamente parece que la puesta de sol
 
-341
-00:16:47,240 --> 00:16:49,240
+0:16:47.240,0:16:49.240
 no la veré mucho porque
 
-342
-00:16:49,240 --> 00:16:51,240
+0:16:49.240,0:16:51.240
 hay unas nubes allí bastante feas.
 
-343
-00:16:59,240 --> 00:17:01,240
-
-
-344
-00:17:01,240 --> 00:17:03,240
-
-
-345
-00:17:03,240 --> 00:17:05,240
+0:17:03.240,0:17:05.240
 Buenas noticias.
 
-346
-00:17:05,240 --> 00:17:07,240
-
-
-347
-00:17:07,240 --> 00:17:09,240
+0:17:07.240,0:17:09.240
 Buenas noticias.
 
-348
-00:17:09,240 --> 00:17:11,240
+0:17:09.240,0:17:11.240
 Puesta de sol muy bonita.
 
-349
-00:17:11,240 --> 00:17:13,240
+0:17:11.240,0:17:13.240
 Al final sí, parece que sí.
 
-350
-00:17:13,240 --> 00:17:15,240
+0:17:13.240,0:17:15.240
 Y no sopla mucho viento, ha bajado el viento.
 
-351
-00:17:15,240 --> 00:17:17,240
+0:17:15.240,0:17:17.240
 Mala noticia.
 
-352
-00:17:17,240 --> 00:17:19,240
+0:17:17.240,0:17:19.240
 Como se ve, el camino
 
-353
-00:17:19,240 --> 00:17:21,240
+0:17:19.240,0:17:21.240
 Se ha complicado de manera exponencial.
 
-354
-00:17:21,240 --> 00:17:23,240
+0:17:21.240,0:17:23.240
 Se ha complicado de manera exponencial.
 
-355
-00:17:25,240 --> 00:17:27,240
+0:17:25.240,0:17:27.240
 No pasa nada porque sea un camino difícil
 
-356
-00:17:27,240 --> 00:17:29,240
+0:17:27.240,0:17:29.240
 con piedras y tal.
 
-357
-00:17:29,240 --> 00:17:31,240
+0:17:29.240,0:17:31.240
 El problema es que
 
-358
-00:17:31,240 --> 00:17:33,240
+0:17:31.240,0:17:33.240
 Es que está muy recrecida
 
-359
-00:17:33,240 --> 00:17:35,240
+0:17:33.240,0:17:35.240
 y temo que en algún momento
 
-360
-00:17:35,240 --> 00:17:37,240
+0:17:35.240,0:17:37.240
 Desaparecen los caminos 1 y 2
 
-361
-00:17:37,240 --> 00:17:39,240
+0:17:37.240,0:17:39.240
 Que aquí sí que
 
-362
-00:17:39,240 --> 00:17:41,240
+0:17:39.240,0:17:41.240
 Si el camino es así
 
-363
-00:17:41,240 --> 00:17:43,240
+0:17:41.240,0:17:43.240
 No hay posibilidad de acampar.
 
-364
-00:17:51,240 --> 00:17:53,240
+0:17:51.240,0:17:53.240
 De acuerdo, ya se ha ido el sol
 
-365
-00:17:53,240 --> 00:17:55,240
+0:17:53.240,0:17:55.240
 y ya por fin saliendo de este camino infernal
 
-366
-00:17:55,240 --> 00:17:57,240
+0:17:55.240,0:17:57.240
 Entrando en la pista
 
-367
-00:17:57,240 --> 00:17:59,240
+0:17:57.240,0:17:59.240
 Y ahora es cuestión de encontrar
 
-368
-00:17:59,240 --> 00:18:01,240
+0:17:59.240,0:18:01.240
 Un lugar, un lugar plano.
 
-369
-00:18:01,240 --> 00:18:03,240
+0:18:01.240,0:18:03.240
 Escondido lo veo difícil porque
 
-370
-00:18:03,240 --> 00:18:05,240
+0:18:03.240,0:18:05.240
 Bueno, a ver
 
-371
-00:18:05,240 --> 00:18:07,240
+0:18:05.240,0:18:07.240
 No sé si alguna vez se sube a un coche
 
-372
-00:18:07,240 --> 00:18:09,240
+0:18:07.240,0:18:09.240
 no lo sé pero escondido lo veo difícil
 
-373
-00:18:09,240 --> 00:18:11,240
+0:18:09.240,0:18:11.240
 Que sea plano
 
-374
-00:18:11,240 --> 00:18:13,240
+0:18:11.240,0:18:13.240
 algo lo encontraremos. Ostras, ostras
 
-375
-00:18:13,240 --> 00:18:15,240
+0:18:13.240,0:18:15.240
 Lo he encontrado, lo he encontrado.
 
-376
-00:18:15,240 --> 00:18:17,240
+0:18:15.240,0:18:17.240
 He visto una mota en la vista satélite
 
-377
-00:18:17,240 --> 00:18:19,240
+0:18:17.240,0:18:19.240
 Junto a la pista
 
-378
-00:18:19,240 --> 00:18:21,240
+0:18:19.240,0:18:21.240
 y digo, va,
 
-379
-00:18:21,240 --> 00:18:23,240
+0:18:21.240,0:18:23.240
 voy a acercarme por la pista, por el caminito este
 
-380
-00:18:23,240 --> 00:18:25,240
+0:18:23.240,0:18:25.240
 Y sí, sí, mirad
 
-381
-00:18:25,240 --> 00:18:27,240
+0:18:25.240,0:18:27.240
 No sólo es ocultado
 
-382
-00:18:27,240 --> 00:18:29,240
+0:18:27.240,0:18:29.240
 sino que es como hierbecita,
 
-383
-00:18:29,240 --> 00:18:31,240
+0:18:29.240,0:18:31.240
 o sea, aquí no se pinchará el colchón
 
-384
-00:18:31,240 --> 00:18:33,240
+0:18:31.240,0:18:33.240
 que hay muchísima piedra
 
-385
-00:18:33,240 --> 00:18:35,240
+0:18:33.240,0:18:35.240
 y es plano.
 
-386
-00:18:35,240 --> 00:18:37,240
+0:18:35.240,0:18:37.240
 Casi plano, o sea, 99% plano.
 
-387
-00:18:37,240 --> 00:18:39,240
+0:18:37.240,0:18:39.240
 Qué suerte, tú.
 
-388
-00:18:39,240 --> 00:18:41,240
+0:18:39.240,0:18:41.240
 Lugar perfecto.
 
-389
-00:18:41,240 --> 00:18:43,240
+0:18:41.240,0:18:43.240
 Planto la tienda y hacemos resumen.
 
-390
-00:18:43,240 --> 00:18:45,240
+0:18:43.240,0:18:45.240
 El lugar está muy bien pero sí que es verdad que no hay mucho espacio
 
-391
-00:18:45,240 --> 00:18:47,240
+0:18:45.240,0:18:47.240
 para poner el trípode
 
-392
-00:18:47,240 --> 00:18:49,240
+0:18:47.240,0:18:49.240
 y quedarme desde lejos, lo que hago siempre, por lo tanto
 
-393
-00:18:49,240 --> 00:18:51,240
+0:18:49.240,0:18:51.240
 lo hacemos así. Hoy 35 km,
 
-394
-00:18:51,240 --> 00:18:53,240
+0:18:51.240,0:18:53.240
 3 cafés,
 
-395
-00:18:53,240 --> 00:18:55,240
+0:18:53.240,0:18:55.240
 Hablé con cuatro personas.
 
-396
-00:18:55,240 --> 00:18:57,240
+0:18:55.240,0:18:57.240
 4 catalanes
 
-397
-00:18:57,240 --> 00:18:59,240
+0:18:57.240,0:18:59.240
 y de dinero, 10 euros.
 
-398
-00:18:59,240 --> 00:19:01,240
+0:18:59.240,0:19:01.240
 Entre supermercado y bar, 10 euros.
 
-399
-00:19:01,240 --> 00:19:03,240
+0:19:01.240,0:19:03.240
 Bastante bien, bastante bien.
 
-400
-00:19:03,240 --> 00:19:05,240
+0:19:03.240,0:19:05.240
 Hay un perro que no para de ladrar aquí al lado
 
-401
-00:19:05,240 --> 00:19:07,240
+0:19:05.240,0:19:07.240
 lo que pasa es que, realmente, aquí al lado no sé qué es
 
-402
-00:19:07,240 --> 00:19:09,240
+0:19:07.240,0:19:09.240
 Mirando el mapa no veo ninguna casa.
 
-403
-00:19:09,240 --> 00:19:11,240
+0:19:09.240,0:19:11.240
 Pero se siente como bastante cerca.
 
-404
-00:19:11,240 --> 00:19:13,240
+0:19:11.240,0:19:13.240
 Los perros, lo de siempre.
 
-405
-00:19:13,240 --> 00:19:15,240
+0:19:13.240,0:19:15.240
 Muy buenos días hoy.
 
-406
-00:19:15,240 --> 00:19:17,240
+0:19:15.240,0:19:17.240
 Muy buenos días, muy buenos días.
 
-407
-00:19:17,240 --> 00:19:19,240
+0:19:17.240,0:19:19.240
 Mejor de lo esperado, ¿eh? Ya me imaginaba que sería un buen día
 
-408
-00:19:19,240 --> 00:19:21,240
+0:19:19.240,0:19:21.240
 porque visitaría Zadar y en principio
 
-409
-00:19:21,240 --> 00:19:23,240
+0:19:21.240,0:19:23.240
 No llueve, pero sí, sí.
 
-410
-00:19:23,240 --> 00:19:25,240
+0:19:23.240,0:19:25.240
 Meteorología perfecta, me ha gustado mucho Zadar
 
-411
-00:19:25,240 --> 00:19:27,240
+0:19:25.240,0:19:27.240
 y el caminar se me ha hecho muy alegre
 
-412
-00:19:27,240 --> 00:19:29,240
+0:19:27.240,0:19:29.240
 incluso la tarde que ha sido
 
-413
-00:19:29,240 --> 00:19:31,240
+0:19:29.240,0:19:31.240
 carretera, excepto este tramo final.
 
-414
-00:19:31,240 --> 00:19:33,240
+0:19:31.240,0:19:33.240
 Iba muy bien, muy contento.
 
-415
-00:19:33,240 --> 00:19:35,240
+0:19:33.240,0:19:35.240
 Muy bien, tú.
 
-416
-00:19:35,240 --> 00:19:37,240
+0:19:35.240,0:19:37.240
 Muy bien. Día...
 
-417
-00:19:37,240 --> 00:19:39,240
+0:19:37.240,0:19:39.240
 casi perfecto, tú.
 
-418
-00:19:39,240 --> 00:19:41,240
+0:19:39.240,0:19:41.240
 Casi perfecto.
 
-419
-00:19:41,240 --> 00:19:43,240
+0:19:41.240,0:19:43.240
 Seguimos avanzando por la costa del Adriático.
 
-420
-00:19:43,240 --> 00:19:45,240
+0:19:43.240,0:19:45.240
 Buenas noches.
