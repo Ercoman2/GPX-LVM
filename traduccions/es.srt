@@ -1,619 +1,1247 @@
 1
-0:00:03.998 --> 0:00:07.797
-La vuelta al mundo a pie
+00:00:00,360 --> 00:00:03,200
+La vuelta al mundo a pie, día 82.
 
 2
-0:00:07.797 --> 0:00:09.680
-Día 81
+00:00:04,300 --> 00:00:06,320
+Bueno, he pasado la noche en este hotel; muy bien.
 
 3
-0:00:09.680 --> 0:00:11.960
-Buà, qué frío
+00:00:06,700 --> 00:00:09,480
+Hoy también es día de descanso, pero cambiaré de lugar.
 
 4
-0:00:11.960 --> 0:00:13.720
-Qué frío
+00:00:10,180 --> 00:00:11,000
+Iré más hacia el centro.
 
 5
-0:00:13.720 --> 0:00:15.358
-Helado
+00:00:11,380 --> 00:00:13,480
+Primero: ¿qué hay que hacer? Las zapatillas.
 
 6
-0:00:15.769 --> 0:00:18.120
-Inesperada, totalmente inesperada
+00:00:14,280 --> 00:00:17,920
+Tengo zapatillas nuevas. Muchas gracias, Icebug, por enviarme unas nuevas.
 
 7
-0:00:18.811 --> 0:00:21.060
-Y ahora hacía días que no teníamos escarcha
+00:00:18,040 --> 00:00:22,100
+Éstas, al final, han durado unos 1.500 kilómetros.
 
 8
-0:00:21.060 --> 0:00:23.840
-Todo es blanco
+00:00:22,740 --> 00:00:24,840
+Está muy bien, ¿eh? Y mira, mirad.
 
 9
-0:00:23.840 --> 0:00:24.740
-Blanco, blanco, blanco
+00:00:25,480 --> 00:00:27,840
+Aparte de la suciedad evidente, mira el upper.
 
 10
-0:00:24.740 --> 0:00:26.380
-Ostras tú
+00:00:27,840 --> 00:00:34,340
+Está perfecta. Sí que la suela, como os he dicho, está desgastada, evidentemente, de caminatas por asfalto.
 
 11
-0:00:26.380 --> 0:00:27.800
-Hacía días, ¿eh?
+00:00:35,200 --> 00:00:38,260
+Pero, en general, la durabilidad muy bien, ¿eh? La durabilidad muy bien.
 
 12
-0:00:29.307 --> 0:00:30.960
-Y no lo echaba de menos, eh, precisamente
+00:00:38,780 --> 00:00:41,620
+De acuerdo, las podría lanzar directamente, pero yo qué sé.
 
 13
-0:00:30.960 --> 0:00:33.223
-Madre mía
+00:00:42,300 --> 00:00:47,780
+Realmente, si alguien las quiere usar, las quiere pasar por la lavadora, todavía se pueden usar.
 
 14
-0:00:33.952 --> 0:00:35.900
-Qué frío, he pasado frío, eh
+00:00:47,920 --> 00:00:52,420
+Por lo tanto, yo qué sé, las dejo aquí y si alguien las quiere aprovechar, que las aproveche.
 
 15
-0:00:35.900 --> 0:00:37.680
-No un frío de
+00:00:52,420 --> 00:00:57,340
+Y yo tengo mis nuevas: el mismo modelo, me las han enviado del mismo color.
 
 16
-0:00:37.680 --> 0:00:40.466
-"Preocupante" ni mucho menos, pero
+00:00:57,840 --> 00:01:05,180
+Hoy está bien, porque las podré usar un poco para irlas dando de sí en este día de visita turística.
 
 17
-0:00:40.466 --> 0:00:43.300
-He pasado un poco de frío
+00:01:06,400 --> 00:01:08,520
+Vale, segundo paso: vamos a comprar las postales.
 
 18
-0:00:43.300 --> 0:00:45.820
-Cuando no he estado en el saco, madre mía
+00:01:11,760 --> 00:01:15,220
+Año 284 después de Cristo.
 
 19
-0:00:46.623 --> 0:00:48.797
-Bueno, hoy llego a Split
+00:01:15,960 --> 00:01:19,020
+Diocleciano se convierte en emperador de Roma.
 
 20
-0:00:48.797 --> 0:00:49.680
-Hoy en día, 'etapón'
+00:01:19,020 --> 00:01:25,160
+Su obra: reorganizar el Imperio romano después de la crisis del siglo III.
 
 21
-0:00:49.680 --> 0:00:51.900
-Claro, no me he podido levantar mega temprano porque hacía frío
+00:01:25,160 --> 00:01:32,440
+Diocleciano dividía el poder del vasto Imperio romano entre dos emperadores y dos subalternos.
 
 22
-0:00:51.900 --> 0:00:53.640
-Bueno, tampoco es tarde, ¿eh?
+00:01:32,440 --> 00:01:39,280
+El 1 de mayo del año 305 después de Cristo, 21 años después de su toma de
 
 23
-0:00:53.640 --> 0:00:55.520
-Ahora son las 7 y 17
+00:01:39,280 --> 00:01:44,920
+Diocleciano abdica, un hecho extremadamente raro entre los emperadores romanos.
 
 24
-0:00:56.249 --> 0:00:58.249
-A las 7 y media o así
+00:01:44,920 --> 00:01:53,720
+Entonces, se retira a vivir a un inmenso palacio que había mandado construir 10 años antes, el 295 después de Cristo.
 
 25
-0:00:59.320 --> 0:00:59.840
-Empezamos
+00:01:53,720 --> 00:01:54,640
+Este palacio: el Palacio de Diocleciano.
 
 26
-0:00:59.840 --> 0:01:00.820
-La Caminata
+00:01:54,640 --> 00:01:55,120
+Palacio de Diocleciano.
 
 27
-0:01:15.820 --> 0:01:17.620
-Fua, qué frío
+00:01:55,120 --> 00:01:58,880
+El Palacio de Diocleciano es lo que hoy es Split.
 
 28
-0:01:17.620 --> 0:01:19.420
-Ahora estoy recuperando un poco
+00:01:58,880 --> 00:02:06,560
+No es una ciudad que se haya construido alrededor de un monumento, sino un monumento que se ha acabado convirtiendo en ciudad.
 
 29
-0:01:19.420 --> 0:01:21.620
-Sensibilidad en todo el cuerpo
+00:02:06,560 --> 00:02:13,200
+Cuando el Imperio empezó a caer, la gente, para huir de las invasiones, se refugió dentro del palacio.
 
 30
-0:01:21.620 --> 0:01:22.380
-A los pies
+00:02:13,200 --> 00:02:17,560
+Y no construyeron una ciudad nueva, sino que reciclaron lo que había.
 
 31
-0:01:22.380 --> 0:01:26.095
-En la boca, no hablo bien estoy...
+00:02:17,560 --> 00:02:24,600
+Las habitaciones se convierten en casas, los pasillos se convierten en calles e, incluso,
 
 32
-0:01:26.992 --> 0:01:28.460
-Buà, hace frío, eh
+00:02:24,600 --> 00:02:30,240
+el mausoleo del emperador se convierte en catedral cristiana. Es esta que veis aquí al fondo.
 
 33
-0:01:28.460 --> 0:01:29.540
-El SOL
+00:02:30,240 --> 00:02:35,440
+En verano de 2020 vine a Split y este hecho no lo sabía.
 
 34
-0:01:29.540 --> 0:01:31.540
-A esta altura no caliente todavía
+00:02:35,440 --> 00:02:40,760
+Lo que sí recuerdo es que había muy buenas vistas desde lo alto del campanario, así que subo.
 
 35
-0:01:31.540 --> 0:01:33.540
-Bueno, un poco sí
+00:02:40,760 --> 00:02:47,320
+No es la típica época en que la gente hace turismo en Croacia, pero es que, además, este viento no acababa de acompañar.
 
 36
-0:01:33.540 --> 0:01:35.540
-Uf
+00:02:47,320 --> 00:02:51,960
+Aquí, a mitad de la imagen, no sé si se ve, son los muros del palacio.
 
 37
-0:01:35.540 --> 0:01:37.540
-A más humedad, ¿eh?
+00:02:51,960 --> 00:02:58,680
+Y en la presa siguiente, el hecho de estar aquí, justo delante del mar. Lugar privilegiado.
 
 38
-0:01:37.540 --> 0:01:41.540
-Veo que aquí tienen un problema que también tenemos en Cataluña
+00:02:58,680 --> 00:03:07,280
+Los fans más fans de Juego de Tronos ya sabéis que la serie se rodó en parte en Dubrovnik, que representaba que era King’s Landing.
 
 39
-0:01:41.540 --> 0:01:43.540
-Que debe ser todo el Mediterráneo, no lo sé
+00:03:07,280 --> 00:03:12,240
+Pero hay alguna parte que también se rodó aquí, en Split, que representaba que era Meereen.
 
 40
-0:01:43.540 --> 0:01:45.540
-Mirad
+00:03:12,240 --> 00:03:16,320
+Hoy en día se puede pasear por el subsuelo del palacio, es lo que veis aquí.
 
 41
-0:01:45.540 --> 0:01:47.540
-Ja, ja
+00:03:16,320 --> 00:03:21,800
+Está tan bien conservado porque en su momento se usaba de almacén. Y supongo que eso lo preservó de alguna manera.
 
 42
-0:01:47.540 --> 0:01:49.540
-Jabalíes
+00:03:21,800 --> 00:03:24,760
+Recomiendo Split. Mucho.
 
 43
-0:01:49.540 --> 0:01:51.540
-Allí tenemos, ¿no? Esta señal
+00:03:24,760 --> 00:03:29,760
+Me encuentro en el centro de Split. Día bastante ventoso. Intenté comprar las postales.
 
 44
-0:01:51.540 --> 0:01:53.540
-La señal del jabalí tan explícita
+00:03:29,760 --> 00:03:35,760
+Tanto en Francia como en Italia salimos comprándolas a 25 céntimos cada una.
 
 45
-0:01:58.307 --> 0:02:01.540
-Bueno, esta carretera, que va desde Zadar a Split
+00:03:35,760 --> 00:03:41,760
+A ver aquí, mira, los precios de Croacia y tal, yo no tengo tanta confianza. Creo que saldrán un poco más caras.
 
 46
-0:02:01.540 --> 0:02:04.540
-Tiene poco tráfico porque todo el mundo va por la autopista
+00:03:41,760 --> 00:03:43,760
+Ojalá me equivoque.
 
 47
-0:02:04.540 --> 0:02:06.540
-Que es mucho más recta y tal
+00:03:46,760 --> 00:03:49,760
+Uf, un euro. Será difícil bajarlo.
 
 48
-0:02:06.540 --> 0:02:08.540
-Esta, para ir a pie, es más recta
+00:03:49,760 --> 00:03:51,760
+Hola.
 
 49
-0:02:08.540 --> 0:02:10.540
-Pero hay que superar
+00:03:51,760 --> 00:03:53,760
+Hola.
 
 50
-0:02:10.540 --> 0:02:13.612
-Un puerto de montaña, que es lo que estoy subiendo ahora
+00:03:53,760 --> 00:03:55,760
+¿Cuántas son las postales?
 
 51
-0:02:13.612 --> 0:02:15.937
-Y lo que llevo subiendo desde ayer
+00:03:55,760 --> 00:03:57,760
+Un euro.
 
 52
-0:02:15.937 --> 0:02:17.185
-Poco a poco
+00:03:57,760 --> 00:04:01,760
+Pero quiero comprar 200.
 
 53
-0:02:17.185 --> 0:02:18.320
-Sin prisas
+00:04:01,760 --> 00:04:05,760
+¿Hay un descuento?
 
 54
-0:02:18.320 --> 0:02:19.914
-Y creo que estoy a punto de llegar arriba
+00:04:05,760 --> 00:04:09,760
+Sí. 30% de descuento.
 
 55
-0:02:20.474 --> 0:02:22.708
-Pues sí, este es el punto más alto
+00:04:09,760 --> 00:04:12,760
+30? Ok. Muchas gracias.
 
 56
-0:02:23.474 --> 0:02:25.540
-No es todo bajada a partir de ahora
+00:04:12,760 --> 00:04:18,720
+Aquí me han hecho un 30% de descuento, pero el precio de salida era muy alto. Era un euro cada postal.
 
 57
-0:02:25.540 --> 0:02:27.036
-Pero, sí, casi todo
+00:04:18,720 --> 00:04:33,720
+En las tiendas, en las tiendas, no he tenido suerte. Aquí hay una especie de quiosco. A veces, evidentemente, tenemos más suerte, pero no veo que tengan postales. Tienen imanes, pero es que nadie compra postales, ¿eh?
 
 58
-0:02:27.036 --> 0:02:28.540
-Después habrá otra pequeña subidita
+00:04:33,720 --> 00:04:35,720
+Hola, tienes postcards?
 
 59
-0:02:28.540 --> 0:02:33.140
-Claro, esta región, a pesar de estar realmente cerca de la costa,
+00:04:35,720 --> 00:04:36,720
+Ah, no.
 
 60
-0:02:33.140 --> 0:02:37.540
-está totalmente abandonada, no hay nadie, hay cuatro casas,
+00:04:36,720 --> 00:04:37,720
+¿No?
 
 61
-0:02:37.540 --> 0:02:42.540
-y de ahí, a que pueda ir a un bar, quizás me da la hora de comer.
+00:04:37,720 --> 00:04:38,720
+Hay un post aquí.
 
 62
-0:02:53.394 --> 0:02:57.604
-Prapatnica, aquí, que es de aquí dos km
+00:04:38,720 --> 00:04:39,720
+¿En la oficina de post?
 
 63
-0:03:00.000 --> 0:03:03.302
-Aquí que es dentro de dos kilómetros, debería haber algo.
+00:04:39,720 --> 00:04:40,720
+Sí.
 
 64
-0:03:03.521 --> 0:03:09.540
-Supermercado, bar, restaurante, ya veremos qué es, pero algo debería haber.
+00:04:40,720 --> 00:04:41,720
+Ah, vale.
 
 65
-0:03:26.540 --> 0:03:29.540
-Bar, más supermercado, uy, no llevo los gafas.
+00:04:41,720 --> 00:04:43,720
+No está muy lejos, está a la derecha, en la costa.
 
 66
-0:03:29.540 --> 0:03:31.540
-Hemos triunfado, hemos triunfado.
+00:04:43,720 --> 00:04:44,720
+¡Vale!
 
 67
-0:03:31.540 --> 0:03:33.540
-Pensaba que solo había supermercado y también hay bar.
+00:04:44,720 --> 00:04:47,720
+Dice que busque en la oficina de correos.
 
 68
-0:03:33.540 --> 0:03:35.540
-Perfecto.
+00:04:48,720 --> 00:04:51,720
+¿Postales? ¿En la oficina de correos? No lo he visto nunca.
 
 69
-0:03:35.540 --> 0:03:38.540
-Eso de andar sin la mochila y sin nada,
+00:04:51,720 --> 00:04:58,720
+Pues sí que hay, aquí en la oficina de correos, pero valen 80 céntimos. Claro, aquí sí que no se puede regatear de ninguna manera.
 
 70
-0:03:38.540 --> 0:03:40.540
-dejar la mochila dentro, porque claro,
+00:04:58,720 --> 00:05:16,720
+Vale, he visto el poco éxito que hemos tenido, que todo está carísimo. Aquí hay un sitio que valen 80 céntimos y la que trabaja aquí no es la propietaria. Dice que ha visto al propietario y le ha dicho: hombre, ¿lo puedes hacer por 50 céntimos? 50 céntimos no es barato. Pero, bueno, le he dicho eso, ¿no? 200 postales por 100 euros.
 
 71
-0:03:40.540 --> 0:03:41.540
-Bueno, ya lo he dicho varias veces, ¿no?
+00:05:16,720 --> 00:05:18,720
+Le he dicho esto, ¿no? 200 postales por 100 euros.
 
 72
-0:03:41.540 --> 0:03:42.540
-Pero aquí
+00:05:18,720 --> 00:05:20,720
+A ver si tenemos suerte.
 
 73
-0:03:42.540 --> 0:03:43.540
-Aquí en Croacia...
+00:05:24,720 --> 00:05:25,720
+Ok.
 
 74
-0:03:43.540 --> 0:03:45.540
-Vaya, que sensación más extraña.
+00:05:26,720 --> 00:05:29,720
+Ok, dice que sí, pues será hora de seleccionarlas.
 
 75
-0:03:45.540 --> 0:03:47.540
-Parece que está flotando.
+00:05:29,720 --> 00:05:32,720
+Perfecto, tenemos, ostras, la versión redonda.
 
 76
-0:03:47.540 --> 0:03:52.540
-Aquí en Croacia, en los bares puedes fumar, pero no venden comida,
+00:05:32,720 --> 00:05:35,720
+Mira, cogemos unas cuantas redondas, solo para hacer la gracia.
 
 77
-0:03:52.540 --> 0:03:59.540
-Entonces tengo que ir al supermercado, comprar la comida y comérmela en el bar.
+00:05:35,720 --> 00:05:38,720
+Luego esas típicas barrocas con demasiada cosa.
 
 78
-0:03:59.540 --> 0:04:04.540
-Pues ya lo tenemos, encigarrada récord en este bar.
+00:05:39,720 --> 00:05:44,720
+Tenemos la típica sin marco, con el corazón.
 
 79
-0:04:04.540 --> 0:04:08.540
-Había más humo que oxígeno, madre mía. [tus]
+00:05:44,720 --> 00:05:50,720
+Y luego, a ver, guapas, tenemos estas, ¿no? Que es como... A mí me gustan estas que son solo una foto. Esta me gusta.
 
 80
-0:04:08.540 --> 0:04:11.540
-Después creo que me huele la ropa,
+00:05:50,720 --> 00:05:58,720
+¿Qué más tenemos? Uà, esta es... Esta es brutal, eh? Esta es... Es que me da vergüenza y todo ir con esto.
 
 81
-0:04:11.540 --> 0:04:13.540
-Si no fuera porque apesta bastante a sudor,
+00:05:58,720 --> 00:06:11,720
+Esta es como de toda Croacia. No me gusta mucho. Esta me gusta. Este tipo, este rollo que es... Bueno, mira, tiene varias, ¿eh? No, no me acaba. Pero mira, esta sí. Esta me gusta.
 
 82
-0:04:13.540 --> 0:04:15.540
-que hace ya como cinco días que no me ducho.
+00:06:11,720 --> 00:06:13,720
+Esta es demencialmente fea.
 
 83
-0:04:15.540 --> 0:04:17.540
-Huele mucho a tabaco.
+00:06:14,720 --> 00:06:16,720
+Esta está bien, esta está bien.
 
 84
-0:04:17.540 --> 0:04:21.540
-Bueno, creo que todavía 20 km para llegar a la zona más civilizada.
+00:06:16,720 --> 00:06:18,720
+Vamos, las seleccionaré.
 
 85
-0:04:21.540 --> 0:04:25.540
-Creo que el siguiente supermercado a 12.
+00:06:18,720 --> 00:06:21,720
+Pues bien, aquí tenemos 200 postales.
 
 86
-0:04:25.540 --> 0:04:28.540
-En fin, uno se tiene que ir estableciendo pequeñas metas durante el día,
+00:06:22,720 --> 00:06:24,720
+Y aquí, para comprobar que...
 
 87
-0:04:28.540 --> 0:04:30.540
-Sobre todo en estos días tan largos,
+00:06:26,720 --> 00:06:28,720
+que me ha costado esto.
 
 88
-0:04:30.540 --> 0:04:32.540
-Si no, se hace un poco pesado.
+00:06:29,720 --> 00:06:35,720
+Hace bastante viento y creo que está a punto de llover, pero tenemos que cumplir el reto de Croacia.
 
 89
-0:05:08.690 --> 0:05:11.509
-12 y media, ahora bajando por una carretera.
+00:06:36,720 --> 00:06:42,720
+Para los que no os acordéis, en este país el reto no es hacer una cosa cada día,
 
 90
-0:05:12.032 --> 0:05:17.544
-Mira, venimos de allá arriba y, ostras, mira la vía del tren por donde pasa, ¿eh?
+00:06:42,720 --> 00:06:44,720
+Encontrar a los gatos.
 
 91
-0:05:17.660 --> 0:05:24.840
-Mira, mira qué especie de... qué talud que han hecho aquí. Parece como muy vertical, ¿eh?
+00:06:44,720 --> 00:06:46,720
+Los gatos famosos de Croacia.
 
 92
-0:05:25.980 --> 0:05:29.320
-Muy bien, pues seguimos bajando. Ahora sí que hay un poco más de tráfico, como veis.
+00:06:46,720 --> 00:06:50,720
+Aquí en Split hay unos cuantos. Primero vamos a buscar el Gato Tom.
 
 93
-0:05:29.320 --> 0:05:34.840
-Coches, camiones... venga, 20 kilómetros llevo.
+00:06:50,720 --> 00:06:54,720
+En Google Maps tú pones Cat y hay un gato que es el Cat Tom.
 
 94
-0:05:39.200 --> 0:05:49.800
-Ya tenemos aquí la abadía, el aeropuerto de Split y al fondo la ciudad de Split y las montañas éstas, brutales.
+00:06:54,720 --> 00:06:58,720
+Y la gente le deja reseñas en Google Maps y tal.
 
 95
-0:05:50.800 --> 0:05:55.020
-Aquí, nevadas, con una prominencia increíble, es decir,
+00:06:58,720 --> 00:07:00,720
+Y en principio está allí al lado de la playa. Vamos.
 
 96
-0:05:57.200 --> 0:05:58.800
-La distancia entre la base y...
+00:07:00,720 --> 00:07:04,720
+¿Creéis que los gatos se esconden cuando hace viento?
 
 97
-0:05:59.320 --> 0:06:04.520
-y el pico es... es muy corta. Entonces por eso se ve tan impresionante, además frente al mar, increíble, ¿eh?
+00:07:04,720 --> 00:07:05,720
+Quiero comprar un helado.
 
 98
-0:06:05.120 --> 0:06:10.000
-Lo he mirado y ninguna de estas montañas mide ni 2.000 metros. Y están así nevadas, ¿eh?
+00:07:05,720 --> 00:07:08,720
+Pues espero que no. Hace mucho viento.
 
 99
-0:06:22.280 --> 0:06:27.200
-Bueno, 14, 23, 28 kilómetros.
+00:07:08,720 --> 00:07:10,720
+En principio el Gato Tom está por aquí.
 
 100
-0:06:28.349 --> 0:06:32.320
-Un descanso de 15 minutos, 10 minutos...
+00:07:10,720 --> 00:07:12,720
+Es de color negro y blanco.
 
 101
-0:06:33.040 --> 0:06:37.560
-Estoy en una gasolinera, no hay supermercado, pero bueno, sirve para comprarme un refresco.
+00:07:12,720 --> 00:07:15,720
+No lo sé, tengo dudas.
 
 102
-0:06:38.440 --> 0:06:40.440
-Hay algunos que no os gusta nada que beba refrescos.
+00:07:15,720 --> 00:07:17,720
+Es que hace mucho viento.
 
 103
-0:06:40.800 --> 0:06:42.800
-Beberé muchos refrescos en esta vuelta al mundo a pie.
+00:07:17,720 --> 00:07:19,720
+Yo, si fuera gato... ¡Míralo!
 
 104
-0:06:47.840 --> 0:06:50.840
-Pues refresco y... y helado.
+00:07:19,720 --> 00:07:21,720
+¡Míralo!
 
 105
-0:06:52.160 --> 0:06:54.160
-¿Sabéis qué es la amplitud térmica?
+00:07:21,720 --> 00:07:23,720
+Míralo, míralo, míralo!
 
 106
-0:06:54.600 --> 0:06:58.600
-La amplitud térmica es la diferencia de temperatura entre la temperatura máxima del día,
+00:07:23,720 --> 00:07:25,720
+No te escapes.
 
 107
-0:06:59.320 --> 0:07:01.320
-y la temperatura mínima.
+00:07:25,720 --> 00:07:27,720
+Míralo, míralo, míralo. Es este, es este.
 
 108
-0:07:01.320 --> 0:07:05.320
-Hoy, esta mañana, os he dicho que hacía mucho frío,
+00:07:28,720 --> 00:07:31,720
+Estaba justo donde estaba la ubicación, pero ¿a dónde vas?
 
 109
-0:07:05.320 --> 0:07:08.320
-y ahora iría con manga corta al sol.
+00:07:31,720 --> 00:07:33,720
+¿Dónde vas tú? Quiero hacerte una foto.
 
 110
-0:07:08.320 --> 0:07:10.320
-Manga corta y pantalón corto.
+00:07:35,720 --> 00:07:37,720
+Ahora no llevo el trípode.
 
 111
-0:07:10.320 --> 0:07:17.320
-Aquí dentro de la gasolinera hay una cafetería, pero hace demasiado calor dentro para estar,
+00:07:37,720 --> 00:07:39,720
+Entonces...
 
 112
-0:07:17.320 --> 0:07:19.320
-y me he venido aquí y me he sentado aquí.
+00:07:39,720 --> 00:07:41,720
+Pssst, psst, psst.
 
 113
-0:07:27.320 --> 0:07:33.320
-Buenas tardes. Hace rato que no grabo, son pasadas las 5.
+00:07:41,720 --> 00:07:45,720
+Yo pensaba que estos gatos serían un poco cariñosos, porque...
 
 114
-0:07:33.320 --> 0:07:38.320
-Bueno, estoy en las afueras de Split, caminando por esta calle infinita.
+00:07:45,720 --> 00:07:48,720
+No lo sé, si tal, pero...
 
 115
-0:07:38.320 --> 0:07:43.320
-Hoy tocará caminar de noche, pero bueno, como estoy en zona urbana, pues no pasa nada,
+00:07:48,720 --> 00:07:50,720
+¿Le he de decir que me ha dado malas vibraciones?
 
 116
-0:07:43.320 --> 0:07:48.320
-porque habrá farolas, supongo, espero, para iluminarme, y hoy acabo en un hotel.
+00:07:50,720 --> 00:07:51,720
+No.
 
 117
-0:07:50.945 --> 0:07:53.320
-Muy buen día realmente ha hecho, ¿eh? Y está haciendo.
+00:07:51,720 --> 00:07:53,720
+No quiere, ¿eh? No quiere.
 
 118
-0:07:53.320 --> 0:07:57.320
-Mañana día de descanso, por lo tanto, mañana no hay vídeo,
+00:07:53,720 --> 00:07:55,720
+Bueno, lo hemos encontrado.
 
 119
-0:07:57.320 --> 0:08:04.320
-y al día siguiente, pues, haré un resumen del día de mañana,
+00:07:55,720 --> 00:07:57,720
+Reto conseguido, digo yo, ¿no?
 
 120
-0:08:04.320 --> 0:08:10.320
-donde iré a comprar las postales y visitaré un poco Split,
+00:07:57,720 --> 00:07:59,720
+De acuerdo, hemos encontrado el Gato Tom.
 
 121
-0:08:10.320 --> 0:08:14.320
-aunque ya he estado, pero bueno, una vueltecita haré, y tal.
+00:07:59,720 --> 00:08:02,720
+No ha sido muy afable, al igual que los croatas.
 
 122
-0:08:14.320 --> 0:08:18.320
-Necesito descansar las piernas y también descansar un poco la mente.
+00:08:02,720 --> 00:08:04,720
+Ahora vamos a buscar el Gato Chupi.
 
 123
-0:08:19.320 --> 0:08:20.320
-De hacer vídeo.
+00:08:04,720 --> 00:08:07,720
+Que en el Maps pone que es el Gato...
 
 124
-0:08:20.320 --> 0:08:26.320
-Especialmente el de ayer, el especial día 80, me llevó mucho rato editar, ¿eh?
+00:08:07,720 --> 00:08:08,720
+Gordito.
 
 125
-0:08:26.320 --> 0:08:32.320
-Cuando hago algo que sale un poco de la tónica habitual de los vídeos,
+00:08:08,720 --> 00:08:10,720
+Chupi the Chunky Cat.
 
 126
-0:08:32.320 --> 0:08:34.320
-tengo que hacer un poco más de edición extra,
+00:08:10,720 --> 00:08:13,720
+A ver, marca como para esta ubicación.
 
 127
-0:08:34.320 --> 0:08:38.320
-tengo que cuadrar una música o tengo que descargarme imágenes de otros vídeos
+00:08:13,720 --> 00:08:16,720
+Pero tampoco me atrevo yo a entrar por aquí.
 
 128
-0:08:38.320 --> 0:08:41.320
-para ponerlas como de recordatorio, como hice ayer.
+00:08:16,720 --> 00:08:18,720
+Eh, a ver por aquí.
 
 129
-0:08:41.320 --> 0:08:46.320
-Todo esto suma mínimo una hora, y estuve más de tres horas para editarlo.
+00:08:18,720 --> 00:08:22,720
+Este no aparece, ¿eh? No lo acabo de encontrar.
 
 130
-0:08:46.320 --> 0:08:48.320
-Pero creo que quedó bastante bien, ¿no?
+00:08:22,720 --> 00:08:28,720
+Es que la última review del gato estaba en esta terraza de aquí.
 
 131
-0:08:48.320 --> 0:08:50.320
-Quedó chulo, yo estoy contento.
+00:08:28,720 --> 00:08:30,720
+Tampoco lo veo. Daré una vuelta por aquí.
 
 132
-0:09:12.320 --> 0:09:15.320
-Vale, ya estoy cerca de llegar.
+00:08:30,720 --> 00:08:35,720
+Vale, vamos a buscar al último gato, que es otro gato negro gordito, según Google.
 
 133
-0:09:15.320 --> 0:09:17.320
-Casi las siete.
+00:08:35,720 --> 00:08:38,720
+Qué reto más absurdo, ¿eh?
 
 134
-0:09:17.320 --> 0:09:21.320
-Saldrán unos 48 y poco kilómetros.
+00:08:38,720 --> 00:08:42,720
+Mira, mira, este ha sido rápido. Ay, se ha escapado.
 
 135
-0:09:21.320 --> 0:09:23.320
-Por poco no hago el récord, ¿eh?
+00:08:42,720 --> 00:08:47,720
+Es un gato que dice que tiene su propia casa.
 
 136
-0:09:23.320 --> 0:09:26.320
-Creo que el récord lo hice en Francia, que eran 48,6.
+00:08:47,720 --> 00:08:50,720
+Y que es gordito y es negro.
 
 137
-0:09:26.320 --> 0:09:28.320
-De esta vuelta al mundo a pie
+00:08:50,720 --> 00:08:53,720
+Ah, sí, míralo, míralo, míralo.
 
 138
-0:09:28.320 --> 0:09:30.320
-No está mal, ¿eh?
+00:08:53,720 --> 00:08:56,720
+Es su casa, ¿no?
 
 139
-0:09:30.320 --> 0:09:35.320
-A ver, 11 días desde Rijeka.
+00:08:56,720 --> 00:08:58,720
+Es su casa.
 
 140
-0:09:35.320 --> 0:09:38.320
-Sin parar.
+00:08:58,720 --> 00:09:01,720
+Tiene aquí la comida.
 
 141
-0:09:38.320 --> 0:09:40.320
-11 días seguidos.
+00:09:01,720 --> 00:09:04,720
+Está como un poco orgulloso, no es tan sociable, ¿eh?
 
 142
-0:09:40.320 --> 0:09:42.320
-Ducharse una sola vez.
+00:09:04,720 --> 00:09:06,720
+No le acaba de gustar recibir visitas.
 
 143
-0:09:42.320 --> 0:09:45.320
-Y con paisajes muy diversos.
+00:09:06,720 --> 00:09:11,720
+Tiene aquí su propia casa, su colchón.
 
 144
-0:09:45.320 --> 0:09:47.385
-Han sido altos y bajos.
+00:09:11,720 --> 00:09:14,720
+No.
 
 145
-0:09:47.385 --> 0:09:50.320
-Días buenos, días muy malos.
+00:09:14,720 --> 00:09:16,720
+Selfie con el gatito.
 
 146
-0:09:50.320 --> 0:09:52.320
-En general, ha estado bien.
+00:09:16,720 --> 00:09:20,720
+Pues nada, dos de tres.
 
 147
-0:09:52.320 --> 0:09:55.320
-Este tramo ha sido intenso.
+00:09:20,720 --> 00:09:22,720
+Dos de tres.
 
 148
-0:09:55.320 --> 0:09:57.320
-Aventurero.
+00:09:22,720 --> 00:09:24,720
+Tiene que estar a punto de llover.
 
 149
-0:09:57.320 --> 0:09:59.320
-Cafés, tres.
+00:09:24,720 --> 00:09:26,720
+Tiene que empezar a llover dentro de nada.
 
 150
-0:09:59.320 --> 0:10:02.320
-Y dinero gastado, unos 15 euros, más o menos.
+00:09:26,720 --> 00:09:28,720
+Así que...
 
 151
-0:10:02.320 --> 0:10:04.320
-¿Y personas con las que he hablado?
+00:09:28,720 --> 00:09:30,720
+vamos tirando.
 
 152
-0:10:04.320 --> 0:10:06.320
-Nadie.
+00:09:30,720 --> 00:09:33,720
+Siguiente paso, vamos a comprar los sellos.
 
 153
-0:10:06.320 --> 0:10:07.320
-De acuerdo.
+00:09:33,720 --> 00:09:35,720
+Tengo que deciros una cosa, que es que
 
 154
-0:10:07.320 --> 0:10:09.320
-Nos vemos en dos días.
+00:09:35,720 --> 00:09:37,720
+Ya he enviado dos postales.
 
 155
-0:10:09.320 --> 0:10:11.320
-Buenas noches a todos.
+00:09:37,720 --> 00:09:39,720
+A Zagreb envié dos postales.
+
+156
+00:09:39,720 --> 00:09:41,720
+Por lo tanto, sé que cuestan 1,70.
+
+157
+00:09:41,720 --> 00:09:43,720
+Y aquí, en la oficina de correos,
+
+158
+00:09:43,720 --> 00:09:45,720
+A ver si hay 200.
+
+159
+00:09:47,720 --> 00:09:49,720
+Dobar dan.
+
+160
+00:09:49,720 --> 00:09:51,720
+Dobar dan.
+
+161
+00:09:51,720 --> 00:09:53,720
+Do you have stamps?
+
+162
+00:09:53,720 --> 00:09:55,720
+Yes, how many?
+
+163
+00:09:55,720 --> 00:09:56,720
+For Europe.
+
+164
+00:09:56,720 --> 00:09:57,720
+For postcard or letter?
+
+165
+00:09:57,720 --> 00:09:58,720
+For postcard.
+
+166
+00:09:58,720 --> 00:09:59,720
+Yes.
+
+167
+00:09:59,720 --> 00:10:00,720
+How many?
+
+168
+00:10:00,720 --> 00:10:01,720
+Two hundred.
+
+169
+00:10:01,720 --> 00:10:02,720
+Two hundred?
+
+170
+00:10:02,720 --> 00:10:03,720
+Two hundred postcards.
+
+171
+00:10:03,720 --> 00:10:04,720
+Yes.
+
+172
+00:10:04,720 --> 00:10:05,720
+Yes.
+
+173
+00:10:05,720 --> 00:10:06,720
+¿Really?
+
+174
+00:10:06,720 --> 00:10:07,720
+¡Yes, yes, yes!
+
+175
+00:10:07,720 --> 00:10:08,720
+Two hundred...
+
+176
+00:10:08,720 --> 00:10:09,720
+Two cero cero.
+
+177
+00:10:09,720 --> 00:10:10,720
+Two hundred, yes.
+
+178
+00:10:15,720 --> 00:10:17,720
+How do you pay?
+
+179
+00:10:17,720 --> 00:10:18,720
+With card.
+
+180
+00:10:18,720 --> 00:10:19,720
+How much was it?
+
+181
+00:10:19,720 --> 00:10:20,720
+Three hundred and forty euros.
+
+182
+00:10:20,720 --> 00:10:21,720
+Three hundred and forty euros.
+
+183
+00:10:21,720 --> 00:10:22,720
+Yeah, yeah, yeah.
+
+184
+00:10:22,720 --> 00:10:23,720
+With card, please.
+
+185
+00:10:23,720 --> 00:10:24,720
+Okay.
+
+186
+00:10:24,720 --> 00:10:25,720
+Two hundred.
+
+187
+00:10:27,720 --> 00:10:29,720
+Se ha quedado flipando, la mujer.
+
+188
+00:10:29,720 --> 00:10:30,720
+Mola que te lo vendan en cajitas.
+
+189
+00:10:30,720 --> 00:10:32,720
+Cada cajita, cien.
+
+190
+00:10:32,720 --> 00:10:33,720
+Sí, sí.
+
+191
+00:10:33,720 --> 00:10:34,720
+No hay ningún problema, tú.
+
+192
+00:10:33,720 --> 00:10:40,720
+Trescientos cuarenta euros más cien euros de las postales: cuatrocientos cuarenta sólo por
+
+193
+00:10:40,720 --> 00:10:41,720
+la mitad.
+
+194
+00:10:41,720 --> 00:10:44,720
+Por lo tanto, me podría llegar a costar hasta casi novecientos euros.
+
+195
+00:10:44,720 --> 00:10:45,720
+Boh!
+
+196
+00:10:45,720 --> 00:10:47,720
+Tengo trabajo para esta tarde.
+
+197
+00:10:47,720 --> 00:10:49,720
+Última misión secundaria del día.
+
+198
+00:10:49,720 --> 00:10:50,720
+La barba.
+
+199
+00:10:50,720 --> 00:10:52,720
+Hacerme la barba, porque ya...
+
+200
+00:10:52,720 --> 00:10:53,720
+Ya esto...
+
+201
+00:10:53,720 --> 00:10:56,720
+De hecho, me podría cortar el pelo ya, pero no.
+
+202
+00:10:56,720 --> 00:10:59,720
+Me espero para dentro de dos o tres días por esto.
+
+203
+00:10:59,720 --> 00:11:03,720
+La vuelta al mundo a pie.
+
+204
+00:11:03,720 --> 00:11:06,720
+Día 83.
+
+205
+00:11:06,720 --> 00:11:08,720
+Llueve a saco.
+
+206
+00:11:08,720 --> 00:11:11,720
+O sea, llueve bastante.
+
+207
+00:11:11,720 --> 00:11:13,720
+Y no sé si tiene que parar.
+
+208
+00:11:13,720 --> 00:11:17,720
+A ver, hay una previsión que dice que para a las once y otra previsión que dice
+
+209
+00:11:17,720 --> 00:11:19,720
+Puede que llueva todo el día.
+
+210
+00:11:19,720 --> 00:11:25,720
+Es una pequeña nube que hay aquí, según el radar, pero hace bastante rato que está y no
+
+211
+00:11:25,720 --> 00:11:27,720
+Tiene pinta de parar, ¿verdad?
+
+212
+00:11:27,720 --> 00:11:29,720
+Eh...
+
+213
+00:11:29,720 --> 00:11:31,720
+Son las diez menos diez.
+
+214
+00:11:31,720 --> 00:11:33,720
+Me quedo aquí un rato más, tú.
+
+215
+00:11:33,720 --> 00:11:36,720
+A las once, ahora sí que...
+
+216
+00:11:36,720 --> 00:11:37,720
+Sigue lloviendo.
+
+217
+00:11:37,720 --> 00:11:39,720
+El radar dice que no llueve.
+
+218
+00:11:39,720 --> 00:11:40,720
+El radar dice que aquí no llueve.
+
+219
+00:11:40,720 --> 00:11:41,720
+Es mentira.
+
+220
+00:11:41,720 --> 00:11:42,720
+Nada.
+
+221
+00:11:42,720 --> 00:11:43,720
+Saldré.
+
+222
+00:11:43,720 --> 00:11:46,720
+Saldré y empezaré a caminar bajo la lluvia, qué le vamos a hacer.
+
+223
+00:11:46,720 --> 00:11:51,720
+Hoy, en teoría, unos veintiocho kilómetros, que es bastante teniendo en cuenta que salgo a
+
+224
+00:11:51,720 --> 00:11:52,720
+las once.
+
+225
+00:11:52,720 --> 00:11:54,720
+O sea, que igual tengo que andar un poco de noche, no lo sé.
+
+226
+00:11:57,720 --> 00:12:02,720
+Ayer hice solo ciento veinte postales.
+
+227
+00:12:02,720 --> 00:12:07,720
+Me quería hacer doscientas, que es la mitad, pero no me dio tiempo ni estaba cansado,
+
+228
+00:12:07,720 --> 00:12:08,720
+Me empezaron a doler las cervicales.
+
+229
+00:12:08,720 --> 00:12:12,720
+Ciento veinte, entonces, bueno, me saco un poco de peso de la mochila y las empiezo a enviar.
+
+230
+00:12:12,720 --> 00:12:16,720
+Hay un buzón aquí, en Correos, y me dirán: ponlos en el buzón.
+
+231
+00:12:16,720 --> 00:12:18,720
+Pero yo, por si acaso, pregunto.
+
+232
+00:12:18,720 --> 00:12:21,720
+Por si acaso pregunto porqué después de que no sea...
+
+233
+00:12:21,720 --> 00:12:24,720
+No, no, no, mejor dámelas a mí, me dicen a veces.
+
+234
+00:12:24,720 --> 00:12:25,720
+Correcto.
+
+235
+00:12:25,720 --> 00:12:27,720
+Me lo han cogido dentro, todo perfectamente.
+
+236
+00:12:27,720 --> 00:12:28,720
+¡Eh!
+
+237
+00:12:27,720 --> 00:12:29,720
+¿Qué es esto?
+
+238
+00:12:29,720 --> 00:12:30,720
+¿Solo?
+
+239
+00:12:30,720 --> 00:12:31,720
+¿Sigue lloviendo?
+
+240
+00:12:31,720 --> 00:12:35,720
+Pero sale un poco el sol, quiere decir que quizás en veinte minutos, media hora,
+
+241
+00:12:35,720 --> 00:12:36,720
+¿Parará de llover?
+
+242
+00:12:36,720 --> 00:12:37,720
+No lo sé.
+
+243
+00:12:37,720 --> 00:12:38,720
+Ojalá.
+
+244
+00:12:57,720 --> 00:13:10,720
+No lo sé.
+
+245
+00:13:10,720 --> 00:13:15,720
+No lo sé.
+
+246
+00:13:15,720 --> 00:13:21,720
+No lo sé.
+
+247
+00:13:21,720 --> 00:13:25,720
+Confirmado.
+
+248
+00:13:25,720 --> 00:13:30,720
+Ha dejado de llover, pero no ha salido el sol.
+
+249
+00:13:30,720 --> 00:13:32,720
+Es decir, no hemos visto el arco iris, no pasa nada.
+
+250
+00:13:32,720 --> 00:13:34,720
+Pero ha dejado de llover, que es lo más importante.
+
+251
+00:13:34,720 --> 00:13:37,720
+Parada para comer, casi 13 km.
+
+252
+00:13:37,720 --> 00:13:39,720
+Me lo estoy tomando con bastante pachorra.
+
+253
+00:13:39,720 --> 00:13:44,720
+Llevo la mitad del día, más o menos, que me tocará caminar un poco de noche.
+
+254
+00:13:44,720 --> 00:13:45,720
+No pasa nada.
+
+255
+00:13:44,720 --> 00:13:49,720
+Y ahora estoy viendo las montañas donde, dentro de un rato, empezaré a subir.
+
+256
+00:13:49,720 --> 00:13:53,720
+No será arriba del todo, pero tomaré una carretera que no sigue la costa porque no hay
+
+257
+00:13:53,720 --> 00:13:55,720
+arcén, entonces subiré un poco hacia arriba.
+
+258
+00:14:11,720 --> 00:14:12,720
+Media subida.
+
+259
+00:14:12,720 --> 00:14:13,720
+Dura subida.
+
+260
+00:14:13,720 --> 00:14:17,720
+Pero mira, caen cuatro gotas, pero...
+
+261
+00:14:17,720 --> 00:14:19,720
+Ostras, vistas espectaculares, tú.
+
+262
+00:14:19,720 --> 00:14:22,720
+Con la costa, sí, las montañas con...
+
+263
+00:14:22,720 --> 00:14:25,720
+Parece un poco Río de Janeiro, ¿eh?
+
+264
+00:14:25,720 --> 00:14:27,720
+Supermac o.
+
+265
+00:14:27,720 --> 00:14:29,720
+Supertranquilo.
+
+266
+00:14:47,720 --> 00:14:51,720
+Las cuatro de la tarde contrastan con los pocos kilómetros que estoy haciendo hoy.
+
+267
+00:14:51,720 --> 00:14:55,720
+En comparación con los últimos días, que había hecho casi 50.
+
+268
+00:14:55,720 --> 00:14:58,720
+Pero bueno, estoy disfrutando mucho del día de hoy.
+
+269
+00:14:58,720 --> 00:14:59,720
+Había tres opciones hoy.
+
+270
+00:14:59,720 --> 00:15:05,720
+Una, ir por la carretera que bordea la costa, que, bueno, tenía tramos con acera, pero tenía
+
+271
+00:15:05,720 --> 00:15:08,720
+tramos sin arcén, que era simplemente carretera.
+
+272
+00:15:08,720 --> 00:15:14,720
+Esta parte de aquí, esta que estoy haciendo yo, que es como una pista forestal que se ve
+
+273
+00:15:14,720 --> 00:15:15,720
+El mar es muy bonito.
+
+274
+00:15:15,720 --> 00:15:17,720
+Y la tercera opción era ir por allá arriba.
+
+275
+00:15:17,720 --> 00:15:19,720
+Que también habría sido guapo, ¿eh?
+
+276
+00:15:19,720 --> 00:15:23,720
+Con el día que hace, se podía bordear toda esta cadena de aquí.
+
+277
+00:15:23,720 --> 00:15:28,720
+Un camino, pup, pup, pup, hasta Omis o algo así, que es el pueblo donde acabaré hoy.
+
+278
+00:15:47,720 --> 00:15:48,720
+Actualizaciones.
+
+279
+00:15:48,720 --> 00:15:50,720
+Los cinco pases.
+
+280
+00:15:50,720 --> 00:15:52,720
+Sigo con la patxorra.
+
+281
+00:15:52,720 --> 00:15:56,720
+Pero sigo disfrutando de este paisaje ahora mismo por un pueblo bastante grande, todo abandonado.
+
+282
+00:15:56,720 --> 00:15:58,720
+Bueno, no, todo no, casi no.
+
+283
+00:15:58,720 --> 00:16:00,720
+Casi todo, porque veo una luz allí.
+
+284
+00:16:00,720 --> 00:16:02,720
+Muy bonito, tú, muy bonito.
+
+285
+00:16:02,720 --> 00:16:04,720
+Bueno, como os he dicho, tocará caminar de noche.
+
+286
+00:16:04,720 --> 00:16:08,720
+Os lo voy repitiendo porque yo me lo repito a mí mismo, porque no me gusta nada caminar
+
+287
+00:16:08,720 --> 00:16:09,720
+de noche.
+
+288
+00:16:18,720 --> 00:16:30,720
+Las seis pasadas bajo ahora por una especie de carretera asfaltada, donde no pasa nadie.
+
+289
+00:16:30,720 --> 00:16:32,720
+Completamente a oscuras, probablemente no me veis nada.
+
+290
+00:16:32,720 --> 00:16:36,720
+Pero bueno, yo lo que veo sí que es todo el mar y las casas iluminadas y tal.
+
+291
+00:16:36,720 --> 00:16:42,720
+Venga, en tres km llego a Omis, donde hoy me he cogido otro hotel.
+
+292
+00:16:45,720 --> 00:16:47,720
+Pues ya está, he llegado a Omis.
+
+293
+00:16:47,720 --> 00:16:50,720
+He conseguido unos 30 km aproximadamente.
+
+294
+00:16:50,720 --> 00:16:54,720
+Y seiscientos y pico de desnivel positivo.
+
+295
+00:16:54,720 --> 00:16:56,720
+Bueno, frío ahora mismo y completamente de noche.
+
+296
+00:16:56,720 --> 00:16:59,720
+Pero bueno, bueno, bueno, lo he conseguido.
+
+297
+00:16:59,720 --> 00:17:04,720
+Es un pueblo que no se ve nada ahora mismo, porque es de noche.
+
+298
+00:17:04,720 --> 00:17:08,720
+Pero sí que hay una parte iluminada y parece que hay como una especie de torre de
+
+299
+00:17:08,720 --> 00:17:10,720
+vigilancia y un acantilado y tal.
+
+300
+00:17:10,720 --> 00:17:13,720
+Mañana puede ser guapo.
+
+301
+00:17:13,720 --> 00:17:16,720
+Me he cogido un hotel porque he pensado que, claro, como hay estos acantilados y tal,
+
+302
+00:17:16,720 --> 00:17:18,720
+Como no hay campos, sería complicado acampar.
+
+303
+00:17:18,720 --> 00:17:21,720
+Y por eso me he cogido un hotel.
+
+304
+00:17:21,720 --> 00:17:24,720
+Pero bueno, bien.
+
+305
+00:17:24,720 --> 00:17:26,720
+No, ha sido un día que ha estado bien paisajísticamente.
+
+306
+00:17:26,720 --> 00:17:29,720
+Ver todo el rato el mar allí, genial, genial.
+
+307
+00:17:29,720 --> 00:17:32,720
+Me ha faltado la puesta de sol.
+
+308
+00:17:32,720 --> 00:17:33,720
+A ver si mañana, que te dicen que hará buen tiempo, pues mejor.
+
+309
+00:17:33,720 --> 00:17:34,720
+Ostras tú, es guapo, ¿eh?
+
+310
+00:17:34,720 --> 00:17:35,720
+Bueno, mañana lo veremos, oye.
+
+311
+00:17:35,720 --> 00:17:36,720
+Mañana, más.
+
+312
+00:17:36,720 --> 00:17:38,720
+Buenas noches.
