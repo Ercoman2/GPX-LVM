@@ -1,2559 +1,1623 @@
 1
-00:00:01,000 --> 00:00:02,720
-Hola, ¿qué tal?
+00:00:00,320 --> 00:00:03,880
+La vuelta al mundo a pie, día 129.
 
 2
-00:00:03,100 --> 00:00:04,040
-Muy bien, ¿cómo va?
+00:00:04,120 --> 00:00:07,100
+Me encuentro en Thessaloniki, como dicen en Grecia,
 
 3
-00:00:04,380 --> 00:00:07,640
-La vuelta al mundo a pie, día 128.
+00:00:07,420 --> 00:00:11,580
+Salónica, a lo que sería un poco la avenida diagonal de esta ciudad.
 
 4
-00:00:08,620 --> 00:00:10,780
-Llevo unos días descansando aquí en Salónica,
+00:00:12,460 --> 00:00:15,700
+Llevo cuatro días aquí descansando, sin caminar.
 
 5
-00:00:10,860 --> 00:00:12,080
-ya os lo conté, estuve con un amigo,
+00:00:16,400 --> 00:00:17,680
+Me ha sentado muy bien el descanso, tengo que decir.
 
 6
-00:00:12,760 --> 00:00:15,460
-Y hoy tenemos un catalán sin fronteras.
+00:00:18,680 --> 00:00:21,920
+Había momentos que no ni me acordaba de que estaba dando la vuelta al mundo a pie,
 
 7
-00:00:15,720 --> 00:00:19,320
-No, la primera catalana sin fronteras de la serie.
+00:00:22,020 --> 00:00:25,120
+porque estaba haciendo turismo con mi amigo André, un crack.
 
 8
-00:00:19,520 --> 00:00:21,600
-Meritxell, Meritxell, ¿cómo estás?
+00:00:25,120 --> 00:00:33,600
+Mirad, hemos ido a visitar las tumbas y ruinas de la antigua capital del Reino de Macedonia,
 
 9
-00:00:21,760 --> 00:00:24,120
-Muy bien, encantada de verte.
+00:00:33,680 --> 00:00:35,020
+que es donde estamos ahora, el Reino de Macedonia,
 
 10
-00:00:24,240 --> 00:00:26,140
-A ver, un poco de resumen de ti.
+00:00:35,860 --> 00:00:39,580
+y la antigua tumba, o la tumba del padre de Alejandro Magno,
 
 11
-00:00:26,360 --> 00:00:27,260
-¿Vives en Salónica?
+00:00:40,900 --> 00:00:43,120
+Filipo II. Impresionante.
 
 12
-00:00:27,360 --> 00:00:27,600
-Sí.
+00:00:43,800 --> 00:00:45,320
+La tumba esta, impresionante.
 
 13
-00:00:28,000 --> 00:00:28,480
-Profesión?
+00:00:46,200 --> 00:00:49,040
+Volvimos a Meteora, sí, volvimos a Meteora,
 
 14
-00:00:28,480 --> 00:00:30,100
-Soy profesora de catalán.
+00:00:49,160 --> 00:00:51,400
+porque claro, André quería ver a Meteora,
 
 15
-00:00:31,720 --> 00:00:33,060
-¿Profesora de catalán en Grecia?
+00:00:51,400 --> 00:00:54,180
+y a mí me faltaban algunos monasterios para ver,
 
 16
-00:00:33,720 --> 00:00:35,720
-En línea, tengo alumnos de todas partes.
+00:00:54,180 --> 00:00:57,580
+por lo tanto, tomamos una excursión de estas de un día,
 
 17
-00:00:36,280 --> 00:00:38,680
-Son muy internacionales los catalanes, aunque no lo parezca tanto.
+00:00:58,400 --> 00:01:00,840
+y volvimos a Meteora, bueno, fue Meteora mola,
 
 18
-00:00:40,040 --> 00:00:42,280
-¿Y vives desde hace en cuanto a Salónica?
+00:01:00,940 --> 00:01:02,100
+Es bueno volver a verlo,
 
 19
-00:00:42,360 --> 00:00:44,460
-El viernes hará un año aquí en Salónica
+00:01:02,740 --> 00:01:04,800
+y también dimos una vuelta por aquí, por Tasalónica,
 
 20
-00:00:44,460 --> 00:00:47,160
-y estuve viviendo durante un par de años en Atenas.
+00:01:04,940 --> 00:01:07,860
+que hay muchos monumentos y muchas iglesias y muchas cosas bastante chulas.
 
 21
-00:00:48,360 --> 00:00:50,860
-Muy bien, pues, para los que aún no lo habíais visto
+00:01:08,640 --> 00:01:09,720
+Me gusta mucho esta ciudad, tengo que decir.
 
 22
-00:00:50,860 --> 00:00:52,900
-o os acabamos de enganchar, mi idea es que,
+00:01:10,400 --> 00:01:13,460
+Ayer hice la entrevista con Mari Txell, genial,
 
 23
-00:00:52,960 --> 00:00:54,080
-a parte de dar la vuelta al mundo a pie,
+00:01:14,140 --> 00:01:18,600
+Hoy, por desgracia, volvemos a la rutina.
 
 24
-00:00:54,200 --> 00:00:56,620
-estoy intentando entrevistar a un catalán
+00:01:19,120 --> 00:01:20,040
+Tengo ganas de caminar, ¿eh?
 
 25
-00:00:56,620 --> 00:00:58,460
-Vivo en cada país por el que paso.
+00:01:20,040 --> 00:01:23,180
+Podría decir que me está gustando, me está gustando Tasalónica,
 
 26
-00:00:58,480 --> 00:01:00,500
-Y me había contactado con mucha gente de Grecia,
+00:01:23,180 --> 00:01:24,840
+quería quedarme unos días más, pero no pasa nada,
 
 27
-00:01:00,660 --> 00:01:02,760
-pero claro, tú eres la que me venía en la ruta,
+00:01:25,680 --> 00:01:28,100
+pues, os hago un poco de recapitulación,
 
 28
-00:01:02,960 --> 00:01:04,500
-porque tú vives aquí, yo paso por aquí,
+00:01:29,420 --> 00:01:31,120
+Dejé de caminar a Caterini,
 
 29
-00:01:04,800 --> 00:01:06,240
-y además, el tema que seas profesora de catalán
+00:01:31,940 --> 00:01:34,080
+Cogí un tren hasta Tasalónica,
 
 30
-00:01:06,240 --> 00:01:08,700
-Me llamó mucho la atención y aquí estamos.
+00:01:34,720 --> 00:01:37,400
+entonces, claro, yo ahora tengo que volver a caminar siempre
 
 31
-00:01:09,320 --> 00:01:12,380
-Vale, pregunta muy personal, pero te la tengo que hacer,
+00:01:37,400 --> 00:01:41,340
+desde el punto donde lo he dejado, en este caso, pues, Caterini.
 
 32
-00:01:12,500 --> 00:01:14,700
-que es que, ¿por qué? ¿Por qué estás aquí en Grecia?
+00:01:41,480 --> 00:01:43,900
+Por lo tanto, ahora tengo que ir a la estación de tren,
 
 33
-00:01:14,780 --> 00:01:17,360
-Sí, yo vine de Erasmus en 2021,
+00:01:44,880 --> 00:01:47,740
+dentro de una hora y pico sale el tren hasta Caterini,
 
 34
-00:01:17,580 --> 00:01:19,500
-porque desde la Universidad de Lleida me dijeron
+00:01:48,260 --> 00:01:51,380
+y desde allí volveré a caminar, y volveré a pasar a Tasalónica.
 
 35
-00:01:19,500 --> 00:01:21,820
-ve a Atenas, que tenemos un departamento fantástico,
+00:01:51,380 --> 00:01:53,160
+Por lo tanto, volveré a venir aquí,
 
 36
-00:01:22,300 --> 00:01:24,180
-y pensé, de acuerdo, la otra opción era Bélgica,
+00:01:53,180 --> 00:01:56,280
+Y quizás me vuelvo a quedar un día o dos, ¿por qué?
 
 37
-00:01:24,280 --> 00:01:26,260
-y digo, no, no hace frío en Bélgica, hace niebla, no,
+00:01:56,420 --> 00:01:57,560
+Porque tengo que hacerlo en las postales.
 
 38
-00:01:26,260 --> 00:01:26,820
-Mejor en Atenas.
+00:01:59,420 --> 00:02:02,360
+Atención, si queréis la postal de Grecia,
 
 39
-00:01:28,480 --> 00:01:31,080
-No había venido nunca, llegué a Atenas, y estuve 10 meses,
+00:02:02,700 --> 00:02:04,000
+y no estáis apuntados al grifo,
 
 40
-00:01:31,160 --> 00:01:33,780
-hice el Erasmus, y luego, yo allá donde voy,
+00:02:04,720 --> 00:02:06,880
+Apuntaos para que os la pueda enviar.
 
 41
-00:01:33,880 --> 00:01:37,180
-siempre hago del catalán, y me dijeron,
+00:02:07,960 --> 00:02:10,200
+De acuerdo, voy a comer primero de todo y luego cojo el tren.
 
 42
-00:01:37,260 --> 00:01:39,260
-quieres venir el año siguiente a dar clases de catalán
+00:02:14,600 --> 00:02:16,680
+De acuerdo, pues, he llegado a este preciso juego
 
 43
-00:01:39,260 --> 00:01:40,260
-aquí en la Universidad de Atenas?
+00:02:16,680 --> 00:02:18,580
+que es cuando estaba la bandera, es donde voy por el track,
 
 44
-00:01:40,300 --> 00:01:42,160
-Y pensé, fantástico, ya estoy.
+00:02:18,660 --> 00:02:22,180
+Por lo tanto, play y caminamos.
 
 45
-00:01:42,640 --> 00:01:44,660
-Entonces acabé las carreras,
+00:02:22,180 --> 00:02:22,860
+Caminamos.
 
 46
-00:01:44,760 --> 00:01:47,780
-volví a Atenas a enseñar catalán,
+00:02:23,180 --> 00:02:25,180
+Hacia el norte y luego hacia el este.
 
 47
-00:01:48,400 --> 00:01:50,840
-y entonces conocí a mi pareja, que es griego,
+00:02:35,020 --> 00:02:36,700
+A ver, acabo de ver un cementerio griego
 
 48
-00:01:51,000 --> 00:01:52,340
-y dijimos, ¿qué hacemos, adónde vamos?
+00:02:36,700 --> 00:02:39,980
+y os estoy enseñando los cementerios que encuentro en cada país, ¿no?
 
 49
-00:01:52,540 --> 00:01:54,380
-Vamos hacia Barcelona, que también era una opción,
+00:02:40,460 --> 00:02:43,420
+Los de Albania, si os acordáis, no tenían ningún motivo religioso,
 
 50
-00:01:54,480 --> 00:01:57,760
-o hacia Lleida, o qué hacemos, nos movemos por aquí en Grecia,
+00:02:43,420 --> 00:02:46,860
+la mayoría de ellos, y tenían todos la cara de la persona.
 
 51
-00:01:57,760 --> 00:02:00,360
-y al final, después de mucha conversación, dijimos,
+00:02:47,580 --> 00:02:50,620
+Aquí, todas las tumbas también son así, horizontales,
 
 52
-00:02:00,560 --> 00:02:03,620
-a "Thessaloníki", porque Atenas era demasiado grande, y bien.
+00:02:50,620 --> 00:02:56,180
+tienen bastantes flores, tienen la cara, todos también, de la persona,
 
 53
-00:02:04,500 --> 00:02:07,320
-Dicen que Tesalónica se parece un poco a Barcelona.
+00:02:56,340 --> 00:02:59,520
+pero todos sí tienen la cruz, sí, sí, sí.
 
 54
-00:02:08,020 --> 00:02:08,360
-A mí me lo pareció...
+00:03:00,880 --> 00:03:01,820
+Es curioso, ¿eh?, el uno en la cara.
 
 55
-00:02:08,360 --> 00:02:09,320
-¿De dónde eres tú, de Lleida?
+00:03:03,420 --> 00:03:05,120
+Que todos tengan la cara, y no hay nichos aquí,
 
 56
-00:02:09,560 --> 00:02:10,400
-De Lleida, de Lleida, sí.
+00:03:05,220 --> 00:03:06,140
+Bueno, vaya, hay una persona ahí.
 
 57
-00:02:10,420 --> 00:02:12,120
-No sé si tienes muchas referencias aquí.
+00:03:06,640 --> 00:03:09,360
+No hay nichos, no tienen tantas buenas vistas
 
 58
-00:02:12,400 --> 00:02:16,360
-No, o sea, Atenas es toda esta visión más antigua
+00:03:09,360 --> 00:03:11,020
+como los cementerios de Albania, si os acordáis,
 
 59
-00:02:16,360 --> 00:02:19,060
-de la Grecia antigua, de los filósofos,
+00:03:11,180 --> 00:03:11,860
+aquello era impresionante.
 
 60
-00:02:19,160 --> 00:02:21,000
-de todos son piedras, con la acrópolis aquí,
+00:03:13,620 --> 00:03:16,060
+Pero, bueno, todo muy bien, muy ordenadito, todo en fila.
 
 61
-00:02:21,100 --> 00:02:24,240
-toda la parte del centro sí que tiene esta idea más europea,
+00:03:17,880 --> 00:03:18,240
+Sigamos.
 
 62
-00:02:24,280 --> 00:02:25,600
-no sé si diría que Barcelona,
+00:03:18,240 --> 00:03:21,600
+Hace un sol de justicia, ¿eh?
 
 63
-00:02:26,100 --> 00:02:27,600
-pero sí, más europea en general,
+00:03:21,880 --> 00:03:25,000
+Hoy es martes 7 de abril de 2026,
 
 64
-00:02:27,760 --> 00:02:29,660
-Sí, como estilo...
+00:03:25,840 --> 00:03:28,740
+y mirad, máximas de 24, pero claro,
 
 65
-00:02:29,660 --> 00:02:31,700
-Me he dado cuenta, es más pequeño, ¿no?, yo diría.
+00:03:29,420 --> 00:03:32,400
+con este sol y sin ninguna nube, soplo, es que no hay ninguna nube, ¿eh?
 
 66
-00:02:32,000 --> 00:02:32,700
-Que Barcelona.
+00:03:33,300 --> 00:03:34,520
+Hace calor, hace calor.
 
 67
-00:02:33,000 --> 00:02:35,580
-Sí, pero me ha dado un vibe, que le dicen, ¿no?,
+00:03:35,300 --> 00:03:39,020
+Todavía no llevaré la manía corta, pero pronto, pronto, ya veréis,
 
 68
-00:02:35,580 --> 00:02:38,940
-una sensación similar a mí, ahora que llevo aquí tres días,
+00:03:39,020 --> 00:03:40,140
+Ya verás que pronto.
 
 69
-00:02:39,440 --> 00:02:43,340
-hay mucha cultura del bar, ¿no?, de tomar algo,
+00:03:40,740 --> 00:03:44,120
+Voy muy cargado porque llevo todo aquello
 
 70
-00:02:43,520 --> 00:02:45,260
-Hay una cafetería impresionante,
+00:03:44,120 --> 00:03:47,300
+que os enseñé el otro día, que no os puedo decir lo que es todavía,
 
 71
-00:02:45,560 --> 00:02:47,960
-¿Tomas el café diferente?
+00:03:48,240 --> 00:03:51,520
+llevo el material de invierno, que ya no necesito para nada,
 
 72
-00:02:48,440 --> 00:02:53,040
-Bien, aquí ellos dicen, claro, los griegos siempre son mejores que todos, ¿eh?, también.
+00:03:52,520 --> 00:03:53,680
+y aún no lo he dejado,
 
 73
-00:02:53,500 --> 00:02:54,840
-¿Son muy orgullosos, son muy patrióticos?
+00:03:54,560 --> 00:03:57,600
+y, bueno, algunas cosas que he cogido en Tassalón
 
 74
-00:02:54,840 --> 00:02:56,140
-Sí, sí, sí.
+00:03:57,600 --> 00:04:00,320
+y que también, para renovar, por ejemplo, la pasta de dientes,
 
 75
-00:02:56,480 --> 00:02:57,740
-Y dicen que tienen mejor café,
+00:04:00,380 --> 00:04:02,500
+que se me había acabado, que está bueno, etcétera.
 
 76
-00:02:57,760 --> 00:03:00,560
-El mejor café del mundo lo tomas aquí en Grecia.
+00:04:03,240 --> 00:04:05,680
+Vale, pues teniendo en cuenta que ya no necesito
 
 77
-00:03:01,280 --> 00:03:04,480
-Y siempre con hielo, durante todo el año, nos gusta mucho tomarlo con hielo,
+00:04:05,680 --> 00:04:07,900
+Algunas cosas, creo que hoy sería el día
 
 78
-00:03:04,940 --> 00:03:08,100
-y aquí te ponen el azúcar antes para que esté bien disuelto.
+00:04:07,900 --> 00:04:10,380
+para dejar en algún lugar la genovesa,
 
 79
-00:03:08,320 --> 00:03:12,280
-Yo me he confundido mucho con esto, porque, eso, te preguntan el azúcar.
+00:04:10,540 --> 00:04:12,200
+la chaqueta que compré en Génova
 
 80
-00:03:12,500 --> 00:03:12,720
-Sí.
+00:04:12,200 --> 00:04:14,180
+y que he llevado durante todo el invierno,
 
 81
-00:03:12,980 --> 00:03:16,160
-Y, ostras, yo a veces digo uno, pero lo encuentro ya muy dulce, cuidado.
+00:04:14,260 --> 00:04:15,760
+Creo que hoy sería un buen día para dejarla
 
 82
-00:03:16,540 --> 00:03:22,300
-No, lo tienes que pedir sin azúcar, con un poco, o dulce.
+00:04:15,760 --> 00:04:17,840
+en un lugar geolocalizado,
 
 83
-00:03:23,500 --> 00:03:23,900
-Dulce.
+00:04:17,840 --> 00:04:20,200
+porque alguno de vosotros, os pasaré descoordenadas,
 
 84
-00:03:23,920 --> 00:03:25,120
-Tienes estas tres opciones.
+00:04:20,820 --> 00:04:21,580
+venga y la recoja.
 
 85
-00:03:25,280 --> 00:03:27,120
-Complicado, ya lo expliqué en un vídeo, ya que era complicado pedir,
+00:04:21,660 --> 00:04:22,560
+Pero primero tengo que encontrar el lugar.
 
 86
-00:03:27,760 --> 00:03:30,000
-el café, luego está el espresso y el griego.
+00:04:22,660 --> 00:04:23,860
+Claro, no puedo dejarla a media naturaleza,
 
 87
-00:03:30,920 --> 00:03:33,040
-Pero el café griego, eso sí que ya es diferente del todo.
+00:04:24,320 --> 00:04:25,400
+porque sería basura,
 
 88
-00:03:33,160 --> 00:03:34,800
-Pero eso, ¿qué opinas? ¿Te gusta o...
+00:04:25,520 --> 00:04:27,060
+pero tampoco puedo dejarla en un lugar que sea muy visible,
 
 89
-00:03:34,800 --> 00:03:36,260
-No, es que no tomo mucho café.
+00:04:27,780 --> 00:04:29,000
+porque se llevaría cualquier griego.
 
 90
-00:03:36,420 --> 00:03:37,820
-Ah, pues no es café, no, no es café.
+00:04:30,060 --> 00:04:30,680
+A ver qué encuentro.
 
 91
-00:03:38,140 --> 00:03:42,380
-No, el café griego es ese que se hace casi hervido con la...
+00:04:46,040 --> 00:04:47,620
+Bueno, el otro día compré un paraguas,
 
 92
-00:03:42,380 --> 00:03:42,400
-Sí.
+00:04:47,840 --> 00:04:48,680
+no sé si os acordáis,
 
 93
-00:03:42,400 --> 00:03:44,420
-Por eso las abuelas, que van...
+00:04:49,460 --> 00:04:51,180
+y os dije que era tanto por la lluvia
 
 94
-00:03:44,420 --> 00:03:45,280
-No, no, pero todos los bares lo tienen.
+00:04:51,180 --> 00:04:53,040
+como por el calor.
 
 95
-00:03:45,440 --> 00:03:49,720
-Sí, sí, lo hierven y entonces tiene pues lo que comes café y todo.
+00:04:54,460 --> 00:04:55,180
+Vamos a probarlo.
 
 96
-00:03:49,860 --> 00:03:50,240
-Quiero decir, no.
+00:04:55,500 --> 00:04:56,120
+Primera vez.
 
 97
-00:03:50,840 --> 00:03:51,320
-Sí, sí, sí.
+00:04:57,460 --> 00:04:59,220
+Hay mucha gente que me ha recomendado
 
 98
-00:03:51,320 --> 00:03:52,320
-No, no, no, mejor que no.
+00:04:59,220 --> 00:05:00,800
+un paraguas para ello,
 
 99
-00:03:52,800 --> 00:03:57,120
-Bueno, y entonces viniste a Thessaloníki
+00:05:01,100 --> 00:05:02,380
+para cuando hace un poco de calor,
 
 100
-00:03:57,760 --> 00:04:01,460
-Y qué, bueno, a ver, llevas más de un año, pero ¿tú te ves aquí?
+00:05:02,540 --> 00:05:04,460
+para protegerme del sol,
 
 101
-00:04:01,680 --> 00:04:03,400
-Sí, la verdad, fuerza sí.
+00:05:05,080 --> 00:05:06,240
+pero yo tengo que decir que nunca lo he probado.
 
 102
-00:04:04,300 --> 00:04:04,940
-Sí, porque...
+00:05:06,620 --> 00:05:07,540
+Es así muy ligero
 
 103
-00:04:04,940 --> 00:04:05,860
-¿Qué dirías que es lo que más te gusta?
+00:05:07,540 --> 00:05:10,140
+y lo que no tengo es ninguna especie
 
 104
-00:04:06,800 --> 00:04:07,800
-Esto, aquí donde he llevado el...
+00:05:10,140 --> 00:05:13,400
+de inserto especial
 
 105
-00:04:07,800 --> 00:04:10,500
-El paseo, no, que no lo estamos viendo, pero estamos aquí en el paseo, eh.
+00:05:13,400 --> 00:05:14,400
+para mantener el paraguas.
 
 106
-00:04:11,060 --> 00:04:13,560
-Aquí es muy bonito por la tarde, ¿no?, cuando tienes la puesta de sol.
+00:05:14,500 --> 00:05:16,380
+Entonces, no tengo muy claro
 
 107
-00:04:13,580 --> 00:04:15,260
-Sí, porque ahora el sol va hacia allá abajo,
+00:05:16,380 --> 00:05:17,520
+si pueden interceder.
 
 108
-00:04:15,740 --> 00:04:18,180
-y aquí, que hoy no se ve mucho porque hay un poco de niebla,
+00:05:17,840 --> 00:05:18,560
+Aquí sí.
 
 109
-00:04:18,260 --> 00:04:19,960
-Pero lo que nos queda en esta esquina es el Monte Olimpo.
+00:05:19,160 --> 00:05:20,440
+Ahí está la primera goma,
 
 110
-00:04:20,260 --> 00:04:20,540
-Sí.
+00:05:21,220 --> 00:05:22,500
+Pero la segunda no.
 
 111
-00:04:20,700 --> 00:04:24,580
-Entonces, claro, ves el Olimpo desde aquí, tienes la Torre Blanca allí, ves el mar,
+00:05:22,960 --> 00:05:24,220
+Entonces, había pensado
 
 112
-00:04:24,580 --> 00:04:27,600
-después, en la puesta de sol, que tiene unos colores fantásticos,
+00:05:24,220 --> 00:05:25,800
+de ponerlo aquí,
 
 113
-00:04:27,760 --> 00:04:29,580
-es un... me gusta muchísimo.
+00:05:26,600 --> 00:05:28,740
+aguantándose en la cinta esta de pecho.
 
 114
-00:04:30,440 --> 00:04:34,800
-Y ahora de aquí, son muy como nosotros, quiero decir, al fin y al cabo lo que quieren es salir,
+00:05:29,540 --> 00:05:30,040
+Vamos a ver.
 
 115
-00:04:34,940 --> 00:04:39,260
-ir a tomar un café, pasárnoslo bien con las asociaciones que tienen, quiero decir, al final...
+00:05:31,620 --> 00:05:32,120
+Vamos a ver,
 
 116
-00:04:39,260 --> 00:04:39,620
-Son personas sociales.
+00:05:33,720 --> 00:05:34,780
+se me clava un poco aquí,
 
 117
-00:04:39,760 --> 00:04:40,820
-Son como nosotros, sí.
+00:05:35,680 --> 00:05:36,280
+el mango,
 
 118
-00:04:41,040 --> 00:04:43,900
-Lo de quedarnos en casa no lo llevamos muy bien, y ellos tampoco.
+00:05:36,960 --> 00:05:38,980
+y con la cabeza me da un poco el paraguas.
 
 119
-00:04:44,780 --> 00:04:47,540
-Claro, solo llevas un año, pero te añoras algo de algo?
+00:05:41,100 --> 00:05:41,540
+Pero...
 
 120
-00:04:48,080 --> 00:04:48,820
-Mi madre me manda fumitos.
+00:05:41,540 --> 00:05:43,580
+¿Qué pensáis?
 
 121
-00:04:48,820 --> 00:04:50,020
-Aquí también comen caracoles, ¿no?
+00:05:45,320 --> 00:05:47,180
+No sé si acaba de ser la mejor solución.
 
 122
-00:04:50,380 --> 00:04:50,660
-Sí.
+00:05:47,840 --> 00:05:49,000
+Bueno, lo probaré un rato.
 
 123
-00:04:50,780 --> 00:04:51,780
-Claro, aquí de caracoles.
+00:05:50,300 --> 00:05:51,120
+No me estoy viendo,
 
 124
-00:04:51,780 --> 00:04:54,220
-Sí, lo llevan mal, lo de los caracoles,
+00:05:51,240 --> 00:05:53,320
+Pero probablemente sea un poco ridículo, ¿no?
 
 125
-00:04:54,220 --> 00:04:55,360
-depende de quién lo digas.
+00:05:53,500 --> 00:05:54,300
+Caminando así.
 
 126
-00:04:55,380 --> 00:04:58,080
-Vi el otro día gente cogiendo caracoles, porque acababa de llover,
+00:05:59,440 --> 00:06:00,660
+Bueno, ya estoy notando,
 
 127
-00:04:58,400 --> 00:04:59,380
-Unas ruinas que nos han dejado.
+00:06:00,700 --> 00:06:01,820
+he llevado 5 segundos además,
 
 128
-00:04:59,940 --> 00:05:01,920
-Había un par de personas cogiendo caracoles.
+00:06:01,880 --> 00:06:02,500
+ya estoy notando
 
 129
-00:05:01,980 --> 00:05:03,720
-Los comen directo y poniendo tomate.
+00:06:02,500 --> 00:06:04,860
+El sol calienta menos, ¿no?
 
 130
-00:05:04,200 --> 00:05:07,840
-Bueno, entonces te gusta esto, y el catalán...
+00:06:05,520 --> 00:06:06,400
+¿Y si funciona, tú?
 
 131
-00:05:07,840 --> 00:05:09,300
-Tú me dijiste que eres profesora de catalán,
+00:06:06,580 --> 00:06:07,700
+¿Y si esto es un buen invento?
 
 132
-00:05:09,360 --> 00:05:12,240
-Yo ya imaginaba que tenías una clase de 100 personas, ¿no?
+00:06:09,060 --> 00:06:09,900
+Voy a probarlo, va.
 
 133
-00:05:12,260 --> 00:05:12,640
-No.
+00:06:10,560 --> 00:06:12,520
+De acuerdo, ahora estoy cogiendo el móvil en la mano
 
 134
-00:05:13,240 --> 00:05:16,240
-Haces online, en la Universidad de Lleida o en la Universidad de...
+00:06:12,520 --> 00:06:14,400
+y cuando lo tengo el trípode aquí puesto
 
 135
-00:05:16,240 --> 00:05:20,280
-Es una plataforma online y personas que se ponen en contacto directamente conmigo.
+00:06:14,400 --> 00:06:15,420
+me da un poco de tope
 
 136
-00:05:20,720 --> 00:05:24,060
-Son personas que por motivos muy diversos quieren aprender catalán.
+00:06:15,420 --> 00:06:17,200
+y sí,
 
 137
-00:05:24,160 --> 00:05:24,200
-No.
+00:06:17,200 --> 00:06:18,760
+Más o menos, se aguanta.
 
 138
-00:05:24,220 --> 00:05:25,460
-Son clases particulares, por así decirlo, ¿no?
+00:06:19,780 --> 00:06:21,120
+No lo veo claro, pero, ¿eh?
 
 139
-00:05:25,520 --> 00:05:27,340
-Sí, tengo algún grupo también pequeño,
+00:06:22,700 --> 00:06:23,200
+Protege, ¿eh?
 
 140
-00:05:27,940 --> 00:05:31,460
-y ahora cada vez intentamos hacer más grupos porque pueden hablar entre ellos bien.
+00:06:23,580 --> 00:06:24,240
+Sí, sí, no, no.
 
 141
-00:05:31,800 --> 00:05:33,040
-Es mejor hacerlas en grupo.
+00:06:25,200 --> 00:06:26,820
+Protege, siento menos calor
 
 142
-00:05:33,980 --> 00:05:36,280
-Pero sí, tengo alumnos de todas partes online,
+00:06:26,820 --> 00:06:28,340
+en la zona de la cabeza.
 
 143
-00:05:36,480 --> 00:05:38,840
-porque me contactan de plataformas, desde...
+00:06:29,280 --> 00:06:30,660
+Tampoco muchísimo a menos, ¿eh?
 
 144
-00:05:38,840 --> 00:05:40,660
-A ver, dime lugares, por ejemplo, por decirlo.
+00:06:30,660 --> 00:06:32,420
+Quiero decir, tampoco diría que es una diferencia
 
 145
-00:05:41,380 --> 00:05:42,160
-¿De dónde vienen?
+00:06:32,560 --> 00:06:33,060
+Pero bueno,
 
 146
-00:05:42,260 --> 00:05:44,780
-Yo tengo... Ahora tengo tres alumnos que son estadounidenses.
+00:06:33,660 --> 00:06:34,160
+Algo hace.
 
 147
-00:05:45,440 --> 00:05:48,360
-Tengo muchos alemanes, son la nacionalidad que más tengo.
+00:06:34,860 --> 00:06:36,200
+Día de hoy, hoy hace calor
 
 148
-00:05:48,520 --> 00:05:49,220
-Ostras, curioso.
+00:06:36,320 --> 00:06:37,500
+No son 40 grados, ¿verdad?
 
 149
-00:05:49,220 --> 00:05:51,640
-Sí, que puede que vivan en Barcelona o no.
+00:06:37,580 --> 00:06:40,040
+El día de hoy quizás no sería necesario,
 
 150
-00:05:52,480 --> 00:05:53,720
-Tengo fuerza
+00:06:40,940 --> 00:06:42,700
+Sin embargo, aquellas épocas
 
 151
-00:05:54,220 --> 00:05:54,820
-franceses
+00:06:42,700 --> 00:06:45,180
+donde quizá vaya por el desierto,
 
 152
-00:05:55,140 --> 00:05:56,340
-Italianos ahora no tengo.
+00:06:46,020 --> 00:06:47,120
+donde quizás haga un calor, de verdad,
 
 153
-00:05:57,180 --> 00:06:02,340
-Tengo una chica que es traductora del catalán al croata, que me parece interesantísimo.
+00:06:47,120 --> 00:06:48,840
+de lo de 30 yards, 40,
 
 154
-00:06:03,060 --> 00:06:03,920
-Tengo de todo.
+00:06:49,700 --> 00:06:51,560
+Entonces yo creo que sí, seguro, ¿eh?
 
 155
-00:06:04,280 --> 00:06:06,700
-Literalmente, brasileños también tengo un par.
+00:06:52,080 --> 00:06:53,840
+Bueno, me lo queda un rato más.
 
 156
-00:06:06,900 --> 00:06:09,180
-¿Qué plataforma es para que la gente lo pueda saber?
+00:06:54,760 --> 00:06:55,540
+He imput esta goma
 
 157
-00:06:09,560 --> 00:06:11,260
-Me pueden enviar un correo.
+00:06:55,540 --> 00:06:56,400
+que tenía por aquí
 
 158
-00:06:11,460 --> 00:06:12,340
-Vale, ¿cuál es el correo?
+00:06:56,400 --> 00:06:59,540
+Se dobla y se objeta un poco más.
 
 159
-00:06:12,940 --> 00:06:14,160
-Te lo dejaré si...
+00:07:00,620 --> 00:07:01,440
+No sé si se aprecia.
 
 160
-00:06:14,160 --> 00:06:15,760
-Vale, lo pondré en pantalla para dejarte aquí abajo.
+00:07:03,480 --> 00:07:05,040
+Voy probando diferentes posiciones.
 
 161
-00:06:16,400 --> 00:06:17,640
-Sí, por favor.
+00:07:06,340 --> 00:07:06,960
+Ahora sí está bien,
 
 162
-00:06:17,740 --> 00:06:18,200
-De acuerdo.
+00:07:07,000 --> 00:07:08,200
+lo que pasa es que se enclava un poco aquí.
 
 163
-00:06:18,700 --> 00:06:21,860
-Y entonces hacemos clases, hacemos de todo, hacemos catalán.
+00:07:09,600 --> 00:07:11,000
+Me acabo de creer unas personas que estaban aquí
 
 164
-00:06:21,860 --> 00:06:24,180
-Hay personas que empiezan desde el A0,
+00:07:11,000 --> 00:07:13,300
+sentadas en el campo, en el trozo,
 
 165
-00:06:24,220 --> 00:06:28,400
-porque a veces parece que les da mucho miedo empezar el catalán y me dicen
+00:07:14,080 --> 00:07:15,420
+y se me han quedado mirando
 
 166
-00:06:28,400 --> 00:06:33,420
-Ah, es que a los catalanes, no sé, como les cuesta lanzarse un poco a la piscina.
+00:07:15,420 --> 00:07:16,220
+muy fijamente.
 
 167
-00:06:33,980 --> 00:06:38,300
-Pero después también tengo muchos alumnos que se preparan para el C1, por lo tanto hago un poco de todo,
+00:07:17,120 --> 00:07:19,020
+Normalmente levanto miradas
 
 168
-00:06:38,380 --> 00:06:41,640
-desde el A0 al C2, un poco de todo.
+00:07:19,020 --> 00:07:21,200
+por el hecho de ir caminando por aquí por el campo,
 
 169
-00:06:42,060 --> 00:06:47,300
-Y también tengo muchos expats, que ahora también es un tema que interesa mucho y que pensé, lo diré,
+00:07:21,880 --> 00:07:23,400
+pero supongo que me hará
 
 170
-00:06:47,940 --> 00:06:50,360
-porque parece que dicen no, es que no quieren aprender catalán
+00:07:23,400 --> 00:07:23,940
+el agua de éste.
 
 171
-00:06:50,360 --> 00:06:53,380
-y efectivamente hay muchos que llevan 5-10 años en Cataluña
+00:07:25,340 --> 00:07:26,220
+Todavía más tú.
 
 172
-00:06:53,380 --> 00:06:57,480
-y que estamos haciendo el A0, quiero decir que hemos empezado con el "Bon Dia, hem dic Meritxell".
+00:07:30,180 --> 00:07:30,680
+Atención,
 
 173
-00:06:57,960 --> 00:07:01,220
-Pero pienso que cada vez también es una situación que va cambiando más
+00:07:30,700 --> 00:07:31,960
+Por eso es un buen candidato
 
 174
-00:07:01,220 --> 00:07:05,660
-y quizás quiero pensar, yo me lo miro muy optimista, que no estamos tan mal como parece.
+00:07:31,960 --> 00:07:34,020
+como lugar para dejar la chaqueta.
 
 175
-00:07:05,920 --> 00:07:12,380
-A ver, conociendo, yo he conocido bastantes expats/inmigrantes, como quieras llamarlo.
+00:07:34,360 --> 00:07:36,100
+Es una casa completamente abandonada.
 
 176
-00:07:13,100 --> 00:07:17,800
-Mi impresión es que quizás tienen una predisposición inicial a aprender el catalán,
+00:07:37,300 --> 00:07:38,340
+Yo aquí
 
 177
-00:07:18,400 --> 00:07:21,460
-pero luego cuando tienen que aprenderlo de verdad y tienen que pasar de un nivel muy básico
+00:07:38,340 --> 00:07:40,200
+no tiene pinta de que haya venido
 
 178
-00:07:21,460 --> 00:07:23,140
-A un nivel más avanzado, allí es donde...
+00:07:40,200 --> 00:07:41,400
+nadie hace tiempo.
 
 179
-00:07:23,140 --> 00:07:23,820
-Adónde se acercan.
+00:07:42,020 --> 00:07:43,460
+A ver...
 
 180
-00:07:24,060 --> 00:07:24,520
-¿Tú crees?
+00:07:43,460 --> 00:07:45,680
+Efectivamente, hay mucho polvo,
 
 181
-00:07:24,540 --> 00:07:25,960
-No sé si tienes esa misma visión.
+00:07:45,880 --> 00:07:46,700
+Pero no pasa nada porque,
 
 182
-00:07:26,600 --> 00:07:27,320
-Yo creo que no.
+00:07:47,120 --> 00:07:47,660
+tengo bolsas,
 
 183
-00:07:27,440 --> 00:07:27,800
-No, ¿eh?
+00:07:47,940 --> 00:07:49,340
+Pero puedo leer la chaqueta.
 
 184
-00:07:27,980 --> 00:07:31,680
-Pero yo creo que el problema que tenemos somos nosotros,
+00:07:51,140 --> 00:07:52,520
+Y aquí
 
 185
-00:07:32,280 --> 00:07:37,560
-porque empiezan a aprender catalán y entonces salen a la calle y cuando ven que no son catalanohablantes
+00:07:52,520 --> 00:07:54,900
+Un segundo equipamiento
 
 186
-00:07:37,560 --> 00:07:38,640
-Los hablan en castellano.
+00:07:54,900 --> 00:07:59,360
+Con un poco de cosas.
 
 187
-00:07:39,000 --> 00:07:42,460
-Esto también es difícil encontrar el catalanohablante en Barcelona, es complicado.
+00:08:00,260 --> 00:08:01,440
+Pues es esta bolsa.
 
 188
-00:07:42,600 --> 00:07:43,180
-En Barcelona supongo que sí.
+00:08:01,660 --> 00:08:02,480
+Hay una bolsa
 
 189
-00:07:43,480 --> 00:07:47,060
-Tengo una alumna que es irlandesa y que hizo pegatinas que pone
+00:08:02,480 --> 00:08:04,780
+y dentro otra bolsa
 
 190
-00:07:47,100 --> 00:07:48,180
-"Por favor háblame en catalán"
+00:08:04,780 --> 00:08:05,820
+Dentro está la chaqueta.
 
 191
-00:07:48,360 --> 00:07:48,760
-Ostras.
+00:08:06,120 --> 00:08:06,980
+Y está todo bien atado,
 
 192
-00:07:49,040 --> 00:07:51,420
-Y yo pensaba, venga va, a ver si es verdad.
+00:08:07,080 --> 00:08:08,880
+por lo tanto, aquí hay un poco de polvo,
 
 193
-00:07:51,740 --> 00:07:52,420
-Tema comida.
+00:08:08,980 --> 00:08:11,080
+Pero aquí no entra nada.
 
 194
-00:07:53,140 --> 00:07:54,200
-¿Cuál sería tu plato preferido?
+00:08:11,380 --> 00:08:12,080
+No hay humedad.
 
 195
-00:07:54,280 --> 00:07:54,760
-El Giro.
+00:08:12,980 --> 00:08:14,920
+La dejaré aquí sobre porque está un poco más elevado,
 
 196
-00:07:55,280 --> 00:07:56,120
-¿Qué es este...
+00:08:14,960 --> 00:08:15,900
+por si acaso,
 
 197
-00:07:56,120 --> 00:07:56,900
-¿El Gyro es el Gyros?
+00:08:15,900 --> 00:08:16,920
+por la chaqueta.
 
 198
-00:07:57,120 --> 00:07:57,400
-Sí.
+00:08:17,120 --> 00:08:17,920
+Los bichos o lo que sea.
 
 199
-00:07:57,740 --> 00:08:03,160
-Que diríamos que es este estilo kebab, cosa que los ofrecería en grandes cantidades, quiero
+00:08:18,840 --> 00:08:20,340
+Y nada.
 
 200
-00:08:03,160 --> 00:08:09,160
-decir, no, porque va con pan de pita, va con el tzatziki, que es esta salsa de yogur
+00:08:20,900 --> 00:08:23,480
+Espero que no venga nadie aquí a buscarla.
 
 201
-00:08:09,160 --> 00:08:13,960
-con pepino, fantástica, y al final es lo que más gusta a todos.
+00:08:24,340 --> 00:08:25,040
+Hombre, no tiene pinta.
 
 202
-00:08:14,120 --> 00:08:17,440
-Quiero decir, vas a cenar un gyro y vuelves a casa muy contento.
+00:08:25,940 --> 00:08:27,320
+De acuerdo, si alguien la encuentra,
 
 203
-00:08:17,740 --> 00:08:21,740
-Aquí están muy orgullosos de la gastronomía también y de todo lo que tienen, todos los platos
+00:08:27,560 --> 00:08:29,380
+por favor, que me envíe
 
 204
-00:08:21,740 --> 00:08:22,620
-y los...
+00:08:29,380 --> 00:08:31,680
+una fotografía porque así yo lo anuncio
 
 205
-00:08:22,620 --> 00:08:22,800
-¡Vamos!
+00:08:31,680 --> 00:08:33,120
+La gente no viene aquí
 
 206
-00:08:23,060 --> 00:08:23,120
-Sí.
+00:08:33,120 --> 00:08:34,780
+Perder el tiempo, ¿no?
 
 207
-00:08:23,140 --> 00:08:23,900
-Sí, siempre.
+00:08:34,960 --> 00:08:37,400
+Y a buscar una chaqueta que no está, ¿vale?
 
 208
-00:08:24,320 --> 00:08:27,360
-Si les preguntas también tienen mejor que la pasta y mejor que la pizza...
+00:08:38,340 --> 00:08:39,980
+Estas son las coordenadas
 
 209
-00:08:27,360 --> 00:08:28,740
-Es que es muy buena la gastronomía griega.
+00:08:39,980 --> 00:08:41,580
+de aquí,
 
 210
-00:08:28,800 --> 00:08:28,920
-Sí.
+00:08:41,980 --> 00:08:42,920
+de este lugar, ¿de acuerdo?
 
 211
-00:08:29,220 --> 00:08:29,380
-Sí.
+00:08:42,920 --> 00:08:44,940
+¿De dónde viene la chaqueta?
 
 212
-00:08:29,960 --> 00:08:32,320
-Y no nos pegan determinadas clavadas como a otros países.
+00:08:46,000 --> 00:08:46,840
+Y mucha suerte a todos.
 
 213
-00:08:32,400 --> 00:08:32,580
-No.
+00:08:47,120 --> 00:08:48,400
+Con el geocaching.
 
 214
-00:08:33,300 --> 00:08:35,040
-Hablando de clavadas, la economía, ¿qué tal?
+00:08:52,580 --> 00:08:53,880
+¿Se nota la diferencia?
 
 215
-00:08:35,140 --> 00:08:37,800
-Porque tú trabajas un poco en el remoto, ¿no?, podríamos decir, no acabas de oír esta
+00:08:54,500 --> 00:08:55,000
+Sí.
 
 216
-00:08:37,800 --> 00:08:42,240
-de esto, pero la fama que tenemos desde Cataluña es que Grecia es un país que estaba teniendo
+00:08:55,840 --> 00:08:58,220
+Inmediatamente lo he notado, la diferencia de peso.
 
 217
-00:08:42,240 --> 00:08:44,940
-problemas, ¿no?, sobre todo con el tema de la troika y no sé qué historias, ¿no?
+00:08:58,220 --> 00:08:59,800
+Oh, qué bien, tú.
 
 218
-00:08:45,020 --> 00:08:45,260
-Sí.
+00:08:59,980 --> 00:09:01,620
+Y aún me quedan cosas por enviar a casa, ¿eh?
 
 219
-00:08:46,060 --> 00:08:53,060
-A ver, tienen sueldos un poco más bajos en general, porque el salario mínimo es un poco más bajo,
+00:09:01,620 --> 00:09:02,120
+Perfecto.
 
 220
-00:08:53,060 --> 00:08:57,900
-si no me equivoco, esto deberíamos mirar, son aproximadamente unos 900-950 euros, que
+00:09:02,500 --> 00:09:05,120
+De acuerdo, estoy en una carretera secundaria, como siempre,
 
 221
-00:08:57,900 --> 00:09:02,360
-en ciudades grandes como Atenas o Saloniki puede ser relativamente justo.
+00:09:05,240 --> 00:09:06,600
+Por la autopista no se puede caminar.
 
 222
-00:09:02,980 --> 00:09:06,900
-A ver, los precios de los alquileres tampoco son Barcelona, o no hemos llegado a niveles
+00:09:07,400 --> 00:09:09,080
+En la autopista,
 
 223
-00:09:06,900 --> 00:09:12,040
-tan altos, pero a los griegos también les gusta mucho quejarse, pero luego siempre hacen
+00:09:09,780 --> 00:09:12,440
+Tiene un supermercado y una cafetería
 
 224
-00:09:12,040 --> 00:09:12,740
-cafés, quiero decir...
+00:09:13,440 --> 00:09:15,700
+y normalmente no se puede acceder desde los contrarios, ¿no?
 
 225
-00:09:12,740 --> 00:09:13,880
-Ya, está todo lleno, siempre, ¿eh?
+00:09:15,700 --> 00:09:16,700
+Como veis, hay una valla.
 
 226
-00:09:13,880 --> 00:09:15,120
-Depende de cómo lo mires.
+00:09:17,120 --> 00:09:17,880
+Desde los contrarios, no.
 
 227
-00:09:16,420 --> 00:09:22,380
-Pero no, pienso que cada vez van un poco mejor, pero poco a poco van progresando
+00:09:17,880 --> 00:09:19,720
+Desde la carretera secundaria no se puede acceder aquí.
 
 228
-00:09:22,380 --> 00:09:22,880
-adecuadamente.
+00:09:19,720 --> 00:09:21,760
+Hay una valla contra los animales, sobre todo.
 
 229
-00:09:22,880 --> 00:09:24,560
-¿Son muy religiosos?
+00:09:23,060 --> 00:09:24,740
+Pero, bueno, veo aquí que hay una puerta.
 
 230
-00:09:24,600 --> 00:09:24,820
-Mucho.
+00:09:24,740 --> 00:09:26,280
+Hombre, me interesaría mucho, en el supermercado.
 
 231
-00:09:25,080 --> 00:09:28,300
-Claro, yo estoy mirando mucho iglesias y tal, pero claro, no sé si hasta la gente llega a
+00:09:26,280 --> 00:09:27,620
+A ver si está abierta.
 
 232
-00:09:28,300 --> 00:09:28,760
-ser practicante.
+00:09:32,880 --> 00:09:33,880
+¡Su!
 
 233
-00:09:29,040 --> 00:09:30,320
-Muchísimo, muchísimo.
+00:09:34,880 --> 00:09:36,000
+Ah, tiene un muelle y todo.
 
 234
-00:09:30,740 --> 00:09:37,180
-Aquí el 98% de la población están bautizados, quiero decir, son griegos ortodoxos, todos, y hoy
+00:09:36,000 --> 00:09:38,340
+Perfecto, para que no quede abierta.
 
 235
-00:09:37,180 --> 00:09:39,760
-es el primer día de la Semana Santa, aquí van una semana más tarde.
+00:09:38,340 --> 00:09:39,340
+Pues venga, va.
 
 236
-00:09:40,460 --> 00:09:45,880
-Y hoy, normalmente hacen la cuaresma los 40 días, pero hoy que empieza la Semana Santa
+00:09:39,780 --> 00:09:40,780
+Voy a comprar un poco.
 
 237
-00:09:45,880 --> 00:09:48,400
-la gran mayoría comienzan el ayuno.
+00:09:47,120 --> 00:10:06,720
+Ellos son los 6
 
 238
-00:09:48,900 --> 00:09:51,060
-Aquí se vuelven completamente veganos.
+00:10:06,720 --> 00:10:10,000
+El día más caluroso de la vuelta al Bonapeu
 
 239
-00:09:51,060 --> 00:09:52,000
-Eso es muy heavy.
+00:10:10,000 --> 00:10:10,620
+Sin duda
 
 240
-00:09:52,000 --> 00:09:54,000
-Que la gente joven haga el ayuno.
+00:10:10,620 --> 00:10:13,360
+Ahora el sol
 
 241
-00:09:54,000 --> 00:09:58,640
-Mi pareja ayuna, quiero decir, yo hoy comí huevos, comí pollo, quiero
+00:10:13,360 --> 00:10:14,840
+Ha bajado hacia abajo
 
 242
-00:09:58,640 --> 00:10:03,600
-decir, yo he comido normal, y allí estará toda la semana ni huevos, veganos completamente,
+00:10:14,840 --> 00:10:16,860
+Y llevará la directamente aquí
 
 243
-00:10:03,600 --> 00:10:06,360
-ni leche, ni huevos, ni... ¿qué más lleva?
+00:10:16,860 --> 00:10:18,260
+Pero aún no estoy bien protegido
 
 244
-00:10:06,360 --> 00:10:09,000
-Carne, por supuesto, ni pescado, y el pescado tampoco.
+00:10:18,260 --> 00:10:19,320
+Y he tenido que meter
 
 245
-00:10:09,000 --> 00:10:14,120
-La abuela en Semana Santa hace cazuelita de Semana Santa con bacalao, aquí el bacalao
+00:10:19,320 --> 00:10:23,100
+Voy moviendo el paraguas
 
 246
-00:10:14,120 --> 00:10:15,640
-tiene sangre, por lo tanto no la comen.
+00:10:23,100 --> 00:10:23,720
+Depende de cómo
 
 247
-00:10:15,640 --> 00:10:16,640
-Joder, tú.
+00:10:23,720 --> 00:10:25,000
+La acabo de poner ahora
 
 248
-00:10:16,640 --> 00:10:20,000
-Pero si no, creo que no tenemos esa percepción desde Catalunya de que los griegos fueran tan religiosos.
+00:10:25,000 --> 00:10:28,360
+A ver, no es muy canónico
 
 249
-00:10:20,000 --> 00:10:21,000
-No lo sé.
+00:10:28,360 --> 00:10:29,660
+Pero me protege bastante
 
 250
-00:10:21,000 --> 00:10:21,800
-Y otro...
+00:10:29,660 --> 00:10:32,560
+Bueno, me conviene pasar por algún pueblo hoy
 
 251
-00:10:21,800 --> 00:10:28,240
-Cuando se gradúan, pueden hacer el juramento de graduación civil y el juramento de graduación
+00:10:32,560 --> 00:10:34,900
+100% tengo que pasar porque me estoy sin agua
 
 252
-00:10:28,240 --> 00:10:34,520
-religioso y la gran, gran mayoría, siendo gente de 21 años que acaban la carrera, hacen el
+00:10:34,900 --> 00:10:37,300
+Y claro, tengo que llenar
 
 253
-00:10:34,520 --> 00:10:39,600
-religioso porque o bien lo sienten o si no desde sus familias sería un horror.
+00:10:37,300 --> 00:10:46,700
+Atención
 
 254
-00:10:39,600 --> 00:10:40,600
-¿Y el fútbol qué tal?
+00:10:46,700 --> 00:10:49,140
+18 y 43
 
 255
-00:10:40,600 --> 00:10:41,600
-No sé si eres futbolera tú.
+00:10:49,140 --> 00:10:53,640
+Acabo de ver mi primer puerto jabalí de la vuelta al Bonapeu
 
 256
-00:10:41,600 --> 00:10:42,600
-Sí, soy del Barça.
+00:10:53,640 --> 00:10:55,020
+Como puedes ver
 
 257
-00:10:42,600 --> 00:10:43,600
-Ah, mira.
+00:10:55,020 --> 00:10:56,560
+He grabado ahora
 
 258
-00:10:43,600 --> 00:10:44,600
-Sí, sí.
+00:10:56,560 --> 00:10:58,660
+Estaba pasando de un campo a otro
 
 259
-00:10:44,600 --> 00:10:45,600
-De Lleida, pero del Barça.
+00:10:58,660 --> 00:11:01,300
+Buf, es una zona extraña que haya jabalíes
 
 260
-00:10:45,600 --> 00:10:46,600
-Y aquí del PAOK.
+00:11:01,300 --> 00:11:03,300
+Porque allí dentro de poco está la autopista
 
 261
-00:10:46,600 --> 00:10:47,600
-Del PAOK de Salónica.
+00:11:03,300 --> 00:11:04,560
+Aquí esta la carretera
 
 262
-00:10:47,600 --> 00:10:48,600
-Del PAOK de Salónica, sí.
+00:11:04,560 --> 00:11:07,240
+Y tampoco hay tantos, tantos árboles
 
 263
-00:10:48,600 --> 00:10:49,600
-De acuerdo.
+00:11:07,240 --> 00:11:10,660
+Aún queda un día para acampar
 
 264
-00:10:49,600 --> 00:10:50,600
-Además, misteriosamente, vivimos muy cerca en nuestra casa.
+00:11:10,660 --> 00:11:12,180
+Pero igualmente
 
 265
-00:10:50,600 --> 00:10:51,600
-Sí.
+00:11:12,180 --> 00:11:14,260
+¡Ojo, eh
 
 266
-00:10:51,600 --> 00:10:54,600
-Y aquí son muy, muy futboleros.
+00:11:14,260 --> 00:11:14,760
+ojo
 
 267
-00:10:54,600 --> 00:10:55,600
-Hay tres equipos...
+00:11:14,760 --> 00:11:16,100
+El jabalí es un animal que
 
 268
-00:10:55,600 --> 00:10:56,600
-Pero en realidad...
+00:11:16,100 --> 00:11:16,680
+Si tú lo ves, es un animal que es muy bonito
 
 269
-00:10:56,600 --> 00:11:00,600
-O sea, Grecia tampoco es una superpotencia, pero igualmente a ellos les gusta
+00:11:16,700 --> 00:11:17,260
+Si tú lo ves, es un animal que te detecta
 
 270
-00:11:00,600 --> 00:11:01,600
-El fútbol, ¿no?
+00:11:17,260 --> 00:11:20,380
+Y no estás en un lugar donde él quiera ir
 
 271
-00:11:01,600 --> 00:11:02,600
-Ah, sí.
+00:11:20,380 --> 00:11:21,860
+Porque hay comida o lo que sea
 
 272
-00:11:02,600 --> 00:11:04,600
-Ellos, entre ellos, ya se discuten.
+00:11:21,860 --> 00:11:23,660
+No debería venir a hacer nada
 
 273
-00:11:04,600 --> 00:11:05,600
-Sí.
+00:11:23,660 --> 00:11:25,960
+Sobre todo si es la comida fuera de la tienda
 
 274
-00:11:05,600 --> 00:11:08,600
-Bueno, el Olimpiakos este año jugó contra el Barça, ¿eh?
+00:11:25,960 --> 00:11:29,020
+Pero hombre, es un animal que
 
 275
-00:11:08,600 --> 00:11:10,600
-Perdieron mucho, también, el Olimpiakos.
+00:11:29,020 --> 00:11:30,360
+Sobre todo si están crias
 
 276
-00:11:10,600 --> 00:11:11,600
-Sí.
+00:11:30,360 --> 00:11:32,060
+Si se siente amenazado, puede ser
 
 277
-00:11:11,600 --> 00:11:12,600
-Pero jugaron...
+00:11:32,060 --> 00:11:34,440
+Pero bueno, a mí nunca me ha pasado nada
 
 278
-00:11:12,600 --> 00:11:17,600
-Quiero decir, están en la Champions, hacen cosas, pero aquí ahora, además, que han empezado los
+00:11:34,440 --> 00:11:36,120
+Nunca he tenido ningún problema con port senglars
 
 279
-00:11:17,600 --> 00:11:18,600
-play-offs...
+00:11:46,700 --> 00:11:50,000
+La siete de la tarde
 
 280
-00:11:18,600 --> 00:11:20,600
-Si hubieras ido ayer a ver el partido allí del PAOK, habría sido...
+00:11:50,000 --> 00:11:51,500
+No he visto ninguna fuente en el pueblo
 
 281
-00:11:20,600 --> 00:11:21,600
-Están muy locos, quiero decir.
+00:11:51,500 --> 00:11:53,100
+Así que he comprado un agua
 
 282
-00:11:21,600 --> 00:11:22,600
-¿Ayer jugó en el PAOK?
+00:11:53,100 --> 00:11:55,500
+Luego una lata
 
 283
-00:11:22,600 --> 00:11:23,600
-Sí.
+00:11:55,500 --> 00:11:57,940
+De atún con un poco de
 
 284
-00:11:23,600 --> 00:11:24,600
-¿Los play-offs de la Liga?
+00:11:57,940 --> 00:11:59,940
+Verdura y
 
 285
-00:11:24,600 --> 00:11:25,600
-Sí.
+00:11:59,940 --> 00:12:01,960
+Buñeta, creo
 
 286
-00:11:25,600 --> 00:11:26,600
-Venga.
+00:12:01,960 --> 00:12:03,580
+Y un refresco
 
 287
-00:11:26,600 --> 00:11:27,600
-Entonces, claro...
+00:12:03,580 --> 00:12:05,320
+Que no falten, que no falten los refrescos
 
 288
-00:11:27,600 --> 00:11:28,600
-¿Cómo quedó?
+00:12:05,320 --> 00:12:06,860
+Son las siete
 
 289
-00:11:28,600 --> 00:11:29,600
-0-0, quedaron.
+00:12:06,860 --> 00:12:09,200
+Ahora de aquí media horita ya
 
 290
-00:11:29,600 --> 00:11:30,600
-Vale, 0-0.
+00:12:09,200 --> 00:12:12,420
+A ver si encuentro algún campo para pasar una noche tranquila
 
 291
-00:11:30,600 --> 00:11:31,600
-Mi pareja, pobre, vino a...
+00:12:15,220 --> 00:12:16,580
+Pues no tenemos las puestas de sol
 
 292
-00:11:31,600 --> 00:11:32,600
-
+00:12:16,580 --> 00:12:17,300
+Desde el Adriático
 
 293
-00:11:32,600 --> 00:11:36,440
-Mi pareja, que es del PAOK, en Atenas no iría a ver un partido de fútbol porque
+00:12:17,300 --> 00:12:19,320
+Pero ni falta que hace, eh, mirad
 
 294
-00:11:36,440 --> 00:11:37,440
-peligraría.
+00:12:19,320 --> 00:12:21,160
+El sol brilla aquí
 
 295
-00:11:37,440 --> 00:11:42,680
-Quiero decir, llegar hasta este extremo. Nosotros con un Barça-Madrid, que queremos
+00:12:21,160 --> 00:12:24,560
+Estos turonets super verdes
 
 296
-00:11:42,680 --> 00:11:46,600
-Quizás no nos daría tanto miedo, no llegaríamos a tanto.
+00:12:24,560 --> 00:12:26,580
+Y aquí al fondo tenemos el mar
 
 297
-00:11:46,600 --> 00:11:48,600
-Vas un poco disimulado y ya está, ¿no?
+00:12:26,580 --> 00:12:29,440
+Junto a esta capilla
 
 298
-00:11:48,600 --> 00:11:49,600
-Sí.
+00:12:29,440 --> 00:12:31,660
+Aquí hay un parque
 
 299
-00:11:49,600 --> 00:11:50,600
-¿Puedes ver los partidos?
+00:12:31,660 --> 00:12:34,700
+Y la carretera que seguiremos nosotros ahora
 
 300
-00:11:50,600 --> 00:11:51,600
-Nosotros les vemos los partidos.
+00:12:34,700 --> 00:12:37,160
+Que va un poco hacia allí
 
 301
-00:11:51,600 --> 00:11:52,600
-¿Los del Barça de Liga?
+00:12:37,160 --> 00:12:42,520
+Bien, aquí la carretera
 
 302
-00:11:52,600 --> 00:11:53,600
-Sí.
+00:12:42,520 --> 00:12:43,840
+Aquí hay un camino
 
 303
-00:11:53,600 --> 00:11:54,600
-Sí, sí.
+00:12:43,840 --> 00:12:45,880
+Que lleva a un par de campos
 
 304
-00:11:54,600 --> 00:11:55,600
-Tenemos aquí siempre.
+00:12:45,880 --> 00:12:48,380
+Vamos a echar un vistazo
 
 305
-00:11:55,600 --> 00:11:57,600
-¿Y la gente que es más del Barça o del Madrid, tú dirías?
+00:12:48,380 --> 00:12:49,500
+A ver qué
 
 306
-00:11:57,600 --> 00:11:58,600
-Aquí 50-50, ya.
+00:12:49,500 --> 00:12:52,380
+Está muy abierto, pero es guapísimo
 
 307
-00:11:58,600 --> 00:11:59,600
-50-50, ¿eh?
+00:12:52,380 --> 00:12:56,080
+Lo que no sé si hay mucho espacio, eh
 
 308
-00:11:59,600 --> 00:12:00,600
-50-50.
+00:12:56,080 --> 00:12:56,980
+Para poner la tienda
 
 309
-00:12:00,600 --> 00:12:01,600
-Hay...
+00:12:56,980 --> 00:12:58,780
+Hombre, aquí
 
 310
-00:12:01,600 --> 00:12:02,600
-¿Qué me dicen?
+00:12:58,780 --> 00:13:01,520
+Básicamente aquí, pum
 
 311
-00:12:02,600 --> 00:12:03,600
-De Barcelona...
+00:13:01,520 --> 00:13:04,300
+No sé si la persona del campo
 
 312
-00:12:03,600 --> 00:12:09,400
-Normalmente, cuando viajas por el mundo, de Barcelona, el Barça, Messi, aquí no.
+00:13:04,300 --> 00:13:06,020
+Me vería, eh
 
 313
-00:12:09,400 --> 00:12:12,600
-Aquí conocen más allá del Barça, la Sagrada Familia...
+00:13:06,020 --> 00:13:07,300
+Bueno, si viene, seguro
 
 314
-00:12:12,600 --> 00:12:15,600
-Es que muchos griegos deben haber ido de Barcelona de viaje, yo creo, ¿no?
+00:13:07,300 --> 00:13:09,820
+Pero no sé si hay algún lugar aquí, alguna cámara
 
 315
-00:12:15,600 --> 00:12:16,600
-Sí.
+00:13:09,820 --> 00:13:11,200
+No creo, no
 
 316
-00:12:16,600 --> 00:12:18,600
-Además, aquí tenemos vuelo directo con Barcelona, que es una maravilla.
+00:13:11,200 --> 00:13:12,620
+Allí tengo una antena de 5G
 
 317
-00:12:18,600 --> 00:12:19,600
-Además, Barcelona...
+00:13:12,620 --> 00:13:14,400
+Eso siempre es bueno
 
 318
-00:12:19,600 --> 00:12:20,600
-A Barcelona le gusta mucho.
+00:13:14,400 --> 00:13:15,860
+Ostras, no sé si hay algún lugar aquí, alguna cámara
 
 319
-00:12:20,600 --> 00:12:21,600
-Claro, ¿de dónde eres tú?
+00:13:15,860 --> 00:13:16,620
+Ostras, guapísimo, eh
 
 320
-00:12:21,600 --> 00:12:22,600
-Yo, de Barcelona.
+00:13:16,620 --> 00:13:18,940
+Estoy muy al alcance de la carretera, pero bueno
 
 321
-00:12:22,600 --> 00:12:23,600
-Siempre...
+00:13:18,940 --> 00:13:20,920
+Como siempre os digo
 
 322
-00:12:23,600 --> 00:12:24,600
-Tirando para casa.
+00:13:20,920 --> 00:13:22,300
+Como siempre os digo, me lo pienso
 
 323
-00:12:24,600 --> 00:12:25,600
-Sí, de Barcelona.
+00:13:22,300 --> 00:13:24,620
+Bueno, bueno
 
 324
-00:12:25,600 --> 00:12:26,600
-¡Ah, Barcelona!
+00:13:24,620 --> 00:13:26,100
+Situación ahora mismo
 
 325
-00:12:26,600 --> 00:12:29,600
-Entonces la pregunta es, ¿y qué haces aquí?
+00:13:26,100 --> 00:13:29,660
+Estoy rodeado de mosquitos jurácicos
 
 326
-00:12:29,600 --> 00:12:32,600
-Porque, claro, ellos, también es lo que decíamos antes, con la economía, no entienden...
+00:13:29,660 --> 00:13:32,420
+Primera mosquitada fuerte
 
 327
-00:12:32,600 --> 00:12:36,600
-¿Qué hace, esta chica, en Barcelona, con lo magnífico que es Barcelona, que, por supuesto...
+00:13:32,420 --> 00:13:33,460
+De toda la vuelta con una pie
 
 328
-00:12:36,600 --> 00:12:37,600
-Sí.
+00:13:33,460 --> 00:13:35,100
+De verdad, ya me han picado algunos
 
 329
-00:12:37,600 --> 00:12:38,600
-Sí, pero ¿qué hace aquí?
+00:13:35,100 --> 00:13:36,480
+Noto, noto que me han picado
 
 330
-00:12:38,600 --> 00:12:41,600
-Y ya todos están encantadísimos de Barcelona, de aprender.
+00:13:36,480 --> 00:13:38,300
+Y ahora, cuando termine de grabar el vídeo
 
 331
-00:12:41,600 --> 00:12:42,600
-Ah, ¿y qué haces aquí?
+00:13:38,300 --> 00:13:39,580
+Me pondré entre la tienda
 
 332
-00:12:42,600 --> 00:12:43,600
-Ah, entonces les cuento, hago catalán.
+00:13:39,580 --> 00:13:41,480
+Porque, ostras, son grandes, eh
 
 333
-00:12:43,600 --> 00:12:44,600
-Entonces...
+00:13:41,480 --> 00:13:42,600
+Hay muchos, eh
 
 334
-00:12:44,600 --> 00:12:45,600
-Ya, no saben muy bien...
+00:13:42,600 --> 00:13:43,320
+Ya es hora, supongo
 
 335
-00:12:45,600 --> 00:12:46,600
-¡Catalán!
+00:13:43,320 --> 00:13:44,820
+Son las 8 menos 5
 
 336
-00:12:46,600 --> 00:12:47,600
-No saben lo que es, ¿no?
+00:13:44,820 --> 00:13:45,840
+20 minutos
 
 337
-00:12:47,600 --> 00:12:49,600
-¿Se piensa que es un como un dialecto, quizás?
+00:13:45,860 --> 00:13:46,840
+26 kilómetros
 
 338
-00:12:49,600 --> 00:12:50,600
-Sí.
+00:13:46,840 --> 00:13:50,120
+3 refrescos
 
 339
-00:12:50,600 --> 00:12:51,600
-¿Sí?
+00:13:50,120 --> 00:13:51,780
+Un café
 
 340
-00:12:51,600 --> 00:12:52,600
-Que yo ya no me ofendo.
+00:13:51,780 --> 00:13:53,780
+No he hablado con nadie
 
 341
-00:12:52,600 --> 00:12:53,600
-Ya.
+00:13:53,780 --> 00:13:55,840
+Incidentes con perros, un
 
 342
-00:12:53,600 --> 00:12:54,600
-Quiero decir, yo, ahora ya...
+00:13:55,840 --> 00:13:58,820
+Que, bueno, simplemente es un perro que me he encontrado en la entrada de un pueblo
 
 343
-00:12:54,600 --> 00:12:55,600
-No, no es culpa suya, ¿no?
+00:13:58,820 --> 00:14:01,260
+Y el pasar por la cerca
 
 344
-00:12:55,600 --> 00:12:56,600
-No.
+00:14:01,260 --> 00:14:02,500
+Me ha empezado a ladrar
 
 345
-00:12:56,600 --> 00:12:57,600
-Claro.
+00:14:02,500 --> 00:14:03,920
+Y con el ultrasonos he hecho así pan
 
 346
-00:12:57,600 --> 00:12:58,600
-He desistido, ya no me ofendo, no pasa absolutamente nada.
+00:14:03,920 --> 00:14:05,860
+Y se ha ido corriendo, ha sido muy gracioso
 
 347
-00:12:58,600 --> 00:13:01,600
-Pero sí, entonces les explico, no, no, es una lengua completamente diferente, va.
+00:14:06,840 --> 00:14:08,120
+¿Qué más?
 
 348
-00:13:01,600 --> 00:13:05,600
-De hecho, el catalán se parece más al italiano que al castellano, que es verdad.
+00:14:08,540 --> 00:14:10,000
+De dinero, veamos
 
 349
-00:13:05,600 --> 00:13:06,600
-Sí.
+00:14:10,000 --> 00:14:12,500
+Haré una suma, que pondré en pantalla
 
 350
-00:13:06,600 --> 00:13:07,600
-¡Ah!
+00:14:12,500 --> 00:14:13,260
+Porque todavía tengo que hacerlo
 
 351
-00:13:07,600 --> 00:13:08,600
-¡Ah!
+00:14:13,260 --> 00:14:14,180
+Una suma de
 
 352
-00:13:08,600 --> 00:13:11,600
-Pero, claro, les cuesta un poco de entender, porque aquí, en Grecia, tienen dialectos.
+00:14:14,180 --> 00:14:15,840
+Lo que me he gastado hoy
 
 353
-00:13:11,600 --> 00:13:12,600
-Tienen...
+00:14:15,840 --> 00:14:18,380
+Más algunas cosas que me he gastado estos días
 
 354
-00:13:12,600 --> 00:13:14,600
-En Chipre sí es más bien dialecto.
+00:14:18,380 --> 00:14:21,060
+Por estos días no os pondré lo que me he gastado, ¿vale?
 
 355
-00:13:14,600 --> 00:13:16,600
-En Creta tienen algo.
+00:14:21,100 --> 00:14:23,040
+Porque me están haciendo turismo, yendo a restaurantes
 
 356
-00:13:17,600 --> 00:13:19,600
-El griego es lo que hay y ya está.
+00:14:23,040 --> 00:14:25,400
+Tomando algunos tours, lo que sea
 
 357
-00:13:19,600 --> 00:13:24,600
-Vale, te tengo que hacer la pregunta, que yo tengo el problema este en Grecia, que son los perros.
+00:14:25,400 --> 00:14:26,000
+Esto no lo cuento
 
 358
-00:13:24,600 --> 00:13:26,600
-Lo vi, pero no sé por qué.
+00:14:26,000 --> 00:14:28,660
+Pero sí que es verdad que me he comprado unos pantalones cortos
 
 359
-00:13:26,600 --> 00:13:27,600
-Quiero decir, no...
+00:14:28,660 --> 00:14:29,520
+Que todavía os he enseñado
 
 360
-00:13:27,600 --> 00:13:28,600
-¿Tú no has experimentado esto?
+00:14:29,520 --> 00:14:31,300
+Me han costado 45 euros, ahí es nada
 
 361
-00:13:28,600 --> 00:13:29,600
-No.
+00:14:31,300 --> 00:14:33,000
+Me he comprado la bombona de gas
 
 362
-00:13:29,600 --> 00:13:30,600
-Hay perros...
+00:14:33,000 --> 00:14:34,760
+Me están picando a saco
 
 363
-00:13:30,600 --> 00:13:35,600
-Sí que es verdad que ya quizás hay más perros en la calle que en otros países, pero
+00:14:34,760 --> 00:14:37,720
+Me he comprado la bombona de gas
 
 364
-00:13:35,600 --> 00:13:36,600
-no...
+00:14:37,720 --> 00:14:40,340
+Al final sí que la he encontrado allí en Salónica
 
 365
-00:13:36,600 --> 00:13:38,600
-Joder, no sabría decirte no.
+00:14:40,340 --> 00:14:41,640
+Es la más pequeña
 
 366
-00:13:38,600 --> 00:13:39,600
-No, ¿eh?
+00:14:41,640 --> 00:14:44,620
+Pero es la más cómoda porque me cabe dentro del bote
 
 367
-00:13:39,600 --> 00:13:40,600
-No.
+00:14:44,620 --> 00:14:45,820
+De...
 
 368
-00:13:40,600 --> 00:13:41,600
-Yo, aquí en la ciudad, no tengo ningún problema.
+00:14:45,840 --> 00:14:47,400
+Para cocinar, ¿no? Entonces
 
 369
-00:13:41,600 --> 00:13:42,600
-He visto más gatos que perros, diría.
+00:14:47,400 --> 00:14:49,300
+Una vez a menos, también dura menos
 
 370
-00:13:42,600 --> 00:13:43,600
-Sí.
+00:14:49,300 --> 00:14:51,480
+Pero bueno, a ver cuánto dura
 
 371
-00:13:43,600 --> 00:13:45,600
-Aquí, además, los alimentan con ganas.
+00:14:51,480 --> 00:14:52,600
+Tampoco la utilizo tanto
 
 372
-00:13:45,600 --> 00:13:46,600
-Va, habrás viajado por Grecia, supongo.
+00:14:52,600 --> 00:14:54,540
+¿Qué más?
 
 373
-00:13:46,600 --> 00:13:47,600
-Sí.
+00:14:55,600 --> 00:14:58,160
+Y me he comprado un sustitutivo del neceser
 
 374
-00:13:47,600 --> 00:13:52,600
-Y yo qué sé, a la gente que diga, ostras, mira, Enric, con tus vídeos me gusta,
+00:14:58,160 --> 00:15:00,280
+Que se me ha roto, que hay una bolsa muy delicada
 
 375
-00:13:52,600 --> 00:13:56,600
-pero también quisiera visitar algo más, ¿cuáles son un poco así los highlights, los puntos
+00:15:00,280 --> 00:15:01,900
+Que tenía en el Alekspress, pues se me ha roto
 
 376
-00:13:56,600 --> 00:13:57,600
-fuertes.
+00:15:01,900 --> 00:15:03,580
+Y he comprado otro similar
 
 377
-00:13:57,600 --> 00:14:01,600
-Yo, dentro de Grecia, has estado en Meteora, que es uno de los más bonitos, faltaría más.
+00:15:03,580 --> 00:15:05,880
+Entonces todo esto lo sumo y da esta cifra
 
 378
-00:14:01,600 --> 00:14:04,600
-Toda la parte de Atenas es la que conoce todo el mundo.
+00:15:05,880 --> 00:15:07,080
+Bueno, día
 
 379
-00:14:04,600 --> 00:14:08,600
-Nafplio, la primera capital de Grecia, también podría ser muy interesante.
+00:15:07,080 --> 00:15:10,100
+El calor un poco molesto
 
 380
-00:14:08,600 --> 00:14:12,600
-Tiene muralla, tiene castillo arriba, podemos hacer visita guiada, y está aproximadamente,
+00:15:10,100 --> 00:15:12,080
+Pero ha sido bonito, ¿no?
 
 381
-00:14:12,600 --> 00:14:16,600
-que es una hora y media en coche de Atenas.
+00:15:12,200 --> 00:15:14,160
+Esta zona de...
 
 382
-00:14:16,600 --> 00:14:21,600
-Además, si quieren ir a Mykonos, en Santorini, fantástico que vayan.
+00:15:14,160 --> 00:15:15,820
+Esta época del año con todo esto
 
 383
-00:14:21,600 --> 00:14:24,600
-Si no, Creta, al menos tiene un poco más de historia.
+00:15:15,840 --> 00:15:16,440
+Abierto
 
 384
-00:14:24,600 --> 00:14:28,600
-Y si solo quieren ir a la playa, hay una que se llama Chios, me parece que en catalán
+00:15:16,440 --> 00:15:18,080
+Ha estado bien, ha estado bien
 
 385
-00:14:28,600 --> 00:14:30,600
-Es con Q, Chios.
+00:15:18,080 --> 00:15:21,120
+Día tampoco demasiado destacable
 
 386
-00:14:30,600 --> 00:14:35,600
-Que tiene playas fantásticas, tiene estas casitas azules, depende del lugar donde vas, y
+00:15:21,120 --> 00:15:22,880
+Mira, es que ya me está saliendo uno aquí
 
 387
-00:14:35,600 --> 00:14:39,600
-como supongo que no la conoce mucha gente, no hay muchos turistas, es mucho más tranquila
+00:15:22,880 --> 00:15:24,940
+En fin
 
 388
-00:14:39,600 --> 00:14:44,600
-y sales de estas islas masificadas, que al final no cabes, en todas partes
+00:15:24,940 --> 00:15:27,180
+Seguro que os tengo que explicar más cosas
 
 389
-00:14:44,600 --> 00:14:45,600
-llegas en avión.
+00:15:27,180 --> 00:15:27,880
+Pero ahora no me acuerdo
 
 390
-00:14:45,600 --> 00:14:49,600
-Tú estudiaste, ahora me ha venido esto, tú estudiaste Humanidades, supongo.
+00:15:27,880 --> 00:15:30,220
+Podcast, nuevo capítulo del podcast
 
 391
-00:14:49,600 --> 00:14:52,600
-Hice Filología Hispánica.
+00:15:30,220 --> 00:15:33,020
+Ve a verlo, tienes el enlace a mi web
 
 392
-00:14:52,600 --> 00:14:53,600
-Pero quiero decir, al Bachillerato.
+00:15:33,020 --> 00:15:34,000
+Y en la descripción del vídeo
 
 393
-00:14:53,600 --> 00:14:55,600
-En Bachillerato hice Humanidades, sí.
+00:15:34,000 --> 00:15:36,180
+Y hoy juega en el Madrid
 
 394
-00:14:55,600 --> 00:14:57,600
-En el Bachillerato Humanístico se estudia Griego.
+00:15:36,180 --> 00:15:39,400
+En Madrid este año
 
 395
-00:14:57,600 --> 00:14:59,600
-En mi cole no.
+00:15:39,400 --> 00:15:40,900
+Está en moda ganar la Champions
 
 396
-00:14:59,600 --> 00:15:01,600
-O sea, ¿tú sabes Griego? Esta es la pregunta que quería hacer.
+00:15:40,900 --> 00:15:42,860
+Porque están haciendo fatal a la Liga
 
 397
-00:15:01,600 --> 00:15:02,600
-Ahora sí, ahora sí.
+00:15:42,860 --> 00:15:43,720
+No juegan a nada
 
 398
-00:15:02,600 --> 00:15:04,600
-¿Sabes Griego? ¿Pero qué nivel tendrías para decir algo?
+00:15:43,720 --> 00:15:45,560
+Y cuando les pasa esto
 
 399
-00:15:04,600 --> 00:15:07,600
-Ahora tengo sobre un B2 de Grec, que es bastante.
+00:15:45,840 --> 00:15:47,380
+Es lo típico que gana en Champions
 
 400
-00:15:07,600 --> 00:15:08,600
-¿Porque es difícil o no?
+00:15:47,380 --> 00:15:48,920
+A ver si el Bayern
 
 401
-00:15:08,600 --> 00:15:14,600
-El problema del Griego es que se declina. Entonces, como depende de si te refieres a alguien o lo llamas,
+00:15:48,920 --> 00:15:51,440
+Cumple el pronóstico
 
 402
-00:15:14,600 --> 00:15:20,600
-o ahora hablas de alguien, o es el sujeto, cambia un poco la dificultad que tengo es esta.
+00:15:51,440 --> 00:15:52,200
+O pasa lo de siempre
 
 403
-00:15:20,600 --> 00:15:24,600
-Y la otra, que hace mucha gracia, es que tiene palabras muy largas.
+00:15:52,200 --> 00:15:53,960
+El Madrid ganó
 
 404
-00:15:24,600 --> 00:15:29,600
-Entonces, a veces me acuerdo de un cuarto de palabra, me acuerdo de toda, o a veces del final,
+00:15:53,960 --> 00:15:55,520
+De acuerdo, ya está señores
 
 405
-00:15:29,600 --> 00:15:31,600
-y me pierdo un poco la mitad de la palabra.
+00:15:55,520 --> 00:15:57,380
+Me meto dentro porque me ha sido demasiado grande
 
 406
-00:15:31,600 --> 00:15:32,600
-Por ejemplo, a ver, ¿nos podías dar un ejemplo?
-
-407
-00:15:32,600 --> 00:15:37,600
-A ver, el verbo utilizar, que es tan normal, puede llegar a ser
-
-408
-00:15:37,600 --> 00:15:39,600
-
-
-409
-00:15:39,600 --> 00:15:40,600
-Ostras.
-
-410
-00:15:40,600 --> 00:15:42,600
-Otro.
-
-411
-00:15:42,600 --> 00:15:43,600
-
-
-412
-00:15:43,600 --> 00:15:44,600
-Ostras.
-
-413
-00:15:44,600 --> 00:15:46,600
-Empiezo con las consonantes iniciales para otoño.
-
-414
-00:15:46,600 --> 00:15:47,600
-
-
-415
-00:15:47,600 --> 00:15:49,600
-Empiezo por una F y una C.
-
-416
-00:15:49,600 --> 00:15:50,600
-
-
-417
-00:15:50,600 --> 00:15:53,600
-Y pienso, hombre, quizá tampoco hace falta.
-
-418
-00:15:53,600 --> 00:15:54,600
-Quizá no sea necesario.
-
-419
-00:15:54,600 --> 00:15:56,600
-¿Estás dando clases o eres autodidacta?
-
-420
-00:15:56,600 --> 00:15:57,600
-Sí, no, no.
-
-421
-00:15:57,600 --> 00:15:59,600
-Doy clases una vez a la semana todavía.
-
-422
-00:15:59,600 --> 00:16:02,600
-Porque yo ahora vivo aquí, tengo intención de quedarme.
-
-423
-00:16:02,600 --> 00:16:03,600
-Claro, claro.
-
-424
-00:16:03,600 --> 00:16:08,600
-Y estuve, he estado bastantes años viviendo aquí sin hablar el idioma y no es lo ideal.
-
-425
-00:16:08,600 --> 00:16:11,600
-Porque necesito ir al médico, necesito ir a tomar un café.
-
-426
-00:16:11,600 --> 00:16:12,600
-¡Vamos!
-
-427
-00:16:12,600 --> 00:16:13,600
-No, no hace falta en inglés.
-
-428
-00:16:13,600 --> 00:16:16,600
-Porque claro, es que en el inglés, o sea, aquí hablan bastante el inglés.
-
-429
-00:16:16,600 --> 00:16:17,600
-Lo hablan, sí.
-
-430
-00:16:17,600 --> 00:16:20,600
-Yo el primer año que estuve de Erasmus, claro, yo pensé vengo diez meses de Erasmus.
-
-431
-00:16:20,600 --> 00:16:21,600
-Claro.
-
-432
-00:16:21,600 --> 00:16:22,600
-Hice el curso de griego.
-
-433
-00:16:22,600 --> 00:16:23,600
-
-
-434
-00:16:23,600 --> 00:16:24,600
-Porque me gusta, claro.
-
-435
-00:16:24,600 --> 00:16:25,600
-
-
-436
-00:16:25,600 --> 00:16:30,600
-Pero, quiero decir, atiendes en todas partes, vas con el inglés y todo el mundo tan contento y te ayudan.
-
-437
-00:16:30,600 --> 00:16:32,600
-Son súper, súper amables en todas partes.
-
-438
-00:16:32,600 --> 00:16:39,600
-Con eso sí que desde el primer momento, si vas a Francia, por ejemplo, quizás son un poco más diferentes.
-
-439
-00:16:39,600 --> 00:16:40,600
-Lo dejaremos así.
-
-440
-00:16:40,600 --> 00:16:41,600
-Aquí no.
-
-441
-00:16:41,600 --> 00:16:42,600
-Aquí te intentan ayudar.
-
-442
-00:16:42,600 --> 00:16:43,600
-Lo que necesites.
-
-443
-00:16:43,600 --> 00:16:47,600
-Además, a ver que quizás soy una chica sola, pues todavía un poco más.
-
-444
-00:16:47,600 --> 00:16:48,600
-Pero ahora no.
-
-445
-00:16:48,600 --> 00:16:50,600
-Ahora ya que hago la vida aquí, quiero decir, no.
-
-446
-00:16:50,600 --> 00:16:53,600
-Y además, siendo filóloga no tengo ninguna razón para no aprender.
-
-447
-00:16:53,600 --> 00:16:56,600
-Dime algo malo, de Grecia o de los griegos.
-
-448
-00:16:56,600 --> 00:16:57,600
-Mala de Grecia.
-
-449
-00:16:57,600 --> 00:16:58,600
-Sobre todo de los griegos.
-
-450
-00:16:58,600 --> 00:16:59,600
-Si algo tendrá...
-
-451
-00:16:59,600 --> 00:17:00,600
-Sí.
-
-452
-00:17:00,600 --> 00:17:02,600
-Es un orgullo, como has dicho antes.
-
-453
-00:17:02,600 --> 00:17:03,600
-Vale.
-
-454
-00:17:03,600 --> 00:17:04,600
-Y son un poco capcuadrados, también.
-
-455
-00:17:04,600 --> 00:17:05,600
-Es decir, cuesta sacarlos.
-
-456
-00:17:05,600 --> 00:17:08,600
-Si ellos tienen una idea, son un poco fijas.
-
-457
-00:17:08,600 --> 00:17:09,600
-Ajá.
-
-458
-00:17:09,600 --> 00:17:10,600
-Y sí.
-
-459
-00:17:10,600 --> 00:17:11,600
-Si no, en general...
-
-460
-00:17:11,600 --> 00:17:13,600
-Va, porque se quejan un poco por todo, también.
-
-461
-00:17:13,600 --> 00:17:16,600
-A veces, va, no te quejes tanto, que no estás tan mal.
-
-462
-00:17:16,600 --> 00:17:17,600
-No está mal.
-
-463
-00:17:17,600 --> 00:17:21,600
-A ver, esto no estaba preparado, pero es que me acabas de decir que tú haces bailes griegos.
-
-464
-00:17:21,600 --> 00:17:22,600
-Baile bailes griegos.
-
-465
-00:17:22,600 --> 00:17:24,600
-Y que no bailarías sola, pero me enseñarías...
-
-466
-00:17:24,600 --> 00:17:25,600
-Sola, no.
-
-467
-00:17:25,600 --> 00:17:26,600
-A ver, va.
-
-468
-00:17:26,600 --> 00:17:27,600
-Efectivamente.
-
-469
-00:17:27,600 --> 00:17:28,600
-Pues va, enséñame algún baile, fácil.
-
-470
-00:17:28,600 --> 00:17:30,600
-Aquí, primero, igual que en todas partes, va por regiones.
-
-471
-00:17:30,600 --> 00:17:32,600
-O sea, aquí tienen los valles típicos de Creta.
-
-472
-00:17:32,600 --> 00:17:33,600
-Los valles típicos...
-
-473
-00:17:33,600 --> 00:17:34,600
-Ajá.
-
-474
-00:17:34,600 --> 00:17:35,600
-Yo hago Podiacano.
-
-475
-00:17:35,600 --> 00:17:36,600
-Podiacano.
-
-476
-00:17:36,600 --> 00:17:37,600
-Que es uno cerca del Mar Negro, que antes eran griegos.
-
-477
-00:17:37,600 --> 00:17:39,600
-Por lo tanto, son un poco diferentes.
-
-478
-00:17:39,600 --> 00:17:40,600
-Vamos cogiditos de las manos.
-
-479
-00:17:40,600 --> 00:17:41,600
-¿Así?
-
-480
-00:17:41,600 --> 00:17:42,600
-Así, un poco juntitos.
-
-481
-00:17:42,600 --> 00:17:43,600
-Juntetos.
-
-482
-00:17:43,600 --> 00:17:44,600
-Y hacemos tres pasitos a la derecha.
-
-483
-00:17:44,600 --> 00:17:45,600
-¡Vale!
-
-484
-00:17:45,600 --> 00:17:46,600
-Uno.
-
-485
-00:17:46,600 --> 00:17:47,600
-Dos.
-
-486
-00:17:47,600 --> 00:17:48,600
-Dos.
-
-487
-00:17:48,600 --> 00:17:49,600
-Tres.
-
-488
-00:17:49,600 --> 00:17:50,600
-Y entonces, tres.
-
-489
-00:17:50,600 --> 00:17:51,600
-Izquierda, derecha.
-
-490
-00:17:51,600 --> 00:17:52,600
-Izquierda, derecha.
-
-491
-00:17:52,600 --> 00:17:53,600
-Izquierda, derecha.
-
-492
-00:17:53,600 --> 00:17:54,600
-Uno.
-
-493
-00:17:54,600 --> 00:17:55,600
-Dos.
-
-494
-00:17:55,600 --> 00:17:56,600
-Tres.
-
-495
-00:17:56,600 --> 00:17:57,600
-Y vuelta a empezar.
-
-496
-00:17:57,600 --> 00:17:58,600
-Si quieres, empezamos desde aquí, así.
-
-497
-00:17:58,600 --> 00:17:59,600
-Venga.
-
-498
-00:17:59,600 --> 00:18:00,600
-Va dando la vuelta.
-
-499
-00:18:00,600 --> 00:18:01,600
-¿Qué...
-
-500
-00:18:01,600 --> 00:18:02,600
-Se llama Samson, ese valle.
-
-501
-00:18:02,600 --> 00:18:03,600
-¡Vale!
-
-502
-00:18:03,600 --> 00:18:04,600
-Vamos, vamos.
-
-503
-00:18:04,600 --> 00:18:05,600
-Uno.
-
-504
-00:18:05,600 --> 00:18:06,600
-Dos.
-
-505
-00:18:06,600 --> 00:18:07,600
-Tres.
-
-506
-00:18:07,600 --> 00:18:08,600
-Y a la espalda.
-
-507
-00:18:08,600 --> 00:18:09,600
-Uno.
-
-508
-00:18:09,600 --> 00:18:10,600
-Dos.
-
-509
-00:18:10,600 --> 00:18:11,600
-Tres.
-
-510
-00:18:11,600 --> 00:18:13,600
-Con un poco de gracia, ¿no?
-
-511
-00:18:13,600 --> 00:18:14,600
-Supongo.
-
-512
-00:18:14,600 --> 00:18:15,600
-Así.
-
-513
-00:18:15,600 --> 00:18:16,600
-Con un poco de...
-
-514
-00:18:16,600 --> 00:18:17,600
-No lo sé.
-
-515
-00:18:17,600 --> 00:18:18,600
-Y éste, mira, luego va subiendo de velocidad.
-
-516
-00:18:18,600 --> 00:18:19,600
-Ah, como el sirtaquio, un poco.
-
-517
-00:18:19,600 --> 00:18:22,600
-Y entonces, entonces las manos van hacia arriba.
-
-518
-00:18:22,600 --> 00:18:23,600
-Va subiendo.
-
-519
-00:18:23,600 --> 00:18:24,600
-Tres.
-
-520
-00:18:24,600 --> 00:18:25,600
-Uno.
-
-521
-00:18:25,600 --> 00:18:26,600
-Puedes ir hacia allí que hace vueltecita, ¿eh?
-
-522
-00:18:26,600 --> 00:18:27,600
-Uno.
-
-523
-00:18:27,600 --> 00:18:28,600
-Dos.
-
-524
-00:18:28,600 --> 00:18:31,600
-.
-
-525
-00:18:31,600 --> 00:18:32,600
-Uno.
-
-526
-00:18:32,600 --> 00:18:33,600
-Dos.
-
-527
-00:18:33,600 --> 00:18:34,600
-Tres.
-
-528
-00:18:34,600 --> 00:18:35,600
-Uno.
-
-529
-00:18:35,600 --> 00:18:36,600
-Dos.
-
-530
-00:18:36,600 --> 00:18:37,600
-Tres.
-
-531
-00:18:37,600 --> 00:18:38,600
-Uno.
-
-532
-00:18:38,600 --> 00:18:39,600
-Dos.
-
-533
-00:18:39,600 --> 00:18:40,600
-¿Y eso, tipo, en fila o...?
-
-534
-00:18:40,600 --> 00:18:41,600
-Esto va como sardanés y un poco.
-
-535
-00:18:41,600 --> 00:18:42,600
-Va muy bien.
-
-536
-00:18:42,600 --> 00:18:43,600
-Dominas, dominas, dominas.
-
-537
-00:18:43,600 --> 00:18:47,600
-Sardanas y un poco, ¿eh?, porque son bailes tradicionales, por lo tanto, van enrollando.
-
-538
-00:18:47,600 --> 00:18:51,160
-A mí me han gustado mucho los bailes que van con las manos en los hombros, porque así hace
-
-539
-00:18:51,160 --> 00:18:53,040
-Un poco más a lo grande.
-
-540
-00:18:53,040 --> 00:18:56,640
-Te veo muy integrada, ¿eh?, por solo llevar un año, bueno, año y pico, ya, porque
-
-541
-00:18:56,640 --> 00:18:57,640
-No sé si te veo muy integrada.
-
-542
-00:18:57,640 --> 00:18:58,640
-Yo siempre...
-
-543
-00:18:58,640 --> 00:19:02,680
-Allí he destacado la fiesta de moros y cristianos, también, quiero decir que siempre he hecho muchas cosas
-
-544
-00:19:02,680 --> 00:19:03,680
-De estilo tradicional.
-
-545
-00:19:03,680 --> 00:19:06,600
-Con todo lo que sea de cultura popular me interesa mucho.
-
-546
-00:19:06,600 --> 00:19:13,380
-Y ahora que estoy aquí siempre acabo en el mismo lugar, quiero decir, en Lleida con cultura popular
-
-547
-00:19:13,380 --> 00:19:16,360
-Aquí que tienen la suya, para quedarme en casa no haremos nada.
-
-548
-00:19:16,360 --> 00:19:17,360
-Bravo, bravo.
-
-549
-00:19:17,360 --> 00:19:18,360
-¿No te he preguntado qué edad tienes?
-
-550
-00:19:18,360 --> 00:19:19,360
-Yo tengo 25.
-
-551
-00:19:19,360 --> 00:19:20,360
-Ostras, 25.
-
-552
-00:19:20,360 --> 00:19:21,360
-Cumplo 26 este año.
-
-553
-00:19:21,360 --> 00:19:22,360
-Sí, el 2000 justo.
-
-554
-00:19:22,360 --> 00:19:29,040
-¿Qué opinan tus padres, tu familia, de que, claro, te hayas ido tan lejos?
-
-555
-00:19:29,040 --> 00:19:31,280
-Están contentos porque saben que estoy bien.
-
-556
-00:19:31,280 --> 00:19:36,440
-Entonces, quieras o no, a todo el mundo le gusta que está bien, que tengo mi trabajo,
-
-557
-00:19:36,440 --> 00:19:36,540
-contenta.
-
-558
-00:19:36,600 --> 00:19:40,760
-Tengo mi pareja, quiero decir, yo aquí tengo mi vida hecha, cosa que quizás jóvenes a
-
-559
-00:19:40,760 --> 00:19:45,720
-Barcelona con mi edad quizás no se lo podrían permitir, pero claro, sigo estando
-
-560
-00:19:45,720 --> 00:19:46,720
-un poco lejos.
-
-561
-00:19:46,720 --> 00:19:53,480
-Aquí donde los griegos, claro, cerca tienen países un poco, están un poco aislados, ¿no?, de
-
-562
-00:19:53,480 --> 00:19:57,020
-el resto de la Europa Unión-europea, tienen por una parte Turquía, que no se acaban de llevar
-
-563
-00:19:57,020 --> 00:19:58,020
-muy bien.
-
-564
-00:19:58,020 --> 00:19:59,020
-Nada.
-
-565
-00:19:59,020 --> 00:20:01,520
-Bulgaria, que también es un país muy desconocido, muy diferente culturalmente.
-
-566
-00:20:01,520 --> 00:20:03,600
-Macedonia, que están enfadados por el tema del nombre, norte Macedonia.
-
-567
-00:20:03,600 --> 00:20:04,600
-No, ni te lo imaginas.
-
-568
-00:20:04,600 --> 00:20:05,440
-¿Es más fuerte de lo que pensábamos?
-
-569
-00:20:05,440 --> 00:20:06,440
-Mucho más.
-
-570
-00:20:06,600 --> 00:20:07,600
-Es muy fuerte.
-
-571
-00:20:07,600 --> 00:20:08,600
-Claro, tú vives en Macedonia.
-
-572
-00:20:08,600 --> 00:20:09,600
-Esto es Macedonia.
-
-573
-00:20:09,600 --> 00:20:10,600
-Esto es Macedonia, claro.
-
-574
-00:20:10,600 --> 00:20:11,600
-Nosotros somos Macedonia.
-
-575
-00:20:11,600 --> 00:20:12,600
-Hablemos de ello.
-
-576
-00:20:12,600 --> 00:20:13,600
-Ellos no son Macedonia.
-
-577
-00:20:13,600 --> 00:20:19,040
-Ellos, es un país que se llaman Macedonia del norte, ellos quieren decir Macedonia, pero
-
-578
-00:20:19,040 --> 00:20:24,040
-son eslavos, no son, entre comillas, descendientes de los antiguos macedonios.
-
-579
-00:20:24,040 --> 00:20:26,040
-Entonces, ¿por qué se quieren llamar de esta manera?
-
-580
-00:20:26,040 --> 00:20:30,840
-Porque la antigua Macedonia quizás llegaba hacia aquella zona, y también defienden que, con
-
-581
-00:20:30,840 --> 00:20:35,600
-eso nos pelearíamos, bueno, con ellos, con los griegos, conmigo no, que Alexandre, en catalán
-
-582
-00:20:35,600 --> 00:20:36,600
-Es Alejandro Magno.
-
-583
-00:20:36,600 --> 00:20:41,600
-Era de ellos, cosa que no pueden aceptar nunca en la vida aquí.
-
-584
-00:20:41,600 --> 00:20:44,600
-Pero tiene parte de verdad, seguro, si lo dicen será o no.
-
-585
-00:20:44,600 --> 00:20:48,600
-Porque todo era Macedonia, y supongo que en aquella época no debían saber si es nacido
-
-586
-00:20:48,600 --> 00:20:50,600
-en Salónica o es un poco más allá.
-
-587
-00:20:50,600 --> 00:20:53,600
-Pero no, con lo de Macedonia lo llevan muy mal.
-
-588
-00:20:53,600 --> 00:20:54,600
-Muy, muy mal.
-
-589
-00:20:54,600 --> 00:20:58,600
-Y aquí, ahora que me comentabas lo de Turquía, aquí el servicio militar es obligatorio.
-
-590
-00:20:58,600 --> 00:21:03,600
-Es uno de los países más potentes militarmente de Europa, creo que Grecia.
-
-591
-00:21:03,600 --> 00:21:05,600
-Sí, básicamente por eso que comentabas con Turquía.
-
-592
-00:21:05,600 --> 00:21:13,600
-Claro, aquí necesitan, o ellos siempre están en peligro, que no vengan, bueno, quizás, no sé hasta qué punto es tan grave, pero...
-
-593
-00:21:13,600 --> 00:21:14,600
-Un poco paranoicos, quizá.
-
-594
-00:21:14,600 --> 00:21:21,600
-No sé, no sé. Pero que no vengan los turcos, entonces, aquí es más o menos un año de mili,
-
-595
-00:21:21,600 --> 00:21:27,600
-y si les toca una isla y estás seis meses que no ves nada más, quizás son siete u ocho meses.
-
-596
-00:21:27,600 --> 00:21:34,600
-Pero si no, son muy estrictos, no tienen mucho, no están muy exentos, quiero decir que normalmente les toca,
-
-597
-00:21:34,600 --> 00:21:39,600
-y hay de todo, también, hay personas que lo hacen con orgullo y hay que, pues, no tanto.
-
-598
-00:21:39,600 --> 00:21:44,600
-Claro, ¿tú hablas griego o estás aprendiendo griego? ¿Tu novio, el catalán, lo está aprendiendo o qué?
-
-599
-00:21:44,600 --> 00:21:45,600
-Está en ello un poco, sí.
-
-600
-00:21:45,600 --> 00:21:46,600
-¿Sí? ¿La enseñas tú?
-
-601
-00:21:46,600 --> 00:21:48,600
-Sí, por supuesto, por supuesto.
-
-602
-00:21:48,600 --> 00:21:55,600
-Ya ha tenido ya la experiencia en la familia con la abuela, quiero decir, ya empieza a... se entienden como pueden, pero lo van entendiendo.
-
-603
-00:21:55,600 --> 00:22:01,600
-Y si no, ahora por su trabajo trabaja en una empresa internacional, y una vez se ve que llamó...
-
-604
-00:22:01,600 --> 00:22:03,600
-Estaban enviando correos a Barcelona o con alguno de ellos.
-
-605
-00:22:04,600 --> 00:22:10,600
-En algún lugar, no era Barcelona, en algún lugar de Catalunya, para que les enviaran un producto y no contestaban en inglés, no contestaban.
-
-606
-00:22:10,600 --> 00:22:15,600
-Llama el primer día en inglés, "me gustaría", y lo colgaron directamente.
-
-607
-00:22:15,600 --> 00:22:24,600
-Vuelve a llamar, hola, buenos días, ah, y el catalán, hola, buenos días, le contestaron, y entonces con su catalán castellano un poco macarroni,
-
-608
-00:22:24,600 --> 00:22:33,600
-porque de eso hace ya tiempo, entonces salió adelante y la persona, claro, es que mi novia es de Lleida, ah, bueno, entonces ya...
-
-609
-00:22:33,600 --> 00:22:34,600
-Pase, pase.
-
-610
-00:22:34,600 --> 00:22:35,600
-Sí.
-
-611
-00:22:35,600 --> 00:22:36,600
-¿Qué necesitas, niño?
-
-612
-00:22:36,600 --> 00:22:37,600
-¿Qué necesitas?
-
-613
-00:22:37,600 --> 00:22:39,600
-Bueno, Meritxell, muchísimas gracias.
-
-614
-00:22:39,600 --> 00:22:40,600
-Gracias.
-
-615
-00:22:40,600 --> 00:22:47,600
-La verdad es que he aprendido mucho de Grecia, creo que sabes mucho, mucho más que algunas otras personas que llevan más años...
-
-616
-00:22:47,600 --> 00:22:48,600
-otros países.
-
-617
-00:22:48,600 --> 00:22:53,600
-Pues nada, un saludo a toda la gente de Lleida que te conoce.
-
-618
-00:22:53,600 --> 00:22:54,600
-Gracias.
-
-619
-00:22:54,600 --> 00:22:55,600
-A toda la gente de Moros y Cristianos.
-
-620
-00:22:55,600 --> 00:22:56,600
-También.
-
-621
-00:22:56,600 --> 00:22:58,600
-La gente de Grecia que les pases el vídeo.
-
-622
-00:22:58,600 --> 00:22:59,600
-A ti también.
-
-623
-00:22:59,600 --> 00:23:00,600
-Yo te puedo pasar los subtítulos en griego.
-
-624
-00:23:00,600 --> 00:23:01,600
-Ah.
-
-625
-00:23:01,600 --> 00:23:02,600
-¿Por qué no sé si la traducción es buena?
-
-626
-00:23:02,600 --> 00:23:03,600
-Ya te lo diré.
-
-627
-00:23:03,600 --> 00:23:04,600
-Puedes despedirte en griego.
-
-628
-00:23:04,600 --> 00:23:05,600
-A ver, ¿cómo sería?
-
-629
-00:23:05,600 --> 00:23:10,600
-Aquí siempre tenemos como el aloha, que es como el Ya-Sas, que sirve por hola y por adiós.
-
-630
-00:23:10,600 --> 00:23:11,600
-De acuerdo.
-
-631
-00:23:11,600 --> 00:23:12,600
-Por lo tanto, Ya-Sas.
-
-632
-00:23:12,600 --> 00:23:13,600
-Ya-Sas.
-
-633
-00:23:13,600 --> 00:23:14,600
-Ya-Sas.
-
-634
-00:23:14,600 --> 00:23:15,600
-Ya-Sas es formal, pero el Ya-Su es informal.
-
-635
-00:23:15,600 --> 00:23:16,600
-Sí, el Ya-Su es el tú.
-
-636
-00:23:16,600 --> 00:23:17,600
-El Ya-Sas es como el usted, un poco.
-
-637
-00:23:17,600 --> 00:23:18,600
-O plural.
-
-638
-00:23:18,600 --> 00:23:19,600
-Pero plural tiene de todos.
-
-639
-00:23:19,600 --> 00:23:20,600
-Ya-Sas.
-
-640
-00:23:20,600 --> 00:23:21,600
-Hasta mañana.
+00:15:57,380 --> 00:15:58,320
+Buenas noches
