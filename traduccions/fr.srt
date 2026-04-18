@@ -1,1023 +1,803 @@
-1
-00:00:05,000 --> 00:00:06,860
-Le tour du monde à pied
-
-2
-00:00:06,860 --> 00:00:09,600
-jour 140 (139)
-
-3
-00:00:09,600 --> 00:00:11,900
-Il ne pleut pas,
-
-4
-00:00:11,900 --> 00:00:12,900
-Comme s'il avait plu.
-
-5
-00:00:12,900 --> 00:00:14,380
-Toutes les plantes sont mouillées.
-
-6
-00:00:14,380 --> 00:00:16,680
-La tente est humide
-
-7
-00:00:16,680 --> 00:00:19,720
-Aujourd'hui, il n'a pas de peinture
-
-8
-00:00:19,720 --> 00:00:21,000
-Il faut faire beaucoup de soleil
-
-9
-00:00:21,000 --> 00:00:22,000
-pour pouvoir sécher,
-
-10
-00:00:22,000 --> 00:00:25,460
-Mais bon, je vais essayer
-
-11
-00:00:25,460 --> 00:00:26,660
-Je vais voir si je peux à un moment donné.
-
-12
-00:00:26,660 --> 00:00:29,520
-Il est 8h18, c'est une bonne nuit
-
-13
-00:00:29,520 --> 00:00:31,060
-Malgré les chiens
-
-14
-00:00:31,060 --> 00:00:32,400
-qui n'arrêtent pas d'aboyer, toi,
-
-15
-00:00:32,400 --> 00:00:35,440
-Jusqu'à l'aube bien
-
-16
-00:00:35,440 --> 00:00:36,560
-Jusqu'à 3 ou 4
-
-17
-00:00:36,560 --> 00:00:38,300
-J'ai dû mettre les bouchons,
-
-18
-00:00:38,300 --> 00:00:39,720
-Heureusement que j'ai mis les bouchons.
+0:00:00.680,0:00:04.000
+Le tour du monde à pied, jour 140.
 
-19
-00:00:39,720 --> 00:00:42,360
-Nous continuons à marcher,
+0:00:05.800,0:00:07.840
+J'aime ce magasin parce que vous pouvez le faire
 
-20
-00:00:42,360 --> 00:00:45,160
-J'espère qu'aujourd'hui sera une "bonne journée"
+0:00:07.840,0:00:15.000
+et enlève un peu la saleté qui finit toujours par s'accumuler entre la tente.
 
-21
-00:00:45,160 --> 00:00:45,780
-comme hier
+0:00:16.080,0:00:18.660
+Un peu d'humidité, pas trop.
 
-22
-00:01:05,520 --> 00:01:07,080
-Par la route
+0:00:19.060,0:00:23.900
+Il est 7h30, c'est plus tôt que d'habitude.
 
-23
-00:01:07,080 --> 00:01:09,240
-C'est la zone
+0:00:24.700,0:00:27.000
+Pour l'instant, personne n'est venu,
 
-24
-00:01:09,240 --> 00:01:09,740
-où
+0:00:27.000,0:00:30.600
+Je vais donc prendre et photographier le terrain maintenant au cas où.
 
-25
-00:01:09,740 --> 00:01:12,460
-Il voulait camper.
+0:00:53.700,0:00:56.440
+Aujourd'hui, je me suis levé tôt parce que je voulais arriver tôt à Kavala,
 
-26
-00:01:12,460 --> 00:01:15,260
-Il ne vient pas en chemin
+0:00:56.440,0:01:00.500
+Mais, écoute, je vais peut-être devoir le faire plus souvent,
 
-27
-00:01:15,260 --> 00:01:17,060
-mais bon, nous allons jeter un oeil
+0:01:00.820,0:01:05.180
+même si c'est paresseux, parce que les champs et les montagnes sont beaux
 
-28
-00:01:17,060 --> 00:01:17,960
-par curiosité
+0:01:05.180,0:01:06.340
+Avec cette lumière de l'aube.
 
-29
-00:01:17,960 --> 00:01:20,320
-Juste avant, il y a quelques temps
+0:01:07.660,0:01:12.560
+Maintenant, il commence à monter, mais quand il était super bas, c'était génial.
 
-30
-00:01:20,320 --> 00:01:21,540
-J'ai vu des campeurs
+0:01:17.160,0:01:19.000
+Voici une ferme de moutons
 
-31
-00:01:21,540 --> 00:01:23,780
-là-bas stationnées juste en face de la mer
+0:01:19.000,0:01:25.280
+J'ai eu un, deux, trois, quatre chiens.
 
-32
-00:01:23,780 --> 00:01:26,640
-Je pense que ça n'aurait pas été un problème
+0:01:26.440,0:01:30.280
+On ne joue pas avec les chiens qui protègent les moutons.
 
-33
-00:01:26,640 --> 00:01:27,640
-Si j'avais passé par là
+0:01:30.280,0:01:33.280
+Donc, je suis en train de reculer avec ce champ.
 
-34
-00:01:27,640 --> 00:01:29,400
-Mais bon, alors
+0:01:33.280,0:01:36.880
+Je dois dire que moins agressif que les autres chiens,
 
-35
-00:01:29,400 --> 00:01:30,720
-Je ne sais pas si j'aurais pu dormir tranquille
+0:01:36.880,0:01:40.440
+chiens de berger que j'avais rencontrés dans certains endroits.
 
-36
-00:01:30,720 --> 00:01:31,900
-Mais il aurait été beau
+0:01:40.440,0:01:46.000
+Je veux dire, ils ne me suivent pas ici, d’autres m’auraient suivi pendant un kilomètre.
 
-37
-00:01:31,900 --> 00:01:34,560
-Ici, face à la mer
+0:01:46.000,0:01:50.200
+Ok, ce n'était pas tant un problème.
 
-38
-00:01:34,560 --> 00:01:39,220
-J'aurais pu m'asseoir à côté de cette banque
+0:01:50.200,0:01:54.020
+Je vais faire le tour ici, je ne vais pas faire un grand tour.
 
-39
-00:01:39,220 --> 00:01:41,400
-Derrière ces arbustes
+0:01:55.820,0:01:58.140
+Je vais continuer sur la route.
 
-40
-00:01:42,780 --> 00:01:43,940
-Il aurait été assez beau.
+0:01:58.140,0:02:00.340
+Je passais par cette ferme, aucun chien ne sortait,
 
-41
-00:01:43,940 --> 00:01:47,020
-Bon, c'est pareil
+0:02:00.340,0:02:02.820
+et je pensais, regarde, ici, cette partie de la Grèce,
 
-42
-00:01:47,020 --> 00:01:48,200
-déjà
+0:02:02.820,0:02:07.540
+sont plus civiques que là-bas à Ioannina.
 
-43
-00:01:59,400 --> 00:02:04,880
+0:02:07.540,0:02:11.060
+Eh bien non, ils ne sont pas des citoyens, ils n'ont pas de chiens enfermés.
 
+0:02:17.060,0:02:20.860
+En faisant le tour de ce champ, comme je vous le dis,
 
-44
-00:02:04,880 --> 00:02:05,720
+0:02:20.860,0:02:24.460
+En me mouillant tous les pieds et une partie de mes jambes,
 
+0:02:25.820,0:02:28.300
+Les chiens me voient de plein fouet.
 
-45
-00:02:05,720 --> 00:02:08,940
+0:02:28.300,0:02:30.540
+Mais pour l'instant, ils ne font qu'aboyer.
 
+0:02:30.540,0:02:32.380
+Voilà, je suis de retour sur la route.
 
-46
-00:02:08,940 --> 00:02:11,620
+0:02:32.380,0:02:40.780
+Maman, je suis plus mouillé que n'importe quel jour où il m'a plu de tout le voyage.
 
+0:02:40.780,0:02:42.500
+Je suis emballé.
 
-47
-00:02:11,620 --> 00:02:22,500
+0:02:42.500,0:02:49.100
+Aujourd'hui, c'est samedi 18 avril et hier, je n'ai chargé que le matin, au bar.
 
+0:02:49.100,0:02:55.620
+J'ai beaucoup utilisé internet, beaucoup de téléphone portable, parce que c'était la route, j'étais un peu ennuyé.
 
-48
-00:02:22,500 --> 00:02:24,740
+0:02:55.820,0:03:01.260
+Cela signifie que je suis à zéro, à 10% sur le mobile et à zéro sur la batterie.
 
+0:03:01.260,0:03:04.420
+Même si je n'ai que deux kilomètres à faire, je m'arrête.
 
-49
-00:02:24,740 --> 00:02:28,700
+0:03:13.940,0:03:16.260
+Le film a changé pour moi, non ?
 
+0:03:16.260,0:03:19.060
+Il fait un peu frais, je porte le maillot.
 
-50
-00:02:28,700 --> 00:02:29,200
+0:03:19.060,0:03:24.100
+Je ne sais pas si ce sera l'inversion thermique, car je vois là-bas au fond comme des nuages.
 
+0:03:24.100,0:03:25.660
+Peut être, peut être.
 
-51
-00:02:29,200 --> 00:02:29,380
+0:03:25.820,0:03:27.820
+Bienvenue, hein ?
 
+0:03:27.820,0:03:29.820
+En tout cas, bienvenue.
 
-52
-00:02:32,400 --> 00:02:38,960
-Les 11 et 10, 14 kilomètres. La clé pour faire des jours de nombreux kilomètres
+0:03:29.820,0:03:35.980
+Eh bien, aujourd'hui, dans la dernière étape, avant d'arriver à Kavala, s'il ne pleut pas, il ne devrait pas pleuvoir en principe,
 
-53
-00:02:38,960 --> 00:02:44,440
-c'est ne pas aller directement à la cafétéria, ne pas s'arrêter tous les deux pour trois,
+0:03:35.980,0:03:41.660
+Je vais faire un bout de montagne, c’est des montagnes qu’il y a un peu là-bas, on ne voit pas en ce moment.
 
-54
-00:02:45,680 --> 00:02:49,780
-mais plutôt tirer le plus possible le matin, s'arrêter un moment,
+0:04:01.820,0:04:03.820
+Il y a plusieurs façons de se rendre à Kavala.
 
-55
-00:02:50,100 --> 00:02:53,300
-Puis tirer le plus possible, arrêter de manger et continuer comme ça.
+0:04:03.820,0:04:06.340
+On est sur l'autoroute, il y a un tunnel là-bas, pum.
 
-56
-00:02:54,100 --> 00:02:57,020
-D'accord. Eh bien, je suis arrivé dans un petit village, nous allons prendre un café.
+0:04:06.340,0:04:09.820
+L'autre est sur la route normale, qui continue par là.
 
-57
-00:02:57,020 --> 00:03:02,700
-Bon, eh bien café fait. Il ne fait pas un jour épouvantable, mais j'ai pu sécher la tente.
+0:04:09.820,0:04:12.820
+Ce serait le moyen le plus rapide.
 
-58
-00:03:02,860 --> 00:03:07,420
-Oui, oui, oui, j’ai passé un bon moment là-bas, en la déplaçant, en lui donnant un peu d’air, en la suspendant,
+0:04:12.820,0:04:14.820
+La plus ennuyeuse aussi.
 
-59
-00:03:07,820 --> 00:03:11,560
-et j'ai réussi. Nous continuons notre chemin.
+0:04:14.820,0:04:17.820
+L'autre est sur le chemin de la montagne.
 
-60
-00:03:12,600 --> 00:03:16,460
-Et tout à coup, en marchant par ici, je rencontre ce lion.
+0:04:17.820,0:04:20.820
+Et, bon, alors je vais par ici. Je ne sais pas comment ce sera.
 
-61
-00:03:17,640 --> 00:03:22,640
-C'est très grand, hein? Et c'est comme si cela n'avait pas beaucoup de rapport avec ce que nous avons vu de la Grèce,
+0:04:20.820,0:04:23.820
+Je ne sais pas si c'est une piste, je ne sais pas si c'est un chemin, je ne sais pas si c'est...
 
-62
-00:03:22,640 --> 00:03:24,020
-C'était à l'époque byzantine, n'est-ce pas ?
+0:04:23.820,0:04:27.820
+asphalté comme ça, mais nous allons le découvrir.
 
-63
-00:03:24,740 --> 00:03:26,640
-J'ai fait des recherches et...
+0:04:34.820,0:04:38.820
+Il marche sur une route asphaltée où personne ne passe.
 
-64
-00:03:27,020 --> 00:03:29,560
-C'est le lion d'Amphipolis.
+0:04:38.820,0:04:42.820
+Mais quelle vue! Quelle vue!
 
-65
-00:03:30,500 --> 00:03:35,240
-Amphipolis est la ville qui se trouvait ici, dans cette région, il y a de nombreuses années, dans la Grèce antique.
+0:04:42.820,0:04:44.820
+Nous avons des montagnes enneigées au fond,
 
-66
-00:03:35,760 --> 00:03:41,480
-Et ce lion date, dit-on, du IVe siècle avant Jésus-Christ.
+0:04:44.820,0:04:48.820
+Et là, devant une plaine où j’imagine que ce seront des champs de riz, n’est-ce pas ?
 
-67
-00:03:43,040 --> 00:03:46,640
-Il y a 2400 ans. Dieu-n'hi-do.
+0:04:48.820,0:04:50.820
+Parce que tout est inondé.
 
-68
-00:03:47,540 --> 00:03:51,280
-Et bien, qu'est-il arrivé ici? Comment est-il encore là? A-t-il duré toutes ces années?
+0:04:50.820,0:04:52.820
+Comme c'est beau, toi !
 
-69
-00:03:51,280 --> 00:03:56,140
-En 1910, des archéologues,
+0:04:52.820,0:04:55.820
+Après, on verra la mer.
 
-70
-00:03:57,020 --> 00:04:01,520
-britanniques, ou des soldats britanniques, ont trouvé des débris éparpillés, jetés
+0:04:55.820,0:05:00.820
+Nous continuons à avancer, maintenant nous marchons vers là pour changer de versant,
 
-71
-00:04:01,520 --> 00:04:06,920
-et ils ont dit, "Qu'est-ce qu'on en fait? Qu'est-ce que c'est?" Et vingt ans plus tard, en l'an 1930,
+0:05:00.820,0:05:03.820
+La Grèce n’a pas fini de nous surprendre avec ses paysages.
 
-72
-00:04:06,920 --> 00:04:11,540
-décidé, quelques archéologues ont décidé de le restaurer. Et, bon, ils ont commencé à
+0:05:03.820,0:05:08.820
+Parce que nous sommes, je dirais, à 100 ou 200 mètres au-dessus du niveau de la mer
 
-73
-00:04:11,540 --> 00:04:16,580
-assembler les pièces et tout, et, bon, ils ont réussi à faire la reconstruction de ce lion,
+0:05:08.820,0:05:12.820
+Et avec ces champs et ces pins, on dirait que nous sommes un peu en haute montagne, n’est-ce pas ?
 
-74
-00:04:16,580 --> 00:04:23,660
-le lion d'Amphipolis. Il est en marbre et, théoriquement, c'est une sculpture funéraire.
+0:05:12.820,0:05:14.820
+Bon, plus ou moins.
 
-75
-00:04:23,660 --> 00:04:26,660
-Eh bien, il représente une tombe de, on ne sait pas...
+0:05:14.820,0:05:17.820
+Plus ou moins. Bon, bon, très bien.
 
-76
-00:04:26,660 --> 00:04:31,000
-très bien de qui. Bon, toi, écoute, je ne m'attendais pas à trouver ça ici, hein?
+0:05:35.801,0:05:38.820
+Nous avons ici ce qui ressemble à un refuge libre.
 
-77
-00:05:15,660 --> 00:05:20,020
-Il est presque 3, 28 km et pic. Il fait chaud, hein?
+0:05:38.820,0:05:43.820
+Jetons un coup d'oeil. J'aime toujours voir les abris libres, pour voir comment ils sont.
 
-78
-00:05:21,520 --> 00:05:25,920
-Avec cette capuche, il me protège de ne pas me brûler la nuque,
+0:05:43.820,0:05:47.820
+Nous avons la porte ouverte, ou plutôt nous n’avons pas de porte.
 
-79
-00:05:25,920 --> 00:05:30,720
-Mais oui, bien sûr, cette zone me donne un peu de chaleur et il fait chaud, il fait chaud.
+0:05:47.820,0:05:51.820
+Et quoi d'autre? Ici, à l'intérieur... rien.
 
-80
-00:05:30,840 --> 00:05:34,560
-J'espère pouvoir bientôt changer de système, tu verras.
+0:05:52.820,0:05:54.820
+Un banquet. Non, c'est bien, hein?
 
-81
-00:05:35,560 --> 00:05:38,220
-Beaucoup de kilomètres à parcourir pour l'heure
+0:05:54.820,0:05:56.820
+C'est bien, parce que...
 
-82
-00:05:38,220 --> 00:05:42,940
-et bientôt je m'arrêterai un peu pour manger et me reposer,
+0:05:56.820,0:06:00.820
+Je mettrais ici le tapis et c'est tout. Sans plus.
 
-83
-00:05:43,080 --> 00:05:47,040
-Je ne sais pas comment ça va se passer en été, non ?
+0:06:00.820,0:06:03.820
+Si j'avais été coincé ici...
 
-84
-00:05:47,860 --> 00:05:49,320
-Oui, je suis déjà dans ces zones de souffrance.
+0:06:03.820,0:06:05.820
+J'aurais dû dormir ici, oui.
 
-85
-00:05:50,280 --> 00:05:53,820
-La bonne chose est qu'après Istanbul, je me tourne vers le nord de la Turquie
+0:06:05.820,0:06:07.820
+Allez, allons-y.
 
-86
-00:05:53,820 --> 00:05:57,820
-Je l'ai déjà vu plusieurs fois, mais le nord de la Turquie est assez froid.
+0:06:12.820,0:06:15.820
+Il y a beaucoup d'arbres abattus, il y a beaucoup d'arbres ici sur la route,
 
-87
-00:05:58,480 --> 00:06:02,700
-Quand vous y arriverez, ce sera en juin, il ne fera pas froid de "neige",
+0:06:15.820,0:06:18.820
+et je suppose que ce qui se passe, c'est qu'une entreprise vient les couper
 
-88
-00:06:03,080 --> 00:06:08,200
-J'espère que les températures seront un peu plus sous contrôle.
+0:06:18.820,0:06:20.820
+Une autre à ramasser.
 
-89
-00:06:08,900 --> 00:06:10,060
-En tout cas, je n'ai pas d'eau.
+0:06:20.820,0:06:21.820
+Alors, regarde, regarde,
 
-90
-00:06:11,120 --> 00:06:14,740
-Je n'ai pas bien calculé et le bar où je suis allé au début n'était pas rempli
+0:06:21.820,0:06:24.820
+qui ont une sorte de plaquette, tous,
 
-91
-00:06:14,740 --> 00:06:18,180
-Depuis une heure et demie, je n'ai plus d'eau.
+0:06:24.820,0:06:27.820
+Avec un chiffre et une lettre.
 
-92
-00:06:18,760 --> 00:06:21,760
-Ce n'est pas un drame, mais faites attention à cela, hein? Méfiez-vous de cela.
+0:06:27.820,0:06:31.820
+Tout est bien rangé, hein? Je n'avais jamais vu cela.
 
-93
-00:06:22,360 --> 00:06:23,040
-Je suis arrivé au village.
+0:06:50.786,0:06:52.820
+Je n'utilise jamais cette méthode.
 
-94
-00:06:23,820 --> 00:06:26,480
-Il y a beaucoup de bars et de restaurants dans cette ville pour être si petit, il y en a beaucoup.
+0:06:52.820,0:06:54.820
+C'est ce qu'on appelle la vue du directeur.
 
-95
-00:06:27,020 --> 00:06:31,280
-Mais hier, j'ai acheté ce pain de Lidl, qui a l'air assez bon.
+0:06:54.820,0:06:56.820
+Vous pouvez voir ma réaction,
 
-96
-00:06:32,480 --> 00:06:33,400
-Alors je dois le manger.
+0:06:56.820,0:06:58.820
+Parce que, juste après cette ascension,
 
-97
-00:06:33,660 --> 00:06:40,160
-J'ai aussi acheté ce saucisson, qui a aussi une belle apparence.
+0:06:58.820,0:06:59.820
+On voit d'abord la mer.
 
-98
-00:06:40,160 --> 00:06:44,800
-J'ai acheté quelques sodas et un yaourt.
+0:06:59.820,0:07:00.820
+Allons voir...
 
-99
-00:06:45,480 --> 00:06:46,660
-Alors je vais manger.
+0:07:00.820,0:07:02.820
+Ho-ho-ho-ho!
 
-100
-00:06:51,400 --> 00:06:53,520
-5 heures du matin, en marchant
+0:07:02.820,0:07:03.820
+Oh, et bien sûr que oui !
 
-101
-00:06:53,820 --> 00:07:08,260
-par une zone avec des montagnes à gauche et des oliviers et à droite, puis des champs, une route assez calme, passant quelques voitures et une journée chaude et un poil terne.
+0:07:03.820,0:07:05.820
+Ça ressemble à un lac, non ?
 
-102
-00:07:09,060 --> 00:07:11,960
-Mais c'est une bonne journée. Vraiment peu de plaintes.
+0:07:05.820,0:07:06.820
+Un lac marin.
 
-103
-00:07:12,760 --> 00:07:17,180
-Je profite du manque de vent pour vous raconter un peu de ma vie.
+0:07:06.820,0:07:07.820
+Oh, comme je suis beau!
 
-104
-00:07:17,900 --> 00:07:19,320
-De temps en temps, je vous raconte quelque chose.
+0:07:07.820,0:07:08.820
+Comme il est beau !
 
-105
-00:07:19,500 --> 00:07:23,100
-Je pense que nous sommes restés sur le sujet de la magie, que j'avais joué à...
+0:07:10.627,0:07:11.627
+Bon...
 
-106
-00:07:23,820 --> 00:07:26,780
-Magique et quelques passe-temps que j'avais quand j'étais plus jeune, non?
+0:07:12.937,0:07:13.937
+Très bien, toi !
 
-107
-00:07:27,480 --> 00:07:29,920
-Et cela coïncidait assez bien avec l'époque de l'Uni.
+0:07:26.820,0:07:31.820
+Nous continuons à marcher dans cet environnement.
 
-108
-00:07:30,700 --> 00:07:31,900
-Alors, parlons de ce sujet.
+0:07:31.820,0:07:34.820
+J'adore, j'adore.
 
-109
-00:07:32,480 --> 00:07:36,760
-J’ai eu de bonnes notes au lycée et j’ai pu choisir la carrière que je voulais.
+0:07:34.820,0:07:37.820
+Cela semble logique, mais quand vous marchez dans de si beaux endroits
 
-110
-00:07:38,320 --> 00:07:44,380
-J'aimais beaucoup l'informatique, mais en informatique, j'ai pensé que ce serait quelque chose qui, bon,
+0:07:37.820,0:07:41.820
+Ça va, parce que la route est plus rapide.
 
-111
-00:07:44,780 --> 00:07:46,380
-Tu devrais étudier toute ta vie, non ?
+0:07:41.820,0:07:44.820
+Pas besoin d'apporter de la musique aujourd'hui, je ne porte pas d'écouteurs,
 
-112
-00:07:46,380 --> 00:07:53,000
-te renouvelant et ainsi, et j'ai préféré quelque chose qui, je ne sais pas, ne
+0:07:44.820,0:07:47.820
+Parce que le paysage en lui-même est déjà un divertissement.
 
-113
-00:07:53,000 --> 00:07:58,140
-J’ai toujours étudié, parce que je n’aimais pas vraiment étudier, et j’ai appris des choses nouvelles et des choses comme ça.
+0:07:47.820,0:07:50.820
+Le seul problème, c'est que ça ne durera pas longtemps.
 
-114
-00:07:58,140 --> 00:08:05,140
-Et j'ai choisi celle qui était alors... avait la réputation d'être la meilleure carrière, qui était l'ingénierie des routes et des ports.
+0:07:50.820,0:07:55.385
+Je pense qu'il reste moins de 10 km pour finir la journée.
 
-115
-00:08:05,140 --> 00:08:13,120
-Cela s'est avéré une erreur a posteriori, parce que l'informatique est devenue la meilleure course.
+0:07:56.717,0:07:58.820
+Et ces montagnes ne donnent pas tant que ça.
 
-116
-00:08:13,120 --> 00:08:20,880
-Tout le monde sait que les ingénieurs en informatique et en informatique en général, au moins jusqu’à présent, jusqu’à l’IA, étaient très bien valorisés.
+0:07:58.820,0:08:00.820
+Mais, oh, très beau.
 
-117
-00:08:20,880 --> 00:08:22,880
-Et les ingénieurs...
+0:08:04.820,0:08:09.820
+Au fait, ils me communiquent les personnes qui suivent mes données
 
-118
-00:08:23,000 --> 00:08:25,000
-Les routes ont beaucoup baissé.
+0:08:09.820,0:08:12.820
+Hier, oui, c'était un record.
 
-119
-00:08:25,000 --> 00:08:28,080
-Coïncidences de la vie. Mais bon, nous en parlons plus tard.
+0:08:12.820,0:08:17.820
+48,86 km record pour le moment du tour du monde à pied.
 
-120
-00:08:28,080 --> 00:08:38,040
-Alors, eh bien, qu'est-ce qui se passe? C'est une carrière qui était réputée pour être très difficile à juste titre, c'est-à-dire très difficile, très difficile.
+0:08:20.820,0:08:23.820
+En marchant maintenant dans mon endroit préféré du monde,
 
-121
-00:08:38,040 --> 00:08:47,040
-Je crois que les professeurs et l’université en général étaient si fiers que ce soit si difficile et que cela mettait donc les examens et tout le reste,
+0:08:23.820,0:08:24.820
+qui est...
 
-122
-00:08:47,040 --> 00:08:51,040
-qu'il était difficile à dessein de faire partir plus ou moins de la moitié des élèves
+0:08:24.820,0:08:26.820
+La crête, la crête d'une montagne.
 
-123
-00:08:51,040 --> 00:08:52,040
-Il était difficile à dessein de faire partir plus ou moins la moitié des élèves.
+0:08:26.820,0:08:28.820
+J'adore me promener par ici.
 
-124
-00:08:52,040 --> 00:08:53,000
-Première et deuxième année.
+0:08:28.820,0:08:32.820
+Pour ceux qui ne le savent pas, la crête serait la partie de la montagne sur la crête,
 
-125
-00:08:53,000 --> 00:08:55,000
-Première et deuxième année.
+0:08:32.820,0:08:36.820
+La partie la plus haute, et à gauche tu as comme une descente, n'est-ce pas ?
 
-126
-00:08:55,000 --> 00:08:59,000
-Les matières de première année n'avaient rien à voir avec les choses pratiques de la carrière.
+0:08:36.820,0:08:39.820
+et à droite aussi. Vous allez comme au milieu.
 
-127
-00:08:59,000 --> 00:09:05,000
-C'était comme des choses très théoriques en mathématiques, en physique et ainsi de suite.
+0:08:39.820,0:08:41.820
+C'est très agréable de se promener ici.
 
-128
-00:09:05,000 --> 00:09:11,000
-Et bon, ils étaient conçus pour ça, pour faire partir la moitié, et oui, oui, la première et la deuxième année, ils étaient à mi-chemin.
+0:08:41.820,0:08:43.820
+Surtout un jour comme aujourd'hui où il n'y a pas de vent, hein?
 
-129
-00:09:11,000 --> 00:09:22,040
-C’était l’adaptation difficile et facile à la fois parce que, bien sûr, si vous vous souvenez quand je vous ai parlé du lycée, j’étais dans un institut où,
+0:08:43.820,0:08:45.820
+C'est génial.
 
-130
-00:09:22,040 --> 00:09:28,040
-90% étaient hispanophones. Et je suis allé à l'université où la plupart étaient catalanophones.
+0:08:45.820,0:08:48.820
+J'en profite pour vous dire une chose,
 
-131
-00:09:28,040 --> 00:09:33,040
-Et cela a été un changement très positif, pouvoir parler normal, imaginez-vous, en catalan avec tout le monde.
+0:08:48.820,0:08:50.820
+C'est que, bon, je vous ai dit, non?
 
-132
-00:09:33,040 --> 00:09:37,040
-C'était très bien, mais bien sûr, je vous le dis, la course était très difficile.
+0:08:50.820,0:08:53.820
+J'ai dû devenir indépendant pour...
 
-133
-00:09:37,040 --> 00:09:43,040
-Eh bien, j'ai réussi à passer la première année fatidique, et oui, oui, ils ont été avalés à moitié.
+0:08:53.820,0:08:55.820
+Je suis en train de dépasser le salaire minimum interprofessionnel
 
-134
-00:09:43,040 --> 00:09:50,040
-Et bien sûr, je suis passé de l'école de l'intelligent à la carrière d'être normal, médiocre.
+0:08:55.820,0:08:58.820
+Et bien sûr, il faut payer des impôts
 
-135
-00:09:50,040 --> 00:09:51,040
-Et bien sûr, je suis passé de l'école de l'intelligent à la carrière d'être normal, médiocre.
+0:08:58.820,0:09:03.820
+Les salariés doivent faire leur déclaration trimestrielle.
 
-136
-00:09:51,040 --> 00:09:58,040
-Donc, de la moitié qui nous restait, j'étais, dirions-nous, vers le bas. C'était "des idiots dont nous sommes restés".
+0:09:03.820,0:09:05.820
+J’ai été salarié toute ma vie.
 
-137
-00:09:58,040 --> 00:10:05,040
-Et cela: qu'est-il arrivé? Qu'est-ce que cela implique? Eh bien, ce qui restait de la course,
+0:09:05.820,0:09:07.820
+Je ne savais rien de cela.
 
-138
-00:10:05,040 --> 00:10:10,040
-J'ai eu du mal à l'enlever.
+0:09:07.820,0:09:12.820
+Et, bon, chaque trimestre, vous devez donc présenter l'IRPF et la TVA, enfin.
 
-139
-00:10:10,040 --> 00:10:17,040
-Ça a pris beaucoup, beaucoup d’années, d’études, de souffrir, ces choses-là, vous savez, vous qui avez étudié une carrière comme elle est.
+0:09:12.820,0:09:15.820
+Cela pourrait être plus facile, non ?
 
-140
-00:10:17,040 --> 00:10:19,040
-Et là encore plus.
+0:09:15.820,0:09:19.820
+C'est assez compliqué parce que vous devez collecter la TVA, je ne sais pas quoi,
 
-141
-00:10:19,040 --> 00:10:21,040
-Mais bon, j'ai réussi.
+0:09:19.820,0:09:22.820
+Déclarer les impôts que vous pensez avoir gagnés, alors...
 
-142
-00:10:21,040 --> 00:10:23,040
-J'ai réussi.
+0:09:22.820,0:09:27.820
+l'année suivante, on corrige ça, je ne sais pas trop comment ça se passe...
 
-143
-00:10:23,040 --> 00:10:27,040
-Ces dernières années, j’ai fini par m’effondrer.
+0:09:27.820,0:09:32.820
+Enfin, c'est... je comprends maintenant les plaintes que font les indépendants,
 
-144
-00:10:27,040 --> 00:10:33,040
-J'ai stagné par manque de motivation, surtout, et aussi parce que c'est compliqué.
+0:09:32.820,0:09:34.820
+Ils se plaignent toujours, non ?
 
-145
-00:10:33,040 --> 00:10:39,040
-Si vous vous souvenez, en 2007-2008, une crise très bête a commencé, qui a touché tout le monde.
+0:09:34.820,0:09:39.820
+Mais je vais aussi vous dire qu’il y a beaucoup d’avantages à être autonome, n’est-ce pas ?
 
-146
-00:10:39,040 --> 00:10:46,040
-Pour ceux d’entre vous qui sont très jeunes et qui ne se souviennent pas de cela, c’était une crise économique pire que le coronavirus.
+0:09:39.820,0:09:42.820
+Les indépendants se plaignent toujours, mais ils ne disent pas ce qui est bon.
 
-147
-00:10:46,040 --> 00:10:49,040
-Elle touche de nombreux secteurs, notamment la construction.
+0:09:42.820,0:09:45.820
+Tu as toute la liberté du monde.
 
-148
-00:10:49,040 --> 00:10:52,040
-C'est dans le secteur de l'ingénierie routière.
+0:09:45.820,0:09:47.820
+Vous pouvez faire un peu ce que vous voulez.
 
-149
-00:10:52,040 --> 00:10:55,040
-Il y avait très peu d’opportunités d’emploi.
+0:09:47.820,0:09:50.820
+Si un jour tu veux travailler, si un jour tu veux travailler, tu travailles.
 
-150
-00:10:55,040 --> 00:11:00,040
-Donc, il y avait peu de motivation pour vraiment terminer la course.
+0:09:50.820,0:09:52.820
+Si un jour non, alors non.
 
-151
-00:11:00,040 --> 00:11:05,040
-Si vous ajoutez à cela que j'étais de retour d'Erasmus et que j'avais une dépression post-Erasmus,
+0:09:52.820,0:09:54.820
+Vous n'avez pas d'horaires, vous êtes votre propre patron.
 
-152
-00:11:05,040 --> 00:11:12,040
-J’ai eu beaucoup de mal à me remettre du travail de fin d’études et de la thèse, il y avait deux choses à faire.
+0:09:54.820,0:09:56.820
+C'est très bien, c'est très bien.
 
-153
-00:11:12,040 --> 00:11:14,040
-J’ai abandonné, j’ai fait d’autres choses.
+0:09:56.820,0:09:58.820
+Tu ne dépends de personne et personne ne dépend de toi.
 
-154
-00:11:14,040 --> 00:11:17,040
-Un peu... un peu
+0:09:58.820,0:10:00.820
+Vous voulez avoir votre propre entreprise?
 
-155
-00:11:17,040 --> 00:11:20,040
-Juste pour aller tirer pour terminer la course, comme travailler sur le 112.
+0:10:00.820,0:10:02.820
+Eh bien, j'ai de bonnes nouvelles.
 
-156
-00:11:20,040 --> 00:11:27,040
-Oui, j'ai travaillé en prenant des appels au 112 pendant que j'étudiais pour terminer mes études.
+0:10:02.820,0:10:04.820
+Clean & Iron cherche des franchisés.
 
-157
-00:11:27,040 --> 00:11:31,040
-Et un travail très fou que j'ai eu qui était de "trader de bourse".
+0:10:04.820,0:10:08.820
+Vous savez déjà que Clean & Iron est une entreprise de nettoyage à domicile,
 
-158
-00:11:31,040 --> 00:11:33,040
-Mais trader de bourse qui me payait.
+0:10:08.820,0:10:11.820
+qui vient chez vous, vous nettoie et vous repasse également vos vêtements.
 
-159
-00:11:33,040 --> 00:11:36,040
-Bon, on en reparlera un autre jour si tu veux.
+0:10:11.820,0:10:13.820
+Clean & Iron.
 
-160
-00:11:36,040 --> 00:11:39,040
-Ce n'était pas bien. Parce que je n'en avais aucune idée.
+0:10:13.820,0:10:16.820
+Eh bien, ils recherchent des franchisés dans toute la Catalogne,
 
-161
-00:11:39,040 --> 00:11:45,040
-Bref, comme je l’ai laissé si longtemps, j’ai été saisi par quelque chose qui s’appelle le Plan Bologne.
+0:10:16.820,0:10:18.820
+C'est bien parce que c'est très business.
 
-162
-00:11:45,040 --> 00:11:46,040
-Certains se souviendront :
+0:10:18.820,0:10:22.820
+qui ont déjà étudié, il y a longtemps qu'ils sont là, depuis 1987,
 
-163
-00:11:46,040 --> 00:11:53,040
-C'est une adaptation des programmes de carrière à ce qui serait la norme européenne.
+0:10:22.820,0:10:24.820
+Et ça fonctionne déjà.
 
-164
-00:11:53,040 --> 00:11:58,040
-En Europe, les universités, les carrières, sont de 4 ans.
+0:10:24.820,0:10:26.820
+C’est un secteur qui n’est pas à la mode.
 
-165
-00:11:58,040 --> 00:12:01,040
-En France, il y en avait 3 et il y en avait 5.
+0:10:26.820,0:10:29.820
+Parce que tout le monde aura toujours besoin de nettoyer sa maison
 
-166
-00:12:01,040 --> 00:12:05,040
-Celui que je faisais était l'ingénierie des routes, des canaux et des ports, était de 5.
+0:10:29.820,0:10:31.820
+et repasser ses chemises.
 
-167
-00:12:05,040 --> 00:12:08,040
-Il fallait le réduire à 4.
+0:10:31.820,0:10:34.820
+Comme vous le savez, ils me soutiennent depuis presque jour 1
 
-168
-00:12:08,040 --> 00:12:13,040
-Ensuite, vous pouvez faire un master optionnel a posteriori.
+0:10:34.820,0:10:37.820
+autour du monde à pied, et ils sont très attentifs.
 
-169
-00:12:13,040 --> 00:12:15,040
-Ce changement m'a touché.
+0:10:37.820,0:10:40.820
+Si vous êtes curieux et que vous souhaitez en savoir plus,
 
-170
-00:12:15,040 --> 00:12:22,040
-J’ai donc dû commencer, comme je l’ai dit, à l’ingénierie des routes et j’ai terminé en génie civil.
+0:10:40.820,0:10:42.820
+Vous pouvez leur demander directement.
 
-171
-00:12:22,040 --> 00:12:26,040
-Ils ont changé le nom de la course parce qu'elle est connue dans le monde entier comme l'ingénierie civile
+0:10:42.820,0:10:46.820
+Dans la description, vous avez le lien qui vous mène à leur site web
 
-172
-00:12:26,040 --> 00:12:32,040
-En France, on l'appelle Pons-et-José.
+0:10:46.820,0:10:49.820
+Pour lire un peu tout ça et les interroger.
 
-173
-00:12:32,040 --> 00:12:39,040
-Quoi qu’il en soit, j’ai été piqué par ce changement et j’ai terminé mes études d’Ingénieur Civil.
+0:10:49.820,0:10:52.820
+Et pour le reste, si vous voulez louer un service de Clean & Iron,
 
-174
-00:12:39,040 --> 00:12:43,040
-Et je n'ai pas fait le master. J'étais fatigué d'étudier et je n'avais pas à faire le master.
+0:10:52.820,0:10:55.820
+Utilisez ce code ici, sur votre site web,
 
-175
-00:12:43,040 --> 00:12:48,040
-Combien de temps cela a-t-il pris? J'ai pris plus de 10 ans.
+0:10:55.820,0:10:59.820
+et vous aurez un... je ne me souviens pas quel rabais, mais je le mets ici.
 
-176
-00:12:48,040 --> 00:12:51,040
-10 ans et demi ou quelque chose comme ça. Un passé. Un passé.
+0:11:19.756,0:11:21.820
+On continue à caréner, on continue à caréner.
 
-177
-00:12:51,040 --> 00:12:55,040
-En fait, il y a eu un moment où j'ai dit, putain, c'est que je n'y arriverai pas. Je n'y arriverai pas.
+0:11:21.820,0:11:24.820
+Là où je suis maintenant seul, et nous allons là-bas, nous allons là-bas,
 
-178
-00:12:55,040 --> 00:12:59,040
-Et oui, au final, je l'ai eu.
+0:11:24.820,0:11:28.820
+et puis à droite vous voyez déjà Kavala toutes ces maisons blanches.
 
-179
-00:12:59,040 --> 00:13:07,040
-Est-ce que cela a eu un impact sur ma vie professionnelle ?
+0:11:28.820,0:11:31.820
+Mais je vois qu'il pleut déjà, n'est-ce pas ?
 
-180
-00:13:07,040 --> 00:13:11,040
-Oui, parce que si vous avez le diplôme supérieur, l'ingénierie des routes, des canaux et des ports,
+0:11:31.820,0:11:35.820
+J'espère que ça ne va pas m'embêter, parce que ça ressemble à une belle averse, hein?
 
-181
-00:13:11,040 --> 00:13:18,040
-Certains emplois sont accessibles et certains ne le sont pas avec le génie civil.
+0:11:35.820,0:11:37.820
+On court, on descend.
 
-182
-00:13:18,040 --> 00:13:22,040
-Et dans certains emplois, vous payez plus, en particulier dans le secteur public.
+0:11:37.820,0:11:39.820
+Bon, pas littéralement, hein ?
 
-183
-00:13:22,040 --> 00:13:28,040
-Dans le secteur public, si vous êtes ingénieur supérieur, vous gagnez plus que si vous êtes ingénieur, bon, diplômé, normal.
+0:11:39.820,0:11:41.820
+Je ne veux pas courir, je me blesse.
 
-184
-00:13:28,040 --> 00:13:34,040
-Et, bon, certaines choses, parce que cela n'affecte pas. À certains emplois du secteur privé, parce que cela n'affecte pas.
+0:11:49.350,0:11:50.820
+Oui, oui, la pluie m'a attrapée.
 
-185
-00:13:34,040 --> 00:13:39,040
-Sur le moment, cela m’a beaucoup affecté, mais après, j’ai dit, regarde, écoute,
+0:11:50.820,0:11:52.820
+Ce n'est pas une grosse tempête pour le moment, mais elle tombe, n'est-ce pas ?
 
-186
-00:13:39,040 --> 00:13:45,040
-chacun a son chemin dans la vie. Il y a des gens qui le font, la course est super rapide et très bien.
+0:11:52.820,0:11:54.820
+Elle tombe, je ne sais pas si on la voit.
 
-187
-00:13:45,040 --> 00:13:50,040
-Et il y a des gens, donc, même, des gens qui commencent la carrière quand ils ont 30 ans, non? Je ne sais pas.
+0:11:54.820,0:11:56.820
+Je vais mettre l'imperméable.
 
-188
-00:13:50,040 --> 00:13:56,040
-Chacun a son propre chemin. Mon chemin était celui-ci et à la fin, donc, je ne me suis pas trompé.
+0:12:10.820,0:12:12:12.820
+On entend déjà l'autoroute.
 
-189
-00:13:56,040 --> 00:14:01,040
-J'ai trouvé un bon travail après, nous en parlerons. Et maintenant, je suis ici, en train de faire quelque chose qui n'a rien à voir.
+0:12:12.820,0:12:15.820
+Cela signifie que, malheureusement, ce chemin est terminé.
 
-190
-00:14:01,040 --> 00:14:08,040
-Donc, regardez, chacun ce qu'il a. Les dernières années de carrière, je ne pouvais pas me motiver à faire le travail de fin d'études,
+0:12:16.820,0:12:17.820
+Que j'étais en train d'adorer.
 
-191
-00:14:08,040 --> 00:14:14,040
-alors je dirais que ce furent les pires années de ma vie. Parce que, huîtres, je savais que je devais le faire,
+0:12:17.820,0:12:21.820
+J'ai adoré cette forêt, ce jardin.
 
-192
-00:14:14,040 --> 00:14:22,040
-Et je procrastinais, je procrastinais, je procrastinais, et je me sentais comme un poisson qui se mord la queue, n’est-ce pas ?
+0:12:21.820,0:12:26.820
+Je suis sûr qu’ici, dans la saison la plus estivale, ou même dans un mois,
 
-193
-00:14:22,040 --> 00:14:30,040
-C'était comme, je ne sais pas si deux ou trois ans comme ça, fatal. Mais, bien sûr, si vous y pensez froidement,
+0:12:26.820,0:12:29.820
+Tout commence à sécher et ce n’est pas la même chose, n’est-ce pas ?
 
-194
-00:14:30,040 --> 00:14:37,040
-que mon plus grand problème dans la vie, c'est que moi, par "volonté propre",
+0:12:29.820,0:12:30.820
+Très beau.
 
-195
-00:14:37,040 --> 00:14:44,040
-Je n’ai pas pu finir ma carrière, et ça m’angoisse, ça indique donc que je n’ai pas eu beaucoup de problèmes dans la vie, n’est-ce pas ?
+0:12:30.820,0:12:33.820
+Il est recommandé de venir en Grèce en avril.
 
-196
-00:14:44,040 --> 00:14:50,040
-Il y a vraiment des gens qui ont vécu beaucoup plus mal à cause de circonstances extérieures ou quoi que ce soit.
+0:12:33.820,0:12:38.820
+Aujourd'hui, je vais à l'appartement et demain je ne vais pas.
 
-197
-00:14:50,040 --> 00:14:56,040
-Donc oui, j'ai eu de la chance dans ma vie et je n'ai pas eu de problèmes.
+0:12:38.820,0:12:40.820
+Repos demain.
 
-198
-00:14:56,040 --> 00:15:03,040
-C'est tout. La prochaine fois que nous en parlerons, je vous raconterai comment s'est passé Erasmus, qui était assez fou.
+0:12:40.820,0:12:42.820
+Pas de vidéo demain.
 
-199
-00:15:15,040 --> 00:15:24,040
-Les 6 et demi passées et nous avons déjà fait le marathon. Eh bien, nous n'avons plus de couchers de soleil de ceux que nous voyons dans la mer, avec le soleil là-bas,
+0:12:42.820,0:12:43.820
+Faisons un résumé.
 
-200
-00:15:24,040 --> 00:15:34,040
-mais, hé, c'est pas mal, hein, avec cette vue de la vallée, les champs de couleur jaune, de coude, c'est très beau, toi, hein?
+0:12:43.820,0:12:45.820
+Il sortira plus ou moins
 
-201
-00:15:34,040 --> 00:15:36,040
-Combien de kilomètres faisons-nous aujourd'hui? Je ne sais pas.
+0:12:45.820,0:12:49.820
+35-36 km et 600 et pic de dénivelé positif.
 
-202
-00:15:36,040 --> 00:15:41,040
-Puis-je atteindre 50? Je pense que non, je pense que je garde le record pour un autre jour.
+0:12:49.820,0:12:54.820
+Pas trop dur, mais un peu de dénivelé, non ?
 
-203
-00:15:51,040 --> 00:15:58,040
-Je quitte la route sur laquelle je marche depuis quelques heures et je descends vers là, dans la zone des champs,
+0:12:54.820,0:12:55.820
+Très bien.
 
-204
-00:15:58,040 --> 00:16:02,040
-Je vais voir si je trouve un endroit un peu plus caché, comme d'habitude.
+0:12:55.820,0:12:57.820
+deux cafés.
 
-205
-00:16:06,040 --> 00:16:17,040
-Voyons, place il y a, beaucoup. Le problème est de ne pas trouver l'herbe comme ça, si haut, parce que c'est qu'ici on ne peut pas.
+0:12:57.820,0:12:59.820
+Pas de rafraîchissement pour le moment.
 
-206
-00:16:17,040 --> 00:16:24,040
-C’est qu’il y a une autre route là-bas, une rue, et là non, je ne peux pas m’y mettre, parce que je suis trop en vue.
+0:12:59.820,0:13:01.820
+Mais bon, je vais sûrement en prendre un.
 
-207
-00:16:24,040 --> 00:16:31,040
-Tout au plus, là derrière les vignes, mais... je regarde un peu plus.
+0:13:01.820,0:13:03.820
+Pour ce qui est de l'argent, je ne sais pas encore ce que je vais dépenser.
 
-208
-00:16:31,040 --> 00:16:33,040
-Il est 8 heures, je suis à court d'idées.
+0:13:03.820,0:13:05.820
+On verra déjà.
 
-209
-00:16:33,040 --> 00:16:34,040
-.
+0:13:05.820,0:13:07.820
+Pour l'instant, je n'ai parlé à personne.
 
-210
-00:16:34,040 --> 00:16:35,040
-Je vois un champ d'oliviers non clos.
+0:13:07.820,0:13:09.820
+Et des incidents avec des chiens, donc, celui de ce matin,
 
-211
-00:16:35,040 --> 00:16:36,040
-Je vois un champ d'oliviers non clos.
+0:13:09.820,0:13:11.820
+Cela faisait des jours que je n'en avais plus, n'est-ce pas ?
 
-212
-00:16:36,040 --> 00:16:37,040
-Je vois un champ d'oliviers non clos.
+0:13:11.820,0:13:13:13.820
+Nous allons faire un feu de camp portable.
 
-213
-00:16:37,040 --> 00:16:46,040
-Là, au fond, derrière la colonne, il y a comme une ferme ou... quelque chose.
+0:13:13:13.820,0:13:16.820
+Pour ceux qui ne le savent pas, c’est le moment de
 
-214
-00:16:46,040 --> 00:16:52,040
-Mais c'est assez loin. Voyons voir.
+0:13:16.820,0:13:20.820
+où je suis, en théorie, assis près du feu,
 
-215
-00:16:52,040 --> 00:16:59,040
-Pour commencer, l’accès est très rehaussé, cela signifie qu’il ne doit pas venir beaucoup.
+0:13:20.820,0:13:22.820
+Le feu virtuel,
 
-216
-00:16:59,040 --> 00:17:04,040
-Et le champ d'oliviers, ce qui est bien, c'est qu'il n'y a pas d'herbe.
+0:13:22.820,0:13:24.820
+Et je réponds à vos questions.
 
-217
-00:17:04,040 --> 00:17:05,040
-Et le champ d'oliviers, ce qui est bien, c'est qu'il n'y a pas d'herbe.
+0:13:24.820,0:13:26.820
+Aujourd’hui, le feu bouge.
 
-218
-00:17:05,040 --> 00:17:07,040
-Ou alors il en a très peu.
+0:13:26.820,0:13:28.820
+D'accord, on me demande
 
-219
-00:17:07,040 --> 00:17:11,040
-Ces arbres nous protègent de la vue.
+0:13:28.820,0:13:30.820
+plusieurs choses.
 
-220
-00:17:12,040 --> 00:17:14,040
-Il y a un chien qui s'approche un peu.
+0:13:30.820,0:13:32.820
+Je vais voir si j'ai joué à un jeu
 
-221
-00:17:14,040 --> 00:17:16,040
-Et... et ici aussi, nous sommes protégés du chemin.
+0:13:32.820,0:13:34.820
+Après le Magic,
 
-222
-00:17:18,040 --> 00:17:21,040
-Peut-être qu'ils travaillent ici maintenant que je le vois.
+0:13:34.820,0:13:36.820
+Je vous avais dit que j'avais joué à "Magic".
 
-223
-00:17:21,040 --> 00:17:23,040
-Pas maintenant, mais ces jours-ci.
+0:13:36.820,0:13:38.820
+Donc, pour les jeux de cartes et les jeux de table, ceux-ci ne sont pas.
 
-224
-00:17:23,040 --> 00:17:24,040
-Dans le vert de là-bas.
+0:13:38.820,0:13:40.820
+Mais bon, les jeux vidéo, j'y ai joué.
 
-225
-00:17:25,040 --> 00:17:27,040
-Il doit être en train de faire, je ne sais pas, de tailler ou quoi que ce soit.
+0:13:40.820,0:13:42.820
+J'ai beaucoup joué à League of Legends.
 
-226
-00:17:27,040 --> 00:17:29,040
-Non, non, rien, c'est déjà ça.
+0:13:42.820,0:13:46.820
+C'est un jeu multijoueur très populaire.
 
-227
-00:17:29,040 --> 00:17:34,040
-Je me mets ici, à l’une des extrémités du terrain, pour ne pas déranger... et voilà.
+0:13:46.820,0:13:48.820
+C'était Minesinged.
 
-228
-00:17:34,040 --> 00:17:37,580
-48,8 kilomètres sont partis.
+0:13:48.820,0:13:50.820
+Et je suis arrivé au diamant.
 
-229
-00:17:38,420 --> 00:17:41,020
-Je ne sais pas si c'était le record, le record était à 48 et le pic,
+0:13:50.820,0:13:53.820
+La plupart des gens ne savent pas de quoi je parle, mais...
 
-230
-00:17:41,120 --> 00:17:42,800
-Je ne sais pas si je l'ai dépassé ou pas.
+0:13:53.820,0:13:56.820
+Ça va très bien, hein? C'est très bien.
 
-231
-00:17:43,460 --> 00:17:45,340
-Ceux qui ont des statistiques me le diront.
+0:13:56.820,0:13:58.820
+On me demande aussi si j'utilise
 
-232
-00:17:46,260 --> 00:17:48,360
-Quoi qu'il en soit, journée exceptionnelle, non ?
+0:13:58.820,0:14:00.820
+L'intelligence artificielle pour quelque chose.
 
-233
-00:17:48,440 --> 00:17:51,060
-Et je ne me sens pas particulièrement fatigué, j'ai les jambes chargées,
+0:14:00.820,0:14:02.820
+Oui, oui, oui, oui, oui, oui.
 
-234
-00:17:51,960 --> 00:17:55,220
-Deux cafés, trois rafraîchissements.
+0:14:02.820,0:14:04.820
+La plupart des histoires que je vous raconte
 
-235
-00:17:55,500 --> 00:17:57,120
-J'ai parlé à une personne,
+0:14:04.820,0:14:08.820
+je retire les informations de l'IA,
 
-236
-00:17:58,120 --> 00:18:00,460
-pas de problème avec les chiens et l'argent,
+0:14:08.820,0:14:11.820
+J'ai demandé à plusieurs personnes que j'ai.
 
-237
-00:18:00,460 --> 00:18:06,220
-9 euros pour le petit déjeuner et 7 euros pour plusieurs supermarchés.
+0:14:11.820,0:14:14.820
+Et parfois, regardez Wikipédia.
 
-238
-00:18:07,180 --> 00:18:09,420
-Bon, j'ai fini par me mettre un peu au milieu du terrain
+0:14:14.820,0:14:16.820
+mais, bon, souvent par l'IA,
 
-239
-00:18:09,420 --> 00:18:11,620
-parce qu'il était difficile de trouver l'endroit plat
+0:14:16.820,0:14:18.820
+qui vous fait un très bon résumé,
 
-240
-00:18:11,620 --> 00:18:14,280
-Le chien s'est arrêté d'aboyer.
+0:14:18.820,0:14:20.820
+Vous pouvez approfondir, non ?
 
-241
-00:18:15,320 --> 00:18:16,340
-C'est une bonne chose.
+0:14:20.820,0:14:22.820
+Dice, huîtres, vengeance catalane.
 
-242
-00:18:17,160 --> 00:18:21,120
-Eh bien, jour un peu rangé, mais, écoute, pas de vent,
+0:14:22.820,0:14:24.820
+C'est bien beau, mais pourquoi ça arrive ?
 
-243
-00:18:22,980 --> 00:18:25,680
-Il faisait chaud, il faisait chaud, oui, oui, oui.
+0:14:24.820,0:14:28.820
+Qui sont les personnes qui ont participé ?
 
-244
-00:18:25,780 --> 00:18:28,080
-Mais bon, j'ai pu tenir, j'ai pu tenir.
+0:14:28.820,0:14:30.820
+Et, bon, il est assez bien.
 
-245
-00:18:28,520 --> 00:18:30,280
-J'ai hâte de vous montrer la mienne
+0:14:30.820,0:14:32.820
+Il se trompe parfois,
 
-246
-00:18:30,460 --> 00:18:31,620
-T-shirt court,
+0:14:32.820,0:14:36.820
+Vous le savez, il a déjà tort.
 
-247
-00:18:32,520 --> 00:18:34,380
-Je vous le dis tout doucement,
+0:14:36.820,0:14:39.820
+Mais, dans mon expérience, dans les thèmes de l’histoire,
 
-248
-00:18:34,540 --> 00:18:36,760
-Mais je devais l'enseigner cette semaine,
+0:14:39.820,0:14:41.820
+Ce que c'est de regarder Wikipédia
 
-249
-00:18:36,920 --> 00:18:38,800
-Mais bon, nous sommes en train de gérer ça.
+0:14:41.820,0:14:43.820
+juste assez la frapper.
 
-250
-00:18:39,620 --> 00:18:41,100
-Nous avons un certain nombre de problèmes
+0:14:43.820,0:14:44.820
+Il se trompe peu.
 
-251
-00:18:41,100 --> 00:18:43,740
-et, bien, j'espère pour la semaine prochaine
+0:14:44.820,0:14:47.820
+Une autre question que je me pose est de savoir si je dors bien
 
-252
-00:18:43,740 --> 00:18:46,360
-Nous aurons résolu.
+0:14:47.820,0:14:50.820
+Combien de temps pour trouver le sommeil.
 
-253
-00:18:47,060 --> 00:18:48,260
-Demain je vais à Kavala
+0:14:50.820,0:14:52.820
+Eh bien...
 
-254
-00:18:48,260 --> 00:18:51,640
-Demain, nous ferons un peu de montagne.
+0:14:52.820,0:14:55.820
+Non, normalement je vais me coucher à 11h.
 
-255
-00:18:52,340 --> 00:18:52,940
-Voir comment c'est.
+0:14:55.820,0:14:57.820
+11, c'est l'heure de la demi-heure.
 
-256
-00:18:54,000 --> 00:18:54,520
-Bonsoir.
+0:14:57.820,0:14:59.820
+A cette époque de l'année,
+
+0:14:59.820,0:15:01.820
+Dans d'autres pays, j'allais dormir beaucoup plus tôt.
+
+0:15:01.820,0:15:03.820
+A dix heures, mes yeux se sont fermés.
+
+0:15:03.820,0:15:05.820
+Je dors en moyenne 7 heures.
+
+0:15:05.820,0:15:07.820
+J'aimerais dormir 8 heures.
+
+0:15:07.820,0:15:08.820
+Mais, malheureusement,
+
+0:15:08.820,0:15:12.820
+Cela n'arrive pas toujours.
+
+0:15:12.820,0:15:14.820
+Chaque fois que j'enlève mon chapeau
+
+0:15:16.820,0:15:18.820
+Je dois me peigner.
+
+0:15:18.820,0:15:20.820
+Parce que si ça ne me fait pas bizarre comme ça.
+
+0:15:20.820,0:15:22.820
+Oui, oui, ça fait environ 7 heures.
+
+0:15:22.820,0:15:25.820
+Et il y a des jours où je dors d'une traite
+
+0:15:25.820,0:15:28.820
+Il y a des jours où je me réveille
+
+0:15:28.820,0:15:30.820
+A 5 heures, j'ai du mal à dormir.
+
+0:15:30.820,0:15:33.820
+C'est un peu comme ce qui m'est arrivé à la maison.
+
+0:15:33.820,0:15:36.820
+Je n'ai jamais dormi à 100%.
+
+0:15:36.820,0:15:38.820
+Bon, au moins depuis des années.
+
+0:15:38.820,0:15:41.820
+D'accord, merci beaucoup de me suivre.
+
+0:15:41.820,0:15:43.820
+Inscrivez-vous, je ne vous le demanderai jamais.
+
+0:15:43.820,0:15:46.820
+Liker et laisser un commentaire si vous le souhaitez.
+
+0:15:46.820,0:15:48.820
+Jusqu'à après-demain.
