@@ -1,900 +1,1331 @@
-1
-00:00:36,993 --> 00:00:40,959
-La Vuelta al Mundo a Pie, día 143.
+0:00:00.000,0:00:03.640
+La vuelta al mundo a pie, día 144.
 
-2
-00:00:40,959 --> 00:00:44,458
-Las 8 de la mañana de un martes, 21 de abril,
+0:00:04.000,0:00:06.240
+No para de llover, no para de llover.
 
-3
-00:00:44,958 --> 00:00:50,957
-y hoy es un día importante. Hoy podría ser un día sin más, pero llegaré a Xanthi,
+0:00:06.940,0:00:10.360
+Ha estado lloviendo toda la noche, toda la noche.
 
-4
-00:00:50,957 --> 00:00:57,256
-y allí enviaré a casa cosas que no necesito. Por lo tanto, me deshaceré de, yo creo,
+0:00:11.420,0:00:14.040
+Está todo seco, ningún problema, todo bien.
 
-5
-00:00:57,256 --> 00:01:02,480
-calculo que casi 1 kg de material encima y además el volumen,
+0:00:15.040,0:00:17.800
+Y me estoy haciendo el café.
 
-6
-00:01:03,020 --> 00:01:05,660
-Y tengo muchas ganas de no cargar tantas cosas.
+0:00:18.540,0:00:19.940
+Son las 8:10.
 
-7
-00:01:09,560 --> 00:01:13,960
-9 de la mañana, ya pica el sol, ya la gorra hace efecto,
+0:00:20.580,0:00:22.920
+Lo que pasa es que da una pereza recoger impresionante, porque claro,
 
-8
-00:01:14,060 --> 00:01:14,720
-¿Y qué tenemos aquí?
+0:00:23.820,0:00:25.120
+recoger mientras llueve es un rollo.
 
-9
-00:01:16,080 --> 00:01:16,600
-PAOK.
+0:00:25.260,0:00:26.660
+Se puede, ya os he dicho varias veces,
 
-10
-00:01:17,760 --> 00:01:18,780
-PAOK, con P.
+0:00:26.660,0:00:30.040
+con estos clips y estos clips, pues los sacas
 
-11
-00:01:19,580 --> 00:01:22,240
-Normalmente lo vemos escrito con la P griega,
+0:00:30.040,0:00:32.060
+y puedes desmontar la tienda desde dentro.
 
-12
-00:01:22,340 --> 00:01:24,580
-Es como el número Pi, ¿no?
+0:00:33.420,0:00:37.520
+Pero, bueno, igualmente, lo que haré será quedarme un rato más aquí.
 
-13
-00:01:25,440 --> 00:01:26,280
-¿Qué es PAOK?
+0:00:38.320,0:00:40.140
+Y ya está, tú... Chilling.
 
-14
-00:01:26,560 --> 00:01:28,920
-PAOK es el equipo de Salónica, el equipo de fútbol.
+0:00:41.380,0:00:42.140
+Las 9 y media.
 
-15
-00:01:30,000 --> 00:01:35,060
-Y a los aficionados del PAOK les gusta escribir en todas partes
+0:00:42.620,0:00:45.040
+Ha valido la pena esperar porque ha parado un poco.
 
-16
-00:01:35,060 --> 00:01:37,160
-El grafiti que pone PAOK.
+0:00:45.940,0:00:46.600
+Todavía llueve pero ha parado.
 
-17
-00:01:38,000 --> 00:01:39,040
-Los hay cada dos por tres.
+0:00:46.880,0:00:49.220
+Bueno, como podéis ver, la parte de dentro ya no está.
 
-18
-00:01:39,220 --> 00:01:41,120
-Hoy contaré cuántos encuentro.
+0:00:50.340,0:00:51.420
+La tengo guardada en la mochila.
 
-19
-00:01:41,780 --> 00:01:42,340
-PAOK.
+0:00:52.340,0:00:52.940
+Desmontemos esto.
 
-20
-00:01:43,980 --> 00:01:44,580
-PAOK.
+0:01:10.653,0:01:15.140
+Como podéis ver, todo lo seco está guardado dentro de esta bolsa estanca
 
-21
-00:01:48,080 --> 00:01:48,680
-PAOK.
+0:01:15.140,0:01:24.720
+y la tienda exterior está metida así para que no moje el resto.
 
-22
-00:01:49,720 --> 00:01:50,320
-PAOK.
+0:02:34.537,0:02:37.120
+Pues no se podía caminar en este tiempo,
 
-23
-00:01:57,420 --> 00:01:58,020
-PAOK.
+0:02:37.240,0:02:39.760
+por lo tanto he parado a tomar un café que me han invitado,
 
-24
-00:01:58,880 --> 00:01:59,440
-PAOK.
+0:02:39.840,0:02:41.240
+este señor de aquí detrás me ha invitado,
 
-25
-00:02:00,877 --> 00:02:02,380
-PAOK.
+0:02:41.940,0:02:44.600
+y me han dicho, ven, ven, hablas inglés?
 
-26
-00:02:03,100 --> 00:02:03,600
-PAOK.
+0:02:44.780,0:02:47.480
+Y me han invitado a sentarme aquí con toda esta gente tan simpática.
 
-27
-00:02:05,140 --> 00:02:05,640
-PAOK.
+0:02:48.180,0:02:50.760
+Les he explicado que estoy dando la vuelta al mundo a pie y, bueno, no se lo creen.
 
-28
-00:02:06,320 --> 00:02:09,260
-Bar de pueblo que no tiene ni nombre, no tiene ni cartel,
+0:02:52.460,0:02:55.640
+"En 3 años me invitará a café en Barcelona"
 
-29
-00:02:09,460 --> 00:02:11,820
-no sale en Google Maps ni nada,
+0:02:56.540,0:02:59.360
+Si, me ha invitado a tomarme un café, entonces, claro, ahora lo tengo que invitar yo cuando vuelva a Barcelona de aquí a encontrarme.
 
-30
-00:02:11,960 --> 00:02:13,360
-y están los típicos cuatro "parroquianos".
+0:02:59.360,0:03:00.480
+"Y también iremos a ver al Barça"
 
-31
-00:02:13,500 --> 00:02:16,260
-Podrías pensar que el café aquí sería bastante regular,
+0:03:01.220,0:03:02.740
+Oh sí, soy del Barça.
 
-32
-00:02:16,380 --> 00:02:16,900
-Pero no, no, no.
+0:03:03.220,0:03:03.920
+¿Te gusta el Barça?
 
-33
-00:02:18,200 --> 00:02:19,440
-Bueno, todo el mundo lo toma frío allí,
+0:03:04.440,0:03:04.940
+¡Claro que sí!
 
-34
-00:02:20,080 --> 00:02:20,760
-yo lo tomo caliente,
+0:03:05.040,0:03:05.540
+Espera...
 
-35
-00:02:20,900 --> 00:02:24,860
-pero este café es una pasada de bien elaborado y de bueno, ¿eh?
+0:03:08.280,0:03:12.320
+Le estoy enseñando el carnet (de socio)
 
-36
-00:02:24,920 --> 00:02:26,040
-No te suelen poner la cuchara,
+0:03:14.520,0:03:17.000
+Sigue lloviendo, pero sigo caminando.
 
-37
-00:02:26,640 --> 00:02:27,820
-Entonces tengo que usar yo la mía.
+0:03:17.120,0:03:19.580
+He estado una hora y pico allí
 
-38
-00:02:28,420 --> 00:02:29,400
-No entiendo muy bien por qué, porque, claro,
+0:03:20.080,0:03:22.740
+Después del hombre este tan simpático que me ha invitado, ha venido otro,
 
-39
-00:02:29,400 --> 00:02:31,160
-tiene toda esta espuma que, ostras,
+0:03:23.740,0:03:26.300
+que le he vuelto a contar toda la historia, y me ha invitado un bocadillo.
 
-40
-00:02:31,240 --> 00:02:35,420
-Me dan ganas de comerla, ¿no?
+0:03:26.300,0:03:28.540
+Un bocadillo de pollo.
 
-41
-00:02:39,360 --> 00:02:40,300
-Seguimos avanzando.
+0:03:29.500,0:03:33.260
+Muy bien, muy, muy, muy majos los griegos, en general, los mejores, los mejores.
 
-42
-00:02:40,360 --> 00:02:43,220
-Ahora hace un rato que no veo ningún grafiti de PAOK,
+0:03:34.340,0:03:35.840
+Vale, Enric, ¿y el paraguas?
 
-43
-00:02:44,240 --> 00:02:46,820
-Pero mirad, chorrada absoluta, ¿eh?
+0:03:36.880,0:03:40.540
+Porque, claro, te habías crompado un paraguas y no lo estás usando.
 
-44
-00:02:46,900 --> 00:02:49,400
-Pero me hace gracia que es una cruz tridimensional.
+0:03:40.940,0:03:41.660
+Pues tienes razón.
 
-45
-00:02:52,860 --> 00:02:54,640
-Sin más, cree tridimensional.
+0:03:42.560,0:03:46.900
+Simplemente es que me había olvidado, porque no estoy acostumbrado a ponérmelo.
 
-46
-00:02:55,440 --> 00:02:56,000
-PAOK.
+0:03:47.720,0:03:49.420
+Nunca he hecho senderismo con paraguas.
 
-47
-00:02:57,260 --> 00:02:57,780
-PAOK.
+0:03:50.160,0:03:51.640
+Así que voy a hacerlo ahora.
 
-48
-00:02:59,400 --> 00:03:05,400
-Cosmote es la empresa de telecomunicaciones más importante de Grecia.
+0:03:52.420,0:03:55.540
+A ver si puedo hacerlo sin quitarme...
 
-49
-00:03:05,400 --> 00:03:07,740
-y estos tres perros han salido de dentro del parking
+0:03:55.540,0:03:59.060
+Aquí.
 
-50
-00:03:07,740 --> 00:03:09,440
-Escupidos contra mí.
+0:04:01.060,0:04:03.940
+Sin quitarme la mochila, perfecto, diría que no se me ha caído nada.
 
-51
-00:03:09,520 --> 00:03:11,000
-Parece que no se atreven a cruzar la autopista.
+0:04:05.060,0:04:06.540
+Solo me falta perder más cosas, ¿eh?
 
-52
-00:03:12,100 --> 00:03:12,760
+0:04:07.060,0:04:07.560
+Paraguas.
+
+0:04:09.400,0:04:11.000
+Tampoco llueve mucho, ¿eh?
+
+0:04:12.660,0:04:13.540
+Vamos a probar, a ver...
+
+0:04:14.060,0:04:16.540
+Lo pongo por aquí, y por aquí...
+
+0:04:19.340,0:04:20.960
+Siempre lo puedo coger, si no, ¿eh?
+
+0:04:21.960,0:04:22.460
+¡Vamos!
+
+0:04:30.514,0:04:36.220
+Hace un poco de viento, no demasiado, pero un poco, y creo que es demasiado sensible al viento, ¿eh?
+
+0:04:36.560,0:04:38.436
+Ahora me deja mal, pero...
+
+0:04:40.260,0:04:43.480
+Vale, ahora aguanta, pero hasta un rato se estaba doblando lo que hace así, ¿sabes?
+
+0:04:46.020,0:04:48.360
+Regular. Además, ahora ha apretado otra vez a llover, tú...
+
+0:04:49.500,0:04:50.000
+Sigamos.
+
+0:05:23.970,0:05:28.632
+¡Hola!
+Fui una vez a Barcelona en barco
+
+0:05:28.632,0:05:38.562
+Les cuento que estoy haciendo la Vuelta al Mundo a Pie
+
+0:05:38.767,0:05:41.769
+Me enseña fotos de su viaje a Barcelona en 2025
+
+0:06:15.958,0:06:17.840
+Entrando en una nueva población
+
+0:06:17.840,0:06:20.380
+y acabo de pasar por un puente
+
+0:06:20.380,0:06:22.620
+Tenía un río y estaba muy cargado.
+
+0:06:23.740,0:06:24.640
+Mira, os cuento
+
+0:06:24.640,0:06:25.220
+la situación.
+
+0:06:25.540,0:06:26.580
+Hacia allí
+
+0:06:26.580,0:06:29.180
+El Parque Natural de la Sierra de No sé qué.
+
+0:06:30.060,0:06:31.100
+Era mi intención
+
+0:06:31.100,0:06:32.620
+ir por allí porque hay tortugas,
+
+0:06:33.220,0:06:35.120
+hay flamencos y es un parque natural.
+
+0:06:36.100,0:06:37.560
+Lo que pasa es que
+
+0:06:37.560,0:06:39.500
+Los Señores
+
+0:06:39.500,0:06:40.140
+En este bar
+
+0:06:40.140,0:06:43.120
+me han comentado que quizás no es buena idea
+
+0:06:43.120,0:06:44.760
+porque con tanta lluvia
+
+0:06:44.760,0:06:47.080
+Puede ser que sea por algunas partes
+
+0:06:47.080,0:06:49.480
+inundadas o con mucha agua, con charcos y tal.
+
+0:06:50.280,0:06:51.620
+Hay mucha carretera asfaltada
+
+0:06:51.620,0:06:53.000
+por lo tanto no debería haber problema
+
+0:06:53.000,0:06:54.620
+En este sentido, en estos lugares
+
+0:06:54.620,0:06:55.260
+pero
+
+0:06:55.260,0:06:57.100
+he estado haciendo zoom
+
+0:06:57.100,0:06:59.460
+y sí que hay algunos cruces de río
+
+0:06:59.460,0:07:00.160
+No son puentes
+
+0:07:00.160,0:07:01.500
+Pero son aguas inundables.
+
+0:07:02.280,0:07:02.960
+Esto quiere decir que
+
+0:07:02.960,0:07:04.380
+Si el río pasa por aquí
+
+0:07:04.380,0:07:06.820
+simplemente la carretera pasa por debajo
+
+0:07:06.820,0:07:08.280
+Si hay agua
+
+0:07:08.280,0:07:09.260
+pues te la tienes que comer.
+
+0:07:10.120,0:07:10.840
+No es un puente.
+
+0:07:11.480,0:07:12.140
+Por lo tanto,
+
+0:07:13.060,0:07:13.920
+Teniendo en cuenta esto
+
+0:07:13.920,0:07:15.280
+creo que tendré que cambiar el recorrido
+
+0:07:15.280,0:07:17.480
+y seguir por carretera
+
+0:07:17.480,0:07:19.980
+hasta Alejandrópolis.
+
+0:07:21.260,0:07:21.880
+Es lo que hay.
+
+0:07:22.500,0:07:23.020
+Vale, vale, vale.
+
+0:07:23.100,0:07:24.600
+He estado parado aquí 5 minutos
+
+0:07:24.600,0:07:25.240
+Ahora, mirando el mapa.
+
+0:07:25.260,0:07:27.300
+Porque no tenía ganas de ir todo el rato por carretera
+
+0:07:27.300,0:07:29.640
+y he encontrado un camino bonito
+
+0:07:29.640,0:07:30.980
+por montaña
+
+0:07:30.980,0:07:32.480
+y luego por costa.
+
+0:07:33.000,0:07:34.440
+El que pienso que esto será mañana.
+
+0:07:35.160,0:07:36.000
+Hoy sí que carretera
+
+0:07:36.000,0:07:38.600
+y mañana enfilamos este camino
+
+0:07:38.600,0:07:39.680
+A ver si existe.
+
+0:07:40.280,0:07:40.780
+¡Ojo!
+
+0:07:41.700,0:07:43.300
+Super cascada, vamos a verla, ¿no?
+
+0:07:44.160,0:07:45.980
+¿Es el primer salto de agua de la vuelta al mundo a pie?
+
+0:07:46.940,0:07:47.440
+Creo que no.
+
+0:07:47.560,0:07:49.140
+Había otro en Montenegro
+
+0:07:49.140,0:07:50.420
+que fue bastante chulo.
+
+0:07:51.520,0:07:52.020
+¿Eh?
+
+0:07:52.540,0:07:53.240
+¡Oh, oh, oh!
+
+0:07:54.380,0:07:54.980
+Complicado, ¿eh?
+
+0:07:55.260,0:07:56.400
+Vamos a ver.
+
+0:07:57.780,0:07:58.540
+Muy bien, tú.
+
+0:08:00.120,0:08:00.860
+Muy guapo.
+
+0:08:01.040,0:08:02.360
+Y mucha agua hoy, claro, claro.
+
+0:08:02.680,0:08:03.180
+Mucha agua.
+
+0:08:10.520,0:08:11.360
+Nuevo pueblo,
+
+0:08:12.040,0:08:12.640
+Iasmus,
+
+0:08:13.560,0:08:15.280
+y como todos los pueblos de Grecia
+
+0:08:15.280,0:08:17.700
+Hay dos cosas en la entrada.
+
+0:08:18.740,0:08:19.340
+Una es
+
+0:08:19.340,0:08:21.320
+Este lechero
+
+0:08:21.320,0:08:22.180
+Con el nombre del pueblo
+
+0:08:22.180,0:08:23.760
+y la otra es
+
+0:08:23.760,0:08:25.200
+Los perros callejeros,
+
+0:08:25.260,0:08:28.000
+que últimamente en esta zona
+
+0:08:28.000,0:08:28.980
 Sólo ladran.
 
-53
-00:03:13,140 --> 00:03:14,080
-Bueno, vale.
-
-54
-00:03:15,080 --> 00:03:16,900
-Yo que tenía preparado mi juguete.
-
-55
-00:03:18,420 --> 00:03:18,920
-Lástima.
-
-56
-00:03:19,880 --> 00:03:20,460
-PAOK.
-
-57
-00:03:21,080 --> 00:03:21,680
-PAOK.
-
-58
-00:03:22,540 --> 00:03:23,140
-PAOK.
-
-59
-00:03:24,600 --> 00:03:25,200
-PAOK.
-
-60
-00:03:25,620 --> 00:03:27,859
-PAOK, PAOK, PAOK, PAOK, PAOK.
-
-61
-00:03:27,859 --> 00:03:36,158
-Ya he llegado a Xanthi. Vamos a Correos a enviar esto, cierra dentro de media hora, eh, me tendría que dar tiempo.
-
-62
-00:03:36,491 --> 00:03:43,156
-Lo que sí que pasa es que creo que ha empeorado un poco el día. Quizás llueve, ¿eh? Quizás llueve.
-
-63
-00:03:46,656 --> 00:03:47,322
-Pues ya está.
-
-64
-00:03:47,760 --> 00:03:49,480
-He enviado los calcetines de "plumón".
-
-65
-00:03:49,880 --> 00:03:51,120
-Uy, ya me caen gotas.
-
-66
-00:03:52,040 --> 00:03:54,020
-He enviado también la camiseta
-
-67
-00:03:54,020 --> 00:03:55,800
-de lana Merino, esta bastante gruesa.
-
-68
-00:03:56,280 --> 00:03:58,420
-Y las mallas térmicas.
-
-69
-00:03:58,780 --> 00:04:06,820
-Total, 900 y pico gramos. Ya lo he dicho, ¿eh? Casi un kilo. Perfecto. Ostras, ya lo noto, ¿eh? Lo noto. ¡Viva!
-
-70
-00:04:07,300 --> 00:04:10,500
-Vale, pues nada, llueve. Voy a comer. Voy a comer.
-
-71
-00:04:11,120 --> 00:04:16,820
-Pues je he comido: una ensalada de col, que quizás no es muy griego, pero me apetecía.
-
-72
-00:04:17,520 --> 00:04:24,240
-Y luego también una salchicha que ponía que era salchicha de pétalo, que se ve que es típica de aquí, de Xanthi.
-
-73
-00:04:24,820 --> 00:04:27,820
-Estaba bien, un poco demasiado salada, para mi gusto, pero estaba bien.
-
-74
-00:04:27,820 --> 00:04:37,040
-Bueno, voy a la ciudad antigua. No sé si es algo destacable, pero bueno, echaré un vistazo y luego seguimos.
-
-75
-00:04:37,540 --> 00:04:43,200
-Por cierto, ahora estamos muy cerca de Bulgaria, tan cerca que hay un lechero aquí, incluso, que pone: Bulgaria, allá.
-
-76
-00:04:45,680 --> 00:04:50,320
-Ostras, ahora me he quedado de piedra porque, sorprendentemente, hay una mezquita aquí.
-
-77
-00:04:51,620 --> 00:04:53,500
-Es la primera mezquita que veo en Grecia.
-
-78
-00:04:54,280 --> 00:04:57,500
-Grecia estuvo bajo dominio otomano, pero no se convirtieron.
-
-79
-00:04:57,820 --> 00:05:03,000
-No se convirtieron al islamismo, pero resulta, porque ahora lo he mirado por internet,
-
-80
-00:05:03,260 --> 00:05:11,240
-que esta zona de aquí sí, esta zona de aquí tenía y tiene una minoría de un 30-40% de esta zona de Grecia
-
-81
-00:05:11,240 --> 00:05:19,020
-que son musulmanes y están reconocidos legalmente y tienen todo el derecho de ejercer su religión y, bueno,
-
-82
-00:05:20,320 --> 00:05:22,520
-Todas estas cosas. Sí, sí, bueno.
-
-83
-00:05:24,140 --> 00:05:25,440
-Una mezquita en Grecia.
-
-84
-00:05:25,836 --> 00:05:26,340
-PAOK.
-
-85
-00:05:37,820 --> 00:05:39,820
-PAOK.
-
-86
-00:05:39,820 --> 00:05:41,820
-PAOK.
-
-87
-00:05:41,820 --> 00:05:43,820
-PAOK.
-
-88
-00:05:43,820 --> 00:05:44,799
-PAOK.
-
-89
-00:05:44,799 --> 00:05:50,820
-Pues nada, pequeño paseo por el centro de PAOK, quiero decir, de Xanthi.
-
-90
-00:05:50,820 --> 00:05:54,820
-Aquí tenemos una iglesia ortodoxa.
-
-91
-00:05:54,820 --> 00:05:56,820
-Allí veo otra mezquita.
-
-92
-00:05:57,820 --> 00:06:01,820
-Bueno, tú, yo ya me doy por satisfecho con esta vueltecita, ¿eh?
-
-93
-00:06:01,820 --> 00:06:03,820
-Otro signo de PAOK...
-
-94
-00:06:08,820 --> 00:06:09,820
-PAOK.
-
-95
-00:06:09,820 --> 00:06:12,820
-¡Hombre! ¡Un carril bici!
-
-96
-00:06:12,820 --> 00:06:15,820
-Creo que aún no habíamos visto ninguno, ¿no?
-
-97
-00:06:15,820 --> 00:06:22,820
-En la ciudad sí, pero fuera de la ciudad, así en carretera, el primero, tú!
-
-98
-00:06:23,820 --> 00:06:26,820
-Pues que bien, que bien que se va! Qué bien que se va!
-
-99
-00:06:26,820 --> 00:06:29,820
-Además, hoy voy al bosque al lado.
-
-100
-00:06:29,820 --> 00:06:33,820
-Hasta aquí, ayer ya estábamos a toda plana.
-
-101
-00:06:33,820 --> 00:06:37,988
-Entonces, pues bueno, tú, mientras no llueva, seguimos caminando.
-
-102
-00:06:42,121 --> 00:06:47,820
-Bonita villa, aquí, con las montañas, el río, la mezquita esta...
-
-103
-00:06:47,820 --> 00:06:52,820
-He parado a comerme un yogur y me mataréis.
-
-104
-00:06:52,820 --> 00:06:55,820
-Me mataréis, pero he vuelto a perder la cuchara.
-
-105
-00:06:58,151 --> 00:06:59,484
-He vuelto a perder la "Spork".
-
-106
-00:07:03,820 --> 00:07:06,820
-Es para matarme. Es para matarme.
-
-107
-00:07:06,820 --> 00:07:10,482
-Es para matarme, ni idea de dónde está, ni de dónde lo he dejado, ni nada...
-
-108
-00:07:10,815 --> 00:07:11,820
-PAOK.
-
-109
-00:07:18,820 --> 00:07:21,820
-Bueno, ya tengo cuchara.
-
-110
-00:07:21,820 --> 00:07:25,820
-El vendedor de este supermercado muy amablemente me lo ha regalado.
-
-111
-00:07:25,820 --> 00:07:27,820
-Porque no tenía "sueltas",
-
-112
-00:07:27,820 --> 00:07:30,820
-y ha arrancado una de un paquete que vendían como 20, ¿no?
-
-113
-00:07:30,820 --> 00:07:32,820
-Y, bueno, de paso, le he comprado uno de eso,
-
-114
-00:07:32,820 --> 00:07:35,820
-Necesitaba un cacao de labios.
-
-115
-00:07:35,820 --> 00:07:41,820
-Me va bien para salir del paso hasta que...
-
-116
-00:07:41,820 --> 00:07:43,820
-vuelva a comprar otra de titanio.
-
-117
-00:07:43,820 --> 00:07:45,820
-¡Joder, tú! Estoy de pega.
-
-118
-00:07:55,140 --> 00:07:59,820
-Las 18h50, 37 kilómetros y pico.
-
-119
-00:07:59,820 --> 00:08:01,820
-Hoy tengo que parar antes.
-
-120
-00:08:01,820 --> 00:08:04,820
-Hoy, dentro de 10 minutos, a las 19h, más o menos,
-
-121
-00:08:04,820 --> 00:08:06,820
-Voy a buscar un lugar para acampar.
-
-122
-00:08:06,820 --> 00:08:07,820
-¿Os acordáis?
-
-123
-00:08:07,820 --> 00:08:09,820
-Que os dije que hoy tenía una charla
-
-124
-00:08:09,820 --> 00:08:11,820
-¿A la Unión Excursionista Sabadell?
-
-125
-00:08:11,820 --> 00:08:14,820
-Pues, claro, es a las 20h, hora mía,
-
-126
-00:08:14,820 --> 00:08:17,820
-y, por tanto, quiero estar preparado, acampado,
-
-127
-00:08:17,820 --> 00:08:21,820
-todo bien, ya preparado para empezar la charla,
-
-128
-00:08:21,820 --> 00:08:23,820
-y lo dejo un poco antes.
-
-129
-00:08:23,820 --> 00:08:25,820
-A ver si encuentro algún sitio interesante.
-
-130
-00:08:25,820 --> 00:08:27,820
-Está muy verde por aquí, ¿eh?
-
-131
-00:08:27,820 --> 00:08:29,820
-Buena y mala señal.
-
-132
-00:08:29,820 --> 00:08:31,820
-Veo bastante granja, cosa que...
-
-133
-00:08:31,820 --> 00:08:34,820
-mal, porque me interesa que no me vea nadie.
-
-134
-00:08:34,820 --> 00:08:37,820
-Pero, bueno, veo bastante olivo, también,
-
-135
-00:08:37,820 --> 00:08:39,820
-Últimamente es mi lugar preferido.
-
-136
-00:08:39,820 --> 00:08:43,820
-A ver, a la vista satélite había visto este camino,
-
-137
-00:08:43,820 --> 00:08:45,820
-Estas piedras, y están ahí,
-
-138
-00:08:45,820 --> 00:08:47,820
-porque a veces en la vista satélite están
-
-139
-00:08:47,820 --> 00:08:49,820
-Pero en la realidad no.
-
-140
-00:08:49,820 --> 00:08:51,820
-Así que no viene nadie.
-
-141
-00:08:51,820 --> 00:08:53,128
-Sí que viene alguien, no pasa nada.
-
-142
-00:08:53,128 --> 00:08:56,820
-Nos adentramos y a ver qué encontramos, como siempre.
-
-143
-00:08:56,820 --> 00:09:00,820
-Allí, una casa que aún no está construida.
-
-144
-00:09:00,820 --> 00:09:03,820
-Cosa buena, porque no nos verán.
-
-145
-00:09:03,820 --> 00:09:06,820
-Y las vistas que tenemos por delante.
-
-146
-00:09:06,820 --> 00:09:08,820
-Esta línea de árboles
-
-147
-00:09:08,820 --> 00:09:11,820
-Es sospechoso
-
-148
-00:09:11,820 --> 00:09:13,820
-Muy buena puesta aquí.
-
-149
-00:09:13,820 --> 00:09:15,820
-¿Qué intentan ocultar?
-
-150
-00:09:15,820 --> 00:09:17,820
-¿Me ocultarán a mí?
-
-151
-00:09:17,820 --> 00:09:19,820
-A ver...
-
-152
-00:09:19,820 --> 00:09:21,820
-Pues tenemos un campo de árboles.
-
-153
-00:09:21,820 --> 00:09:23,820
-No sé qué árbol es eso.
-
-154
-00:09:23,820 --> 00:09:25,820
-¿Figura?
-
-155
-00:09:25,820 --> 00:09:27,820
-¿Es esto una higuera?
-
-156
-00:09:27,820 --> 00:09:29,820
-No tengo ni idea, pero es un lugar perfecto.
-
-157
-00:09:29,820 --> 00:09:31,820
-Es un lugar perfecto.
-
-158
-00:09:31,820 --> 00:09:33,820
-Porque es plano,
-
-159
-00:09:33,820 --> 00:09:35,820
-Estamos cerca de la carretera,
-
-160
-00:09:35,820 --> 00:09:37,820
-y estamos escondidos,
-
-161
-00:09:37,820 --> 00:09:39,820
-No hay ningún edificio alrededor.
-
-162
-00:09:39,820 --> 00:09:41,820
-Solo me falta mirar, a ver si tengo buena cobertura.
-
-163
-00:09:41,820 --> 00:09:43,820
-A ver, dejémoslo mirar.
-
-164
-00:09:43,820 --> 00:09:45,820
-5G, 3 rayas.
-
-165
-00:09:45,820 --> 00:09:47,820
-Suficiente, tú. Me quedo por aquí.
-
-166
-00:09:47,820 --> 00:09:49,820
-Tienda montada.
-
-167
-00:09:49,820 --> 00:09:51,820
-Tengo una silla.
-
-168
-00:09:51,820 --> 00:09:53,820
-Allí había dos sillas.
-
-169
-00:09:53,820 --> 00:09:55,820
-Una de ellas
-
-170
-00:09:55,820 --> 00:09:57,820
-Tenía una botella de agua
-
-171
-00:09:57,820 --> 00:09:59,820
-Y una especie de
-
-172
-00:09:59,820 --> 00:10:01,820
-caja de galletas.
-
-173
-00:10:01,820 --> 00:10:03,820
-Tiene pinta de ser reciente.
-
-174
-00:10:03,820 --> 00:10:05,820
-Quiero decir, de hoy o de ayer.
-
-175
-00:10:05,820 --> 00:10:07,820
-¿Qué hacen las galletas aquí, no?
-
-176
-00:10:07,820 --> 00:10:09,820
-Pero bueno, he cogido prestada
-
-177
-00:10:09,820 --> 00:10:11,820
-una de estas sillas y la usaré para hacer
-
-178
-00:10:11,820 --> 00:10:13,820
-la reunión esta,
-
-179
-00:10:13,820 --> 00:10:15,820
-La conferencia, y luego
-
-180
-00:10:15,820 --> 00:10:17,820
-la volveré ya y que no
-
-181
-00:10:17,820 --> 00:10:19,820
-haya pasado nada. Pero creo que está guay
-
-182
-00:10:19,820 --> 00:10:21,820
-sentarse aquí y ver la tienda de fondo
-
-183
-00:10:21,820 --> 00:10:23,820
-mientras hablo.
-
-184
-00:10:23,820 --> 00:10:25,820
-Pues ya he acabado la
-
-185
-00:10:25,820 --> 00:10:27,820
-Conferencia con la U.E.S.
-
-186
-00:10:27,820 --> 00:10:29,820
-Estaba fuera y todo bien colocado allí
-
-187
-00:10:29,820 --> 00:10:31,820
-con la tienda de fondo y ha empezado
-
-188
-00:10:31,820 --> 00:10:33,820
-a llover. Entonces me he tenido que meter dentro.
-
-189
-00:10:33,820 --> 00:10:35,820
-Ahora estoy con la cámara frontal
-
-190
-00:10:37,141 --> 00:10:39,820
-y... y llueve bastante, ¿eh? Ahora hacía días que no llovía tanto, ¿eh?
-
-191
-00:10:39,820 --> 00:10:41,820
-Claro, cuando estás aquí en la tienda
-
-192
-00:10:41,820 --> 00:10:43,820
-Parece que el mundo se acaba porque
-
-193
-00:10:43,820 --> 00:10:45,820
-hace mucho ruido cuando caen
-
-194
-00:10:45,820 --> 00:10:47,820
-las gotas. Quizás me llueve tanto, pero yo diría que sí, ¿eh?
-
-195
-00:10:47,820 --> 00:10:49,820
-Bueno, yo diría que aquí donde
-
-196
-00:10:49,820 --> 00:10:51,820
-Estoy, estoy bastante bien.
-
-197
-00:10:51,820 --> 00:10:53,820
-37 kilómetros,
-
-198
-00:10:53,820 --> 00:10:55,820
-dos cafés,
-
-199
-00:10:55,820 --> 00:10:57,820
-dos refrescos,
-
-200
-00:10:57,820 --> 00:10:59,820
-he hablado
-
-201
-00:10:59,820 --> 00:11:01,820
-Con una persona.
-
-202
-00:11:01,820 --> 00:11:03,820
-Una persona en un supermercado me ha parado
-
-203
-00:11:03,820 --> 00:11:05,820
-para preguntarme de dónde venía
-
-204
-00:11:05,820 --> 00:11:07,820
-Y todo ello, lo de siempre.
-
-205
-00:11:07,820 --> 00:11:09,820
-Perros, ningún problema.
-
-206
-00:11:09,820 --> 00:11:11,820
+0:08:30.340,0:08:31.460
+Todo bien, todo bien.
+
+0:08:31.800,0:08:33.760
+Vale, creo que aquí comeré.
+
+0:08:34.000,0:08:35.640
+Comeré algo, como siempre.
+
+0:08:37.040,0:08:38.140
+Gyors de
+
+0:08:38.140,0:08:39.660
+ternera.
+
+0:08:40.540,0:08:42.160
+Porque resulta que de cerdo
+
+0:08:42.160,0:08:43.420
+no lo hacen aquí, porque claro, debe ser
+
+0:08:43.420,0:08:46.420
+Un pueblo musulmán
+
+0:08:46.420,0:08:47.700
+Los cerdos no comen.
+
+0:08:47.860,0:08:50.400
+Por lo tanto, tenían de chicken y de beef.
+
+0:08:51.180,0:08:51.980
+He cogido el de beef.
+
+0:08:51.980,0:08:53.600
+Bueno, está bien. Además, el pan
+
+0:08:53.600,0:08:55.100
+lo habían hecho ellos,
+
+0:08:55.260,0:08:56.540
+Todo bien.
+
+0:08:56.540,0:08:59.540
+Y hoy he cambiado el típico, de eso,
+
+0:08:59.540,0:09:02.140
+el típico yogur para un poco de helado,
+
+0:09:02.140,0:09:03.340
+que tampoco sé de qué es,
+
+0:09:03.340,0:09:07.040
+porque la dependiente no hablaba,
+
+0:09:07.040,0:09:09.760
+no hablaba inglés, no me ha sabido traducir,
+
+0:09:09.760,0:09:12.140
+Pero bueno, tenía buena pinta.
+
+0:09:12.140,0:09:13.340
+Sigamos.
+
+0:09:27.255,0:09:29.940
+Casi no las veo para ir con auriculares, ¿eh?
+
+0:09:34.165,0:09:35.850
+Las cabras, tú.
+
+0:09:37.810,0:09:39.340
+Las cabras.
+
+0:09:41.376,0:09:43.340
+De acuerdo, venimos de allí
+
+0:09:43.340,0:09:46.340
+y el track que nos envía hacia allí
+
+0:09:46.340,0:09:49.940
+hay que dar toda la vuelta hacia arriba
+
+0:09:49.940,0:09:52.940
+y enlazar con esta carretera de aquí, muy bien.
+
+0:09:52.940,0:09:54.540
+Pero es que han hecho un puente.
+
+0:09:54.540,0:09:58.540
+O están haciendo un puente, mejor dicho.
+
+0:09:58.540,0:10:01.540
+Y yo creo que podemos cruzar por el puente.
+
+0:10:01.540,0:10:03.540
+Ahora mismo no está pavimentado,
+
+0:10:03.540,0:10:06.540
+Los coches no pueden pasar.
+
+0:10:06.540,0:10:08.540
+4.100.000 euros.
+
+0:10:08.540,0:10:10.540
+Pon ahí, el gasto.
+
+0:10:10.540,0:10:12.540
+Pues yo creo que pasaré,
+
+0:10:12.540,0:10:15.540
+Voy a pasar porque, bueno,
+
+0:10:15.540,0:10:17.540
+Ahora es cuando se cae, ¿sabes?
+
+0:10:17.540,0:10:18.540
+No, hombre, no.
+
+0:10:18.540,0:10:21.540
+Esta es la pila de tierra que impide el paso de los coches.
+
+0:10:21.540,0:10:23.540
+Y aquí tenemos el puente,
+
+0:10:23.540,0:10:24.540
+El Puente,
+
+0:10:24.540,0:10:27.540
+con la capa,
+
+0:10:27.540,0:10:29.540
+o sea, para que veáis,
+
+0:10:29.540,0:10:31.540
+lo que hay debajo de los puentes es esto,
+
+0:10:31.540,0:10:32.540
+hormigón,
+
+0:10:32.540,0:10:35.540
+y encima meten la capa de asfalto.
+
+0:10:35.540,0:10:37.540
+Y son varias piezas de hormigón, de acuerdo,
+
+0:10:37.540,0:10:39.540
+separadas entre sí,
+
+0:10:39.540,0:10:42.540
+de acuerdo, porque en verano,
+
+0:10:42.540,0:10:46.540
+cuando hace calor, el hormigón se dilata.
+
+0:10:46.540,0:10:50.540
+Entonces estas juntas se cierran.
+
+0:10:50.540,0:10:53.540
+Y si no hubiera esta separación,
+
+0:10:53.540,0:10:56.540
+Esta separación se rompería el puente.
+
+0:10:56.540,0:10:59.540
+Por lo tanto, se deben hacer, se deben hacer estas separaciones.
+
+0:10:59.540,0:11:01.540
+Esto se llama junta de dilatación.
+
+0:11:01.540,0:11:05.540
+Y, bueno, cuando metes la capa de asfalto encima,
+
+0:11:05.540,0:11:08.540
+como el asfalto es elástico, eso no se nota.
+
+0:11:08.540,0:11:11.540
+Lección del día.
+
+0:11:11.540,0:11:12.784
+Mirad, mirad el río.
+
+0:11:15.151,0:11:17.540
+Cuidado con las arquetas.
+
+0:11:21.027,0:11:22.540
+Aja.
+
+0:11:27.078,0:11:29.540
+Aquí ha habido un claro desprendimiento.
+
+0:11:29.540,0:11:32.540
+Cuidado, cuidado,
+
+0:11:32.540,0:11:35.540
+Y aquí enlazamos con el mapa.
+
+0:11:38.540,0:11:43.034
+Griego no, Barcelona
+
+0:11:43.540,0:11:44.250
+¿Bulgaria?
+
+0:11:44.250,0:11:45.087
+Barcelona.
+
+0:11:45.087,0:11:47.545
+¿Pakistán?
+
+0:11:47.545,0:11:49.545
+Barcelona.
+
+0:11:49.545,0:11:52.641
+¿A pie?
+[Intento decir algo pero no lo consigo]
+
+0:11:53.398,0:11:54.540
+China.
+
+0:11:55.609,0:11:56.540
+Australia.
+
+0:11:56.540,0:12:00.540
+Australia. Australia caminando?
+
+0:12:03.540,0:12:08.340
+China y Estambul a pie
+
+0:12:11.540,0:12:17.427
+- Y tú? Turco? Ah ok.
+- Yo griego
+
+0:12:18.540,0:12:20.540
+Actualizado a las 4:10.
+
+0:12:20.540,0:12:23.540
+Un diálogo un poco de suertes que he tenido ahora.
+
+0:12:23.540,0:12:27.540
+Me he de recordar como se dice en griego la vuelta al mundo a pie,
+
+0:12:27.540,0:12:30.540
+porque me lo han dicho varias veces y se me olvida.
+
+0:12:30.540,0:12:33.540
+Es algo similar a "cosmos metapodia".
+
+0:12:33.540,0:12:35.540
+No es del todo así, pero creo que así se entiende.
+
+0:12:35.540,0:12:37.540
+"Metapodia, metapod."
+
+0:12:37.540,0:12:39.540
+Metapód como el Pokémon.
+
+0:12:39.540,0:12:40.540
+A ver si me acuerdo.
+
+0:12:40.540,0:12:42.540
+Tengo un par de cosas que deciros.
+
+0:12:42.540,0:12:45.540
+Una, sobre el tema de cruzar la frontera con Turquía.
+
+0:12:45.540,0:12:48.540
+La última actualización que os dije aquí, en el vídeo de YouTube,
+
+0:12:48.540,0:12:51.540
+es, ya hace un mes o más,
+
+0:12:51.540,0:12:54.540
+que tenía que ir hasta Bulgaria
+
+0:12:54.540,0:12:57.540
+porque la frontera con Turquía desde Grecia
+
+0:12:57.540,0:13:01.540
+no la podías cruzar a pie, la podías solo cruzar en coche.
+
+0:13:01.540,0:13:05.540
+Los últimos tramos finales, que es como un puente que hay de un kilómetro.
+
+0:13:05.540,0:13:09.540
+La actualización es que el francés este que va por delante de mí,
+
+0:13:09.540,0:13:13.540
+ahora ya hace bastante, cruzó desde Bulgaria y tuvo el mismo problema.
+
+0:13:13.540,0:13:16.540
+Tuvo que hacer el último tramo encoche.
+
+0:13:16.540,0:13:18.540
+Entonces,
+
+0:13:18.540,0:13:21.540
+Yo he comentado a los de la World Runners Association.
+
+0:13:21.540,0:13:23.540
+Oye, que...
+
+0:13:23.540,0:13:25.540
+Bueno, más bien así.
+
+0:13:25.540,0:13:26.540
+Oye, que...
+
+0:13:26.540,0:13:28.540
+No voy a ir hasta Bulgaria simplemente para hacer esta tontería.
+
+0:13:28.540,0:13:30.540
+Sí que lo tendré que hacer desde Grecia igual.
+
+0:13:30.540,0:13:31.540
+Y sí, sí.
+
+0:13:31.540,0:13:34.540
+Cruzaré desde Grecia por Ipsala.
+
+0:13:34.540,0:13:37.540
+Y a ver cómo lo hago para encontrar algún coche.
+
+0:13:37.540,0:13:39.540
+Intentaré hacer autostop, pero...
+
+0:13:39.540,0:13:41.540
+Cruzando una frontera,
+
+0:13:41.540,0:13:43.540
+Poner a alguien dentro del coche es como más...
+
+0:13:43.540,0:13:45.540
+más delicado, ¿no? Venga, no sé.
+
+0:13:45.540,0:13:47.540
+Pero, en fin, que entro por Grecia.
+
+0:13:48.540,0:13:50.540
+Y segunda cosa,
+
+0:13:50.540,0:13:52.540
+Este es el tema de la ruta por Asia.
+
+0:13:52.540,0:13:54.540
+Siempre os he dicho que cuando llegue a Estambul decidiré la ruta,
+
+0:13:54.540,0:13:56.540
+y así lo haré,
+
+0:13:56.540,0:13:58.540
+y que, de momento, me estaba inclinando
+
+0:13:58.540,0:14:00.540
+hacia hacer la ruta por el centro de Asia,
+
+0:14:00.540,0:14:02.540
+que es Kazajstán, Uzbekistán, Tajikistán,
+
+0:14:02.540,0:14:04.540
+pequeña parte de China y Pakistán.
+
+0:14:04.540,0:14:06.540
+Ahora estoy
+
+0:14:06.540,0:14:08.540
+inclinándome a descartar esta opción.
+
+0:14:08.540,0:14:10.540
+E ir más bien hacia
+
+0:14:10.540,0:14:12.540
+La primera opción, que fue
+
+0:14:12.540,0:14:14.540
+ir hasta Tiflis, que es Georgia,
+
+0:14:14.540,0:14:16.540
+o en Armenia, a pie,
+
+0:14:16.540,0:14:18.540
+y allí coger un avión
+
+0:14:18.540,0:14:20.540
+hasta Pakistán o la India.
+
+0:14:20.540,0:14:22.540
+¿Por qué? Pues porque...
+
+0:14:22.540,0:14:24.540
+Claro,
+
+0:14:24.540,0:14:26.540
+ahora estamos apunto
+
+0:14:26.540,0:14:28.540
+llegar en mayo, y
+
+0:14:28.540,0:14:30.540
+queda mucho trecho hasta llegar
+
+0:14:30.540,0:14:32.540
+en Pakistán, pero muy, muy, muy
+
+0:14:32.540,0:14:34.540
+El tranvía, y lo que puede pasar,
+
+0:14:34.540,0:14:36.540
+y me pasará seguro, es que me cogerá
+
+0:14:36.540,0:14:38.540
+el próximo invierno en el centro
+
+0:14:38.540,0:14:40.540
+de Asia. Esta zona
+
+0:14:40.540,0:14:42.540
+del centro de Asia, en invierno es muy fría.
+
+0:14:42.540,0:14:44.540
+En el Tajikistán, las montañas del Pamir
+
+0:14:44.540,0:14:46.540
+no puedo sacarlas a pie
+
+0:14:46.540,0:14:48.540
+en enero, febrero, diciembre,
+
+0:14:48.540,0:14:50.540
+o lo que sea.
+
+0:14:50.540,0:14:52.540
+Buscad en Google montañas del Pamir,
+
+0:14:52.540,0:14:54.540
+esto es una cosa de montañas
+
+0:14:54.540,0:14:56.540
+de 7.000 metros, y cosas así, ¿sabes?
+
+0:14:56.540,0:14:58.540
+Es una pasada.
+
+0:14:58.540,0:15:00.540
+Que no subiré ninguna montaña de 7.000 metros,
+
+0:15:00.540,0:15:02.540
+La zona es muy alta.
+
+0:15:02.540,0:15:04.540
+Con un clima continental
+
+0:15:04.540,0:15:06.540
+con temperaturas muy extremas, es lo que quiero decir.
+
+0:15:06.540,0:15:08.540
+Entonces, si me coge
+
+0:15:08.540,0:15:10.540
+el invierno,
+
+0:15:10.540,0:15:12.540
+lo que tendré que hacer será parar,
+
+0:15:12.540,0:15:14.540
+parar hasta que deje de hacer
+
+0:15:14.540,0:15:16.540
+este frío, por lo tanto, puedo estar
+
+0:15:16.540,0:15:18.540
+tranquilamente dos o tres,
+
+0:15:18.540,0:15:20.540
+cuatro meses, no lo sé, porque depende de
+
+0:15:20.540,0:15:22.540
+cuando llegue, parado,
+
+0:15:22.540,0:15:24.540
+esperando a que pase el invierno.
+
+0:15:24.540,0:15:26.540
+Y claro,
+
+0:15:26.540,0:15:28.540
+Eso... no lo quiero.
+
+0:15:28.540,0:15:30.540
+Igualmente,
+
+0:15:30.540,0:15:32.540
+tendré que hacer los cálculos igualmente,
+
+0:15:32.540,0:15:34.540
+Mirar los kilómetros que son,
+
+0:15:34.540,0:15:36.540
+y a ver cómo lo puedo gestionar,
+
+0:15:36.540,0:15:38.540
+Si sí o si no, pero
+
+0:15:38.540,0:15:40.540
+Ahora mismo me declino por ello.
+
+0:15:44.540,0:15:46.540
+Detrás de esta cadena montañosa,
+
+0:15:46.540,0:15:48.540
+que tiene tan mala pinta porque está tan
+
+0:15:48.540,0:15:50.540
+nublado
+
+0:15:50.540,0:15:52.540
+y muy probablemente esté lloviendo,
+
+0:15:52.540,0:15:54.540
+tenemos Bulgaria,
+
+0:15:54.540,0:15:56.540
+Un país que nunca he visitado
+
+0:15:56.540,0:15:58.540
+De momento, se quedará sin
+
+0:15:58.540,0:16:00.540
+visitar. Algo que estoy haciendo
+
+0:16:00.540,0:16:02.540
+Últimamente editamos
+
+0:16:02.540,0:16:04.540
+mientras camino, de vez en cuando.
+
+0:16:04.540,0:16:06.540
+Antes, editaba normalmente
+
+0:16:06.540,0:16:08.540
+en exclusiva cuando llegaba a la tienda a las 5 de la tarde,
+
+0:16:08.540,0:16:10.540
+porque oscurecía a las 5.
+
+0:16:10.540,0:16:12.540
+Y ahora, como tengo más tiempo de caminar,
+
+0:16:12.540,0:16:14.540
+tengo menos tiempo de editar. Entonces,
+
+0:16:14.540,0:16:16.540
+tengo que estar allí hasta la 1, a las 12, editando?
+
+0:16:16.540,0:16:18.540
+No, no puede ser. Por lo tanto,
+
+0:16:18.540,0:16:20.540
+edito de vez en cuando mientras camino
+
+0:16:20.540,0:16:22.540
+Y así me ahorro trabajo.
+
+0:16:22.540,0:16:24.540
+Actualización 7 y 10 de la tarde.
+
+0:16:24.540,0:16:26.540
+Pasa lo que
+
+0:16:26.540,0:16:28.540
+suele pasar habitualmente.
+
+0:16:28.540,0:16:30.540
+A Xanthi no me pasó,
+
+0:16:30.540,0:16:32.540
+Pero aquí sí, que es que
+
+0:16:32.540,0:16:34.540
+me quedan 4 kilómetros para llegar
+
+0:16:34.540,0:16:36.540
+en Komoti, que es
+
+0:16:36.540,0:16:38.540
+la siguiente ciudad, y...
+
+0:16:38.540,0:16:40.540
+Bueno, pues 4 kilómetros es una hora, por lo tanto,
+
+0:16:40.540,0:16:42.540
+es la hora que oscurece, por lo tanto, coincide con la hora
+
+0:16:42.540,0:16:44.540
+de acampar. He estado mirando
+
+0:16:44.540,0:16:46.540
+algún alojamiento, no me acaba de convencer
+
+0:16:46.540,0:16:48.540
+nada porque era caro y, bueno, tampoco
+
+0:16:48.540,0:16:50.540
+necesito acampar hoy, la verdad.
+
+0:16:50.540,0:16:52.540
+Por lo tanto, era
+
+0:16:52.540,0:16:54.540
+Sobrepasar la ciudad o
+
+0:16:54.540,0:16:56.540
+acampar antes. He decidido la segunda
+
+0:16:56.540,0:16:58.540
+opción, porque no me da
+
+0:16:58.540,0:17:00.540
+tiempo. No me da tiempo de entrar en la ciudad,
+
+0:17:00.540,0:17:02.540
+ver la demasiado rápido y salir.
+
+0:17:02.540,0:17:04.540
+No hay mucha agua,
+
+0:17:04.540,0:17:06.540
+Aquí hay una iglesia.
+
+0:17:06.540,0:17:08.540
+vamos a colarnos, esperaré que la puerta está cerrada,
+
+0:17:08.540,0:17:10.540
+vamos a colarnos
+
+0:17:10.540,0:17:12.540
+A ver si hay alguna fuente
+
+0:17:12.540,0:17:14.540
+y luego encontrar el lugar de acampar.
+
+0:17:14.540,0:17:16.540
+De acuerdo, no tenemos fuente,
+
+0:17:16.540,0:17:18.540
+Tenemos una manguera.
+
+0:17:18.540,0:17:20.540
+Me sirve, va.
+
+0:17:22.540,0:17:24.540
+A ver, joder,
+
+0:17:24.540,0:17:26.540
+Espero que sea potable.
+
+0:17:28.540,0:17:30.540
+Vale,
+
+0:17:30.540,0:17:32.540
+Ahora tengo que cerrar
+
+0:17:34.540,0:17:36.540
+y ya que estamos llenamos esta,
+
+0:17:36.540,0:17:38.540
+también. Yo os podría
+
+0:17:38.540,0:17:40.540
+engañar y deciros que me he colado, y realmente me he colado,
+
+0:17:40.540,0:17:42.540
+pero no era necesario.
+
+0:17:42.540,0:17:44.540
+No hacía falta.
+
+0:17:44.540,0:17:46.540
+Estaba la puerta abierta.
+
+0:17:46.540,0:17:48.540
+De acuerdo,
+
+0:17:48.540,0:17:50.540
+mirad, voy
+
+0:17:50.540,0:17:52.540
+hacia allí, que he visto
+
+0:17:52.540,0:17:54.540
+unos campos
+
+0:17:54.540,0:17:56.540
+En un principio, no hay construcción
+
+0:17:56.540,0:17:58.540
+próxima, pero
+
+0:17:58.540,0:18:00.540
+Supongo que será el de siempre, hierba alta.
+
+0:18:00.540,0:18:02.540
+Este hotel lo he visto antes,
+
+0:18:02.540,0:18:04.540
+El Arquílio Hotel,
+
+0:18:04.540,0:18:06.540
+60 euros una habitación individual.
+
+0:18:06.540,0:18:08.540
+¡Al igual!
+
+0:18:08.540,0:18:10.540
+Esta es la carretera que señalaba.
+
+0:18:10.540,0:18:12.540
+Allí tenemos una especie de villa,
+
+0:18:12.540,0:18:14.540
+Por eso no nos interesa ir allí.
+
+0:18:14.540,0:18:16.540
+A ver hacia dónde nos llevan
+
+0:18:16.540,0:18:18.540
+Estos rodeos.
+
+0:18:18.540,0:18:20.540
+Veo la hierba muy alta, para variar,
+
+0:18:20.540,0:18:22.540
+es lo que hay.
+
+0:18:22.540,0:18:24.540
+Tenemos zonas con menos
+
+0:18:24.540,0:18:26.540
+hierba, pero no sé si veis
+
+0:18:26.540,0:18:28.540
+que se hunde
+
+0:18:28.540,0:18:30.540
+Está...
+
+0:18:30.540,0:18:32.540
+No, claro, no me mola
+
+0:18:32.540,0:18:34.540
+Acampar donde hay
+
+0:18:34.540,0:18:36.540
+barro de este, no lo sé.
+
+0:18:36.540,0:18:38.540
+A ver si hacia allí quizás un poco mejor.
+
+0:18:38.540,0:18:40.540
+¡Vale, vale!
+
+0:18:40.540,0:18:42.540
+Acá, aquí
+
+0:18:42.540,0:18:44.540
+no tenemos barro
+
+0:18:44.540,0:18:46.540
+y veo un poco de hierba seca.
+
+0:18:46.540,0:18:48.540
+Esto indica que, pues, no lo sé,
+
+0:18:48.540,0:18:50.540
+Creo que es más seco.
+
+0:18:50.540,0:18:52.540
+Es lo suficientemente plano.
+
+0:18:52.540,0:18:54.540
+Bueno, sí, yo creo
+
+0:18:54.540,0:18:56.540
+que aquí está bien.
+
+0:18:56.540,0:18:58.540
+¿Qué tenemos alrededor? Tenemos esa fábrica allí
+
+0:18:58.540,0:19:00.540
+a medio desfallecer.
+
+0:19:00.540,0:19:02.540
+Me muerdo la lengua. Mañana hablaremos.
+
+0:19:02.540,0:19:04.540
+De esta fábrica
+
+0:19:04.540,0:19:06.540
+y qué podemos hacer con ella.
+
+0:19:06.540,0:19:08.540
+¿Quién puede hacer qué con ella? Ya os imagináis.
+
+0:19:08.540,0:19:10.540
+Ya tenemos el pueblo, pero está tan lejos
+
+0:19:10.540,0:19:12.540
+que tenemos más
+
+0:19:12.540,0:19:14.540
+fábricas de allí, tenemos el hotel...
+
+0:19:14.540,0:19:16.540
+Bueno, que llame a la policía,
+
+0:19:16.540,0:19:18.540
+¿no? ¿Qué quieres que te diga?
+
+0:19:18.540,0:19:20.540
+Voy a acampar.
+
+0:19:20.540,0:19:22.540
+Pues justo ha sido plantar la tienda y empezar
+
+0:19:22.540,0:19:24.540
+a llover. Todavía
+
+0:19:24.540,0:19:26.540
+suerte, menos mal. Es poca lluvia, espero
+
+0:19:26.540,0:19:28.540
+que no vaya a más.
+
+0:19:28.540,0:19:30.540
+Hoy, 32 kilómetros
+
+0:19:30.540,0:19:32.540
+solamente. Hemos empezado tarde,
+
+0:19:32.540,0:19:34.540
+he parado bastante en el bar aquel
+
+0:19:34.540,0:19:36.540
+y he terminado antes de tiempo para
+
+0:19:36.540,0:19:38.540
+Lo que os he comentado hace poco.
+
+0:19:38.540,0:19:40.540
+Bueno, creo que estoy
+
+0:19:40.540,0:19:42.540
+En un buen lugar.
+
+0:19:42.540,0:19:44.540
+Confío. Confío
+
+0:19:44.540,0:19:46.540
+en no mojarme.
+
+0:19:46.540,0:19:48.540
+Dos cafés.
+
+0:19:48.540,0:19:50.540
+un refresco, he hablado
+
+0:19:50.540,0:19:52.540
+con...
+
+0:19:52.540,0:19:54.540
+5 personas hoy, ya las habéis visto en vídeo.
+
+0:19:54.540,0:19:56.540
+Incidentes con perros
+
+0:19:56.540,0:19:58.540
+aunque hoy los he encontrado
+
+0:19:58.540,0:20:00.540
+Mucho por la calle, muchísimo.
+
+0:20:00.540,0:20:02.540
 Y de dinero,
 
-207
-00:11:11,820 --> 00:11:13,820
-1,50€ al desayuno,
+0:20:02.540,0:20:04.540
+pues, de desayuno,
 
-208
-00:11:13,820 --> 00:11:15,820
-13,50€ al almuerzo
+0:20:04.540,0:20:06.540
+Nada, no me han dejado.
 
-209
-00:11:17,820 --> 00:11:19,820
-y 4,50€ ahora en un supermercado
+0:20:06.540,0:20:08.540
+Y de la comida,
 
-210
-00:11:19,820 --> 00:11:21,820
-por la tarde.
+0:20:08.540,0:20:10.540
+4 euros y medio,
 
-211
-00:11:21,820 --> 00:11:23,820
-Ha ido muy bien la charla.
+0:20:10.540,0:20:12.540
+y de eso, del helado,
 
-212
-00:11:23,820 --> 00:11:25,820
-Creo que eran 50 personas o así
+0:20:12.540,0:20:14.540
+2 euros. Hoy, baratito.
 
-213
-00:11:25,820 --> 00:11:27,820
-que por ser una llamada de Zoom,
+0:20:14.540,0:20:16.540
+Venga,
 
-214
-00:11:27,820 --> 00:11:29,820
-que tienes que descargarte el Zoom, tal,
+0:20:16.540,0:20:18.540
+me meto dentro antes de que
 
-215
-00:11:29,820 --> 00:11:31,820
-El programa Zoom, pues
+0:20:18.540,0:20:20.540
+rocío mucho. Por el momento, la chaqueta
 
-216
-00:11:31,820 --> 00:11:33,820
-está bastante bien. Y me han dicho que me la dejarán
+0:20:20.540,0:20:22.540
+Muy bien, ¿eh? Mirad,
 
-217
-00:11:33,820 --> 00:11:35,820
-colgar en mi canal de YouTube, por lo tanto
+0:20:22.540,0:20:24.540
+El efecto perlante funciona.
 
-218
-00:11:35,820 --> 00:11:37,820
-Creo que
-
-219
-00:11:37,820 --> 00:11:39,820
-La colgaré por aquí y quien quiera
-
-220
-00:11:39,820 --> 00:11:41,820
-pues la podrá ver.
-
-221
-00:11:45,128 --> 00:11:45,820
-Bueno,
-
-222
-00:11:45,820 --> 00:11:47,820
-ruidos extraños.
-
-223
-00:11:47,820 --> 00:11:49,820
-De acuerdo, voy a editar
-
-224
-00:11:49,820 --> 00:11:51,820
-El vídeo y la cocina
-
-225
-00:11:51,820 --> 00:11:53,820
-y todo ello. Buenas noches.
-
+0:20:24.540,0:20:26.540
+Buenas noches.
