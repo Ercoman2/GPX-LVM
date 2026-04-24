@@ -1,1331 +1,1158 @@
-0:00:00.000,0:00:03.640
-Le tour du monde à pied, jour 144.
+0:00:00.000,0:00:08.580
+Le tour du monde à pied
 
-0:00:04.000,0:00:06.240
-Il n'arrête pas de pleuvoir, il n'arrête pas de pleuvoir.
+0:00:08.580,0:00:10.420
+Ici
 
-0:00:06.940,0:00:10.360
-Il a plu toute la nuit, toute la nuit.
+0:00:10.420,0:00:13.160
+Jour 145
 
-0:00:11.420,0:00:14.040
-Tout est sec, pas de problème, tout va bien.
+0:00:13.160,0:00:14.480
+Joyeux saint Georges
 
-0:00:15.040,0:00:17.800
-Je suis en train de me faire mon café.
+0:00:14.480,0:00:16.220
+Vous le verrez le lendemain
 
-0:00:18.540,0:00:19.940
-Il est 8h10.
+0:00:16.220,0:00:17.620
+Aujourd'hui, c'est la Saint-Georges
 
-0:00:20.580,0:00:22.920
-Ce qui se passe, c'est qu'il fait une paresse de recueillir impressionnant, parce que bien sûr,
+0:00:17.620,0:00:20.240
+Vous avez oublié, hein ?
 
-0:00:23.820,0:00:25.120
-ramasser quand il pleut est un rouleau.
+0:00:20.900,0:00:23.000
+De mon sac poncho
 
-0:00:25.260,0:00:26.660
-On peut, je vous l’ai déjà dit plusieurs fois,
+0:00:23.000,0:00:24.740
+Peut-être que certains d'entre vous ne l'ont pas vu
 
-0:00:26.660,0:00:30.040
-avec ces clips et ces clips, vous les sortez
+0:00:24.740,0:00:26.000
+Parce que vous vous êtes fait avoir plus tard
 
-0:00:30.040,0:00:32.060
-et vous pouvez démonter la tente de l'intérieur.
+0:00:26.000,0:00:28.580
+Oui, depuis que j'ai la génoise
 
-0:00:33.420,0:00:37.520
-Mais bon, je vais quand même rester un peu plus longtemps ici.
+0:00:28.580,0:00:30.760
+Cette veste que je portais
 
-0:00:38.320,0:00:40.140
-Et voilà, vous... Chilling.
+0:00:30.760,0:00:32.160
+Je n'avais pas besoin d'elle
 
-0:00:41.380,0:00:42.140
-9 et demi.
+0:00:32.160,0:00:34.620
+Mais maintenant que je ne l'ai pas, eh bien, bon, de temps en temps
 
-0:00:42.620,0:00:45.040
-Ça valait le coup d'attendre car il s'est un peu arrêté.
+0:00:34.620,0:00:36.160
+C'est bon, c'est bon
 
-0:00:45.940,0:00:46.600
-Il pleut, mais il s’arrête.
+0:00:36.160,0:00:38.160
+Problème, le sac est trop chaud
 
-0:00:46.880,0:00:49.220
-Comme vous pouvez le voir, l'intérieur n'est plus.
+0:00:38.160,0:00:40.440
+Je veux dire, je me réveille plusieurs nuits
 
-0:00:50.340,0:00:51.420
-Je l'ai dans mon sac.
+0:00:40.440,0:00:41.660
+Suant, suant
 
-0:00:52.340,0:00:52.940
-Débarrassons-nous de cela.
+0:00:41.660,0:00:43.820
+Je ne sais pas ce que je vais faire, parce que
 
-0:01:10.653,0:01:15.140
-Comme vous pouvez le voir, tout ce qui est sec est stocké dans ce sac étanche
+0:00:43.820,0:00:46.900
+L’achat d’un modèle plus léger n’est pas si simple
 
-0:01:15.140,0:01:24.720
-et la tente extérieure est insérée comme ça pour ne pas mouiller le reste.
+0:00:46.900,0:00:48.060
+Que ce soit un quilt et tel
 
-0:02:34.537,0:02:37.120
-On ne pouvait pas marcher en ce temps-là.
+0:00:48.060,0:00:49.480
+Nous verrons
 
-0:02:37.240,0:02:39.760
-J'ai donc arrêté de boire un café qui m'a invité,
+0:00:49.480,0:00:51.360
+Qu'est-ce que tu vois là, hein ?
 
-0:02:39.840,0:02:41.240
-Ce monsieur m'a invité,
+0:00:52.420,0:00:54.160
+Ce n'est même pas une falaise
 
-0:02:41.940,0:02:44.600
-et ils m'ont dit, venez, venez, vous parlez anglais?
+0:00:54.160,0:00:55.860
+Rien de ce que j'ai fait d'autres fois
 
-0:02:44.780,0:02:47.480
-Et ils m'ont invité à m'asseoir ici avec toutes ces personnes si sympathiques.
+0:00:55.860,0:00:57.620
+Mais
 
-0:02:48.180,0:02:50.760
-Je vous ai dit que je faisais le tour du monde à pied et, bon, vous n’y croyez pas.
+0:00:57.620,0:00:58.560
+Vous, très bien, vous
 
-0:02:52.460,0:02:55.640
-« Dans 3 ans, il m’invitera au café à Barcelone »
+0:00:58.560,0:01:00.620
+La vue sur les montagnes est
 
-0:02:56.540,0:02:59.360
-Oui, il m'a invité à prendre un café, alors, bien sûr, je dois l'inviter quand je reviendrai à Barcelone d'ici pour me rencontrer.
+0:01:00.620,0:01:03.120
+Je vous ai dit hier que derrière il y avait la Bulgarie
 
-0:02:59.360,0:03:00.480
-« On va voir le Barça »
+0:01:03.120,0:01:04.880
+Très beau
 
-0:03:01.220,0:03:02.740
-Oui, je suis du Barça.
+0:01:04.880,0:01:06.880
+J'ai pris mon café mais je n'ai pas déjeuné
 
-0:03:03.220,0:03:03.920
-Vous aimez le Barça ?
+0:01:06.880,0:01:08.420
+Parce que je n'ai pas de petit déjeuner
 
-0:03:04.440,0:03:04.940
-Bien sûr que si !
+0:01:08.420,0:01:09.800
+Je ne l'ai pas acheté hier
 
-0:03:05.040,0:03:05.540
-Attendez...
+0:01:09.800,0:01:12.420
+Alors je rassemble
 
-0:03:08.280,0:03:12.320
-Je vous montre la carte (de membre)
+0:01:12.420,0:01:14.220
+Et nous allons en ville pour le petit déjeuner
 
-0:03:14.520,0:03:17.000
-Il pleut toujours, mais je continue à marcher.
+0:01:14.220,0:01:19.900
+Déjà à pied
 
-0:03:17.120,0:03:19.580
-Je suis resté une heure et je suis allé là-bas
+0:01:19.900,0:01:22.500
+Retour sur la route immédiatement
 
-0:03:20.080,0:03:22.740
-Après cet homme si sympathique qui m'a invité, il y en a un autre qui est venu,
+0:01:22.500,0:01:24.940
+Et je vois cette usine
 
-0:03:23.740,0:03:26.300
-Je lui ai raconté toute l’histoire et il m’a invité à manger.
+0:01:24.940,0:01:26.360
+que j'ai vu hier
 
-0:03:26.300,0:03:28.540
-Un sandwich au poulet.
+0:01:26.360,0:01:28.800
+Juste au moment où je suis venu chercher un endroit pour camper
 
-0:03:29.500,0:03:33.260
-Très, très, très, très bien les Grecs, en général, les meilleurs, les meilleurs.
+0:01:28.800,0:01:30.240
+Et je pensais
 
-0:03:34.340,0:03:35.840
-D’accord, Henri, et le parapluie ?
+0:01:30.240,0:01:31.860
+Huîtres, dispose d'un patio avant
 
-0:03:36.880,0:03:40.540
-Parce que, bien sûr, vous aviez pris un parapluie et vous ne l'utilisez pas.
+0:01:31.860,0:01:33.800
+Peut-être que ce serait un bon endroit pour camper
 
-0:03:40.940,0:03:41.660
-Eh bien vous avez raison.
+0:01:33.800,0:01:34.860
+C'est cette usine
 
-0:03:42.560,0:03:46.900
-C'est juste que j'avais oublié, parce que je n'ai pas l'habitude de le porter.
+0:01:34.860,0:01:36.680
+Il a cette espèce de
 
-0:03:47.720,0:03:49.420
-Je n'ai jamais fait de randonnée avec un parapluie.
+0:01:36.680,0:01:39.380
+Muret démoli
 
-0:03:50.160,0:03:51.640
-Alors je vais le faire maintenant.
+0:01:39.380,0:01:41.060
+Et je pensais, huîtres, je pourrais
 
-0:03:52.420,0:03:55.540
-Je vais voir si je peux le faire sans m'arrêter...
+0:01:41.060,0:01:42.800
+Coller par ici
 
-0:03:55.540,0:03:59.060
-Ici .
+0:01:42.800,0:01:44.880
+Et peut-être camper ici
 
-0:04:01.060,0:04:03.940
-Sans enlever mon sac à dos, parfait, je dirais que rien n'est tombé.
+0:01:44.880,0:01:46.380
+Entrons dans
 
-0:04:05.060,0:04:06.540
-Il ne me reste plus qu'à perdre, n'est-ce pas ?
+0:01:46.380,0:01:48.400
+Je ne suis pas venu hier, hein ?
 
-0:04:07.060,0:04:07.560
-Parapluie.
+0:01:49.200,0:01:49.600
+Iopa
 
-0:04:09.400,0:04:11.000
-Il ne pleut pas beaucoup non plus, hein ?
+0:01:49.600,0:01:52.420
+Je l'ai écarté
 
-0:04:12.660,0:04:13.540
-Nous allons essayer, voir...
+0:01:52.420,0:01:55.880
+Ne le lis pas, maintenant
 
-0:04:14.060,0:04:16.540
-Je le mets par ici, et par là...
+0:01:56.360,0:01:59.560
+Je l'ai écarté
 
-0:04:19.340,0:04:20.960
-Je peux toujours le faire, si non ?
+0:01:59.560,0:02:00.460
+Pour une raison
 
-0:04:21.960,0:04:22.460
-Allez-y !
+0:02:00.460,0:02:02.700
+Mais avant tout, laissez-moi vous présenter
 
-0:04:30.514,0:04:36.220
-Il fait un poil de vent, pas trop, mais un poil, et je trouve qu'il est trop sensible au vent, hein?
+0:02:02.700,0:02:04.900
+L’un des principaux sponsors de la chaîne
 
-0:04:36.560,0:04:38.436
-Ça me fait mal, mais...
+0:02:04.900,0:02:06.320
+Qu'est-ce que Demeter
 
-0:04:40.260,0:04:43.480
-Bon, maintenant, tiens-toi, mais jusqu'à un moment, ça courait comme ça, tu sais.
+0:02:06.320,0:02:08.540
+La meilleure entreprise de démolition de Catalogne
 
-0:04:46.020,0:04:48.360
-Régulier. De plus, maintenant il a encore poussé à la pluie, vous...
+0:02:08.540,0:02:09.560
+Ce serait
 
-0:04:49.500,0:04:50.000
-Nous suivons.
+0:02:09.560,0:02:11.680
+Un gros coup dur pour Demeter
 
-0:05:23.970,0:05:28.632
-Bonjour!
-Je suis allé à Barcelone en bateau
+0:02:11.680,0:02:13.500
+Parce que, bon, c'est un renversement facile
 
-0:05:28.632,0:05:38.562
-Je vous raconte que je fais le tour du monde à pied
+0:02:13.500,0:02:15.500
+Il est ici isolé
 
-0:05:38.767,0:05:41.769
-Il me montre des photos de son voyage à Barcelone en 2025
+0:02:15.500,0:02:16.560
+Alors vous venez à la machine
 
-0:06:15.958,0:06:17.840
-Entrer dans une nouvelle population
+0:02:16.560,0:02:18.240
+Pum, pum, pum et le casser
 
-0:06:17.840,0:06:20.380
-Je viens de passer sur un pont
+0:02:18.240,0:02:21.320
+Non? Eh bien non, parce qu'il a du fibrociment
 
-0:06:20.380,0:06:22.620
-Il avait une rivière et était très chargé.
+0:02:21.320,0:02:23.180
+Le fibrociment est un matériau
 
-0:06:23.740,0:06:24.640
-Regardez, je vous raconte
+0:02:23.180,0:02:25.440
+Si c'est le cas, placé
 
-0:06:24.640,0:06:25.220
-La situation .
+0:02:25.440,0:02:26.680
+Il ne se passe rien
 
-0:06:25.540,0:06:26.580
-là-bas
+0:02:26.680,0:02:27.440
+N'est pas toxique
 
-0:06:26.580,0:06:29.180
-C’est le parc naturel du delta de je ne sais quoi.
+0:02:27.440,0:02:29.280
+Mais celle qui le brise
 
-0:06:30.060,0:06:31.100
-C'était mon intention
+0:02:29.280,0:02:30.920
+Comme ces plaques qui sont cassées
 
-0:06:31.100,0:06:32.620
-On y va car il y a des tortues.
+0:02:30.920,0:02:33.200
+Dégager de l'amiante
 
-0:06:33.220,0:06:35.120
-Il y a des flamants roses et c'est un parc naturel.
+0:02:33.200,0:02:36.120
+L’amiante est un matériau
 
-0:06:36.100,0:06:37.560
-Ce qui se passe, c’est que
+0:02:36.120,0:02:38.200
+Un composé chimique qui est cancérigène
 
-0:06:37.560,0:06:39.500
-Les seigneurs
+0:02:38.200,0:02:39.780
+Si vous respirez l'amiante
 
-0:06:39.500,0:06:40.140
-Le bar de cette
+0:02:39.780,0:02:41.500
+Vous pouvez avoir un cancer du poumon
 
-0:06:40.140,0:06:43.120
-On m'a dit que ce n'était pas une bonne idée
+0:02:41.500,0:02:43.080
+C'est vraiment très dangereux
 
-0:06:43.120,0:06:44.760
-Parce qu'avec tant de pluie
+0:02:43.080,0:02:44.880
+Par conséquent, pour faire ce genre de démolitions
 
-0:06:44.760,0:06:47.080
-Peut-être est-ce par endroits
+0:02:44.880,0:02:46.960
+Besoin d'une entreprise spécialisée
 
-0:06:47.080,0:06:49.480
-inondées ou avec beaucoup d'eau, avec des flaques d'eau et ainsi de suite.
+0:02:46.960,0:02:48.260
+Avec le traitement de l'amiante
 
-0:06:50.280,0:06:51.620
-Il y a beaucoup de routes asphaltées
+0:02:48.260,0:02:50.540
+Inscrite au RERRA, qui s'appelle
 
-0:06:51.620,0:06:53.000
-Il ne devrait donc pas y avoir de problème
+0:02:50.540,0:02:52.400
+C'est un registre d'entreprises
 
-0:06:53.000,0:06:54.620
-Dans ces lieux, dans ces lieux
+0:02:52.400,0:02:54.020
+Qui font ce traitement avec de l'amiante
 
-0:06:54.620,0:06:55.260
-mais
+0:02:54.020,0:02:55.360
+Et Demeter sait beaucoup
 
-0:06:55.260,0:06:57.100
-J'ai fait un zoom
+0:02:55.440,0:02:57.440
+Depuis de nombreuses années, ils font des démolitions avec du fibrociment
 
-0:06:57.100,0:06:59.460
-et il y a quelques traversées de rivière
+0:02:57.440,0:02:59.240
+Le mieux, c'est que, au contraire
 
-0:06:59.460,0:07:00.160
-Ce ne sont pas des ponts
+0:02:59.240,0:03:00.340
+Que d'autres entreprises de démolition
 
-0:07:00.160,0:07:1500
-Ce sont des eaux inondables.
+0:03:00.340,0:03:03.100
+Ne pas sous-traiter l’enlèvement de l’amiante
 
-0:07:02.280,0:07:02.960
-Cela veut dire que
+0:03:03.100,0:03:05.260
+Ils peuvent le faire parce qu’ils ont leur propre équipe
 
-0:07:02.960,0:07:04.380
-Si la rivière passe par là
+0:03:05.260,0:03:07.800
+Nous avons plus de plaques d'amiante jetées ici
 
-0:07:04.380,0:07:06.820
-La route passe sous
+0:03:07.800,0:03:09.700
+Je vais voir si je suis resté ici
 
-0:07:06.820,0:07:08.280
-S'il y a de l'eau
+0:03:09.700,0:03:11.440
+Il ne se serait rien passé
 
-0:07:08.280,0:07:09.260
-Tu dois le manger.
+0:03:11.440,0:03:13.380
+Ce n'est pas l'endroit le plus sûr
 
-0:07:10.120,0:07:10.840
-Ce n'est pas un pont.
+0:03:13.380,0:03:14.780
+S'il pleut, il se casse quelque chose
 
-0:07:11.480,0:07:12.140
-Par conséquent,
+0:03:14.780,0:03:15.780
+L'amiante et le
 
-0:07:13.060,0:07:13.920
-En tenant compte de cela
+0:03:15.780,0:03:18.580
+Pour enlever l'amiante, vous devez mettre un scaphandre
 
-0:07:13.920,0:07:15.280
-Je pense que je vais devoir changer de voie
+0:03:18.580,0:03:21.120
+Des épis qui ne permettent pas
 
-0:07:15.280,0:07:17.480
-et continuer sur la route
+0:03:21.120,0:03:24.320
+Respirez les particules d’amiante
 
-0:07:17.480,0:07:19.980
-jusqu'à Alexandroupolis.
+0:03:24.320,0:03:25.420
+Et c’est toute une
 
-0:07:21.260,0:07:21.880
-C'est ce qu'il y a.
+0:03:25.440,0:03:27.760
+S'échapper comme si vous alliez dans l'espace
 
-0:07:22.500,0:07:23.020
-Vale, vale, vale, vale.
+0:03:27.760,0:03:30.260
+Ils ont une espèce de
 
-0:07:23.100,0:07:24.600
-Je me suis arrêté ici 5 minutes
+0:03:30.260,0:03:32.140
+Valve qui mesure les particules
 
-0:07:24.600,0:07:25.240
-Maintenant, en regardant la carte.
+0:03:32.140,0:03:34.320
+Dans l'air au cas où quelqu'un casse une plaque
 
-0:07:25.260,0:07:27.300
-Parce que je n'avais pas envie d'aller tout le temps sur la route
+0:03:34.320,0:03:35.220
+Sans vouloir le transmettre à quelqu'un
 
-0:07:27.300,0:07:29.640
-J'ai trouvé un beau chemin
+0:03:35.220,0:03:38.360
+On tire et tout le monde doit sortir
 
-0:07:29.640,0:07:30.980
-par montagne
+0:03:38.360,0:03:40.620
+C'est une chose assez compliquée
 
-0:07:30.980,0:07:32.480
-Et puis par la côte.
+0:03:40.620,0:03:42.220
+Vous avez besoin d’une entreprise spécialisée
 
-0:07:33.000,0:07:34.440
-Ce que je pense que ce sera demain.
+0:03:42.220,0:03:42.640
+Pour le faire
 
-0:07:35.160,0:07:36.000
-Aujourd’hui, la route
+0:03:42.640,0:03:45.740
+Faites confiance à Control Demeter
 
-0:07:36.000,0:07:38.600
-Demain, nous irons dans cette voie
+0:03:45.740,0:03:47.980
+Pour vos décombres de bâtiments anciens
 
-0:07:38.600,0:07:39.680
-A voir s'il existe.
+0:03:47.980,0:03:49.820
+Avec fibrociment ou noix
 
-0:07:40.280,0:07:40.780
-Oyez!
+0:03:49.820,0:03:50.480
+N'importe quoi
 
-0:07:41.700,0:07:43.300
-Super cascade, on va la voir, non ?
+0:03:50.480,0:03:53.180
+Merci Demeter pour votre contribution au tour du monde à pied
 
-0:07:44.160,0:07:45.980
-Est-ce la première chute d'eau du tour du monde à pied ?
+0:03:55.440,0:03:58.540
 
-0:07:46.940,0:07:47.440
-Je crois que non.
 
-0:07:47.560,0:07:49.140
-Il y en avait un autre au Monténégro
+0:04:03.440,0:04:04.460
+J'ai joué à Komotini
 
-0:07:49.140,0:07:50.420
-C'était assez chiant.
+0:04:04.460,0:04:06.800
+Avant de prendre le petit déjeuner, nous allons au supermarché
 
-0:07:51.520,0:07:52.020
-Eh bien ?
+0:04:06.800,0:04:08.160
+Ils disent que celui-ci
 
-0:07:52.540,0:07:53.240
-Oh, oh, oh!
+0:04:08.160,0:04:10.140
+Je ne sais pas comment prononcer ça
 
-0:07:54.380,0:07:54.980
-Compliqué, hein ?
+0:04:10.140,0:04:13.220
+C'est le moins cher de Grèce
 
-0:07:55.260,0:07:56.400
-À voir.
+0:04:13.220,0:04:15.020
+Je profiterai aussi
 
-0:07:57.780,0:07:58.540
-Très bien, toi.
+0:04:15.020,0:04:17.680
+Pour vous montrer un peu à quoi ressemble un supermarché grec
 
-0:08:00.120,0:08:00.860
-Très beau.
+0:04:17.680,0:04:20.740
+Commençons par la zone de repas préparés
 
-0:08:01.040,0:08:02.360
-Beaucoup d'eau, bien sûr, bien sûr.
+0:04:20.740,0:04:21.480
+Les nuggets typiques
 
-0:08:02.680,0:08:03.180
-Beaucoup d'eau.
+0:04:21.480,0:04:22.680
+Des hamburgers typiques
 
-0:08:10.520,0:08:11.360
-nouveau peuple,
+0:04:22.680,0:04:23.660
+Pâtes, cannelloni
 
-0:08:12.040,0:08:12.640
-Iasmus,
+0:04:23.660,0:04:25.420
+Et puis tout le sujet sauces
 
-0:08:13.560,0:08:15.280
-Comme tous les peuples de la Grèce
+0:04:25.900,0:04:29.940
+Tout le sujet des sauces ou des choses à dipigerer, ils vous disent ici.
 
-0:08:15.280,0:08:17.700
-Il y a deux choses à l'entrée.
+0:04:30.880,0:04:33.020
+Je les ai tous essayés, mais je ne me souviens pas du nom. Ils sont tous très bons.
 
-0:08:18.740,0:08:19.340
-Une est
+0:04:33.360,0:04:37.380
+Et puis le sujet des olives, qu'ici en Grèce, il y en a beaucoup et de toutes sortes.
 
-0:08:19.340,0:08:21.320
-Cette laitière
+0:04:37.900,0:04:40.480
+Puis fromages. Il y a beaucoup d'importés,
 
-0:08:21.320,0:08:22.180
-Avec le nom du village
+0:04:41.160,0:04:43.600
+Mais les plus typiques sont ceux qui sont habituellement dans le réfrigérateur.
 
-0:08:22.180,0:08:23.760
-Et l'autre est
+0:04:43.820,0:04:45.680
+C’est le cas, c’est le plus typique.
 
-0:08:23.760,0:08:25.200
-Les chiens errants,
+0:04:45.680,0:04:48.300
+Je n'ai jamais aimé les fromages grecs.
 
-0:08:25.260,0:08:28.000
-Ces derniers temps, dans cette région
+0:04:48.840,0:04:50.640
+Trop salées à mon goût.
 
-0:08:28.000,0:08:28.980
-Ils bordent.
+0:04:51.220,0:04:54.360
+Maintenant, la partie importante, celle des yaourts.
 
-0:08:30.340,0:08:31.460
-Tout va bien, tout va bien.
+0:04:54.360,0:04:57.720
+Nous avons les yaourts typiques que vous trouverez dans un supermarché en Catalogne
 
-0:08:31.800,0:08:33.760
-Je crois que je vais manger ici.
+0:04:57.720,0:05:03.000
+et tu vas à droite et tu commences à trouver les meilleurs,
 
-0:08:34.000,0:08:35.640
-Je vais manger quelque chose, comme toujours.
+0:05:03.100,0:05:04.900
+Plus spécial, plus cher.
 
-0:08:37.040,0:08:38.140
-Gyors de
+0:05:05.140,0:05:06.860
+Ce sont ceux que j'ai achetés, ils sont tous très bons.
 
-0:08:38.140,0:08:39.660
-veau.
+0:05:07.580,0:05:09.860
+Section légumes, régime méditerranéen,
 
-0:08:40.540,0:08:42.160
-Parce qu'il s'avère que le cochon
+0:05:10.420,0:05:14.140
+pas de surprise, très semblable à nos légumes
 
-0:08:42.160,0:08:43.420
-Ils ne sont pas là, parce que, bien sûr, il faut
+0:05:14.140,0:05:15.200
+Ou presque pareil.
 
-0:08:43.420,0:08:46.420
-Ce peuple musulman
+0:05:15.900,0:05:19.860
+Jusqu'à présent tout à fait semblable, mais le lait, en dehors des briques normales,
 
-0:08:46.420,0:08:47.700
-Les cochons ne mangent pas.
+0:05:20.340,0:05:21.420
+Ils ont des canettes.
 
-0:08:47.860,0:08:50.400
-Ils avaient donc du chicken et du beef.
+0:05:21.420,0:05:23.140
+Je l'ai montré dans une vidéo
 
-0:08:51.180,0:08:51.980
-J'ai pris le beef.
+0:05:23.140,0:05:25.000
+J'ai mis du lait dans un bar.
 
-0:08:51.980,0:08:53.600
-Bon, ok. En outre, le pain
+0:05:25.800,0:05:27.000
+Pour ce qui est des canettes, je ne comprends pas.
 
-0:08:53.600,0:08:55.100
-Ils l'avaient fait,
+0:05:27.460,0:05:28.740
+Je ne sais pas si quelqu'un peut m'expliquer.
 
-0:08:55.260,0:08:56.540
-tout bien.
+0:05:29.680,0:05:31.580
+Des biscuits, c’est ce que je mange tous les matins.
 
-0:08:56.540,0:08:59.540
-Et aujourd'hui, j'ai changé le typique, de cela,
+0:05:32.500,0:05:33.300
+Assez similaire.
 
-0:08:59.540,0:09:02.140
-le yaourt typique pour un peu de glace,
+0:05:33.620,0:05:35.700
+J'ai l'habitude d'acheter celles qui sont pleines.
 
-0:09:02.140,0:09:03.340
-Je ne sais pas non plus de quoi il s'agit,
+0:05:36.400,0:05:38.760
+Chaque jour, j’en achète un différent pour changer.
 
-0:09:03.340,0:09:07.040
-Parce que la vendeuse ne parlait pas,
+0:05:39.280,0:05:40.060
+Il y a beaucoup de saveurs.
 
-0:09:07.040,0:09:09.760
-Je ne parlais pas anglais, je n'arrivais pas à traduire.
+0:05:40.740,0:05:45.420
+Coco, fraise, citron, crème, vanille...
 
-0:09:09.760,0:09:12.140
-Mais bon, il avait l'air bien.
+0:05:46.200,0:05:47.420
+Section des vins.
 
-0:09:12.140,0:09:13.340
-Nous suivons.
+0:05:48.320,0:05:51.780
+Je voulais voir si je trouvais un cava catalan.
 
-0:09:27.255,0:09:29.940
-Je ne les vois presque pas avec des écouteurs, hein?
+0:05:51.820,0:05:52.620
+Et non.
 
-0:09:34.165,0:09:35.850
-Les chèvres, vous.
+0:05:53.140,0:05:53.900
+Non, non, non, non, non.
 
-0:09:37.810,0:09:39.340
-Les chèvres.
+0:05:53.900,0:05:55.580
+Ils ont du Prosecco.
 
-0:09:41.376,0:09:43.340
-D'accord, nous venons de là
+0:05:55.580,0:05:59.580
+Prosecco, qui est le cava italien qui est maintenant tellement à la mode.
 
-0:09:43.340,0:09:46.340
-et la piste qui nous y mène
+0:05:59.940,0:06:03.660
+Et pour finir, j'ai été très déçue par le frigo.
 
-0:09:46.340,0:09:49.940
-Il faut faire le tour de là-haut
+0:06:03.900,0:06:05.900
+Très petite, avec un peu de tout.
 
-0:09:49.940,0:09:52.940
-et de se connecter à cette route d'ici, très bien.
+0:06:06.380,0:06:07.460
+J'ai acheté un peu de jambon.
 
-0:09:52.940,0:09:54.540
-Ils ont fait un pont.
+0:06:08.020,0:06:11.380
+J'ai fait un gros achat pour aujourd'hui et pour demain.
 
-0:09:54.540,0:09:58.540
-Ou plutôt un pont.
+0:06:12.260,0:06:14.060
+Après tout, il était venu pour prendre un café, non ?
 
-0:09:58.540,0:10:01.540
-Et je pense qu'on peut traverser le pont.
+0:06:14.860,0:06:20.140
+Et je suis assis à côté de grands-parents qui célèbrent quelque chose
 
-0:10:01.540,0:10:03.540
-Il n'est pas encore tout à fait prêt,
+0:06:20.140,0:06:22.020
+Ils commencent à me dire que je ne comprenais rien.
 
-0:10:03.540,0:10:06.540
-Les voitures ne peuvent pas passer.
+0:06:22.020,0:06:26.020
+Nous avons plus ou moins réussi à communiquer
 
-0:10:06.540,0:10:08.540
-4 100 000 euros.
+0:06:26.020,0:06:27.580
+Ils ont commencé à me donner à manger.
 
-0:10:08.540,0:10:10:10.540
-Mettez la dépense là.
+0:06:31.580,0:06:32.300
+grand-mère.
 
-0:10:10.540,0:10:12.540
-Je crois que je vais passer,
+0:06:33.260,0:06:33.940
+Grand-mère ?
 
-0:10:12.540,0:10:15.540
-Je passe parce que, bon,
+0:06:34.740,0:06:35.240
+Ah oui !
 
-0:10:15.540,0:10:17.540
-C’est maintenant qu’il tombe, tu sais ?
+0:06:35.340,0:06:35.840
+Oh, non.
 
-0:10:17.540,0:10:18.540
-Non, mon gars, non.
+0:06:35.860,0:06:36.540
+Efériste.
 
-0:10:18.540,0:10:21.540
-C'est la pile de terre qui empêche le passage des voitures.
+0:06:36.560,0:06:37.140
+grand-mère.
 
-0:10:21.540,0:10:23.540
-Et voici le pont,
+0:06:38.260,0:06:39.160
+Pour vous.
 
-0:10:23.540,0:10:24.540
-Le pont,
+0:06:40.020,0:06:40.700
+Efériste.
 
-0:10:24.540,0:10:27.540
-avec la cape,
+0:06:41.420,0:06:41.920
+Pour vous.
 
-0:10:27.540,0:10:29.540
-Parce que vous voyez,
+0:06:43.180,0:06:47.740
+Et puis je vous ai appelé Cosmos Metapodia, dont je me suis souvenu,
 
-0:10:29.540,0:10:31.540
-Ce qu'il y a sous les ponts,
+0:06:48.280,0:06:49.220
+Ils ont compris, je crois.
 
-0:10:31.540,0:10:32.540
-béton,
+0:06:49.220,0:06:51.200
+Il avait compris qu'il marchait.
 
-0:10:32.540,0:10:35.540
-Et sur le dessus, ils mettent la couche d'asphalte.
+0:06:51.280,0:06:51.600
+Alors, ceci.
 
-0:10:35.540,0:10:37.540
-Et il y a plusieurs morceaux de béton, d'accord,
+0:06:51.600,0:06:52.880
+Ils ont commencé à me donner à manger.
 
-0:10:37.540,0:10:39.540
-qui sont séparés entre eux,
+0:06:53.660,0:06:55.320
+Ils ont commencé à prendre des photos avec moi.
 
-0:10:39.540,0:10:42.540
-D'accord, parce qu'en été,
+0:06:57.120,0:06:57.620
+Très amusant.
 
-0:10:42.540,0:10:46.540
-Quand il fait chaud, le béton se dilate.
+0:06:58.400,0:06:59.320
+Très amusant.
 
-0:10:46.540,0:10:50.540
-Puis ces joints se ferment.
+0:06:59.880,0:07:00.760
+Les grands-mères de celle-ci.
 
-0:10:50.540,0:10:53.540
-Si cette séparation n'existait pas,
+0:07:01.980,0:07:03.720
+Oui, c'est ça la ville.
 
-0:10:53.540,0:10:56.540
-Cette séparation briserait le pont.
+0:07:04.640,0:07:07.620
+Je vais faire un tour rapide et sortir et continuer à marcher,
 
-0:10:56.540,0:10:59.540
-Donc, il faut faire, il faut faire ces séparations.
+0:07:07.680,0:07:10.260
+Aujourd'hui, je vais faire 40, 40 et plus.
 
-0:10:59.540,0:11:01.540
-C’est ce qu’on appelle un joint de dilatation.
-
-0:11:01.540,0:11:05.540
-Et, bon, quand vous posez la couche d'asphalte dessus,
-
-0:11:05.540,0:11:08.540
-Comme l'asphalte est élastique, cela ne se voit pas.
-
-0:11:08.540,0:11:11.540
-Leçon du jour.
-
-0:11:11.540,0:11:12.784
-Regardez la rivière.
-
-0:11:15.151,0:11:17.540
-Attention aux coffres.
-
-0:11:21.027,0:11:22.540
-Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-
-0:11:27.078,0:11:29.540
-Il y a eu un décrochage évident.
-
-0:11:29.540,0:11:32.540
-Attention, soin,
-
-0:11:32.540,0:11:35.540
-Et là, on est en lien avec la carte.
-
-0:11:38.540,0:11:43.034
-Grec non, Barcelone
-
-0:11:43.540,0:11:44.250
-La Bulgarie ?
-
-0:11:44.250,0:11:45.087
-Barcelone.
-
-0:11:45.087,0:11:47.545
-Le Pakistan ?
-
-0:11:47.545,0:11:49.545
-Barcelone.
-
-0:11:49.545,0:11:52.641
-À pied ?
-(J'essaie de dire quelque chose mais je n'y arrive pas)
-
-0:11:53.398,0:11:54.540
-chinois.
-
-0:11:55.609,0:11:56.540
-Australienne.
-
-0:11:56.540,0:12:00.540
-Australie. L'Australie à pied?
-
-0:12:03.540,0:12:08.340
-La Chine et Istanbul à pied
-
-0:12:11.540,0:12:17.427
-- Et toi? Turc? Ah ok.
-- Moi grec
-
-0:12:18.540,0:12:20.540
-Mise à jour à 4:10.
-
-0:12:20.540,0:12:23.540
-Un dialogue un peu chanceux que j'ai eu maintenant.
-
-0:12:23.540,0:12:27.540
-Il faut se rappeler comment on dit en grec le tour du monde à pied.
-
-0:12:27.540,0:12:30.540
-On me l'a dit plusieurs fois et j'ai oublié.
-
-0:12:30.540,0:12:33.540
-C'est quelque chose de similaire à "cosmos metapodia".
-
-0:12:33.540,0:12:35.540
-Ce n'est pas tout à fait ça, mais je pense que c'est comme ça que ça se comprend.
-
-0:12:35.540,0:12:37.540
-"Métapodie, métapode."
-
-0:12:37.540,0:12:39.540
-Métapode comme le Pokémon.
-
-0:12:39.540,0:12:40.540
-Voyons si je me souviens.
-
-0:12:40.540,0:12:42.540
-J'ai quelques choses à vous dire.
-
-0:12:42.540,0:12:45.540
-Il s’agit notamment de la question du passage de la frontière avec la Turquie.
-
-0:12:45.540,0:12:48.540
-La dernière mise à jour que je vous ai dit ici, dans la vidéo YouTube,
-
-0:12:48.540,0:12:51.540
-Il y a un mois ou plus,
-
-0:12:51.540,0:12:54.540
-Il faut aller en Bulgarie
-
-0:12:54.540,0:12:57.540
-La frontière avec la Turquie depuis la Grèce
-
-0:12:57.540,0:13:01.540
-On ne pouvait pas la traverser à pied, on ne pouvait que la traverser en voiture.
-
-0:13:01.540,0:13:05.540
-Les derniers tronçons, qui est comme un pont il ya un kilomètre.
-
-0:13:05.540,0:13:09.540
-La mise à jour est que le français est devant moi,
-
-0:13:09.540,0:13:13:13.540
-il y a quelques temps, il a traversé la Bulgarie et a eu le même problème.
-
-0:13:13:13.540,0:13:16.540
-Il a dû prendre la dernière voiture.
-
-0:13:16.540,0:13:18.540
-Alors,
-
-0:13:18.540,0:13:21.540
-J'ai parlé à la World Runners Association.
-
-0:13:21.540,0:13:23.540
-Écoute, que...
-
-0:13:23.540,0:13:25.540
-Ou plutôt comme ça.
-
-0:13:25.540,0:13:26.540
-Écoute, que...
-
-0:13:26.540,0:13:28.540
-Je ne vais pas aller en Bulgarie juste pour faire cette bêtise.
-
-0:13:28.540,0:13:30.540
-Il faut que je fasse pareil en Grèce.
-
-0:13:30.540,0:13:31.540
-Et oui, oui.
-
-0:13:31.540,0:13:34.540
-Je vais traverser la Grèce par Ipsala.
-
-0:13:34.540,0:13:37.540
-Je vais voir comment je fais pour trouver une voiture.
-
-0:13:37.540,0:13:39.540
-Je vais essayer de faire de l'auto-stop, mais...
-
-0:13:39.540,0:13:41.540
-Franchir une frontière,
-
-0:13:41.540,0:13:43.540
-Mettre quelqu'un dans sa voiture, c'est...
-
-0:13:43.540,0:13:45.540
-plus délicat, non? Va, je ne sais pas.
-
-0:13:45.540,0:13:47.540
-Et puis, je suis arrivée en Grèce.
-
-0:13:48.540,0:13:50.540
-Et deuxième chose,
-
-0:13:50.540,0:13:52.540
-C’est le thème de la route vers l’Asie.
-
-0:13:52.540,0:13:54.540
-Je vous ai toujours dit que lorsque j’arriverai à Istanbul, je déciderai de la route,
-
-0:13:54.540,0:13:56.540
-Et je le ferai,
-
-0:13:56.540,0:13:58.540
-et que, pour l'instant, je me penchais
-
-0:13:58.540,0:14:00.540
-En route vers le centre de l'Asie,
-
-0:14:00.540,0:14:02.540
-qui est Kazakhstan, Ouzbékistan, Tadjikistan,
-
-0:14:02.540,0:14:04.540
-petite partie de la Chine et du Pakistan.
-
-0:14:04.540,0:14:06.540
-Maintenant je suis
-
-0:14:06.540,0:14:08.540
-J'ai donc décidé d'écarter cette option.
-
-0:14:08.540,0:14:10.540
-Et aller plutôt vers
-
-0:14:10.540,0:14:12.540
-Le choix initial, qui était
-
-0:14:12.540,0:14:14.540
-à Tbilissi, qui est Georgia,
-
-0:14:14.540,0:14:16.540
-ou en Arménie, à pied,
-
-0:14:16.540,0:14:18.540
-et là prendre un avion
-
-0:14:18.540,0:14:20.540
-au Pakistan ou en Inde.
-
-0:14:20.540,0:14:22.540
-Pourquoi ? Parce que...
-
-0:14:22.540,0:14:24.540
-Bien sûr,
-
-0:14:24.540,0:14:26.540
-Nous sommes maintenant prêts
-
-0:14:26.540,0:14:28.540
-d'arriver en mai et
-
-0:14:28.540,0:14:30.540
-Il y a encore beaucoup de chemin à parcourir avant d'arriver
-
-0:14:30.540,0:14:32.540
-au Pakistan, mais très, très, très
-
-0:14:32.540,0:14:34.540
-tronçon, et ce qui peut arriver,
-
-0:14:34.540,0:14:36.540
-et il me passera en sécurité, c'est qu'il me prendra
-
-0:14:36.540,0:14:38.540
-L'hiver au centre
-
-0:14:38.540,0:14:40.540
-de l ' Asie. Cette région
-
-0:14:40.540,0:14:42.540
-En Asie centrale, l'hiver est très froid.
-
-0:14:42.540,0:14:44.540
-Au Tajikistan, les montagnes du Pamir
-
-0:14:44.540,0:14:46.540
-Je ne peux pas les mettre à pied
-
-0:14:46.540,0:14:48.540
-En janvier, février, décembre,
-
-0:14:48.540,0:14:50.50
-ou quoi que ce soit.
-
-0:14:50.540,0:14:52.540
-Recherchez sur Google les montagnes du Pamir,
-
-0:14:52.540,0:14:54.540
-C'est une affaire de montagnes
-
-0:14:54.540,0:14:56.540
-7 000 mètres, et des choses comme ça, vous savez.
-
-0:14:56.540,0:14:58.540
-C'est une passe.
-
-0:14:58.540,0:15:00.540
-Que je ne monterai pas une montagne de sept mille mètres,
-
-0:15:00.540,0:15:02.540
-Mais la région est une zone très élevée,
-
-0:15:02.540,0:15:04.540
-Avec un climat continental
-
-0:15:04.540,0:15:06.540
-Avec des températures extrêmes, c'est ce que je veux dire.
-
-0:15:06.540,0:15:08.540
-Alors, si vous m'attrapez
-
-0:15:08.540,0:15:10.540
-l'hiver,
-
-0:15:10.540,0:15:12.540
-Ce que je vais devoir faire, c'est arrêter.
-
-0:15:12.540,0:15:14.540
-arrêter jusqu'à ce qu'il cesse de faire
-
-0:15:14.540,0:15:16.540
-ce froid, je peux donc être
-
-0:15:16.540,0:15:18.540
-tranquillement deux ou trois,
-
-0:15:18.540,0:15:20.540
-quatre mois, je ne sais pas, parce que cela dépend de
-
-0:15:20.540,0:15:22.540
-Quand je suis arrivé, debout,
-
-0:15:22.540,0:15:24.540
-Attendre que l'hiver passe.
-
-0:15:24.540,0:15:26.540
-et bien sûr,
-
-0:15:26.540,0:15:28.540
-Ça... Je ne le veux pas.
-
-0:15:28.540,0:15:30.540
-De même,
-
-0:15:30.540,0:15:32.540
-Je vais devoir faire les calculs.
-
-0:15:32.540,0:15:34.540
-Regardez les kilomètres qui sont,
-
-0:15:34.540,0:15:36.540
-voir comment je peux gérer ça,
-
-0:15:36.540,0:15:38.540
-Oui ou non, mais
-
-0:15:38.540,0:15:40.540
-Je me déprime pour ça en ce moment.
-
-0:15:44.540,0:15:46.540
-Derrière cette chaîne de montagnes,
-
-0:15:46.540,0:15:48.540
-Il a l'air si mauvais parce qu'il est tellement
-
-0:15:48.540,0:15:50.50
-nuageux
-
-0:15:50.540,0:15:52.540
-et il pleut probablement,
-
-0:15:52.540,0:15:54.540
-Nous avons la Bulgarie,
-
-0:15:54.540,0:15:56.540
-Un pays que je n'ai jamais visité
-
-0:15:56.540,0:15:58.540
-Pour l'instant, il restera sans
-
-0:15:58.540,0:16:00.540
-visiter. Quelque chose que je fais
-
-0:16:00.540,0:16:02.540
-Dernièrement, éditer
-
-0:16:02.540,0:16:04.540
-En marchant, de temps en temps.
-
-0:16:04.540,0:16:06.540
-Avant, j'écrivais normalement
-
-0:16:06.540,0:16:08.540
-exclusivement quand j'arrivais à la tente à 17 heures,
-
-0:16:08.540,0:16:10.540
-Parce qu'il faisait nuit à cinq heures.
-
-0:16:10.540,0:16:12.540
-Et maintenant que j'ai plus de temps pour marcher,
-
-0:16:12.540,0:16:14.540
-j'ai moins de temps pour éditer. Alors,
-
-0:16:14.540,0:16:16.540
-Dois-je être là jusqu'à 1, à 12, pour éditer?
-
-0:16:16.540,0:16:18.540
-Non, ce n'est pas possible. Par conséquent,
-
-0:16:18.540,0:16:20.540
-J'édite de temps en temps pendant que je marche
-
-0:16:20.540,0:16:22.540
-Je m’économise ainsi du travail.
-
-0:16:22.540,0:16:24.540
-Mise à jour le 7 et le 10 de l'après-midi.
-
-0:16:24.540,0:16:26.540
-Passe ce que
-
-0:16:26.540,0:16:28.540
-Ça arrive habituellement.
-
-0:16:28.540,0:16:30.540
-Xanthi ne m'est pas arrivé,
-
-0:16:30.540,0:16:32.540
-Mais là oui, c'est que
-
-0:16:32.540,0:16:34.540
-Il me reste 4 km à parcourir
-
-0:16:34.540,0:16:36.540
-à Komoti, qui est
-
-0:16:36.540,0:16:38.540
-La ville suivante, et...
-
-0:16:38.540,0:16:40.540
-4 kilomètres, c’est une heure.
-
-0:16:40.540,0:16:42.540
-C'est l'heure qui tombe, donc elle coïncide avec l'heure
-
-0:16:42.540,0:16:44.540
-de camping. J'ai regardé
-
-0:16:44.540,0:16:46.540
-un logement, je n'ai pas fait le poids
-
-0:16:46.540,0:16:48.540
-rien parce que c'était cher et, bon, pas
-
-0:16:48.540,0:16:50.540
-J'ai besoin de camper aujourd'hui, la vérité.
-
-0:16:50.540,0:16:52.540
-Par conséquent, il était
-
-0:16:52.540,0:16:54.540
-ou de la ville ou
-
-0:16:54.540,0:16:56.540
-camping avant. J'ai décidé la deuxième
-
-0:16:56.540,0:16:58.540
-choix, car il ne me donne pas
-
-0:16:58.540,0:17:00.540
-le temps. Je n'ai pas le temps d'entrer dans la ville,
-
-0:17:00.540,0:17:02.540
-Voir trop vite et sortir.
-
-0:17:02.540,0:17:04.540
-Il n’y a pas beaucoup d’eau,
-
-0:17:04.540,0:17:06.540
-Il y a une église,
-
-0:17:06.540,0:17:08.540
-Nous allons nous faufiler, j'attendrai que la porte soit fermée,
-
-0:17:08.540,0:17:10.540
-On va s'engueuler
-
-0:17:10.540,0:17:12.540
-voir s'il y a une source
-
-0:17:12.540,0:17:14.540
-Puis trouver un endroit pour camper.
-
-0:17:14.540,0:17:16.540
-Nous n'avons pas de source,
-
-0:17:16.540,0:17:18.540
-Mais nous avons une mangue.
-
-0:17:18.540,0:17:20.540
-Ça me sert, va.
-
-0:17:22.540,0:17:24.540
-Voyons, putain,
-
-0:17:24.540,0:17:26.540
-J'espère que c'est potable.
-
-0:17:28.540,0:17:30.540
-Vale,
-
-0:17:30.540,0:17:32.540
-Maintenant je dois fermer
-
-0:17:34.540,0:17:36.540
-et puisque nous allons remplir celui-ci,
-
-0:17:36.540,0:17:38.540
-aussi. Je pourrais vous
-
-0:17:38.540,0:17:40.540
-vous tromper et vous dire que je me suis glissé, et que je me suis vraiment glissé,
-
-0:17:40.540,0:17:42.540
-Mais il ne fallait pas.
-
-0:17:42.540,0:17:44.540
-n'était pas nécessaire.
-
-0:17:44.540,0:17:46.540
-La porte était ouverte.
-
-0:17:46.540,0:17:48.540
-D'accord,
-
-0:17:48.540,0:17:50.540
-Regarde, je vais
-
-0:17:50.540,0:17:52.540
-là-bas, que j'ai vu
-
-0:17:52.540,0:17:54.540
-Quelques champs
-
-0:17:54.540,0:17:56.540
-Au début, il n’y a pas de construction
-
-0:17:56.540,0:17:58.540
-proche, mais
-
-0:17:58.540,0:18:00.540
-Je suppose que ce sera comme toujours, de l'herbe haute.
-
-0:18:00.540,0:18:02.540
-J'ai déjà vu cet hôtel.
-
-0:18:02.540,0:18:04.540
-l'hôtel Archilio,
-
-0:18:04.540,0:18:06.540
-60 euros pour une chambre individuelle.
-
-0:18:06.540,0:18:08.540
-A l'égal !
-
-0:18:08.540,0:18:10.540
-C'est la route qu'il a indiquée.
-
-0:18:10.540,0:18:12.540
-Il y a une sorte de village.
-
-0:18:12.540,0:18:14.540
-Nous ne sommes pas intéressés à aller là-bas.
-
-0:18:14.540,0:18:16.540
-Pour voir où ils nous mènent
-
-0:18:16.540,0:18:18:18.540
-ces rôdeurs.
-
-0:18:18.540,0:18:20.540
-Je vois l'herbe très haute, pour varier,
-
-0:18:20.540,0:18:22.540
-C'est ce qu'il y a.
-
-0:18:22.540,0:18:24.540
-Il y a des zones moins
-
-0:18:24.540,0:18:26.540
-herbe, mais je ne sais pas si vous voyez
-
-0:18:26.540,0:18:28.540
-Qu'il s'effondre
-
-0:18:28.540,0:18:30.540
-est ..
-
-0:18:30.540,0:18:32.540
-Non, bien sûr, je ne suis pas en colère
-
-0:18:32.540,0:18:34.540
-camper là où il y a
-
-0:18:34.540,0:18:36.540
-La boue de celui-ci, je ne sais pas.
-
-0:18:36.540,0:18:38.540
-A voir si ça peut aller un peu mieux.
-
-0:18:38.540,0:18:40.540
-Vale, vale.
-
-0:18:40.540,0:18:42.540
-Ici, ici
-
-0:18:42.540,0:18:44.540
-Nous n'avons pas de boue
-
-0:18:44.540,0:18:46.540
-Je vois de l'herbe sèche.
-
-0:18:46.540,0:18:48.540
-Cela indique que je ne sais pas,
-
-0:18:48.540,0:18:50.540
-C'est plus sec, je crois.
-
-0:18:50.540,0:18:52.540
-C'est assez plat.
-
-0:18:52.540,0:18:54.540
-Oui, oui, je crois
-
-0:18:54.540,0:18:56.540
-Ici c'est bien.
-
-0:18:56.540,0:18:58.540
-Qu'est-ce que nous avons autour? Nous avons cette usine là-bas
-
-0:18:58.540,0:19:00.540
-à moitié démolie.
-
-0:19:00.540,0:19:02.540
-Je me mords la langue. Demain, nous parlerons.
-
-0:19:02.540,0:19:04.540
-De cette usine
-
-0:19:04.540,0:19:06.540
-Que pouvons-nous faire avec elle.
-
-0:19:06.540,0:19:08.540
-Qui peut faire quoi avec elle? Vous imaginez déjà.
-
-0:19:08.540,0:19:10.540
-La ville est déjà là, mais elle est loin
-
-0:19:10.540,0:19:12.540
-que nous avons plus
-
-0:19:12.540,0:19:14.540
-usines là-bas, nous avons l'hôtel...
-
-0:19:14.540,0:19:16.540
-Bon, j'appelle la police,
-
-0:19:16.540,0:19:18.540
-non? que voulez-vous que je vous dise?
-
-0:19:18.540,0:19:20.540
-Je vais camper.
-
-0:19:20.540,0:19:22.540
-Eh bien, il a juste été de planter la tente et commencer
-
-0:19:22.540,0:19:24.540
-à pleuvoir. Encore
-
-0:19:24.540,0:19:26.540
-bonne chance, pas de chance. C'est peu de pluie, j'espère
-
-0:19:26.540,0:19:28.540
-Qu'il n'aille pas plus loin.
-
-0:19:28.540,0:19:30.540
-Aujourd'hui, 32 kilomètres
-
-0:19:30.540,0:19:32.540
-seulement. Nous avons commencé tard,
-
-0:19:32.540,0:19:34.540
-J'ai été assez loin dans ce bar
-
-0:19:34.540,0:19:36.540
-Et j'ai fini tôt pour
-
-0:19:36.540,0:19:38.540
-Ce que je vous disais tout à l'heure.
-
-0:19:38.540,0:19:40.540
-Bon, je crois que je suis
-
-0:19:40.540,0:19:42.540
-Dans un bon endroit.
-
-0:19:42.540,0:19:44.540
-J'ai confiance. Je fais confiance
-
-0:19:44.540,0:19:46.540
-Ne pas me mouiller.
-
-0:19:46.540,0:19:48.540
-deux cafés,
-
-0:19:48.540,0:19:50.540
-un rafraîchissement, j'ai parlé
-
-0:19:50.540,0:19:52.540
-avec...
-
-0:19:52.540,0:19:54.540
-5 personnes aujourd'hui, vous les avez déjà vues en vidéo.
-
-0:19:54.540,0:19:56.540
-Incidents avec des chiens
-
-0:19:56.540,0:19:58.540
-pas, mais aujourd'hui j'ai trouvé
-
-0:19:58.540,0:20:00.540
-Beaucoup dans la rue, beaucoup.
-
-0:20:00.540,0:20:02.540
-et d'argent,
-
-0:20:02.540,0:20:04.540
-et du petit déjeuner,
-
-0:20:04.540,0:20:06.540
-Rien, ils ne m'ont pas laissé.
-
-0:20:06.540,0:20:08.540
-et le déjeuner,
-
-0:20:08.540,0:20:10.540
-4 euros et demi,
-
-0:20:10.540,0:20:12.540
-et de la glace,
-
-0:20:12.540,0:20:14.540
-2 euros. Aujourd'hui, pas cheret.
-
-0:20:14.540,0:20:16.540
-Venez,
-
-0:20:16.540,0:20:18.540
-Je m’y suis mise avant
-
-0:20:18.540,0:20:20:20.540
-pulvérisez beaucoup. Pour le moment, la veste
-
-0:20:20.540,0:20:22.540
-très bien, hein? Regardez,
-
-0:20:22.540,0:20:24.540
-L'effet "perlante" fonctionne.
-
-0:20:24.540,0:20:26.540
+0:07:27.320,0:07:27.820
 Bonsoir.
+
+0:07:28.660,0:07:29.640
+Je vous remercie.
+
+0:07:32.560,0:07:33.560
+Je vous remercie.
+
+0:07:33.560,0:07:34.580
+Allez, allons-y.
+
+0:07:34.620,0:07:35.420
+Allez, allons-y.
+
+0:07:35.460,0:07:36.220
+Allons-y.
+Venez.
+
+0:07:36.240,0:07:36.740
+Allons-y.
+
+0:07:36.760,0:07:46.460
+Ville pleine de vie, avec l'histoire, une journée fantastique et piste cyclable.
+
+0:07:46.760,0:07:47.920
+Le triple combo.
+
+0:07:48.300,0:07:48.900
+D'accord ?
+
+0:07:48.920,0:07:50.560
+Il faut faire un bout de chemin je ne sais combien de kilomètres
+
+0:07:50.600,0:07:51.460
+jusqu'à se lier à l'anthère.
+
+0:07:51.460,0:07:53.740
+avec la montagne que je vous ai dit hier que nous marcherions.
+
+0:08:06.300,0:08:11.600
+D'accord, la carte m'a dit de passer beaucoup plus loin
+
+0:08:11.600,0:08:13.760
+parce qu'il y avait un gué inondable et que c'était le chemin le plus rapide,
+
+0:08:14.420,0:08:16.240
+Mais comme je vous l'ai dit hier, je ne voulais pas faire ça
+
+0:08:16.240,0:08:18.340
+Parce que je pensais que je ne pourrais peut-être pas traverser.
+
+0:08:19.020,0:08:20.920
+J'ai donc dû passer par ce pont,
+
+0:08:20.920,0:08:23.960
+Voyons voir si cela en valait la peine.
+
+0:08:25.220,0:08:26.960
+Comment voyez-vous? comment voyez-vous le cheval?
+
+0:08:28.840,0:08:30.460
+Ce n'est pas le fleuve Ebre,
+
+0:08:32.080,0:08:35.320
+Mais peut-être avait-il eu du mal à traverser le gué.
+
+0:08:35.700,0:08:37.160
+Bon, ça y est, je suis là.
+
+0:08:38.120,0:08:41.440
+Concert avec tous les chiens du village.
+
+0:08:50.920,0:08:53.120
+Retenez ma note, retenez ma note.
+
+0:08:55.800,0:08:57.840
+Grande finale. Un, deux, trois.
+
+0:09:05.680,0:09:07.040
+Actualité, il est deux heures de l'après-midi,
+
+0:09:07.140,0:09:08.940
+Un bon moment de marche sur cette route
+
+0:09:08.940,0:09:11.340
+et maintenant il fallait se dévier selon la carte
+
+0:09:11.340,0:09:15.840
+Au bout de dix mètres, je vois des vagues.
+
+0:09:19.080,0:09:19.960
+Oh, non!
+
+0:09:20.920,0:09:24.320
+Non, normal, hein? D'un autre côté.
+
+0:09:26.120,0:09:28.520
+Mais je crois que je vais marcher un peu plus sur la route.
+
+0:09:28.900,0:09:30.740
+J'atteindrai la montagne un peu plus loin
+
+0:09:30.740,0:09:32.880
+Parce que... compliqué.
+
+0:09:33.240,0:09:35.000
+Bon, c'est de là-bas qu'il faut aller jusqu'à ce village,
+
+0:09:35.400,0:09:38.300
+Il est là, il est là, je crois.
+
+0:09:42.120,0:09:43.100
+Un village très rural,
+
+0:09:44.640,0:09:47.460
+Les maisons sont petites, tout le monde a des poules.
+
+0:09:47.460,0:09:49.260
+Bon, c'est...
+
+0:09:49.260,0:09:50.460
+Un peuple humble, mais...
+
+0:09:50.920,0:09:53.320
+a son charme, hein? Il a son charme.
+
+0:09:53.500,0:09:55.200
+Je vais voir si je peux trouver un endroit où m'asseoir
+
+0:09:55.200,0:09:57.420
+et déjeuner.
+
+0:09:57.880,0:09:59.480
+Derrière, ce ne serait pas un mauvais endroit.
+
+0:10:00.420,0:10:02.960
+Il y a un parc avec des bancs.
+
+0:10:03.580,0:10:05.400
+mais il y a juste un homme avec une débroussailleuse
+
+0:10:05.400,0:10:08.140
+à bout en le piquant.
+
+0:10:08.740,0:10:10:10.700
+J'ai fini par m'asseoir à l'arrêt de bus
+
+0:10:10.700,0:10:12.740
+Parce qu’il est coupé du vent.
+
+0:10:13.040,0:10:14.640
+Ce n'est pas non plus une tornade.
+
+0:10:15.200,0:10:16.860
+Mais il y a un peu de vent, froid, aujourd'hui,
+
+0:10:16.860,0:10:17.620
+Alors là c'est bien.
+
+0:10:17.820,0:10:20.400
+Ce n'est pas le plus beau, loin de là.
+
+0:10:20.920,0:10:22.700
+Et il est à côté de l'oncle de la débroussailleuse.
+
+0:10:23.620,0:10:25.120
+Je n'échappe pas non plus au bruit.
+
+0:10:26.320,0:10:27.200
+Bon, j'ai à manger
+
+0:10:27.200,0:10:29.460
+choses que j'ai achetées au supermarché de la nourriture préparée.
+
+0:10:30.660,0:10:31.520
+Une espèce de...
+
+0:10:31.520,0:10:33.420
+Bon, poivre
+
+0:10:33.420,0:10:35.680
+farci avec du riz, je pense, des pommes de terre.
+
+0:10:37.240,0:10:39.160
+Une espèce de nuggets de poulet
+
+0:10:39.160,0:10:40.920
+Et pour le dessert, un yaourt.
+
+0:10:41.240,0:10:43.480
+Je ne mangerai pas tout, hein? Je vais garder quelque chose pour le dîner.
+
+0:10:44.040,0:10:45.740
+Il est quatre heures, un peu tard.
+
+0:10:45.740,0:10:47.460
+Mais nous pourrions commencer à profiter
+
+0:10:47.460,0:10:50.280
+Une belle après-midi de montagne.
+
+0:10:50.920,0:10:52.360
+J'irais marcher là-bas,
+
+0:10:52.360,0:10:53.720
+Mais il s'est mis à pleuvoir.
+
+0:10:54.440,0:10:55.880
+Il pleut beaucoup, non ?
+
+0:10:57.960,0:10:59.960
+Il n'avait pas prévu qu'il pleuve aujourd'hui, non ?
+
+0:11:00.760,0:11:01.720
+Dieu-n'hi-do, celle qui tombe.
+
+0:11:02.220,0:11:04.220
+Je vais mettre mon pantalon de pluie
+
+0:11:04.220,0:11:05.120
+sous cet arbre.
+
+0:11:10.880,0:11:12.520
+Le classique des classiques.
+
+0:11:12.520,0:11:14.520
+Je mets mon pantalon,
+
+0:11:15.220,0:11:17.220
+Même le polar,
+
+0:11:17.220,0:11:18.960
+Il commençait à faire très froid.
+
+0:11:18.960,0:11:20.660
+Je sors mon parapluie
+
+0:11:20.660,0:11:22.660
+et cesse de pleuvoir.
+
+0:11:22.660,0:11:24.660
+Le classique des classiques.
+
+0:11:24.660,0:11:26.660
+Maintenant, enfin, enfin, enfin,
+
+0:11:26.660,0:11:28.660
+Regardons la montagne.
+
+0:11:28.660,0:11:30.660
+Bon, vous n'imaginez pas non plus ici
+
+0:11:30.660,0:11:32.660
+Le chamois, hein ?
+
+0:11:32.660,0:11:34.660
+Ce sont ces collines, mais écoutez-moi,
+
+0:11:34.660,0:11:36.660
+C'est beau, avec des fleurs,
+
+0:11:36.660,0:11:38.660
+Tout est vert, sans voiture.
+
+0:11:38.660,0:11:40.660
+C'est bien aussi. Ce qui se passe, c'est
+
+0:11:40.660,0:11:42.660
+Je vais lentement,
+
+0:11:42.660,0:11:44.660
+J'ai trop mangé,
+
+0:11:44.660,0:11:46.660
+J'ai dû m'arrêter pour mettre tout ça.
+
+0:11:46.660,0:11:48.660
+Maintenant, je vais devoir m'arrêter pour enlever mes vêtements.
+
+0:11:48.660,0:11:50.500
+Parce que je surchauffe.
+
+0:11:50.500,0:11:52.500
+Alors, bon, toi,
+
+0:11:52.500,0:11:54.500
+Là où j'ai fini, j'ai fini.
+
+0:12:12.500,0:12:14.500
+Quel beau moment, n'est-ce pas ?
+
+0:12:14.500,0:12:16.500
+Un cheveu de vent, mais, pour le reste,
+
+0:12:16.500,0:12:18.500
+température parfaite,
+
+0:12:18.500,0:12:20.500
+oiseaux sifflants,
+
+0:12:20.500,0:12:22.500
+Très beau paysage.
+
+0:12:22.500,0:12:24.500
+Très bien, toi !
+
+0:12:24.500,0:12:26.500
+Le tour du monde à pied, messieurs.
+
+0:12:50.500,0:12:54.500
+mise à jour,
+
+0:12:54.500,0:12:56.500
+6 et 22 après-midi.
+
+0:12:56.500,0:12:58.500
+Flippante.
+
+0:12:58.500,0:13:00.500
+Flipper ici.
+
+0:13:00.500,0:13:02.500
+C’est la mer, le bleu.
+
+0:13:02.500,0:13:04.500
+Au fond, il y a une île.
+
+0:13:04.500,0:13:06.500
+L'île de Soudraki.
+
+0:13:06.500,0:13:08.500
+On le voit d'ici
+
+0:13:08.500,0:13:10.500
+C’est une montagne, cette île.
+
+0:13:10.500,0:13:12.500
+Et enfin, le paysage d'ici
+
+0:13:12.500,0:13:14.500
+Pour commencer, je suis seul.
+
+0:13:14.500,0:13:16.500
+absolument seul,
+
+0:13:16.500,0:13:18.500
+et je ne sais pas, ici, ces vues ouvertes,
+
+0:13:18.500,0:13:20.500
+Ces vallées
+
+0:13:20.500,0:13:22.500
+super, super ouvert,
+
+0:13:22.500,0:13:24.500
+Pas de gros coups de coeur, j'adore aussi.
+
+0:13:26.500,0:13:28.500
+Impressionnant.
+
+0:13:28.500,0:13:30.500
+Le calme, le calme.
+
+0:13:30.500,0:13:32.500
+Nous suivons.
+
+0:13:34.500,0:13:36.500
+Mise à jour le 7 et le 10.
+
+0:13:36.500,0:13:38.500
+Le temps s'est envolé pour moi aujourd'hui.
+
+0:13:38.500,0:13:40.500
+Il reste une heure
+
+0:13:40.500,0:13:42.500
+Pour que le soleil se lève,
+
+0:13:42.500,0:13:44.500
+et, bon,
+
+0:13:44.500,0:13:46.500
+pourrait atteindre la population suivante,
+
+0:13:46.500,0:13:48.500
+Bien sûr, il faut marcher
+
+0:13:48.500,0:13:50.500
+la nuit un moment, puis
+
+0:13:50.500,0:13:52.500
+Il faut trouver un endroit pour camper.
+
+0:13:52.500,0:13:54.500
+Ça ne me fait pas rire. Je n'ai pas bien calculé cela.
+
+0:13:54.500,0:13:56.500
+Je n'ai pas bien calculé. Mais, bon,
+
+0:13:56.500,0:13:58.500
+est égal.
+
+0:13:58.500,0:14:00.500
+Au final, ce que je vais devoir faire, c'est
+
+0:14:00.500,0:14:02.500
+camper ici avant d'arriver au village.
+
+0:14:02.500,0:14:04.500
+Demain, je ferai plus de kilomètres que prévu.
+
+0:14:04.500,0:14:06.500
+Oui oui ça oui.
+
+0:14:06.500,0:14:08.500
+Ça va être une journée un peu plus difficile, et ça y est.
+
+0:14:12.500,0:14:14.500
+Terminer la piste,
+
+0:14:14.500,0:14:16.500
+Et la route commence.
+
+0:14:16.500,0:14:18.500
+Voyons ce que nous trouvons.
+
+0:14:18.500,0:14:20.500
+Une demi-heure. Il est 7h36.
+
+0:14:20.500,0:14:22.500
+8 moins 10.
+
+0:14:22.500,0:14:24.500
+Là où se trouvent les lampes
+
+0:14:24.500,0:14:26.500
+C'est là que se trouve la route, donc très proche.
+
+0:14:26.500,0:14:28.500
+Et voici une entrée
+
+0:14:28.500,0:14:30.500
+de la route,
+
+0:14:30.500,0:14:32.500
+Il y a aussi une sortie.
+
+0:14:32.500,0:14:34.500
+Et voici assez plat. Ce serait l'endroit typique
+
+0:14:34.500,0:14:36.500
+C’est un camping-car, non ?
+
+0:14:36.500,0:14:38.500
+Mais bon, bon,
+
+0:14:38.500,0:14:40.500
+Si je peux trouver un endroit un peu plus caché
+
+0:14:40.500,0:14:42.500
+Pas de voiture, c'est mieux.
+
+0:14:42.500,0:14:44.500
+Je descends par là,
+
+0:14:44.500,0:14:46.500
+qu'il y a un chemin, qu'ici oui
+
+0:14:46.500,0:14:48.500
+C'est plus compliqué de s'y mettre.
+
+0:14:48.500,0:14:50.500
+Et là, à côté
+
+0:14:50.500,0:14:52.500
+du chemin nous avons un espace, bon,
+
+0:14:52.500,0:14:54.500
+plus ou moins plat,
+
+0:14:54.500,0:14:56.500
+plus caché. Il faudra chercher
+
+0:14:56.500,0:14:58.500
+Se mettre à l’endroit pour être à plat.
+
+0:14:58.500,0:15:00.500
+La meilleure chose est que nous avons une vue sur le coucher du soleil.
+
+0:15:00.500,0:15:02.500
+Peut-être que je ne la vois pas complète
+
+0:15:02.500,0:15:04.500
+par les nuages
+
+0:15:04.500,0:15:06.500
+et pour les montagnes qui sont là, mais
+
+0:15:06.500,0:15:08.500
+Les meilleures vues
+
+0:15:08.500,0:15:10.500
+Dernièrement
+
+0:15:10.500,0:15:12.500
+de leurs campements.
+
+0:15:12.500,0:15:14.500
+Je plante !
+
+0:15:16.500,0:15:18.500
+Super endroit pour camper, oui monsieur!
+
+0:15:18.500,0:15:20.500
+Aujourd'hui 37 km,
+
+0:15:20.500,0:15:22.500
+deux cafés, deux rafraîchissements,
+
+0:15:22.500,0:15:24.500
+j'ai parlé
+
+0:15:24.500,0:15:26.500
+avec quatre personnes
+
+0:15:26.500,0:15:28.500
+et d'argent
+
+0:15:28.500,0:15:30.500
+J'ai dépensé 5 euros
+
+0:15:30.500,0:15:32.500
+au petit déjeuner,
+
+0:15:32.500,0:15:34.500
+24 au supermarché.
+
+0:15:34.500,0:15:36.500
+Dieu fait don,
+
+0:15:36.500,0:15:38.500
+et un et demi à une banzière
+
+0:15:38.500,0:15:40.500
+J'ai acheté un rafraîchissement.
+
+0:15:40.500,0:15:42.500
+Aucun problème avec les chiens.
+
+0:15:42.500,0:15:44.500
+C'était une bonne journée
+
+0:15:44.500,0:15:46.500
+Saint-Georges, la vérité.
+
+0:15:46.500,0:15:48.500
+Nous avons vu beaucoup de choses.
+
+0:15:48.500,0:15:50.500
+Maintenant il y a le ciel méga bleu
+
+0:15:50.500,0:15:52.500
+Et j'ai craqué sur celui-ci.
+
+0:15:52.500,0:15:54.500
+C'était très bien.
+
+0:15:54.500,0:15:56.500
+Longue marche demain
+
+0:15:56.500,0:15:58.500
+Si rien n'est tordu
+
+0:15:58.500,0:16:00.500
+Se rendre à Alexandroupolis
+
+0:16:00.500,0:16:02.500
+Bientôt la Turquie.
+
+0:16:02.500,0:16:04.500
+Bonsoir!
