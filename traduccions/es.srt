@@ -1,734 +1,785 @@
-0:00:00.000,0:00:00.600
-¿Cómo ha ido la noche?
+1
+00:00:06,699 --> 00:00:09,800
+La vuelta al mundo a pie, día 157.
 
-0:00:01.240,0:00:05.080
-Muy bien, muy cómodo
+2
+00:00:12,340 --> 00:00:14,880
+Lo tendremos que hacer más eh, esto de dormir aquí cerca de la playa...
 
-0:00:05.560,0:00:06.080
+3
+00:00:17,280 --> 00:00:21,800
+He tenido muy buena noche, exceptuando algún gato que había subido por el techo y se oían los pasos.
+
+4
+00:00:23,220 --> 00:00:24,800
+Y hombre, este despertar es guapísimo.
+
+5
+00:00:25,240 --> 00:00:28,220
+Claro, cada vez esto será más difícil porque se acerca el verano, se acerca el buen tiempo
+
+6
+00:00:28,220 --> 00:00:30,480
+y supongo que habrá un poco más de movimiento por la playa...
+
+7
+00:00:31,780 --> 00:00:33,440
+Pero de momento, tú, genial, ¿eh?
+
+8
+00:00:35,120 --> 00:00:39,000
+Además, hoy no hace viento, hace buena temperatura.
+
+9
+00:00:39,480 --> 00:00:40,780
+Oh, qué bien, tú, qué bien.
+
+10
+00:00:42,260 --> 00:00:44,780
+Nos espera un gran día. Cruzamos los dedos.
+
+11
+00:01:18,852 --> 00:01:22,320
+No hay excusa para no tirar la basura aquí en Turquía
+
+12
+00:01:22,620 --> 00:01:28,180
+Hay muchos contenedores, como mínimo aquí donde estoy, y los últimos días he ido viendo, hay muchos de verdad.
+
+13
+00:01:28,420 --> 00:01:30,720
+Y en lugares donde no hay casas, también.
+
+14
+00:01:31,800 --> 00:01:36,120
+Ya los meten especialmente, supongo, porque la gente, pues, tire la basura.
+
+15
+00:01:36,780 --> 00:01:41,620
+Y, bueno, tengo que decir que hay la típica suciedad, bueno, ya hemos visto hoy que habían dejado las cervezas "por ahí".
+
+16
+00:01:42,600 --> 00:01:47,340
+Sí, existe la típica suciedad. No estoy viendo una suciedad espectacular, pero sí la hay, sí la hay.
+
+17
+00:01:47,840 --> 00:01:49,360
+Clean & Iron, Clean & Iron, por favor.
+
+18
+00:01:50,640 --> 00:01:57,200
+Muy bien, llevo una horita caminando, estoy aquí junto a esta magnífica mezquita.
+
+19
+00:01:58,220 --> 00:02:03,800
+Y voy a ver si puedo tomar café, té, desayunar algo, no lo sé.
+
+20
+00:02:16,180 --> 00:02:21,360
+Pues las 11:00, casi tres horas caminatas y no he encontrado nada hasta ahora.
+
+21
+00:02:21,540 --> 00:02:25,740
+He tenido que venir aquí a un pueblo un poco, un poco, no mucho, desviado de la carretera.
+
+22
+00:02:26,160 --> 00:02:27,640
+Y se junta ya con la hora de comer.
+
+23
+00:02:28,220 --> 00:02:32,400
+Pues yo creo que si puedo comeré ya que estoy, tengo hambre.
+
+24
+00:02:33,004 --> 00:02:35,003
+He venido a un lugar que ponía "durum",
+
+25
+00:02:35,003 --> 00:02:40,880
+y aparte de tener durum tienen comida... eso, que es lo que voy a comer, comer así como hecho de ahora.
+
+26
+00:02:41,280 --> 00:02:47,001
+He comido una sopa ya, muy buena, y bueno, tienen todo esto, tú, eh...
+
+27
+00:02:47,001 --> 00:02:55,900
+qué me pido, no lo sé, creo que esto, este estofadito, o esto, va, guisantes, que no como muchos guisantes.
+
+28
+00:02:55,900 --> 00:02:57,760
+Bueno, ha estado bien, ha estado bien.
+
+29
+00:02:58,220 --> 00:02:59,220
+No sabes que ha sido ningún "chollo", ¿eh?
+
+30
+00:03:00,032 --> 00:03:03,031
+Vale, voy a ver si puedo hacer un helado de postre...
+
+31
+00:03:03,031 --> 00:03:06,030
+... y de paso practico la palabra del día, que es:
+
+32
+00:03:06,030 --> 00:03:14,029
+hasta después, hasta ahora, hasta tal, que es, eh... se dice:
+
+33
+00:03:14,029 --> 00:03:20,220
+"görüşürüz", "görüşürüz", "görüşürüz", a ver si... si puedo decirlo.
+
+34
+00:03:20,220 --> 00:03:21,220
+Merhaba.
+
+35
+00:03:23,220 --> 00:03:25,220
+¿Puedo pagarlo con tarjeta?
+
+36
+00:03:28,859 --> 00:03:29,859
+Okay
+
+37
+00:03:30,192 --> 00:03:31,192
+¿Ok?
+
+38
+00:03:31,220 --> 00:03:32,220
+OK.
+
+39
+00:03:32,220 --> 00:03:33,220
 Teşekkürler
 
-0:00:06.640,0:00:08.240
-¿Lo he pronunciado correctamente?
-
-0:00:08.980,0:00:09.480
-¿Perdona?
-
-0:00:09.580,0:00:11.320
-Lo he pronunciado...
-
-0:00:11.900,0:00:12.500
+40
+00:03:33,220 --> 00:03:34,220
 Teşekkürler
 
-0:00:12.700,0:00:14.000
-Sí, Teşekkürler
-
-0:00:14.440,0:00:15.040
-Teşekkürler
-
-0:00:15.240,0:00:15.740
-Sí
-
-0:00:15.760,0:00:16.260
-Ok.
-
-0:00:16.800,0:00:17.580
-Hasta la próxima
-
-0:00:17.820,0:00:18.320
-Adiós
-
-0:00:20.020,0:00:23.000
-La vuelta al mundo a pie, día 156.
-
-0:00:23.920,0:00:24.420
-A ver el viento.
-
-0:00:26.840,0:00:27.920
-Bueno, estoy en la ciudad.
-
-0:00:27.920,0:00:30.400
-Sí que hay un poco de viento, sí.
-
-0:00:31.120,0:00:33.540
-La previsión dice que hoy hará un poco menos viento que ayer,
-
-0:00:33.800,0:00:34.340
-Pero habrá viento.
-
-0:00:34.840,0:00:36.140
-Sí, sí, ya lo estoy notando, ya lo estoy notando.
-
-0:00:36.260,0:00:38.900
-Bueno, al menos la temperatura ha aumentado.
-
-0:00:40.280,0:00:42.180
-Vamos a poner la cancelación de ruido.
-
-0:00:42.680,0:00:43.180
-Ya está.
-
-0:00:44.100,0:00:47.020
-No sé si veis la diferencia entre cuando pongo la cancelación o no.
-
-0:00:47.380,0:00:48.440
-Supongo que a vosotros no lo notáis,
-
-0:00:49.240,0:00:50.860
-pero se me siente un poco más bajito,
-
-0:00:51.080,0:00:53.740
-y el ruido es como un poco peor de mi voz,
-
-0:00:53.860,0:00:55.300
-pero aísla mucho el ruido.
-
-0:00:55.300,0:00:55.800
-Bueno, en fin.
-
-0:00:57.100,0:00:57.900
-Desayuno, fantástico.
-
-0:00:57.920,0:01:01.520
-No he hecho vídeo, pero aquí tenéis una foto del bufete este.
-
-0:01:02.280,0:01:05.380
-Tenían una especie de revuelto con huevos, buenísimo, que no está en la foto.
-
-0:01:06.400,0:01:07.260
-Ya he comido y todo.
-
-0:01:08.440,0:01:11.120
-Son las 11 y 10.
-
-0:01:12.060,0:01:15.280
-Por lo que he estado viendo, no hay mucha cosa interesante en esta ciudad,
-
-0:01:16.000,0:01:17.520
-pero sí que hay un paseo marítimo guay,
-
-0:01:17.900,0:01:22.440
-y bueno, iré hacia allí y de aquí empezaré a caminar ya hasta Estambul.
-
-0:01:23.580,0:01:24.980
-138 kilómetros creo que son.
-
-0:01:57.680,0:02:07.280
-Pues ya en marcha. Se nota que el viento está más controlado gracias a los edificios que hay por el lado.
-
-0:02:08.080,0:02:12.280
-No diría que ahora mismo estamos caminando por el paseo marítimo, pero de vez en cuando se ve el mar y tal.
-
-0:02:13.060,0:02:17.440
-He parado en unos supermercados. Mirad qué peras más grandes, tú.
-
-0:02:19.100,0:02:20.980
-Me he comprado una, muy buena, muy buena.
-
-0:02:21.944,0:02:27.980
-Y también he comprado queso. Creo que los bocadillos en este país serán de queso porque como el embutido, pues...
-
-0:02:29.140,0:02:34.300
-ni está ni se le espera, como mínimo el de calidad, pues, queso que también está bien.
-
-0:02:35.300,0:02:38.840
-No sé cómo lo he hecho que he acabado en la universidad. De hecho, he tenido que pasar allí detrás de un turno.
-
-0:02:42.260,0:02:45.080
-Todo esto para no ir directamente por la carretera, que creo que ahora la engancharé.
-
-0:02:45.720,0:02:47.640
-Sí, sí, tú, estoy en la universidad de aquí.
-
-0:02:48.640,0:02:50.940
-Con todos estos árboles y tal, parece un poco la Autónoma.
-
-0:02:50.980,0:02:56.840
-Sin el olor característico de la universidad autónoma. Ya me entendéis.
-
-0:03:00.020,0:03:07.340
-Ahora sí, carretera y manta, pero están todos los coches parados porque más adelante creo que están asfaltando.
-
-0:03:08.560,0:03:14.060
-Y está todo el mundo parado, excepto los listillos que venden por el arcén.
-
-0:03:15.340,0:03:19.660
-Había visto una ambulancia en coche de policía, pero éste un poco de morro.
-
-0:03:20.980,0:03:21.900
-Mira, ahora se mueven.
-
-0:03:23.020,0:03:27.260
-El arcén es muy generoso y, bueno, es un rollo, pero como mínimo voy tranquilo.
-
-0:03:44.720,0:03:49.820
-Apuntemos en la lista de aviones extraños de la vuelta al mundo a pie el avión Tiburón.
-
-0:03:51.900,0:03:54.940
-Está aquí en una especie de restaurante de Köfte.
-
-0:03:56.160,0:04:02.140
-Y, aparte de eso, veo bandera turca, griega, búlgara, de Moldavia y de Montenegro.
-
-0:04:02.400,0:04:08.160
-Y el avión ese, que incluso tiene la escalera para subir, ¿eh?
-
-0:04:08.160,0:04:09.040
-Se puede comer dentro.
-
-0:04:11.860,0:04:14.300
-En fin, un restaurante con un avión.
-
-0:04:31.395,0:04:37.261
-Actualización, seis y cuarto y el día continúa. Sigo caminando por esta carretera
-
-0:04:37.861,0:04:41.700
-Hoy no tendremos interacciones graciosas con gente local.
-
-0:04:42.580,0:04:45.920
-Me gustaría comentaros el tema del reto.
-
-0:04:45.920,0:04:49.760
-El reto de Turquía, que os pedí que me dierais ideas, ¿no?
-
-0:04:51.131,0:04:55.080
-Y la idea que más se ha repetido, con diferencia, me lo han dicho como siete, ocho personas, no lo sé,
-
-0:04:55.840,0:05:00.040
-es que derivadas de aprender palabras en turco.
-
-0:05:01.240,0:05:03.740
-Tipo, aprender una palabra en turco todos los días.
-
-0:05:04.600,0:05:09.300
-Bueno, aprender una palabra cada día es como raro, ¿por qué qué qué dices?
-
-0:05:09.400,0:05:13.840
-Vale, miro el diccionario, cojo la palabra, me la intento memorizar y ya está.
-
-0:05:14.260,0:05:15.220
-Bueno, tiene poca gracia.
-
-0:05:16.040,0:05:17.540
-Lo haremos de la siguiente manera.
-
-0:05:17.540,0:05:24.020
-Mira, cada día intentaré eso, aprender una palabra y el reto consistirá en usarla.
-
-0:05:25.220,0:05:31.460
-Intentar grabar una conversación con alguien diciendo yo la palabra que tiene que ser nueva cada día.
-
-0:05:32.660,0:05:39.640
-Como los retos diarios tienen el problema de que es muy fácil que me olvide o que algún día no lo pueda, por lo que sea,
-
-0:05:40.540,0:05:47.520
-me doy un día a la semana, semana natural, un día a la semana para fallar, para no cumplir el reto.
-
-0:05:48.500,0:05:56.700
-No será fácil porque es un idioma que es difícil, pero como mínimo lo puedo leer, que el griego, por ejemplo, no lo podía leer.
-
-0:05:57.940,0:06:05.620
-Vale, hoy ya lo he hecho, lo mismo ya lo he visto, que por fin he aprendido a decir gracias y se lo he comentado al del hotel.
-
-0:06:13.140,0:06:17.220
-Pequeña parada en este lugar mega random que he encontrado aquí al lado de la carretera.
-
-0:06:17.540,0:06:26.980
-Para grabar el podcast esta semana explico una cosa del vídeo de ayer, del vídeo del día 155, que no explico el vídeo,
-
-0:06:28.020,0:06:36.880
-que para los que os gusta la salsa/polémica, no sé si se lo diría polémica, creo que os puede interesar bastante.
-
-0:06:37.020,0:06:39.300
-El podcast, como siempre, el enlace a la descripción.
-
-0:06:39.820,0:06:45.220
-Las siete y diez, el problema habitual, que es que estoy entrando en una especie de ciudad.
-
-0:06:46.660,0:06:47.500
-Queda una hora de semana.
-
-0:06:47.540,0:06:51.620
-El sol y la ciudad son unos 12 kilómetros, que no puedo hacer.
-
-0:06:51.800,0:06:55.000
-12 kilómetros por carretera no me da tiempo antes de que se vaya el sol.
-
-0:06:55.800,0:07:00.100
-No es una ciudad como tal de edificios altos y tal, sino es más bien así.
-
-0:07:00.800,0:07:02.600
-Todo casas y esas cosas.
-
-0:07:02.720,0:07:05.840
-No puedo acampar aquí en medio de este campo si estoy rodeado de casas.
-
-0:07:08.020,0:07:09.760
-Entonces ahora tengo que mirar, tengo que mirar.
-
-0:07:10.520,0:07:14.640
-Quizás si voy al otro lado de carretera, a la zona de playa, quizás tengo un poco de sitio.
-
-0:07:14.700,0:07:15.720
-No lo sé, no lo sé, tengo que buscar.
-
-0:07:15.720,0:07:18.080
-Aquí tenemos la carretera.
-
-0:07:19.540,0:07:21.140
-Y aquí tenemos esto.
-
-0:07:21.560,0:07:25.940
-Allí tenemos un complejo turístico, pero está tapado, bueno, de apartamentos, pero está tapado por los árboles.
-
-0:07:27.180,0:07:28.340
-Aquí tres cuartos de lo mismo.
-
-0:07:29.320,0:07:34.560
-Hay una valla, una valla, que se podría sobrepasar fácilmente.
-
-0:07:35.660,0:07:37.260
-Y hierba bastante alta.
-
-0:07:38.800,0:07:43.800
-Bueno, voy para allá, voy para investigar.
-
-0:07:44.560,0:07:45.560
-Si no, la opción es...
-
-0:07:46.360,0:07:48.780
-Bueno, evidentemente, encontrar algún apartamento, hotel o lo que sea.
-
-0:07:49.840,0:07:52.720
-O coger el pueblo este y subir hacia arriba.
-
-0:07:52.860,0:07:54.580
-Que claro, arriba, si tiras arriba hay campos.
-
-0:07:55.800,0:07:58.380
-A ver, hay un par de coches aquí.
-
-0:08:00.120,0:08:00.780
-Al final.
-
-0:08:01.400,0:08:01.920
-Y la camioneta.
-
-0:08:02.060,0:08:02.780
-Oigo algún ruido.
-
-0:08:04.820,0:08:05.760
-Oigo algún ruido.
-
-0:08:06.720,0:08:08.020
-Uy, no, no, no.
-
-0:08:09.480,0:08:10.260
-Aquí hay alguien.
-
-0:08:11.180,0:08:12.760
-En la camioneta había dos personas.
-
-0:08:12.760,0:08:15.440
-Paradas, hablando por teléfono.
-
-0:08:15.720,0:08:23.720
-Esto no sé si quiere decir que son de aquí, o sea, que esto es suyo, o que, yo qué sé, que estaban aquí y ya está.
-
-0:08:23.720,0:08:27.720
-Ahora estoy aquí al final del paseo este, que es donde está la playa.
-
-0:08:27.720,0:08:31.720
-No he dormido en la playa aún ningún día en La Vuelta al Mundo a Pie
-
-0:08:32.720,0:08:34.720
-Tal vez no sería mala idea.
-
-0:08:35.720,0:08:36.720
-Vamos a ver.
-
-0:08:39.720,0:08:41.720
-Hay un joven ahí detrás.
-
-0:08:41.720,0:08:44.720
-Hay gente que está haciendo un fuego.
-
-0:08:48.376,0:08:52.720
-No los quiero grabar para que no me vean, pero aquí hay una gente haciendo un fuego con unas sillas de camping.
-
-0:08:52.720,0:08:55.720
-Bueno, uno que se llama Òscar y el otro no me acuerdo cómo se llama.
-
-0:08:55.720,0:09:00.720
-Estaban recogiendo ya y me dicen, espera, espera, y me han puesto maderas.
-
-0:09:02.720,0:09:04.720
-Para que el fuego siga alimentándose durante la noche.
-
-0:09:04.720,0:09:06.720
-También me dieron una cerveza.
-
-0:09:08.720,0:09:12.720
-Y me han dicho, bueno, le he preguntado, aquí es seguro acampar? Y me dicen, sí, sí.
-
-0:09:12.720,0:09:13.720
-Soldier.
-
-0:09:13.720,0:09:14.720
-Teşekkürler, Teşekkürler
-
-0:09:18.720,0:09:19.720
-Copaneng.
-
-0:09:28.720,0:09:30.720
-No hace falta porque no hace mucho frío, la verdad.
-
-0:09:30.720,0:09:36.720
-No es totalmente innecesaria esta hoguera pero, bueno, queda bien para la foto y para el vídeo, ¿no?
-
-0:09:36.720,0:09:39.720
-No sé dónde acamparé de aquí, pero bueno, me quedo aquí, seguro, porque...
-
-0:09:40.720,0:09:41.720
-Porque ya está, está bien.
-
-0:09:41.720,0:09:43.720
-Además, es muy bonito aquí frente al mar. Genial, genial.
-
-0:09:43.720,0:09:44.720
-Genial.
-
-0:09:44.720,0:09:48.360
-Bueno, hay otra cosa que tengo que decir, pero os la digo después.
-
-0:09:48.360,0:09:53.360
-Es que me han traído aquí un madero y yo les digo, no hace falta, no hace falta, señores.
-
-0:09:53.360,0:09:55.360
-Y me dicen, no problem, no problem.
-
-0:09:55.360,0:09:56.360
-Ucrania.
-
-0:09:56.360,0:09:58.360
-Ucrania, es madera de Ucrania.
-
-0:09:58.360,0:10:00.360
-No hace falta.
-
-0:10:00.360,0:10:06.360
-Además, la ropa al final, coge un olor a ceniza que flipas, pero bueno, tú.
-
-0:10:06.360,0:10:08.360
-Teşekkürler, muchas gracias, muchas gracias.
-
-0:10:10.360,0:10:13.153
-Turquía, very good.
-
-0:10:15.702,0:10:19.360
-Nada, ahora que se están yendo, comentar dos cosas.
-
-0:10:19.360,0:10:22.360
-Bueno, el primero, mirad que bonito allí.
-
-0:10:22.360,0:10:27.360
-No se ve la puesta de sol, pero bueno, es genial eso, es genial.
-
-0:10:27.360,0:10:30.360
-Claro, es que llevo todo el día caminando por la costa, pero no se veía la costa,
-
-0:10:30.360,0:10:37.360
-porque tenía todos estos chalets delante, y ahora, a la que te ves un poco, muy bonito, tú, muy bonito.
-
-0:10:37.360,0:10:40.360
-Bueno, pues nada, decir una cosa, que es que tenían como...
-
-0:10:40.360,0:10:42.360
-Bueno, estaban toda la tarde bebiendo cervezas,
-
-0:10:42.360,0:10:44.360
-tenían un montón allí,
-
-0:10:44.360,0:10:48.360
-y lo que ha hecho el tío ha sido, pam, lanzarlas allí, aquí en la hierba.
-
-0:10:48.360,0:10:50.360
-No las han recogido, no las han llevado al contenedor, no, no.
-
-0:10:50.360,0:10:52.360
-Las ha echado aquí en la hierba.
-
-0:10:52.360,0:10:54.360
-Después, hay una colonia de gatos aquí,
-
-0:10:54.360,0:10:56.360
-Algunos se pelean entre ellos.
-
-0:10:56.360,0:10:58.360
-Cuidado con eso.
-
-0:10:58.360,0:11:00.360
-Dejaré la comida fuera de la tienda.
-
-0:11:00.360,0:11:02.360
-¿Qué más? Tercero, ¿dónde acampo?
-
-0:11:02.360,0:11:04.360
-¿Me meto aquí en la arena?
-
-0:11:04.360,0:11:06.360
-Es muy a la vista.
-
-0:11:06.360,0:11:08.360
-¿O me meto por ahí dentro?
-
-0:11:08.360,0:11:10.360
-Creo que buscaré allí dentro, a ver si es un poco más escondidito.
-
-0:11:10.360,0:11:12.360
-Ah, y lo último es que,
-
-0:11:12.360,0:11:14.360
-ya no están, pero allí,
-
-0:11:14.360,0:11:16.360
-donde está
-
-0:11:16.360,0:11:18.360
-Esta especie de
-
-0:11:18.360,0:11:20.360
-cierre de color más rosado,
-
-0:11:20.360,0:11:22.360
-Había otras dos personas,
-
-0:11:22.360,0:11:24.360
-No tiene mala pinta, pero bueno.
-
-0:11:24.360,0:11:26.360
-Eran dos jóvenes.
-
-0:11:26.360,0:11:28.360
-que bueno,
-
-0:11:28.360,0:11:30.360
-siempre me inquieta a mí que me vean, ¿sabes?
-
-0:11:30.360,0:11:32.360
-Me inquieta,
-
-0:11:32.360,0:11:34.360
-y siempre quiero intentar esconderme.
-
-0:11:34.360,0:11:36.360
-Ahora se han ido.
-
-0:11:36.360,0:11:38.360
-No lo sé.
-
-0:11:38.360,0:11:40.360
-Yo creo que estaré bien, tú.
-
-0:11:40.360,0:11:42.360
-Voy a buscar donde acampo,
-
-0:11:42.360,0:11:44.360
-Pero no es tarde, ¿eh?
-
-0:11:44.360,0:11:46.360
-Son las 19.43.
-
-0:11:59.303,0:12:00.000
-Pues son las 8.
-
-0:12:00.000,0:12:01.203
-Aquí se sigue juntando gente, tú.
-
-0:12:01.203,0:12:02.646
-Estos hombres que hay aquí detrás
-
-0:12:02.646,0:12:04.646
-han pasado por aquí delante,
-
-0:12:05.182,0:12:06.175
-hemos estado hablando,
-
-0:12:06.303,0:12:09.910
-lo de siempre... me preguntan mucho por mis padres
-
-0:12:10.788,0:12:12.360
-Y detrás hay unos jóvenes que,
-
-0:12:12.360,0:12:14.360
-bueno, son los de antes, pero no,
-
-0:12:14.360,0:12:16.360
-parecen inofensivos,
-
-0:12:16.360,0:12:18.360
-pero no planto la tienda hasta que no se vayan.
-
-0:12:18.360,0:12:20.360
-Tampoco tengo prisa.
-
-0:12:20.360,0:12:22.360
-Total tengo la luz del fuego.
-
-0:12:22.360,0:12:24.360
-Pues como habéis visto,
-
-0:12:24.360,0:12:26.360
-Una pareja apareció.
-
-0:12:26.360,0:12:28.360
-y ya me ha ido bien,
-
-0:12:28.360,0:12:30.360
-porque mira, les he dicho,
-
-0:12:30.360,0:12:32.360
-Sienten el fuego ustedes,
-
-0:12:32.360,0:12:34.360
-os quedáis las maderas, que yo no las necesito,
-
-0:12:34.360,0:12:36.360
-Y ya está, tú.
-
-0:12:36.360,0:12:38.360
-Y entonces los demás se han ido,
-
-0:12:38.360,0:12:40.360
-Entonces sí que he venido aquí, ¿y dónde estoy?
-
-0:12:40.360,0:12:42.360
-Hay una especie de cubierta aquí,
-
-0:12:42.360,0:12:44.360
-está la playa justo enfrente,
-
-0:12:44.360,0:12:46.360
-nada, estoy a 30 metros
-
-0:12:46.360,0:12:48.360
-de donde estaba antes, pero aquí en el interior,
-
-0:12:48.360,0:12:50.360
-y bueno, esto está cubierto,
-
-0:12:52.360,0:12:54.360
-el suelo es como de hormigón
-
-0:12:54.360,0:12:56.360
-o de lo que sea,
-
-0:12:56.360,0:12:58.360
-y está protegido del viento,
-
-0:12:58.360,0:13:00.360
-Me gusta por eso.
-
-0:13:00.360,0:13:02.360
-No está justo delante del mar,
-
-0:13:02.360,0:13:04.360
-que ya sé que es como muy romántico o tal,
-
-0:13:04.360,0:13:06.360
-pero está muy bien tener algo que te cubre arriba,
-
-0:13:06.360,0:13:08.360
-porque entonces la tienda por la mañana
-
-0:13:08.360,0:13:10.360
-No es húmedo.
-
-0:13:10.360,0:13:12.360
-Es bastante clave,
-
-0:13:12.360,0:13:14.360
-es bastante clave.
-
-0:13:14.360,0:13:16.360
-Estoy muy satisfecho con el puesto de hoy, sí, sí.
-
-0:13:16.360,0:13:18.360
-30 kilómetros,
-
-0:13:18.360,0:13:20.360
-Bueno, he empezado a las 12 a caminar, está bien.
-
-0:13:22.360,0:13:24.360
-3 cafés cabeza té,
-
-0:13:24.360,0:13:26.360
-He hablado con algunas
-
-0:13:26.360,0:13:28.360
-De 4 a 5 personas,
-
-0:13:28.360,0:13:30.360
-ponle 5,
-
-0:13:30.360,0:13:32.360
-de perros nada,
-
-0:13:32.360,0:13:34.360
-y de dinero solo 5 euros,
-
-0:13:34.360,0:13:36.360
-En un supermercado.
-
-0:13:36.360,0:13:38.360
-Fue un día en que
-
-0:13:38.360,0:13:40.360
-Al final ha estado bien, porque mira,
-
-0:13:40.360,0:13:42.360
-me he ahorrado el tema del viento,
-
-0:13:42.360,0:13:44.360
-del frío, ¿sabes?, que ya lo necesitaba
-
-0:13:44.360,0:13:46.360
-para ir por carretera.
-
-0:13:46.360,0:13:48.360
-Hemos avanzado bastante, aunque no lo parezca,
-
-0:13:48.360,0:13:50.360
-porque aunque solo han sido 30 kilómetros,
-
-0:13:50.360,0:13:52.360
-el hecho de ir por carretera vas tan recto
-
-0:13:52.360,0:13:54.360
-Avanzas más, ¿sabes?
-
-0:13:54.360,0:13:56.360
-Haces como un 30-40% más que si fueras
-
-0:13:56.360,0:13:58.360
-por caminos haciendo así, haciendo asá.
-
-0:13:58.360,0:14:00.360
-Y bueno, pensaba que no pasaría nada el día,
-
-0:14:00.360,0:14:02.360
-Y al final sucedió todo esto.
-
-0:14:02.360,0:14:04.360
-De ahí al final, que ha sido bastante divertido.
-
-0:14:06.360,0:14:08.360
-Nada, tú,
-
-0:14:08.360,0:14:10.360
-Mañana más, mañana ya
-
-0:14:10.360,0:14:12.360
-Ya nos acercamos mucho a Estambul, ¿eh?
-
-0:14:12.360,0:14:14.360
-¡Buenas noches!
+41
+00:03:34,220 --> 00:03:36,124
+-Eh... "görüşürüz"
+-"Görüşürüz"
+
+42
+00:03:36,124 --> 00:03:37,524
+-"Görüşürüz"
+-¡Adiós!
+
+43
+00:03:37,857 --> 00:03:41,220
+Me ha entendido, me ha entendido.
+
+44
+00:03:48,220 --> 00:03:58,220
+Pequeña parada en una gasolinera para ir al lavabo, hacer un refresco y un bocadillo, así, con un poco de pan con queso, y comprar un cable.
+
+45
+00:04:00,220 --> 00:04:10,220
+Yo tengo una batería, ya os lo he dicho, que carga muy rápido, 90 o 100 vatios, y necesita un cable que tenga mínimo 100 vatios para poder cargar a esa velocidad.
+
+46
+00:04:10,220 --> 00:04:16,220
+Pues este cable que tenía, que lo compré en Croacia, dejó de funcionar hace dos días.
+
+47
+00:04:16,220 --> 00:04:26,220
+El día aquel de la lluvia, del niño que me ayudó, que me llevó en coche, ese día empezó a hacer el "tonto" y ya está, se ha muerto, ya no carga.
+
+48
+00:04:26,220 --> 00:04:29,220
+Entonces he comprado otro y ya está.
+
+49
+00:04:29,220 --> 00:04:35,220
+Está bien, este tiene una pantallita que te indica los vatios, entonces sé cuando está cargando rápido o no.
+
+50
+00:05:19,204 --> 00:05:22,220
+Buf... hoy esto es como si estuviera en un túnel eh:
+
+51
+00:05:22,220 --> 00:05:24,220
+Es un espacio abierto,
+
+52
+00:05:24,220 --> 00:05:25,220
+hay cavas al lado,
+
+53
+00:05:25,220 --> 00:05:26,869
+voy viendo mezquitas,
+
+54
+00:05:26,869 --> 00:05:28,202
+Hay un supermercado.
+
+55
+00:05:28,202 --> 00:05:34,220
+Pero viene a ser como un túnel, porque es que realmente no salgo de la carretera.
+
+56
+00:05:34,220 --> 00:05:38,220
+Pum, pum, pum. Tirar, tirar, tirar y ya está.
+
+57
+00:05:38,220 --> 00:05:45,220
+Y claro, eso mentalmente cuesta y entonces eso creo que afecta un poco físicamente.
+
+58
+00:05:45,220 --> 00:05:48,220
+El cuerpo lo siente y está como más cansado.
+
+59
+00:05:48,220 --> 00:05:49,220
+Y ahora he parado un rato.
+
+60
+00:05:49,220 --> 00:05:55,220
+Hace un rato había vuelto a parar y no estoy caminando muy rápido.
+
+61
+00:05:55,220 --> 00:06:01,220
+Dicho esto, son las 16:30 y llevo 30 kilómetros.
+
+62
+00:06:01,220 --> 00:06:02,220
+Por lo tanto, está bien.
+
+63
+00:06:02,220 --> 00:06:08,220
+Yo contaba hoy con hacer unos 40, 42, un maratón.
+
+64
+00:06:08,220 --> 00:06:11,860
+Y tenemos tiempo de sobras.
+
+65
+00:06:38,022 --> 00:06:44,220
+Me he puesto a caminar por una carretera de servicio paralela a la carretera principal
+
+66
+00:06:44,220 --> 00:06:47,220
+pensando que iría más tranquilo y empiezan a pasar estos camiones.
+
+67
+00:06:47,220 --> 00:06:54,220
+Mira, por un rato o un día no pasa nada, pero esto puede ser muy malo para los pulmones.
+
+68
+00:06:54,220 --> 00:06:58,220
+Yo vi a un tío que hizo una excursión así por Nepal,
+
+69
+00:06:58,220 --> 00:07:04,220
+allí todas las carreteras, los caminos son de tierra y vas "tragando" polvo.
+
+70
+00:07:04,220 --> 00:07:08,216
+Si no estás en la montaña, quiero decir, estás en Nepal en sí.
+
+71
+00:07:08,549 --> 00:07:12,220
+Y el tío llevaba una mascarilla porque decía que otra vez esto ya se lo había pasado
+
+72
+00:07:12,220 --> 00:07:16,220
+y le había producido una infección de pulmones y no sé qué.
+
+73
+00:07:16,220 --> 00:07:20,213
+Por lo tanto, ya lo había pensado, en Nepal llevar una mascarilla o así.
+
+74
+00:07:20,880 --> 00:07:25,212
+Casi las 19:00, casi 40 kilómetros, me he encontrado ahora este lavabo aquí.
+
+75
+00:07:25,879 --> 00:07:30,220
+Y no me he dado cuenta de que "bayan" es mujer.
+
+76
+00:07:30,220 --> 00:07:32,220
+He entrado en el de mujeres, va, no pasa nada.
+
+77
+00:07:32,220 --> 00:07:37,210
+Y había este cartel que mete: "no tiréis arena en el lavabo porque se atasca".
+
+78
+00:07:37,543 --> 00:07:38,220
+Lógico, ¿no?
+
+79
+00:07:38,220 --> 00:07:43,220
+Y ese otro que dice: "no tirar cigarrillos ni comer aquí".
+
+80
+00:07:43,220 --> 00:07:46,875
+Bueno, llenaré el agua, espero que sea potable.
+
+81
+00:07:46,875 --> 00:07:49,220
+Desgraciadamente el enchufe no funciona.
+
+82
+00:07:50,874 --> 00:07:53,207
+Y creo que este lavabo está aquí abierto
+
+83
+00:07:53,207 --> 00:07:54,873
+Es el de la mezquita.
+
+84
+00:07:54,873 --> 00:07:59,220
+Porque he visto muchas mezquitas que tienen como una especie de lugares para lavarse.
+
+85
+00:07:59,220 --> 00:08:03,220
+Entiendo que los pies antes de entrar.
+
+86
+00:08:03,220 --> 00:08:06,220
+Mirad, aquí también lo tienen.
+
+87
+00:08:06,220 --> 00:08:10,220
+Es como que es para sentarse aquí y lavarse los pies
+
+88
+00:08:10,220 --> 00:08:13,220
+porque creo que en la mezquita entran descalzo.
+
+89
+00:08:13,220 --> 00:08:16,220
+Diría que es eso.
+
+90
+00:08:16,220 --> 00:08:19,220
+Bueno, casi ya hemos cumplido, ¿eh, hoy?
+
+91
+00:08:19,220 --> 00:08:20,220
+¿En qué? ¿Media horita tres cuartos?
+
+92
+00:08:20,220 --> 00:08:22,220
+¿En qué? ¿Media horita tres cuartos?
+
+93
+00:08:22,220 --> 00:08:24,220
+Ya acampamos, espero.
+
+94
+00:08:24,220 --> 00:08:26,220
+Voy a comprar algo de cena
+
+95
+00:08:26,220 --> 00:08:29,220
+porque cada día, puré de paradas,
+
+96
+00:08:29,220 --> 00:08:31,866
+cansa un poco. A ver si hay alguna lata o algo.
+
+97
+00:08:31,866 --> 00:08:42,220
+A ver, tenemos aquí galletas, pasta, frutos secos, patatas,
+
+98
+00:08:42,220 --> 00:08:44,220
+Temas congelados...
+
+99
+00:08:44,220 --> 00:08:48,220
+Platos preparados tampoco se estilan mucho, ¿eh, aquí? Por lo que veo.
+
+100
+00:08:48,220 --> 00:08:52,220
+Bueno, "Mac & Cheese".
+
+101
+00:08:52,220 --> 00:08:58,220
+Es como pasta, ¿no? Es diferente al típico ramen instantáneo.
+
+102
+00:08:58,220 --> 00:09:01,220
+Mira qué botes de aceitunas negras, ¿eh?
+
+103
+00:09:01,220 --> 00:09:03,220
+Como mi mano.
+
+104
+00:09:03,220 --> 00:09:07,220
+No, no, no, nada de "Yatekomos". Eso mucho mejor.
+
+105
+00:09:07,220 --> 00:09:11,220
+Unas judías de una especie de fabada enlatada.
+
+106
+00:09:11,220 --> 00:09:16,220
+Suficiente, mira. Además, muy bien de precio, menos de un euro.
+
+107
+00:09:19,190 --> 00:09:21,220
+Bueno, aquí tenemos la playa, como ayer.
+
+108
+00:09:21,220 --> 00:09:25,220
+Veo algunos grupitos, como ayer, pasando el día.
+
+109
+00:09:25,220 --> 00:09:30,188
+El problema es que, como se ve,
+
+110
+00:09:30,188 --> 00:09:34,220
+Hay muchos chalets que imagino que la mayoría están desocupados, pero bueno.
+
+111
+00:09:34,220 --> 00:09:38,220
+Hay algún chiringuito cerrado.
+
+112
+00:09:38,220 --> 00:09:42,220
+A veces uno se puede poner... Ah, no, veo que tiene barreras, ¿eh?
+
+113
+00:09:42,220 --> 00:09:46,220
+A veces uno se puede colar dentro y dormir allí escondidito, pero éste tiene como barreras.
+
+114
+00:09:46,220 --> 00:09:51,220
+Había visto una zona más hacia allí, que estaba como más escondida.
+
+115
+00:09:51,220 --> 00:09:57,220
+Creo que le echaré un vistazo, a pesar de ser ya las 19:22.
+
+116
+00:09:57,220 --> 00:10:04,220
+Pues me he movido donde había visto, y ahora es una zona con casas más grandes, más protegidas.
+
+117
+00:10:04,220 --> 00:10:09,220
+Y de hecho había un segurata, ahora hace 20-30 metros,
+
+118
+00:10:09,220 --> 00:10:15,220
+y no me ha dicho nada amenazante, pero me ha empezado a hablar en turco, no hablaba inglés.
+
+119
+00:10:15,220 --> 00:10:17,220
+Pero le he dicho "turis, turis", sí, para allá, para allá.
+
+120
+00:10:17,220 --> 00:10:21,220
+Y me han dicho sí, sí, bueno, no sé, quiero decir que no se ha metido de culo ni nada.
+
+121
+00:10:21,220 --> 00:10:28,220
+Bueno, yo sigo caminando hacia donde tenía visto, a ver si hay sitio.
+
+122
+00:10:28,220 --> 00:10:31,220
+Que por cierto, mirad que bonito, ¿eh?
+
+123
+00:10:31,220 --> 00:10:33,220
+Es por aquí abajo, de hecho.
+
+124
+00:10:33,220 --> 00:10:36,220
+Ah, sí, aquí, esta casa la había visto.
+
+125
+00:10:36,220 --> 00:10:38,220
+Ah, mira, perfecto.
+
+126
+00:10:38,220 --> 00:10:41,220
+Está abandonada, está abandonada.
+
+127
+00:10:41,220 --> 00:10:43,220
+Perfecto, perfecto.
+
+128
+00:10:43,220 --> 00:10:44,220
+Pues sí, sí, sí.
+
+129
+00:10:44,220 --> 00:10:49,220
+Voy por aquí y a ver si me puedo meter por aquí.
+
+130
+00:10:49,220 --> 00:10:51,220
+Aquí tenemos la casa en cuestión.
+
+131
+00:10:51,220 --> 00:10:56,220
+Allá al fondo, no sé si los veis, tenéis un par de paseadores.
+
+132
+00:10:56,220 --> 00:10:58,220
+No pasa nada.
+
+133
+00:10:58,220 --> 00:11:01,220
+Y aquí hay varias opciones.
+
+134
+00:11:01,220 --> 00:11:05,220
+Una es meterse ahí abajo, en la arena.
+
+135
+00:11:05,220 --> 00:11:13,220
+Es donde estaría más protegido de las miradas, porque está más abajo.
+
+136
+00:11:14,220 --> 00:11:17,220
+Y la otra sería meterse por ahí.
+
+137
+00:11:17,220 --> 00:11:19,220
+Bueno, aquí no, porque está la casa aquella allí.
+
+138
+00:11:22,220 --> 00:11:25,220
+A mí lo que más me gusta es por aquí.
+
+139
+00:11:25,220 --> 00:11:28,220
+Quizá no aquí, quizá allá.
+
+140
+00:11:28,220 --> 00:11:29,220
+¿Sabes por qué?
+
+141
+00:11:29,220 --> 00:11:34,220
+Porque creo que si me meto en la arena, se llenará todo de arena de
+
+142
+00:11:34,220 --> 00:11:37,220
+que... que luego no te la puedes quitar, ¿sabes?
+
+143
+00:11:37,220 --> 00:11:39,529
+Porque es arena bastante fina.
+
+144
+00:11:39,529 --> 00:11:41,195
+Yo también veo a gente.
+
+145
+00:11:41,862 --> 00:11:43,220
+Veo que hay como una plataforma.
+
+146
+00:11:44,220 --> 00:11:46,220
+Quizá allí tampoco sería mal lugar.
+
+147
+00:11:49,860 --> 00:11:50,860
+Bueno.
+
+148
+00:11:51,220 --> 00:11:53,193
+Bueno, bueno, bueno.
+
+149
+00:11:53,193 --> 00:11:54,220
+Me lo pienso, me lo pienso.
+
+150
+00:11:54,220 --> 00:11:57,220
+Pues muy bonito hoy el entorno, también.
+
+151
+00:11:57,220 --> 00:12:02,220
+Tenemos esta caseta, tenemos una plataforma petrolífera allí detrás
+
+152
+00:12:02,220 --> 00:12:06,220
+y una pequeña lanza motora, no sé si se escucha con el micro.
+
+153
+00:12:06,220 --> 00:12:08,220
+Y el mar, claro.
+
+154
+00:12:08,220 --> 00:12:12,220
+Y este rosado de la puesta de sol.
+
+155
+00:12:12,220 --> 00:12:14,220
+Al final me he quedado aquí.
+
+156
+00:12:14,220 --> 00:12:17,220
+Los únicos que me pueden ver son los de la casa.
+
+157
+00:12:17,220 --> 00:12:20,220
+Pero esto es suponiendo que hay alguien
+
+158
+00:12:20,220 --> 00:12:23,220
+y que... y que tengan ganas de molestar.
+
+159
+00:12:23,220 --> 00:12:25,220
+Pero bueno, no.
+
+160
+00:12:25,220 --> 00:12:26,220
+Es un muy buen lugar.
+
+161
+00:12:26,220 --> 00:12:30,220
+Mira, estoy viendo una hoguera como ayer.
+
+162
+00:12:30,220 --> 00:12:32,220
+Están haciendo unos...
+
+163
+00:12:32,220 --> 00:12:35,220
+Bueno, casi no he podido clavar las piquetas.
+
+164
+00:12:35,220 --> 00:12:38,220
+Porque el suelo está tan compactado.
+
+165
+00:12:38,220 --> 00:12:41,220
+Porque aquí pasaban coches o... bien.
+
+166
+00:12:41,220 --> 00:12:45,220
+De hecho, no sería del todo seguro por si viene algún coche.
+
+167
+00:12:45,220 --> 00:12:48,220
+Pero bueno, yo no sé, espero que me vean, ¿no?
+
+168
+00:12:50,220 --> 00:12:52,220
+Yo veo que hay una barrera "New Jersey" allí, de plástico.
+
+169
+00:12:52,220 --> 00:12:55,220
+Quizá sea cuestión de ponerla en la entrada.
+
+170
+00:12:55,220 --> 00:12:57,220
+Aunque esté vacía.
+
+171
+00:12:57,220 --> 00:12:59,220
+Quizá sí.
+
+172
+00:12:59,220 --> 00:13:04,220
+Bueno, 42 km, un café, tres refrescos.
+
+173
+00:13:04,220 --> 00:13:07,212
+No he hablado con nadie, excepto los de los comercios,
+
+174
+00:13:07,212 --> 00:13:09,220
+Nunca les cuento como a gente con la que he hablado.
+
+175
+00:13:09,220 --> 00:13:11,544
+Y de dinero... ostras.
+
+176
+00:13:11,544 --> 00:13:16,220
+Creo que unos 22 euros, contando el cable este, que me ha costado 7 euros.
+
+177
+00:13:16,220 --> 00:13:20,220
+Ponle 23 euros, va, no sé, algo así.
+
+178
+00:13:20,220 --> 00:13:22,220
+El almuerzo fue de 10.
+
+179
+00:13:22,220 --> 00:13:25,220
+Bueno, está bien.
+
+180
+00:13:25,220 --> 00:13:28,220
+Bueno, ningún perro, ningún problema.
+
+181
+00:13:28,220 --> 00:13:32,220
+Hoy túnel, hoy ha sido lo que ha sido.
+
+182
+00:13:32,220 --> 00:13:36,220
+Acercándonos a Estambul es normal, por esta zona de costa,
+
+183
+00:13:36,220 --> 00:13:39,220
+Que no sea como el otro día, ¿no?
+
+184
+00:13:39,220 --> 00:13:41,220
+Que eran pueblos y tal.
+
+185
+00:13:41,220 --> 00:13:45,671
+Ya vendrá esto, ya vendrá esto cuando afrontemos la parte asiática de Turquía,
+
+186
+00:13:45,671 --> 00:13:48,220
+Ya iremos por pueblos.
+
+187
+00:13:48,220 --> 00:13:51,220
+Mañana me voy a Estambul, de hecho.
+
+188
+00:13:51,220 --> 00:13:54,220
+El punto final es el estrecho del Bósforo,
+
+189
+00:13:54,220 --> 00:13:59,220
+Es donde se une Europa, o separa Europa y Asia.
+
+190
+00:13:59,220 --> 00:14:02,220
+El estrecho del Bósforo, que se llama.
+
+191
+00:14:02,220 --> 00:14:04,220
+Esto es, por tanto, el final de Estambul.
+
+192
+00:14:04,220 --> 00:14:08,533
+Pero qué pasa, que Estambul es una ciudad de, no sé si 13 o 15 millones de habitantes.
+
+193
+00:14:08,533 --> 00:14:10,220
+Entonces, necesito dos días para cruzarla.
+
+194
+00:14:10,220 --> 00:14:13,220
+Mañana llego a Estambul
+
+195
+00:14:13,220 --> 00:14:16,220
+y al día siguiente es cuando llego al estrecho del Bósforo.
+
+196
+00:14:16,220 --> 00:14:18,220
+Buenas noches.
