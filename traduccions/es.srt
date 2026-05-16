@@ -1,2159 +1,2326 @@
 1
-00:00:00,280 --> 00:00:03,600
-La vuelta al mundo a pie, día 160.
+00:00:00,200 --> 00:00:05,520
+La vuelta al mundo a pie, día 164, vuelvo a Barcelona.
 
 2
-00:00:04,140 --> 00:00:07,640
-Sí, día 160, ayer fue el día 159, ayer acabé en Europa
+00:00:06,720 --> 00:00:08,260
+¿Vuelvo a Barcelona? ¡Sí!
 
 3
-00:00:07,640 --> 00:00:11,960
-y hoy a las 12.40 me encuentro en un taxi
+00:00:09,500 --> 00:00:11,700
+Os explico el por qué ahora en un momento.
 
 4
-00:00:11,960 --> 00:00:16,260
-que a mí entrevistar a mi catalán sin fronteras de Turquía.
+00:00:12,260 --> 00:00:14,880
+Pero antes que nada deciros que estoy en la estación de tren/metro,
 
 5
-00:00:16,960 --> 00:00:19,620
-Para quien no sepa, me llamo Enric Lutant y estoy dando la vuelta al mundo a pie
+00:00:15,040 --> 00:00:17,500
+Quedan 16 minutos para que llegue.
 
 6
-00:00:19,620 --> 00:00:24,080
-y aparte de eso que estoy intentando conocer y entrevistar
+00:00:18,080 --> 00:00:20,720
+Voy tarde, voy tarde porque no me han dejado hacer el check-in online.
 
 7
-00:00:24,080 --> 00:00:26,900
-a un catalán que viva por cada país que paso.
+00:00:21,400 --> 00:00:25,240
+No sé por qué, tengo que ir allí, presentarme a hacer como si hiciera la facturación,
 
 8
-00:00:26,900 --> 00:00:31,360
-Hoy iba tarde porque Estambul es una ciudad muy grande
+00:00:25,340 --> 00:00:27,060
+que no facturo nada, voy con equipaje de mano,
 
 9
-00:00:31,360 --> 00:00:34,920
-y cuando me ha dicho dónde estaba y la hora que debía ser
+00:00:27,060 --> 00:00:31,600
+pero debería recoger el check-in, el billete allí,
 
 10
-00:00:34,920 --> 00:00:36,700
-he dicho, buah, en bus no me da tiempo
+00:00:31,720 --> 00:00:33,000
+Entonces tengo que ir con mucha antelación.
 
 11
-00:00:36,700 --> 00:00:40,040
-y entonces he tenido que coger un taxi.
+00:00:34,200 --> 00:00:39,180
+Y yo había cogido el bus con antelación mucho más que suficiente,
 
 12
-00:00:40,900 --> 00:00:41,500
-Ahora lo conoceremos.
+00:00:39,660 --> 00:00:42,060
+pero entre que ha llegado tarde y el tráfico de esta ciudad es horrible,
 
 13
-00:00:56,900 --> 00:00:59,360
-De acuerdo, pues ya he llegado aquí donde quería llegar
+00:00:42,940 --> 00:00:45,560
+pero es realmente horrible, no puedes fiarte de los buses.
 
 14
-00:00:59,360 --> 00:01:01,100
-pero me he olvidado otra vez.
+00:00:46,440 --> 00:00:48,880
+Voy muy justo, muy justo.
 
 15
-00:01:01,940 --> 00:01:03,440
-Me he olvidado del trípode del taxi.
+00:00:49,400 --> 00:00:52,700
+Me dará tiempo, yo creo, quiero decir, me dará tiempo, pero voy bastante justo.
 
 16
-00:01:03,900 --> 00:01:05,520
-Por suerte, como lo he cogido por una aplicación,
+00:00:54,060 --> 00:00:56,800
+Bueno, ¿por qué vuelvo a Barcelona?
 
 17
-00:01:06,020 --> 00:01:09,200
-He podido contactar con el driver y ahora viene.
+00:00:57,060 --> 00:00:59,060
+Ahora os lo cuento.
 
 18
-00:01:10,500 --> 00:01:12,920
-Vale, ya está. Ahora sí.
+00:01:04,020 --> 00:01:08,300
+Vale, ya estamos en el aeropuerto, ahora toca ir al tema de facturación.
 
 19
-00:01:13,820 --> 00:01:15,040
-Bueno, ¿adónde vamos?
+00:01:09,160 --> 00:01:10,260
+¿Por qué vuelvo a Barcelona?
 
 20
-00:01:15,660 --> 00:01:18,820
-Vamos a ver un entrenamiento del Besictes.
+00:01:10,360 --> 00:01:13,900
+Bueno, el otro día os dije que me habían nominado a los Premios Crit, ¿no?
 
 21
-00:01:19,300 --> 00:01:20,920
-Pero no el Besictes de fútbol, ¿eh?
+00:01:14,940 --> 00:01:19,940
+Los Premios de Creadores de Contenido en Catalán, y bueno, me ofrecieron ir a la gala,
 
 22
-00:01:21,540 --> 00:01:24,160
-Nuestro catalán sin fronteras se llama Joan Amigó
+00:01:20,720 --> 00:01:24,700
+y dije, hombre, yo no puedo ir, por motivos evidentes, estoy en Estambul.
 
 23
-00:01:24,160 --> 00:01:26,720
-y también el Besictes d'en Vol.
+00:01:26,100 --> 00:01:27,020
+Me dijeron,
 
 24
-00:01:26,900 --> 00:01:29,340
-El Besictes es un club multideportivo como el Barça
+00:01:27,700 --> 00:01:31,200
+¿Y si te pagamos el billete de avión para que vengas?
 
 25
-00:01:29,340 --> 00:01:33,120
-y Joan juega en la sección, como digo, de Vol.
+00:01:32,240 --> 00:01:38,860
+Y dije, ostras, no me lo esperaba, y dije, hombre, en este caso, sí, en este caso sí.
 
 26
-00:01:33,320 --> 00:01:33,860
-Vamos a verlo.
+00:01:39,640 --> 00:01:42,140
+Así que, bueno, aquí estoy.
 
 27
-00:01:46,340 --> 00:01:46,740
-Hola.
+00:01:42,760 --> 00:01:46,660
+Entonces, claro, es una sorpresa eso, bueno, apareceré en la gala,
 
 28
-00:01:47,680 --> 00:01:48,340
-¿Hablas Español?
+00:01:46,800 --> 00:01:50,920
+tipo por sorpresa, nadie sabe que voy, ni siquiera mis padres saben que voy,
 
 29
-00:01:48,720 --> 00:01:48,920
-Sí.
+00:01:51,920 --> 00:01:55,040
+y estaría bastante bien que no me viera nadie, lo veo un poco difícil,
 
 30
-00:01:49,160 --> 00:01:49,560
-Bienvenido.
+00:01:55,540 --> 00:01:57,040
+porque en el avión, supongo que habrá catalanes,
 
 31
-00:01:49,860 --> 00:01:50,440
-Muchas gracias.
+00:01:57,260 --> 00:02:01,260
+y alguien me conocerá, quizás, no lo sé, pero estaría bien ir un poco de incógnito.
 
 32
-00:01:51,020 --> 00:01:54,000
-Aquí tenemos a Joan ahora de espaldas haciendo un partido de fútbol.
+00:02:05,240 --> 00:02:07,500
+Ya he hecho el check-in aquí.
 
 33
-00:01:54,000 --> 00:01:54,700
-No, ¿eh?
+00:02:08,520 --> 00:02:13,180
+Pensaba que habría la típica cola gigante y tal, pero no, no, no había nadie, era el único.
 
 34
-00:01:55,320 --> 00:01:56,400
-Estos entrenamientos raros...
+00:02:13,740 --> 00:02:18,880
+Vale, genial. Me ha dicho que el equipaje es un poco grande para ponerlo dentro,
 
 35
-00:01:56,400 --> 00:01:56,880
-Hola, señor.
+00:02:19,780 --> 00:02:24,280
+pero, bueno, si acaso, que en la gate ya harían un check, me han ofrecido ponerlo dentro del avión,
 
 36
-00:01:57,020 --> 00:01:58,280
-¿Qué tal?
+00:02:25,000 --> 00:02:27,040
+pero le he dicho que no porque así puedo salir.
 
 37
-00:01:58,600 --> 00:01:59,120
-Sí, bueno.
+00:02:27,060 --> 00:02:28,000
+más directo.
 
 38
-00:02:10,560 --> 00:02:12,300
-Pues bien, hemos asistido al entrenamiento
+00:02:29,000 --> 00:02:30,260
+Vale, vale, vamos bien, vamos bien de tiempo.
 
 39
-00:02:12,300 --> 00:02:16,360
-y la sorpresa que me he encontrado es que no solo está Joan aquí de catalán,
+00:02:31,180 --> 00:02:36,440
+Control de equipaje pasado, las piquetas no han dado ningún problema, que siempre es un poco la desazón.
 
 40
-00:02:16,460 --> 00:02:17,500
-Hay toda una colonia.
+00:02:37,680 --> 00:02:39,500
+Para los que os preguntáis, la navaja, ¿qué he hecho con la navaja?
 
 41
-00:02:18,040 --> 00:02:19,160
-Ahora estoy con Jordi.
+00:02:39,600 --> 00:02:45,460
+La he dejado en el hostal, hotel, apartamento, donde estaba, y me la guardan hasta que vuelva.
 
 42
-00:02:19,780 --> 00:02:21,260
-Buenos días, buenas tardes, buenas noches.
+00:02:46,360 --> 00:02:48,440
+Y el control de pasaporte también pasado.
 
 43
-00:02:21,780 --> 00:02:26,880
-Que Jordi trabaja en la Federación Turca d'en Vol.
+00:02:48,980 --> 00:02:53,920
+Todo el mundo iba con el pasaporte y yo iba con el DNI, si os acordáis, entré por Ipsala con el DNI,
 
 44
-00:02:26,880 --> 00:02:28,700
-Hacemos tema de base, ¿no?
+00:02:53,920 --> 00:02:56,720
+y el tío me pedía un papelito, me enseñaba el papelito.
 
 45
-00:02:29,240 --> 00:02:29,740
-Así es.
+00:02:57,060 --> 00:02:58,840
+El papelito este, el papelito este, y yo no tengo ningún papelito.
 
 46
-00:02:30,640 --> 00:02:33,700
-Actualmente soy el responsable de selecciones base de la Federación Turca
+00:02:59,520 --> 00:03:06,200
+Y le he dicho, es que entré por Ipsala, y dice, ah, bueno, y me ha sellado el papelito, me lo ha dado, y ya está.
 
 47
-00:02:33,700 --> 00:02:37,460
-y dirijo procesos de captación y tecnificación de jugadores y jugadoras jóvenes.
+00:03:06,280 --> 00:03:10,080
+Supongo que cuando vuelva a entrar me darán este papelito y lo tendré que conservar bien.
 
 48
-00:02:38,580 --> 00:02:38,880
-Muy bien.
+00:03:10,520 --> 00:03:17,500
+Vale, tenemos media hora para llegar a la puerta de embarque, que es bastante pero no tanto, porque este aeropuerto es muy grande.
 
 49
-00:02:39,020 --> 00:02:42,540
-Pues, bueno, mientras Joan está comiendo, después la entrevistaremos,
+00:03:18,000 --> 00:03:22,960
+Y eso ya lo conozco porque estuve aquí el agosto pasado, que fui a hacer la Transcaucasia,
 
 50
-00:02:42,860 --> 00:02:45,340
-hemos venido a uno de los kebabs, o de...
+00:03:22,960 --> 00:03:26,960
+e hice escala aquí en este aeropuerto para ir hasta Tbilisi, en Georgia.
 
 51
-00:02:45,340 --> 00:02:45,980
-Sí, kebabs, ¿no?
+00:03:27,060 --> 00:03:43,560
+He sido el último en pasar por la... el penúltimo, el penúltimo en pasar por la puerta de embarque.
 
 52
-00:02:46,040 --> 00:02:47,700
-Más famosos de Estambul.
+00:03:43,680 --> 00:03:44,700
+Ahora esperando ir a subir al avión.
 
 53
-00:02:48,320 --> 00:02:49,200
-Aquí, mirad, mirad esto.
+00:03:46,040 --> 00:03:47,140
+Bueno, al final todo bien.
 
 54
-00:02:51,320 --> 00:02:53,120
-Bueno, Fer, otro mundo, ¿eh?
+00:03:48,240 --> 00:03:49,960
+Sentado y listo para volar.
 
 55
-00:02:53,260 --> 00:02:56,140
-Tenemos el arroz, tenemos el...
+00:03:50,460 --> 00:03:52,180
+Vuelo de cuatro horas.
 
 56
-00:02:56,140 --> 00:02:56,360
-Aire.
+00:03:52,660 --> 00:03:53,660
+Se pasarán rápido, mira, así.
 
 57
-00:02:56,360 --> 00:02:56,440
-Aire.
+00:03:54,160 --> 00:03:56,860
+Pues ya estamos volando, pero no sin incidencias.
 
 58
-00:02:56,880 --> 00:03:00,600
-Aire, una bebida típica de Turquía, que es mitra religión, también.
+00:03:57,580 --> 00:04:03,060
+Porque hoy es martes, día 12 de mayo, vuelvo el sábado, día 16,
 
 59
-00:03:01,840 --> 00:03:02,640
-Pues vamos a comer.
+00:04:03,920 --> 00:04:08,480
+y está cayendo una tormenta y una granizada en Barcelona, se ve,
 
 60
-00:03:02,880 --> 00:03:03,080
-¡Vale!
+00:04:08,840 --> 00:04:09,240
+Increíble.
 
 61
-00:03:03,920 --> 00:03:04,560
-Pues ya estamos aquí.
+00:04:09,440 --> 00:04:12,380
+Y se ha retrasado en el avión una hora y media.
 
 62
-00:03:05,280 --> 00:03:06,240
-Juan Amigó.
+00:04:12,960 --> 00:04:17,900
+Una hora y media hemos tenido que estar aquí dentro, mirando las musarañas, y encima el vuelo dura cuatro horas.
 
 63
-00:03:06,780 --> 00:03:07,180
-Muy buenas.
+00:04:18,600 --> 00:04:23,300
+Entonces, bueno, llegaré, cuando llegue, quizás mis padres ya están durmiendo, los tendré que despertar y ya está.
 
 64
-00:03:07,400 --> 00:03:07,760
-¿Qué tal?
+00:04:27,060 --> 00:04:33,000
+Pues ya está, ya estoy en Barcelona.
 
 65
-00:03:08,040 --> 00:03:08,340
-Muy bien.
+00:04:33,160 --> 00:04:37,580
+Ahora estoy esperando que venga mi hermano a buscarme en coche, a llevarme a Esplugues, que está aquí al lado,
 
 66
-00:03:08,860 --> 00:03:09,760
-¿Cómo ha ido la comida?
+00:04:38,380 --> 00:04:40,360
+y les daré una gran sorpresa a mis padres.
 
 67
-00:03:10,160 --> 00:03:10,760
-Bueno, bastante bien.
+00:04:40,960 --> 00:04:41,380
+Ahí están.
 
 68
-00:03:10,980 --> 00:03:13,180
-Y el hotel, este hotel, la verdad es que se come muy bien
+00:04:44,320 --> 00:04:44,640
+¡Hola!
 
 69
-00:03:13,180 --> 00:03:15,680
-y, aparte, también lo que nos gusta a los jugadores es que haya variedad.
+00:04:45,740 --> 00:04:46,640
+¡Suscriptores del grifo!
 
 70
-00:03:16,080 --> 00:03:17,940
-Jugador profesional de Vol.
+00:04:48,260 --> 00:04:49,540
+Suscriptores del grifo, primer día.
 
 71
-00:03:18,300 --> 00:03:21,180
-¿Qué come un jugador profesional de Vuelo o de cualquiera?
+00:04:50,280 --> 00:04:50,720
+¿Qué pasa?
 
 72
-00:03:21,320 --> 00:03:22,620
-¿Qué es lo que te alimentas?
+00:04:53,920 --> 00:04:54,280
+¡Hola!
 
 73
-00:03:22,900 --> 00:03:23,980
-Bueno, sobre todo de pasta.
+00:04:54,580 --> 00:04:54,820
+¡Hola!
 
 74
-00:03:24,440 --> 00:03:24,780
-Sí, ¿eh?
+00:04:55,160 --> 00:04:55,440
+¿Cómo estás?
 
 75
-00:03:24,780 --> 00:03:25,780
-De pasta, arroz...
+00:04:55,440 --> 00:04:56,680
+Bueno, bueno.
 
 76
-00:03:25,780 --> 00:03:31,220
-Arroz, patata hervida, y luego, pues, pollo, cualquier tipo de carne.
+00:04:57,060 --> 00:04:58,680
+Soy una persona conocida, no sé si te suena.
 
 77
-00:03:31,320 --> 00:03:38,600
-Aquí en Turquía nos meten mucho kofte, que es una especie de albóndiga, de carne de viejo, de carne de...
+00:05:00,060 --> 00:05:00,860
+¿Qué dices?
 
 78
-00:03:38,600 --> 00:03:39,580
-Creo que lo he comido.
+00:05:06,960 --> 00:05:09,640
+Mira que, uy, uy, uy.
 
 79
-00:03:39,740 --> 00:03:42,420
-...de vieja, y, pues, nos meten esto, normalmente.
+00:05:10,860 --> 00:05:12,440
+
 
 80
-00:03:42,520 --> 00:03:45,260
-Sí que este hotel... Ahora estamos concentrados en...
+00:05:12,620 --> 00:05:14,720
+¿Dónde estará, dónde estará, dónde estará?
 
 81
-00:03:45,260 --> 00:03:48,380
-Aquí en Estambul, porque estamos jugando la Copa Turca, y llevamos desde el martes aquí,
+00:05:15,480 --> 00:05:15,840
+Bueno.
 
 82
-00:03:48,500 --> 00:03:53,100
-entonces sí que vamos cambiando un poco las comidas, pero, bueno, me ayuda realmente a...
+00:05:18,080 --> 00:05:18,940
+Mira quién viene.
 
 83
-00:03:53,100 --> 00:03:53,620
-Eso, comemos.
+00:05:20,280 --> 00:05:25,240
+Ayer fue muy emocionante, fue muy emocionante, fue muy guay, fue muy divertido.
 
 84
-00:03:54,200 --> 00:03:55,640
-Pues, bueno, un par de gente me ha escrito de Turquía.
+00:05:25,240 --> 00:05:29,560
+Y bueno, una gran sorpresa y una gran alegría.
 
 85
-00:03:55,640 --> 00:03:55,660
-Sí, sí, sí.
+00:05:29,560 --> 00:05:35,960
+Bueno, hoy he venido aquí al centro comercial por dos cosas.
 
 86
-00:03:55,660 --> 00:03:55,760
-Sí, sí, sí.
+00:05:35,960 --> 00:05:40,680
+Una en el Decathlon y otra ir a comprar una americana para los Premios Crit, claro.
 
 87
-00:03:55,780 --> 00:03:58,460
-Un par de gente me ha escrito de Turquía, pero me hacía gracia hablar contigo, porque yo, de pequeño, jugaba con vuelo.
+00:05:40,680 --> 00:05:48,280
+Porque, bueno, no iré de traje entero porque tampoco quizás hace falta, pero bueno, ponerme una americana porque es una gala, ¿no?
 
 88
-00:03:59,180 --> 00:03:59,460
-Muy bien.
+00:05:48,280 --> 00:05:51,560
+Entonces voy a comprarme una porque no entiendo ninguna que sea de este estilo, ¿no?
 
 89
-00:03:59,580 --> 00:04:00,960
-Y, claro, pues, hace gracia.
+00:05:51,560 --> 00:05:56,680
+Esta mañana he ido por Esplugues y a pesar de ir así, mirad.
 
 90
-00:04:01,700 --> 00:04:05,540
-Yo jugaba de pivote, que es un poco lo que está entre los defensas peleados.
+00:06:02,120 --> 00:06:07,240
+A pesar de ir completamente tapado para que no me reconozcan, dos personas me han reconocido.
 
 91
-00:04:05,700 --> 00:04:05,860
-Exacto.
+00:06:07,240 --> 00:06:12,840
+No directamente me han parado por la calle, pero sí que me han dicho, ei, uno a mi madre le ha dicho,
 
 92
-00:04:05,880 --> 00:04:12,920
-Es una posición un poco dura de jugar, porque estás ahí en medio, no paras de recibir, es complicado, ¿eh?
+00:06:12,840 --> 00:06:17,400
+eh, hemos visto a tu hijo por aquí? Y la otra me ha escrito por Instagram.
 
 93
-00:04:13,000 --> 00:04:14,320
-Y tú de qué... ¿En qué posición juegas?
+00:06:19,800 --> 00:06:21,400
+Bueno, no sé tú.
 
 94
-00:04:14,340 --> 00:04:15,420
-Yo juego a la otra a la izquierda.
+00:06:21,400 --> 00:06:23,400
+¿Se me ve? ¿Igualmente se me reconoce o qué?
 
 95
-00:04:15,660 --> 00:04:18,820
-En la otra a la izquierda. La gente que no sabe de vuelo, si nos imaginamos una línea de seis, ¿no?
+00:06:24,840 --> 00:06:26,840
+Yo diría que no.
 
 96
-00:04:19,240 --> 00:04:21,780
-¿Dónde están los... Tú estarías en el segundo, no?
+00:06:26,840 --> 00:06:33,640
+Pero bueno, aparte de eso, a parte de eso, bueno, también he recogido unas bambas, las Icebug.
 
 97
-00:04:21,780 --> 00:04:29,080
-Exacto. Están los extremos, que están en el córner, en la esquina del área, y luego, más atrás, están los laterales,
+00:06:33,640 --> 00:06:42,200
+Tengo nuevas Icebug, mirad, son las mismas, las Jarv, pero mirad que guapo es este color, nuevo color, este naranja verde.
 
 98
-00:04:29,560 --> 00:04:33,480
-que, junto con los centrales, son un poco los que dirigen el juego del equipo.
+00:06:42,200 --> 00:06:49,960
+Me encanta, es guapísimo, creo que es, bueno, el anterior ya era un color muy guapo, pero este nuevo color es genial.
 
 99
-00:04:34,760 --> 00:04:40,940
-Y bueno, estamos aquí porque tenemos el autobús del Besiktas, que es tu club.
+00:06:49,960 --> 00:06:51,240
+Muchas gracias Icebug.
 
 100
-00:04:43,120 --> 00:04:47,860
-Pregunta que le hago a todos los catalanes que entrevisto. ¿Qué haces aquí? ¿Cómo es que has acabado aquí, en Estambul?
+00:06:51,240 --> 00:07:02,680
+Para seguir colaborando con la aventura, son las zapatillas más cómodas que he tenido nunca y las sigo usando y ojalá por mucho más tiempo, porque muy bien tú, muy bien, muy bien.
 
 101
-00:04:47,860 --> 00:04:50,840
-Bueno, como bien has dicho, yo soy jugador de despegue profesional.
+00:07:02,680 --> 00:07:12,680
+Tanto en asfalto como en terrenos mixtos, terrenos técnicos, bueno, ya lo he estado viendo, si no me fueran bien no seguiría con esta colaboración.
 
 102
-00:04:51,780 --> 00:04:57,300
-Hace dos años y medio, ahora, me llamaron de... Bueno, me llegó la oferta de para venir aquí a Turquía.
+00:07:21,240 --> 00:07:36,600
+Bueno, compra hecha, ahora estoy en la zona cero, aquí al lado de casa me conoce mucha gente, voy así, voy a cortarme el pelo, no cortármelo muy corto, pero arreglármelo un poco porque claro, es una gala, sabes.
 
 103
-00:04:57,400 --> 00:05:01,320
-Fue una situación un poco fuera de la normal, porque me ficharon a mitad de temporada.
+00:07:36,600 --> 00:07:48,440
+
 
 104
-00:05:01,880 --> 00:05:06,140
-Hubo la ayuda de un compañero, y necesitaban un jugador para acabar la temporada.
+00:07:48,440 --> 00:07:50,600
+
 
 105
-00:05:06,480 --> 00:05:10,720
-Y, bueno, yo llegué aquí con calidad de sesión. Era una sesión de seis meses, primero.
+00:07:50,600 --> 00:07:50,680
+Me ha quedado bien el pelo, me lo he cortado hoy, yo diría que sí, estoy preparado para la gala.
 
 106
-00:05:10,960 --> 00:05:12,480
-¿Desde qué activo? Desde Granollers.
+00:07:50,680 --> 00:07:51,200
+Hemos venido a cenar, ¿qué hemos comido?
 
 107
-00:05:12,900 --> 00:05:15,700
-¿Juegas en Granollers?
+00:07:51,240 --> 00:08:03,560
+Espárragos con salsa romesco, callos, salteado de setas, habas, croquetas, o sea, claro, queríamos comer catalán y hemos venido aquí, a Can Pringa.
 
 108
-00:05:15,700 --> 00:05:21,520
-Granollers, que es un equipo de primera división histórico de España, y por Navidad me llegó la oportunidad de marchar aquí.
+00:08:04,200 --> 00:08:06,080
+Muy bien, mañana en la gala, nervios.
 
 109
-00:05:21,780 --> 00:05:29,500
-Y bueno, pues, la verdad es que me sacó la experiencia de vivir en un país como Turquía, muy diferente de lo que había vivido hasta ahora.
+00:08:06,560 --> 00:08:19,160
+La vuelta al mundo a pie, día 166, hoy es el día de la gala, pero ahora por la mañana he venido aquí al centro de Barcelona a hacer una visita, no saben que voy, a mis compañeros de Demeter,
 
 110
-00:05:29,500 --> 00:05:31,500
-Yo también he jugado en Francia.
+00:08:20,020 --> 00:08:21,080
+La empresa, la mejor empresa
 
 111
-00:05:31,500 --> 00:05:33,500
-Ah, ya tenías un poco de experiencia.
+00:08:21,240 --> 00:08:28,280
+de derribos de Cataluña, movimientos de tierras y descontaminaciones, y no saben nada, y les haré una sorpresa.
 
 112
-00:05:33,500 --> 00:05:37,300
-Pero ya había un poco de experiencia fuera. Había jugado en Nice, que es una ciudad bastante...
+00:08:28,880 --> 00:08:39,520
+Me he compinchado con Aurora, que es una de las trabajadoras que siempre controla quien entra, quien sale, tiene todos los horarios de la gente, y me han dicho que ahora, en principio, estará todo el mundo allí.
 
 113
-00:05:37,300 --> 00:05:39,300
-He estado. Ahora ya he pasado caminando.
+00:08:51,240 --> 00:09:02,280
+Buenas tardes.
 
 114
-00:05:39,300 --> 00:05:45,500
-¿Ya has pasado, no? Sí, ya lo vi. Y es una zona muy bonita, muy similar a Cataluña, podríamos decir, a Mediterráneo, etc.
+00:09:02,280 --> 00:09:02,480
+¿Qué haces aquí?
 
 115
-00:05:45,500 --> 00:05:51,580
-Y bueno, pues, me salió esto. El entrenador es catalán, también. Hay otro catalán en el equipo, aparte de aquello.
+00:09:04,120 --> 00:09:04,520
+¿Sorpresa?
 
 116
-00:05:51,580 --> 00:05:55,220
-Y bueno, pues, me creó la opción y me vine para aquí.
+00:09:04,820 --> 00:09:05,520
+¿Cómo es esto?
 
 117
-00:05:55,220 --> 00:05:57,220
-¿Qué edad tienes?
+00:09:05,940 --> 00:09:06,220
+Hola.
 
 118
-00:05:57,220 --> 00:05:59,220
-Yo tengo ahora 32 años.
+00:09:07,200 --> 00:09:08,640
+Hombre, qué ilusión.
 
 119
-00:05:59,220 --> 00:06:01,220
-¿Y de dónde eres? De Molins de Rei.
+00:09:09,560 --> 00:09:10,500
+Eh, pero sé, ¿no?
 
 120
-00:06:01,220 --> 00:06:03,220
-Molins de Rei. Zoco de los Plugues.
+00:09:10,800 --> 00:09:11,560
+Sigo, sigo, sigo.
 
 121
-00:06:03,220 --> 00:06:05,220
-Yo había jugado allí a las Lluvias.
+00:09:11,580 --> 00:09:12,200
+Ah, que susto.
 
 122
-00:06:05,220 --> 00:06:08,220
-Entonces, ¿de dónde sales? ¿Cuál es tu trayectoria, un poco?
+00:09:12,620 --> 00:09:14,140
+
 
 123
-00:06:08,220 --> 00:06:13,220
-Creo que es el primer jugador de cualquier deporte profesional con el que hablo.
+00:09:14,160 --> 00:09:18,240
+Sí, qué ilusión. Estás muy bien, estás guapísimo.
 
 124
-00:06:13,220 --> 00:06:15,220
-Bueno, seguramente encontrarás alguno más.
+00:09:18,540 --> 00:09:19,220
+Gracias, gracias.
 
 125
-00:06:15,220 --> 00:06:18,220
-Por todo el cambio que tienes que hacer, seguro que habrá alguno más.
+00:09:19,240 --> 00:09:20,260
+Sí, estás muy bien.
 
 126
-00:06:18,220 --> 00:06:20,220
-Yo salí de Molins de Rei.
+00:09:20,760 --> 00:09:21,020
+Hola.
 
 127
-00:06:20,220 --> 00:06:21,220
-Empecé a jugar en mi club.
+00:09:21,240 --> 00:09:23,780
+Señor Algueró, ¿qué tal?
 
 128
-00:06:21,220 --> 00:06:21,540
-Sí.
+00:09:25,280 --> 00:09:26,200
+No, que está bien.
 
 129
-00:06:21,540 --> 00:06:22,540
-En el Pobla.
+00:09:26,260 --> 00:09:28,440
+A ver, aquí, el logo de Demeter, que se vea.
 
 130
-00:06:22,540 --> 00:06:27,540
-Y bien, desde allí, a los 13 años, que es la categoría cadete de primer año,
+00:09:28,840 --> 00:09:29,840
+Está bien, está bien.
 
 131
-00:06:27,540 --> 00:06:29,540
-Yo me fiché para el Barça.
+00:09:31,340 --> 00:09:36,160
+Bueno, ahora sí, son las ocho y cuarto, estoy fuera del Teatro Coliseum.
 
 132
-00:06:29,540 --> 00:06:30,540
-En el Barça.
+00:09:36,940 --> 00:09:50,600
+La gala ya ha empezado, está todo el mundo dentro, y están retransmitiéndose en directo por YouTube, y yo estoy aquí fuera, y ahora entraré, y bueno, no sé muy bien qué pasará, pero un poco por sorpresa, entraré en la gala.
 
 133
-00:06:30,540 --> 00:06:33,540
-E hice toda la etapa de formación en el Barça.
+00:09:50,960 --> 00:09:51,220
+Muy bien.
 
 134
-00:06:33,540 --> 00:06:36,540
-Estuve 7 años en el segundo equipo.
+00:09:51,220 --> 00:09:51,240
+Muy bien.
 
 135
-00:06:36,540 --> 00:06:41,540
-Y durante estos 7 años tuve oportunidades de jugar con el primer equipo del Barça.
+00:09:51,260 --> 00:09:52,440
+Muchos nervios, muchos nervios.
 
 136
-00:06:41,540 --> 00:06:44,540
-Yo, a los 25 años, me fui fuera a jugar al Nice.
+00:09:53,720 --> 00:09:55,960
+Bueno, no sé, no sé.
 
 137
-00:06:44,540 --> 00:06:46,540
-Estuve allí 3 temporadas.
+00:09:56,840 --> 00:09:58,560
+Llevo todo el día nervioso, normal.
 
 138
-00:06:46,540 --> 00:06:48,540
-Era la segunda división francesa, eso.
+00:09:58,920 --> 00:10:02,920
+Primer tema que, primera vez que hablo con público de esta manera por el tema del YouTube.
 
 139
-00:06:48,540 --> 00:06:51,180
-Pero sí es verdad que en Francia la segunda división francesa
+00:10:04,500 --> 00:10:05,000
+Ay, ay, ay.
 
 140
-00:06:51,180 --> 00:06:53,180
-profesional, 100%.
+00:10:06,500 --> 00:10:09,440
+Bueno, esperando aquí en el camerino, no sé cuándo me toca.
 
 141
-00:06:53,180 --> 00:06:54,180
-Es muy potente.
+00:10:11,920 --> 00:10:15,680
+He entrado, sin embargo, rollo por el lateral, yo diría que me ha visto todo el mundo, pero, bueno, no sé.
 
 142
-00:06:54,180 --> 00:06:58,180
-En España, en la segunda división, hay muchos clubes que son prácticamente amateurs.
+00:10:18,580 --> 00:10:19,080
+Increíble.
 
 143
-00:06:58,180 --> 00:07:02,180
-En cambio, en Francia, la segunda división ya es profesional totalmente.
+00:10:21,240 --> 00:10:24,520
+No, pero, no, pero, no, no.
 
 144
-00:07:02,180 --> 00:07:09,180
-¿Cómo es el nivel de la Liga Turca, de Turquía en émbolo? ¿Cómo es?
+00:10:24,520 --> 00:10:31,940
+No, pero, no, pero, no, sin embargo.
 
 145
-00:07:09,180 --> 00:07:11,180
-Bueno, no es demasiado fuerte.
+00:10:31,940 --> 00:10:36,240
+Los nominados para el Premio Crit Sports son...
 
 146
-00:07:11,180 --> 00:07:15,180
-No es demasiado fuerte si lo comparas, sobre todo, con Europa, con España, Francia, Alemania...
+00:10:39,540 --> 00:10:40,260
+Enrique Luzán.
 
 147
-00:07:15,180 --> 00:07:19,180
-O sea, por poner un ejemplo, ¿el Granollers ganaría al Besiktas si jugaran un partido?
+00:10:43,760 --> 00:10:45,000
+Alejo Martínez.
 
 148
-00:07:19,180 --> 00:07:20,180
-Seguramente sí.
+00:10:48,600 --> 00:10:49,600
+Marta Robli.
 
 149
-00:07:20,180 --> 00:07:21,180
-Seguramente sí.
+00:10:51,240 --> 00:10:55,040
+Mariquita0399
 
 150
-00:07:21,180 --> 00:07:25,180
-El Granollers lleva los últimos años una trayectoria muy buena tanto en la Liga Española,
+00:10:55,040 --> 00:10:59,120
+Camino100Cumbres
 
 151
-00:07:25,180 --> 00:07:29,180
-quedando segundo, tercero, como en Europa también, en la European League.
+00:11:07,600 --> 00:11:11,060
+Y el Premio Crit Esport es para...
 
 152
-00:07:29,180 --> 00:07:32,180
-Donde yo estuve jugando con ellos, llegamos a la final de la European League,
+00:11:11,060 --> 00:11:12,060
+Enrique Luzán
 
 153
-00:07:32,180 --> 00:07:34,180
-Es como la Europa League del fútbol.
+00:11:12,060 --> 00:11:16,980
+
 
 154
-00:07:34,180 --> 00:07:38,180
-Entonces, tienen un nivel muy bueno actualmente y, bueno, nosotros también tenemos un muy buen equipo
+00:11:16,980 --> 00:11:19,960
+Sabéis, está dando la vuelta al mundo
 
 155
-00:07:38,180 --> 00:07:41,180
-con jugadores internacionales como Cedric Sorendó, Eduardo Gurbindo...
+00:11:19,960 --> 00:11:21,600
+Está caminando, dando la vuelta al mundo
 
 156
-00:07:41,180 --> 00:07:43,180
-Quien sepa de Embol, más o menos se los sabrá.
+00:11:21,600 --> 00:11:23,320
+Y ahora mismo está en Turquía
 
 157
-00:07:43,180 --> 00:07:45,180
-Hemos visto hoy el Sorendó, que está relacionado.
+00:11:23,320 --> 00:11:25,300
+No puede venir, evidentemente, no puede estar aquí con nosotros
 
 158
-00:07:45,180 --> 00:07:49,180
-Sí, está bien, pero ya es mayor y necesita unos cuidados.
+00:11:25,300 --> 00:11:26,680
+Pero nos ha enviado un vídeo
 
 159
-00:07:49,180 --> 00:07:51,180
-Cuidados específicos.
+00:11:26,680 --> 00:11:29,480
+Muchísimas gracias, muchísimas gracias
 
 160
-00:07:51,180 --> 00:07:54,180
-Ahora estamos jugando muchos partidos seguidos en esta Copa y, bueno, necesita la cuida.
+00:11:29,480 --> 00:11:31,120
+Premio Crit, me encuentro aquí
 
 161
-00:07:54,180 --> 00:07:57,180
-Claro, me he estado informando un poco. ¿Sois campeones, de verdad, este año?
+00:11:31,120 --> 00:11:33,060
+En Estambul, en Europa
 
 162
-00:07:57,180 --> 00:07:58,180
-¿Habéis ganado la Liga?
+00:11:33,060 --> 00:11:34,020
+Y allá detrás mío
 
 163
-00:07:58,180 --> 00:08:00,180
-Exacto, ganamos la Liga hace una semana.
+00:11:34,020 --> 00:11:37,280
+Después del estrecho del Bósforo hay, Asia
 
 164
-00:08:00,180 --> 00:08:04,180
-Aún quedan dos jornadas más por jugar, pero ya somos campeones matemáticamente
+00:11:37,280 --> 00:11:38,580
+He llegado aquí
 
 165
-00:08:04,180 --> 00:08:07,180
-y mañana tenemos la opción de ganar un nuevo título, de ganar la Copa Turca.
+00:11:38,580 --> 00:11:40,700
+Después de más de cinco meses caminando
 
 166
-00:08:07,180 --> 00:08:13,180
-Claro, yo eso no lo sabía y, ostras, creo que me gustaría asistir a ello.
+00:11:40,700 --> 00:11:44,960
+Nuria, ¿tú sabes algo?
 
 167
-00:08:13,180 --> 00:08:16,180
-Estás invitadísimo. Jugamos mañana a las tres y media de la tarde.
+00:11:45,720 --> 00:11:47,740
+Problemas técnicos aquí not found
 
 168
-00:08:16,180 --> 00:08:17,180
-¿Juegas en contra?
+00:11:47,740 --> 00:11:48,600
+Aquí en los Premios Crit
 
 169
-00:08:17,180 --> 00:08:18,180
-Juguemos contra el Bursa.
+00:11:48,600 --> 00:11:49,900
+Lo tenemos todo
 
 170
-00:08:18,180 --> 00:08:19,180
-Es el segundo equipo, ¿no?
+00:11:49,900 --> 00:11:51,740
+Un premio como este
 
 171
-00:08:19,180 --> 00:08:22,180
-Sí, exacto. Este año van segundos, o han quedado segundos en la Liga ya,
+00:11:51,740 --> 00:11:52,680
+Enric Luzan
 
 172
-00:08:22,180 --> 00:08:24,180
-Nos ganaron la Supercopa.
+00:11:52,680 --> 00:11:54,660
+Lo ha querido venir a recoger en directo
 
 173
-00:08:24,180 --> 00:08:27,180
-Vale, o sea, será un partido que no será un paseo, precisamente.
+00:11:54,660 --> 00:11:56,040
+Desde Turquía
 
 174
-00:08:27,180 --> 00:08:33,180
-No, no, será un partido duro porque aquí en Turquía sí que el tema de la dureza la llevan bien.
+00:11:56,040 --> 00:11:58,200
+Enrique Luzán
 
 175
-00:08:33,180 --> 00:08:34,180
-Son físicos.
+00:11:58,200 --> 00:12:01,080
+Tras el estrecho del Bósforo está Asia
 
 176
-00:08:34,180 --> 00:08:39,180
-Son físicos, son potentes y será un partido muy bueno porque, ya te digo, la Supercopa perdimos
+00:12:01,080 --> 00:12:02,380
+He llegado aquí
 
 177
-00:08:39,180 --> 00:08:44,180
-y allí que hemos jugado tres veces ya, una hemos empatado, una hemos perdido y una hemos ganado.
+00:12:02,380 --> 00:12:04,540
+Después de más de cinco meses caminando
 
 178
-00:08:44,180 --> 00:08:47,180
-Quiero decir, este año la Supercopa perdimos en penaltis.
+00:12:04,540 --> 00:12:08,960
+Nuria, ¿tú sabes algo?
 
 179
-00:08:47,180 --> 00:08:48,180
-Ostras.
+00:12:09,280 --> 00:12:11,600
+Problemas técnicos aquí no te hace un
 
 180
-00:08:48,180 --> 00:08:51,180
-Estará muy igualado y será un partido chulo.
+00:12:11,600 --> 00:12:12,480
+Aquí en los Premios Crit
 
 181
-00:08:51,180 --> 00:09:01,180
-Qué dirías que diferencia, cuál es la calidad que dirías que diferencia más a un jugador normal
+00:12:12,480 --> 00:12:14,420
+Lo tenemos todo controlado
 
 182
-00:09:01,180 --> 00:09:08,180
-de un jugador, de una estrella o lo que sea, ¿qué sería más, el físico, la puntería, la inteligencia?
+00:12:14,420 --> 00:12:15,560
+Un premio como este
 
 183
-00:09:08,180 --> 00:09:13,180
-Ese paso extra que debe tener un jugador superprofesional, ¿qué os crees?
+00:12:15,560 --> 00:12:16,580
+Enric Luzan
 
 184
-00:09:13,180 --> 00:09:17,180
-Yo pienso que actualmente el émbolo es un deporte muy físico.
+00:12:16,580 --> 00:12:18,500
+Lo ha querido venir a recoger en directo
 
 185
-00:09:17,180 --> 00:09:19,180
-Ahora mismo los juegos son muy rápidos.
+00:12:18,500 --> 00:12:19,860
+que desde Turquía
 
 186
-00:09:19,180 --> 00:09:21,180
-Hay muchos ataques.
+00:12:19,900 --> 00:12:22,020
+Enrique Luzán
 
 187
-00:09:21,180 --> 00:09:27,180
-Y creo que físicamente tienes que estar muy bien preparado para aguantar un partido de 60 minutos a un nivel muy alto.
+00:12:22,020 --> 00:12:26,120
+Enrique Luzán
 
 188
-00:09:27,180 --> 00:09:30,180
-Si tú ves un partido de Champions League, los jugadores vuelan.
+00:12:26,120 --> 00:12:39,180
+Enrique Luzán
 
 189
-00:09:30,180 --> 00:09:32,180
-Van volando y físicamente son unas máquinas.
+00:12:39,180 --> 00:12:43,460
+No jodas tío
 
 190
-00:09:32,180 --> 00:09:37,180
-Entonces creo que, primeramente, físicamente tienes que estar a un nivel muy alto para poder ser...
+00:12:43,460 --> 00:12:45,140
+No lo ha dicho
 
 191
-00:09:37,180 --> 00:09:39,180
-De cardio estamos hablando.
+00:12:45,140 --> 00:12:45,240
+No lo ha dicho
 
 192
-00:09:39,180 --> 00:09:42,180
-De cardio y de fuerza, resistencia.
+00:12:45,240 --> 00:12:47,460
+Se lo pusiste
 
 193
-00:09:42,180 --> 00:09:46,180
-El émbolo es un deporte que engloba muchas cualidades físicas.
+00:12:47,460 --> 00:12:48,680
+Sí, yo le dije
 
 194
-00:09:46,180 --> 00:09:50,180
-Tienes que tener cardio, velocidad, fuerza, un poco de todo.
+00:12:48,680 --> 00:12:49,560
+Que la ganes tú
 
 195
-00:09:50,180 --> 00:09:56,180
-Y pienso que aquí es donde está el salto de un jugador profesional como puedo ser yo a las estrellas de este deporte.
+00:12:49,560 --> 00:12:49,740
+Y le he dicho
 
 196
-00:09:56,180 --> 00:10:04,180
-También, técnicamente, debes tener los recursos suficientes para poder jugar y hacerlo bien.
+00:12:49,740 --> 00:12:49,880
+No lo ha dicho
 
 197
-00:10:04,180 --> 00:10:09,180
-Bueno, Estambul, ciudad que yo no había sido nunca, 16 millones de habitantes.
+00:12:49,880 --> 00:12:51,880
+y no puedo ir a buscarlo.
 
 198
-00:10:09,180 --> 00:10:11,180
-¿Cuánto hace que estás aquí?
+00:12:51,880 --> 00:12:53,880
+La vuelta al mundo a pie, día 166.
 
 199
-00:10:11,180 --> 00:10:14,180
-Pues ahora hace dos años y medio. Llegué en enero del 2024.
+00:12:59,880 --> 00:13:01,880
+¡Guau!
 
 200
-00:10:14,180 --> 00:10:15,180
-Ahora estamos, sí.
+00:13:01,880 --> 00:13:03,880
+La vuelta al mundo a pie, día 166.
 
 201
-00:10:15,180 --> 00:10:16,180
-Dos años y medio.
+00:13:05,880 --> 00:13:07,880
+Lo ha querido venir a recoger en directo,
 
 202
-00:10:16,180 --> 00:10:21,180
-Dos años y medio. Pero, bueno, me enganchas a las últimas semanas de aquí a Estambul.
+00:13:07,880 --> 00:13:09,880
+Desde Turquía,
 
 203
-00:10:21,180 --> 00:10:27,180
-El 3 de junio me voy y, bueno, he fichado parte. Ya es público, quiero decir, no pasa nada.
+00:13:09,880 --> 00:13:11,880
+Enrique Luzán.
 
 204
-00:10:27,180 --> 00:10:31,180
-Me voy a Austria a jugar. Mi pareja es de allí.
+00:13:19,880 --> 00:13:21,880
+La vuelta al mundo a pie, día 166.
 
 205
-00:10:31,180 --> 00:10:40,180
-Y, bueno, me cuadra a nivel de vida, me cuadra a nivel deportivo y nos vamos para allá ahora, la próxima temporada.
+00:13:21,880 --> 00:13:23,880
+La vuelta al mundo a pie, día 166.
 
 206
-00:10:40,180 --> 00:10:43,180
-¿No es que hayas acabado quemado de Estambul? ¿O sí, un poco?
+00:13:23,880 --> 00:13:25,880
+La vuelta al mundo a pie, día 166.
 
 207
-00:10:43,180 --> 00:10:45,180
-Un poquito. No te voy a mentir.
+00:13:25,880 --> 00:13:27,880
+La vuelta al mundo a pie, día 166.
 
 208
-00:10:45,180 --> 00:10:55,180
-Lo puedo entender porque es gigante. Los coches, bueno, ahora veníamos conduciendo con Jordi y, bueno, en fin, es un percal.
+00:13:27,880 --> 00:13:29,880
+La vuelta al mundo a pie, día 166.
 
 209
-00:10:55,180 --> 00:10:58,180
-¿Tú cómo te mueves? ¿Por qué? ¿Cómo te mueves? ¿Con transporte público? ¿El coche?
+00:13:29,880 --> 00:13:31,880
+La vuelta al mundo a pie, día 166.
 
 210
-00:10:58,180 --> 00:11:03,180
-Yo intento moverme en transporte público. Yo coche aquí no tengo. Mi pareja vive conmigo y tampoco tiene coche.
+00:13:31,880 --> 00:13:33,880
+La vuelta al mundo a pie, día 166.
 
 211
-00:11:03,180 --> 00:11:14,180
-Mi pareja quería comprarse una moto. Yo se lo prohibí. Le dije, mira, yo si quieres te pago los taxis, hagámoslo como queramos, pero yo no quiero que vayas aquí en moto porque es una ciudad que para visitarla está muy bien.
+00:13:33,880 --> 00:13:35,880
+¡Muy bien!
 
 212
-00:11:15,180 --> 00:11:24,180
-Una ciudad increíble, culturalmente espectacular, tienes 50.000 cosas que hacer. Para vivir yo llevo dos años y medio y no es una ciudad cómoda.
+00:13:35,880 --> 00:13:37,880
+En realidad estaba todo hecho con inteligencia artificial
 
 213
-00:11:24,180 --> 00:11:32,180
-No es cómoda de vivir porque son distancias muy largas, hay mucho tráfico, mucha gente, es complicada para vivir.
+00:13:37,880 --> 00:13:39,880
+No he salido de Cataluña.
 
 214
-00:11:32,180 --> 00:11:36,180
-Entonces yo intento moverme en transporte público pero no me muevo de una zona muy concreta.
+00:13:39,880 --> 00:13:41,880
+No, el 30 de noviembre de 2025
 
 215
-00:11:36,180 --> 00:11:43,180
-¿Qué parte estás? ¿La parte europea? Yo vivo en la parte europea, en Beixictes. Es como un distrito, pero es que solo Beixictes es como Barcelona.
+00:13:41,880 --> 00:13:43,880
+salí caminando
 
 216
-00:11:43,180 --> 00:11:44,180
-Claro.
+00:13:43,880 --> 00:13:45,880
+desde la plaza Catalunya de Barcelona
 
 217
-00:11:44,180 --> 00:11:54,180
-Yo soy de Molins y a mí Barcelona me parecía una ciudad grande para vivir. Pero ahora, habiendo vivido aquí, Barcelona me parece como un pueblo.
+00:13:45,880 --> 00:13:47,880
+con la intención de dar la vuelta al mundo
 
 218
-00:11:54,180 --> 00:11:57,180
-Dos años y medio es bastante. ¿Has aprendido alguien de turco?
+00:13:47,880 --> 00:13:49,880
+a pie.
 
 219
-00:11:57,180 --> 00:12:04,180
-Bueno, cuatro palabras. Tampoco tengo que ser sincero, no me he esforzado mucho porque la mayoría de jugadores hablan inglés
+00:13:49,880 --> 00:13:51,880
+Y 4.300 kilómetros más tarde
 
 220
-00:12:04,180 --> 00:12:12,180
-y al final para hacer cuatro cosas aquí también tenemos el manager del club que nos ayuda. Entonces sí que tiene que ser cuatro palabras, evidentemente,
+00:13:51,880 --> 00:13:53,880
+he llegado a Estambul, donde he cogido un avión
 
 221
-00:12:12,180 --> 00:12:14,180
-No podía hablar turco.
+00:13:53,880 --> 00:13:55,880
+para llegar hasta aquí, unos cuantos días
 
 222
-00:12:14,180 --> 00:12:15,180
-Fluidamente.
+00:13:55,880 --> 00:13:57,880
+y subiendo
 
 223
-00:12:15,180 --> 00:12:19,180
-Vale, pero sí que has tenido contacto con turcos que hablan inglés, ¿no?
+00:13:57,880 --> 00:13:59,880
+un vídeo casi diario en YouTube,
 
 224
-00:12:19,180 --> 00:12:20,180
-Exacto.
+00:13:59,880 --> 00:14:01,880
+A veces es más difícil que caminar.
 
 225
-00:12:20,180 --> 00:12:25,180
-Y bien, ¿cómo son los turcos? Claro, turcos de Estambul, que no sé si son muy diferentes de los otros turcos, no lo sé.
+00:14:01,880 --> 00:14:03,880
+Y me gustaría reivindicar esto, el YouTube,
 
 226
-00:12:25,180 --> 00:12:35,180
-Aquí quería ir yo un poquito. Estambul es una ciudad muy europea. Es algo que no se asimila a la Turquía más de interior,
+00:14:03,880 --> 00:14:05,880
+que es una red que quizás es un poco complicada
 
 227
-00:12:35,180 --> 00:12:43,180
-ahora cuando vayas más hacia el Mar Negro, en la zona cerca de Georgia. Aquí en Estambul la gente es muy abierta, muy europea,
+00:14:05,880 --> 00:14:07,880
+por el algoritmo, por los creadores catalanes,
 
 228
-00:12:43,180 --> 00:12:52,180
-y sí que es verdad, la diferencia quizás más grande que hay es la religión, ¿no? Aquí es un país musulmán, pero esta sería un poco la gran diferencia,
+00:14:07,880 --> 00:14:09,880
+pero es más fácil crear una comunidad
 
 229
-00:12:52,180 --> 00:13:00,180
-pero también dentro de mi equipo somos 18 jugadores, solo hay uno que sea musulmán practicante. Quiero decir que tampoco hay tanta diferencia en este sentido,
+00:14:09,880 --> 00:14:11,880
+con YouTube, y con esta época que tenemos
 
 230
-00:13:00,180 --> 00:13:11,180
-pero la verdad es que dentro del equipo he hecho un grupo muy bonito. Quiero decir, sí que es verdad que somos, ya te he dicho, un catalán o dos catalanes, un español, un francés y un ucraniano.
+00:14:11,880 --> 00:14:13,880
+de scroll infinito, que a veces
 
 231
-00:13:11,180 --> 00:13:23,180
-Y con los turcos nos llevamos muy bien, hacemos cosas juntos, ayer fuimos a comer juntos. Quiero decir, la verdad es que muy bien con ellos y a nivel personal me llevo muy buenos recuerdos de aquí.
+00:14:13,880 --> 00:14:15,880
+miramos contenidos sin sentido, pues
 
 232
-00:13:23,180 --> 00:13:35,180
-Son muy hospitalarios, ¿no? Son muy de... Sí, te ayudan, enseguida quieren que apruebes su comida, que enseñarte su cultura, enseñarte un poco lo que hay aquí.
+00:14:15,880 --> 00:14:17,880
+hay que poner en valor ir a YouTube
 
 233
-00:13:35,180 --> 00:13:41,180
-Están muy orgullosos de su país. Ya lo habrás visto, que la ciudad está llena de banderas turcos.
+00:14:17,880 --> 00:14:19,880
+e ir a mirar al creador a propósito
 
 234
-00:13:41,180 --> 00:13:50,180
-Es el país que más banderas he visto, yo creo. Son muy patriotas y son muy de su país, muy de Atatürk, que es el fundador de la república turca.
+00:14:19,880 --> 00:14:21,880
+que quieres. Muchísimas gracias
 
 235
-00:13:50,180 --> 00:14:00,180
-En todos los pabellones que vamos hay una foto gigante de Atatürk, tienen un gran respeto por este hombre. Y sí, son muy patriotas y están muy orgullosos de su país.
+00:14:21,880 --> 00:14:23,880
+al jurado
 
 236
-00:14:00,180 --> 00:14:03,180
-A ver, dime algo malo de los turcos.
+00:14:27,880 --> 00:14:29,880
+y muchísimas gracias
 
 237
-00:14:03,180 --> 00:14:04,180
-Sí.
+00:14:29,880 --> 00:14:31,880
+a la Generalidad de Cataluña por las
 
 238
-00:14:04,180 --> 00:14:08,180
-Algo que digas, ostras, esto no me ha acabado un poco de...
+00:14:31,880 --> 00:14:33,880
+becas propulsión que me han dado
 
 239
-00:14:08,180 --> 00:14:10,180
-Bueno, son un poco caóticos.
+00:14:33,880 --> 00:14:35,880
+El impulso necesario para estar hoy aquí.
 
 240
-00:14:10,180 --> 00:14:19,180
-Quiero decir, yo siempre que he querido hacer cosas burocráticas o hacer algo con ellos, son un poco caóticos y van un poco a su bola.
+00:14:35,880 --> 00:14:37,880
+La vuelta al mundo a pie
 
 241
-00:14:19,180 --> 00:14:25,180
-Bueno, si no lo hacemos hoy, pues lo haremos mañana. Viven un poco de suerte.
+00:14:37,880 --> 00:14:39,880
+acaba
 
 242
-00:14:25,180 --> 00:14:32,180
-Yo lo que he podido ver de ellos es que, bueno, un poco a su bola y si se hace bien y si no, pues ya veremos.
+00:14:39,880 --> 00:14:41,880
+Sólo de empezar
 
 243
-00:14:32,180 --> 00:14:38,180
-Claro, uno de los motivos porque estamos aquí... Normalmente haces la entrevista moviéndonos, siempre cojo el trípode y caminamos.
+00:14:41,880 --> 00:14:43,880
+y la semana que viene empiezo
 
 244
-00:14:38,180 --> 00:14:44,180
-Pero claro, hace tanta ruido en esta ciudad que yo creo que es mejor quedarnos aquí, que estamos en un entorno un poco silencioso.
+00:14:43,880 --> 00:14:45,880
+mi etapa por Asia, caminando
 
 245
-00:14:44,180 --> 00:14:49,180
-¿Y has hecho vacaciones dentro de Turquía? Quiero decir, ¿has ido a algunos otros lugares? ¿Qué te ha sorprendido más?
+00:14:45,880 --> 00:14:47,880
+o intentándolo, de Estambul hasta Singapur.
 
 246
-00:14:49,180 --> 00:15:00,180
-Normalmente yo me muevo por el tema del Ambol y ya he ido a toda Turquía. Sí que es verdad que cuando vamos a jugar fuera no visitamos las ciudades.
+00:14:47,880 --> 00:14:49,880
+Muchas gracias.
 
 247
-00:15:00,180 --> 00:15:06,180
-O sea, este segundo equipo, por ejemplo, que jugarás mañana, ¿de dónde son? Están aquí cerca, es de los clubes más cerca que hay.
+00:14:49,880 --> 00:14:51,880
+
 
 248
-00:15:06,180 --> 00:15:13,180
-Está dos horas y media en coche. Está dos horas y media en coche y está aquí, debajo del mar de marmara.
+00:14:51,880 --> 00:14:53,880
+
 
 249
-00:15:13,180 --> 00:15:19,180
-Pero, por ejemplo, hemos jugado a equipos Trapzone, Rize, que están cerca de Georgia.
+00:14:53,880 --> 00:14:56,880
+Bueno...
 
 250
-00:15:19,180 --> 00:15:25,180
-Además, también fuimos a jugar a un partido de San Liurfa, que es frontera con, no sé si ya está Irán o con Siria.
+00:14:56,880 --> 00:14:58,880
+¡He ganado!
 
 251
-00:15:25,180 --> 00:15:28,180
-Y allí sí que ves... Y el paisaje cambia, supongo, ¿no? Cambia mucho.
+00:14:59,880 --> 00:15:01,880
+Enric! Enric! Enric!
 
 252
-00:15:28,180 --> 00:15:35,180
-Porque aquí es una ciudad más o menos normal en cuanto a infraestructuras y te vas allí y ya dices, ojo, eso ya es otra cosa.
+00:15:01,880 --> 00:15:03,880
+¡Enrique, Enrique, Enrique!
 
 253
-00:15:35,180 --> 00:15:43,180
-Yo, de vacaciones, con mi pareja, normalmente siempre vamos a Antalia, que es el sur de Turquía, que es toda la costa que da el Mediterráneo.
+00:15:03,880 --> 00:15:05,880
+
 
 254
-00:15:43,180 --> 00:15:50,180
-Y es muy europeo, también está muy hecho para turistas. Y para que se hagan una idea, es un poco como una costa brava a nivel de paisaje.
+00:15:05,880 --> 00:15:16,640
+
 
 255
-00:15:50,180 --> 00:15:55,180
-¿Come preferido de Turquía tuyo? Hombre, el döner. El döner sí que te llevas una sorpresa cuando...
+00:15:19,880 --> 00:15:21,060
+
 
 256
-00:15:55,180 --> 00:16:01,180
-Aquí el döner la gente no sabe lo que es, ¿no? Yo creo, yo, el dórum, además no el durum, pero el durum y el dóner no son lo mismo, ¿no? A ver.
+00:15:21,940 --> 00:15:23,220
+
 
 257
-00:16:01,180 --> 00:16:09,180
-El dóner es la carne, es el rollo de carne... El rollo vertical. Exacto, el rollo vertical que no tiene nada que ver con el rollo vertical que nos podemos encontrar en Cataluña.
+00:15:24,680 --> 00:15:28,680
+Vale, pues nada, después os paso todos los vídeos de las historias.
 
 258
-00:16:09,180 --> 00:16:15,180
-No, ¿eh? No tiene nada que ver. Aquí la carne es carne de verdad y... Hoy la he podido probar ya. La he podido probar ya y sí.
+00:15:29,480 --> 00:15:31,680
+Bueno, ya fiesta, vamos a la fiesta, vamos a la fiesta,
 
 259
-00:16:15,180 --> 00:16:24,180
-Y está muy bueno. No es la comida, digamos, fast food que está en Cataluña. Y yo creo que el dóner, disfrutar de un buen dóner con su pan,
+00:15:31,840 --> 00:15:35,580
+y me he encontrado aquí a una persona que le escribo cada mes,
 
 260
-00:16:24,180 --> 00:16:29,180
-te pones tú un poco lo que quieres, aquí no lleva salsa blanca ni salsa de nada. Ya, no lleva salsa.
+00:15:35,960 --> 00:15:37,400
+pero yo no sabía quién era, TresDeu.
 
 261
-00:16:29,180 --> 00:16:40,180
-Y yo creo que el dóner es algo muy bueno y que es algo súper típico de aquí, lo más típico. El trabajador que tiene al mediodía para comer se va al típico restaurante turco y se pide un dóner y fuera.
+00:15:38,220 --> 00:15:41,100
+Correcto, sí, somos una revista digital en catalán
 
 262
-00:16:40,180 --> 00:16:47,180
-Pero ya hay mucha comida aquí en Turquía. Una de las cosas buenas que tiene Turquía es la comida. Tiene muchos tipos de comida diferentes y muy buenos.
+00:15:41,100 --> 00:15:43,100
+y seguimos muchos creadores de contenido,
 
 263
-00:16:47,180 --> 00:16:54,180
-¿Pero te añoras de algo de Cataluña? O sea, ¿cada cuánto vuelves estos dos años y medio, más o menos, a qué frecuencia es la comida?
+00:15:43,380 --> 00:15:44,980
+Y de hecho me conocí en el Aferrada.
 
 264
-00:16:54,180 --> 00:17:00,180
-La verdad es que yo soy una persona que soy muy de mi familia y de mis amigos e intento ir bastante a menudo.
+00:15:44,980 --> 00:15:46,160
+Sí, en el Aferrada.
 
 265
-00:17:00,180 --> 00:17:07,180
-Quiero decir, intento ir cada tres meses, una escapadita hacia allí, hago. Tres, cuatro veces al año, ¿no? Exacto.
+00:15:46,740 --> 00:15:49,160
+Y la primera postal que escribo cada mes
 
 266
-00:17:07,180 --> 00:17:12,180
-Ahora, por ejemplo, que ya hemos acabado prácticamente la temporada, el domingo me voy hasta el miércoles.
+00:15:49,160 --> 00:15:51,420
+es la suya, porque están los primeros de la lista
 
 267
-00:17:12,180 --> 00:17:19,180
-Quiero decir, son cuatro días, pero mira, a mí soy una persona que me gusta viajar, no me importa ir al aeropuerto, coger un avión y voy para allá.
+00:15:51,420 --> 00:15:53,060
+Por alguna razón, y siempre es la suya.
 
 268
-00:17:19,180 --> 00:17:23,180
-Y entonces sí que intento. Ahora la última vez que fui fue en marzo, por ejemplo.
+00:15:53,300 --> 00:15:54,220
+¿La de Albania la has recibido?
 
 269
-00:17:24,180 --> 00:17:29,180
-Está muy bien, ya, porque es muy diferente a los turcos, yo creo, ¿eh? Mucho más serios.
+00:15:55,060 --> 00:15:57,280
+La de Albania no, la Albania es la que...
 
 270
-00:17:29,180 --> 00:17:37,180
-Es un país más frío, es un país del interior, sin mar... Yo creo que sí, yo creo que Austria es un país...
+00:15:57,280 --> 00:15:59,200
+La que falla, la que falla.
 
 271
-00:17:37,180 --> 00:17:46,180
-Yo, claro, ya hace tres años que estoy con mi pareja, he ido muchas veces, y a nivel de calidad de vida, sobre todo, pienso que allí es muy buena.
+00:15:59,640 --> 00:16:00,720
+La de Tesalónica sí.
 
 272
-00:17:46,180 --> 00:17:53,180
-Sí que el clima y la comida, poder, no es lo que estamos acostumbrados en España, pero estará muy bien, yo creo.
+00:16:01,660 --> 00:16:01,940
+Muy bien.
 
 273
-00:17:53,180 --> 00:18:04,180
-Me han comentado que este señor que me has dicho, que se llamaba Ataturk, que el día de su muerte todo el país para. ¿Cómo va esto? A ver.
+00:16:02,760 --> 00:16:04,500
+A ver, por el vídeo, haced ruido por el vídeo.
 
 274
-00:18:04,180 --> 00:18:09,180
-Pues creo que Atatürk murió, no sé en qué día, exactamente ahora mismo, pero sí que era...
+00:16:04,620 --> 00:16:05,060
+Venga, vamos, vamos.
 
 275
-00:18:09,180 --> 00:18:11,180
-A ver, nos ayudas, Jordi, ¿sabes qué día?
+00:16:09,020 --> 00:16:13,680
+Enrique, Enrique, Enrique, Enrique, Enrique, Enrique, Enrique, Enrique.
 
 276
-00:18:11,180 --> 00:18:14,180
-Así en noviembre. Noviembre, es en noviembre, ¿no?
+00:16:13,680 --> 00:16:15,660
+Yo no sabía que esto tenía tanto éxito,
 
 277
-00:18:14,180 --> 00:18:22,180
-A las 9 y poco de la mañana. Eso sí que me acuerdo, que es a las 9 y poco de la mañana, y empieza a sonar como unas sirenas, como unas alarmas en la ciudad,
+00:16:15,840 --> 00:16:18,140
+me están parando por todas partes, no doy abasto,
 
 278
-00:18:22,180 --> 00:18:29,180
-entonces todo el mundo se para, todo Estambul, toda Turquía se para, entonces hacen como un minuto de silencio, todo de pie, con silencio.
+00:16:18,140 --> 00:16:20,720
+y aquí tenemos a Marcos de Dioses y Simios,
 
 279
-00:18:29,180 --> 00:18:30,180
-Quieto.
+00:16:20,780 --> 00:16:22,040
+¿Qué es un podcast de música?
 
 280
-00:18:30,180 --> 00:18:41,180
-Y este se respeta completamente. Sí me ha dado la sensación de que Erdogan, que es el actual presidente de Turquía,
+00:16:22,100 --> 00:16:22,760
+Música, sí.
 
 281
-00:18:41,180 --> 00:18:51,180
-un hombre que fuera de Turquía lo conoce todo el mundo, sí que veo más discrepancias con él, de la gente turca, pero sí que Atatürk,
+00:16:22,920 --> 00:16:24,600
+Tú escuchas música, ¿no?, cuando vas caminando.
 
 282
-00:18:51,180 --> 00:18:59,180
-veo un respeto muy generalizado. Así que en este sentido, Atatürk, persona que preguntes, persona que la admira,
+00:16:24,720 --> 00:16:26,060
+Claro, claro, constantemente, sí.
 
 283
-00:18:59,180 --> 00:19:03,180
-Erdogan ya es un saca, además, peli agudo, pero...
+00:16:26,240 --> 00:16:27,880
+Enric Adventures, creador del año.
 
 284
-00:19:03,180 --> 00:19:11,180
-Has tenido algún choque cultural, lo que digas, ostras, ahora no nos hemos entendido con alguien, alguna situación así un poco, no lo sé?
+00:16:28,000 --> 00:16:30,380
+O sea, deportes, ni deportes ni mierdas,
 
 285
-00:19:11,180 --> 00:19:19,180
-No, la verdad es que no, porque yo hago mucha vida con mis compañeros de equipo, y yo creo que dentro del mundo del deporte la gente es muy abierta, no sé por qué, pero,
+00:16:30,540 --> 00:16:31,600
+creador del año, te lo juro.
 
 286
-00:19:19,180 --> 00:19:20,180
-La verdad es que no, porque yo hago mucha vida con mis compañeros de equipo, y yo creo que dentro del mundo del deporte la gente es muy abierta, no sé por qué, pero,
+00:16:31,900 --> 00:16:32,480
+Dile, dile.
 
 287
-00:19:20,180 --> 00:19:31,180
-es muy internacional, no hay estas diferencias, no son tan grandes estas diferencias culturales dentro del mundo del deporte.
+00:16:32,560 --> 00:16:32,640
+Sí.
 
 288
-00:19:31,180 --> 00:19:38,180
-Sí que cuando un jugador de nuestro equipo hace el ramadán, sí que choca, ¿no?, a ver cómo no come, o como por ejemplo,
+00:16:32,640 --> 00:16:32,680
+Sí.
 
 289
-00:19:38,180 --> 00:19:43,180
-a la mitad de algo que estamos haciendo con el equipo se pone a rezar...
+00:16:48,140 --> 00:16:51,440
+La Vuelta al mundo a pie, día 167.
 
 290
-00:19:43,180 --> 00:19:48,180
-¿Ya rinden lo suficiente? Porque, claro, el fútbol y esa cosa que, ostras, claro, cuando está en el pase final de oro,
+00:16:51,520 --> 00:16:55,220
+Pfff, qué noche, qué noche.
 
 291
-00:19:48,180 --> 00:19:49,180
-¿Ya rinden lo suficiente? Porque, claro, el fútbol y esa cosa que, ostras, claro, cuando está en el pase final de oro,
+00:16:56,020 --> 00:16:59,980
+Pero antes de todo, deciros que la comida turca, muy bien, muy bueno,
 
 292
-00:19:49,180 --> 00:19:56,180
-Cuando está en la parte final de la Champions y hay un jugador de hacer el ramadán es como que claro, en teoría está a menos fuerzas, ¿no?, porque no puede comer, no sé.
+00:17:00,060 --> 00:17:05,380
+pero un bocadillo de baguette con jamón y pan con tomate hecho por mamá,
 
 293
-00:19:56,180 --> 00:20:06,180
-Sí, a priori sí, pero yo con mi compañero de equipo no lo he notado en exceso. Al final se comen por la noche, ya lo vemos por la mañana,
+00:17:06,580 --> 00:17:08,780
+Eso es insuperable, eso es insuperable.
 
 294
-00:20:06,180 --> 00:20:15,180
-podría ser que ese mes están un poco más distraídos, pero no, también ya te digo, como solo es un jugador, no se nota dentro del equipo.
+00:17:09,660 --> 00:17:11,740
+Qué noche, qué noche.
 
 295
-00:20:15,180 --> 00:20:23,180
-Entonces, la diferencia de estas, lo que me ha chocado más es el tema religioso, quizás, pero el tema de la personalidad no es de gran cosa.
+00:17:12,480 --> 00:17:17,580
+Bueno, para empezar, la emoción de ver las caras de la gente
 
 296
-00:20:23,180 --> 00:20:33,180
-Sí que cuando llegas a la ciudad ves todas las mezquitas, cada equis horas cantan, no sé exactamente qué cantan, pero no es con turco, es árabe.
+00:17:17,580 --> 00:17:19,460
+que no esperaba que yo estuviera allí,
 
 297
-00:20:33,180 --> 00:20:34,180
-Ah, ostras.
+00:17:19,540 --> 00:17:20,660
+bueno, y vosotros seguro que tampoco,
 
 298
-00:20:34,180 --> 00:20:36,180
-No es con turco, hay muchos turcos que no lo entienden.
+00:17:21,520 --> 00:17:25,760
+allá mirando y flipando,
 
 299
-00:20:36,180 --> 00:20:37,180
-Ah, ostras.
+00:17:26,040 --> 00:17:28,120
+y luego yo me puse muy nervioso con el discurso.
 
 300
-00:20:37,180 --> 00:20:44,180
-Es árabe, entonces sí que en las primeras noches, a las 10 de la noche suena el último y cuando sale el sol suena el primero,
+00:17:28,180 --> 00:17:30,340
+Dicen que no se me notó, pero estaba muy, muy, muy nervioso,
 
 301
-00:20:44,180 --> 00:20:45,180
-entonces sí que...
+00:17:30,420 --> 00:17:30,980
+estaba temblando.
 
 302
-00:20:45,180 --> 00:20:52,180
-Sí que estás durmiendo y escuchas eso y sí que los primeros días te choca, pero luego es algo normal y te despiertas ya.
+00:17:31,820 --> 00:17:34,340
+Y después, ya, una vez rebajado la atención,
 
 303
-00:20:52,180 --> 00:20:54,180
-¿Y los hárbitos, qué?
+00:17:34,340 --> 00:17:38,040
+pues, lo que flipé es toda la gente que se quería hacer fotos conmigo,
 
 304
-00:20:54,180 --> 00:21:00,180
-Aquí seguro que Jordi te ha comentado algo sobre los hárbitos.
+00:17:38,120 --> 00:17:38,600
+que me conocía.
 
 305
-00:21:00,180 --> 00:21:05,180
-A mí me cuesta, ya me cuesta la España y tenemos unos hárbitos muy buenos,
+00:17:38,680 --> 00:17:39,980
+Claro, porque yo pensaba que gente de este mundo,
 
 306
-00:21:05,180 --> 00:21:12,180
-y aquí en Turquía, pues, bueno, no diré que sean mejores o peores, pero...
+00:17:40,400 --> 00:17:41,780
+de los creadores de contenido,
 
 307
-00:21:12,180 --> 00:21:14,180
-Bueno, no lo sé, yo creo que también los extranjeros, los grupos,
+00:17:41,880 --> 00:17:43,920
+pues, claro, no serían tantos seguidores,
 
 308
-00:21:14,180 --> 00:21:20,180
-un poco más, es una liga con pocos extranjeros, la mayoritaria son gente turca,
+00:17:44,000 --> 00:17:44,680
+Pero sí, sí, sí, sí.
 
 309
-00:21:20,180 --> 00:21:26,180
-y, bueno, pues, yo, por ejemplo, al despegue para sancionarte sacan dos minutos.
+00:17:45,440 --> 00:17:46,340
+Sí, sí, después fui a un afterparty,
 
 310
-00:21:26,180 --> 00:21:28,180
-Es muy difícil retener una roja directa.
+00:17:47,100 --> 00:17:47,560
+Y ya, bueno.
 
 311
-00:21:28,180 --> 00:21:30,180
-A mí me han sacado dos en mi carrera.
+00:17:47,580 --> 00:17:48,620
+En fin, ya lo he visto, ya lo he visto.
 
 312
-00:21:30,180 --> 00:21:31,180
-Pues...
+00:17:49,480 --> 00:17:53,460
+Hoy más amigos, más ex colegas que iré a ver,
 
 313
-00:21:31,180 --> 00:21:33,180
-Y la primera vez que me ha entrado una roja no sabía ni que existía.
+00:17:53,820 --> 00:17:54,400
+y tal.
 
 314
-00:21:33,180 --> 00:21:35,180
-Pensaba que el hábito la había equivocado, no lo he visto nunca.
+00:17:54,800 --> 00:17:56,040
+Mañana vuelvo.
 
 315
-00:21:35,180 --> 00:21:37,180
-Y ahora hay tarjeta azul, también.
+00:17:57,760 --> 00:17:59,360
+
 
 316
-00:21:37,180 --> 00:21:42,180
-Ahora hay tarjeta azul que esto conlleva sanción adicional, hay como un reporte y sanción adicional.
+00:18:00,100 --> 00:18:01,540
+Que te vayamos siguiendo.
 
 317
-00:21:42,180 --> 00:21:43,180
-Ostras.
+00:18:01,540 --> 00:18:03,360
+Estaba pensando, ya aparecerá, ya.
 
 318
-00:21:43,180 --> 00:21:45,180
-Pero eso era jugar muy antideportiva.
+00:18:03,480 --> 00:18:04,080
+Muy bien.
 
 319
-00:21:45,180 --> 00:21:50,180
-Y aquí los hábitos, pues, si protestas mucho, pues te pueden quitar dos minutos.
+00:18:05,300 --> 00:18:06,980
+Pues nada, tú, ahora he venido aquí,
 
 320
-00:21:50,180 --> 00:21:58,180
-Y yo, pues, de estas dos temporadas y media, me he comido unos cuantos para hablar con los hábitos.
+00:18:07,080 --> 00:18:08,860
+con otra ex-empresa, Meta Engineering,
 
 321
-00:21:58,180 --> 00:22:00,180
-Y el equipo se queda con un jugador menos.
+00:18:09,040 --> 00:18:11,360
+y a Jordi lo conoceréis porque salió el día 1,
 
 322
-00:22:00,180 --> 00:22:04,180
-Exacto, durante dos minutos el equipo tiene un jugador menos.
+00:18:11,760 --> 00:18:13,400
+que me acompañó hasta San Adrida del Besós.
 
 323
-00:22:04,180 --> 00:22:07,180
-Pero, bueno, en este equipo, pues, tenemos unas multas, un código disciplinario.
+00:18:13,400 --> 00:18:14,720
+Es que si no hubiéramos llegado a Estambul,
 
 324
-00:22:07,180 --> 00:22:08,180
-¿Ah, sí?
+00:18:14,760 --> 00:18:15,900
+Hubiéramos perdido el día, ya, ya.
 
 325
-00:22:08,180 --> 00:22:09,180
-Sí.
+00:18:16,020 --> 00:18:16,780
+Vamos a desayunar, va.
 
 326
-00:22:09,180 --> 00:22:13,180
-Y ahora, por cada dos minutos que te sacan para hablar,
+00:18:17,580 --> 00:18:20,400
+La vuelta al mundo a pie, día 168.
 
 327
-00:22:13,180 --> 00:22:15,180
-con los hábitos, pues, te encuentran a pagar multa.
+00:18:20,540 --> 00:18:22,480
+Me encuentro aquí, en el aeropuerto del Prat,
 
 328
-00:22:15,180 --> 00:22:16,180
-Esto es un incentivo para que no...
+00:18:22,640 --> 00:18:25,220
+Ya está a punto de regresar a Estambul.
 
 329
-00:22:16,180 --> 00:22:18,180
-Para que no pase, pero, bueno, también...
+00:18:25,360 --> 00:18:27,180
+Mira, creo que la cola de aquel avión de allí,
 
 330
-00:22:18,180 --> 00:22:20,180
-Pero claro, tú estás ahí, en medio del juego.
+00:18:28,440 --> 00:18:30,420
+Creo que es lo que me lleva a Estambul.
 
 331
-00:22:20,180 --> 00:22:23,180
-Claro, estás a mil revoluciones, entiendo lo que dicen, no lo sé,
+00:18:31,380 --> 00:18:31,780
+Vueling.
 
 332
-00:22:23,180 --> 00:22:28,180
-y entonces, claro, ves algo que es injusto y te sale protestarlo.
+00:18:33,240 --> 00:18:35,360
+Bueno, se me ha pasado superrápido, superrápido.
 
 333
-00:22:28,180 --> 00:22:29,180
-Exacto.
+00:18:36,060 --> 00:18:38,280
+Y me gustaría comentar también, bueno
 
 334
-00:22:29,180 --> 00:22:32,180
-Pero en este momento, tú puedes llegar a pensar que os transmitirán una multa o...
+00:18:39,020 --> 00:18:42,320
+algunos que quizás no les ha gustado que haya vuelto,
 
 335
-00:22:32,180 --> 00:22:33,180
-No.
+00:18:42,540 --> 00:18:45,080
+o bueno, este tipo de quizás críticas.
 
 336
-00:22:33,180 --> 00:22:34,180
-¿Cómo va? ¿Tu proceso mental cómo es?
+00:18:45,080 --> 00:18:46,760
+Hablaré de ello cuando llegue a Estambul,
 
 337
-00:22:34,180 --> 00:22:35,180
-Con la multa no piensas.
+00:18:46,760 --> 00:18:51,760
+Pero ahora, déjenme comentar esto.
 
 338
-00:22:35,180 --> 00:22:36,180
-No, no lo piensas, ¿no?
+00:18:51,760 --> 00:18:54,760
+La camiseta que habéis estado viendo en el último vídeo,
 
 339
-00:22:36,180 --> 00:22:39,180
-Y tampoco que pueda perjudicar al equipo.
+00:18:54,760 --> 00:18:57,760
+y a la gala de los Premios Gritos fui con esta camiseta.
 
 340
-00:22:39,180 --> 00:22:42,180
-Porque, normalmente, los hábitos ya entienden...
+00:18:57,760 --> 00:18:58,760
+Ésta.
 
 341
-00:22:42,180 --> 00:22:44,180
-Hombre, no sé, que le insultes o digas algo muy grave,
+00:18:58,760 --> 00:19:01,760
+Esta es la camiseta de la vuelta al mundo a pie,
 
 342
-00:22:44,180 --> 00:22:46,180
-Yo creo que te pueden sancionar.
+00:19:01,760 --> 00:19:05,760
+que será el primer artículo de la tienda del mundo a pie.
 
 343
-00:22:46,180 --> 00:22:49,180
-Pero es que hay veces que para hacer un simple gesto en plan...
+00:19:05,760 --> 00:19:07,760
+Así es como se llamará la tienda.
 
 344
-00:22:49,180 --> 00:22:51,180
-¿Qué pasa? ¿O por qué has sacado esto?
+00:19:07,760 --> 00:19:10,760
+Y, bueno, estoy muy contento.
 
 345
-00:22:51,180 --> 00:22:54,180
-Una vez hice, guay, y abrí los besos así, diciendo, ¿por qué?
+00:19:10,760 --> 00:19:12,760
+Estoy muy contento, porque me encanta.
 
 346
-00:22:54,180 --> 00:22:55,180
-Y me quitaron dos minutos.
+00:19:12,760 --> 00:19:14,760
+Me lo ha hecho un diseñador profesional.
 
 347
-00:22:55,180 --> 00:22:56,180
-Eso, simplemente con eso, ¿eh?
+00:19:14,760 --> 00:19:15,760
+No está hecho con inteligencia artificial.
 
 348
-00:22:56,180 --> 00:22:57,180
-Claro, quiero decir, en España...
+00:19:15,760 --> 00:19:16,720
+No está hecho con inteligencia artificial.
 
 349
-00:22:57,180 --> 00:22:58,180
-Te tenía muchas ganas, ya.
+00:19:16,720 --> 00:19:21,720
+Es una persona que se dedica a hacer merchandising para empresas y marcas,
 
 350
-00:22:58,180 --> 00:23:00,180
-En España esto no pasa.
+00:19:21,720 --> 00:19:23,720
+y me lo ha hecho, y me encanta.
 
 351
-00:23:00,180 --> 00:23:01,180
-Sí.
+00:19:23,720 --> 00:19:25,720
+Es el mundo, como podéis ver,
 
 352
-00:23:01,180 --> 00:23:05,180
-Entiendo que debe haber un diálogo con el hábito y el jugador.
+00:19:25,720 --> 00:19:28,720
+y la ruta, más o menos, de manera esquemática,
 
 353
-00:23:05,180 --> 00:23:08,180
-Pero quien no lo entienden, también creo, eso como no lo entenderán,
+00:19:28,720 --> 00:19:30,720
+que seguiré, aquí en rojo,
 
 354
-00:23:08,180 --> 00:23:11,180
-creo que son un poco prepotentes, los hábitos aquí,
+00:19:30,720 --> 00:19:33,720
+con los pasos, los pasos de ir andando.
 
 355
-00:23:11,180 --> 00:23:12,180
-que...
+00:19:33,720 --> 00:19:37,720
+Norteamérica, Sudamérica, Europa, Asia, Australia, y tal.
 
 356
-00:23:12,180 --> 00:23:15,180
-Claro, Turquía es un país que es muy patriota, también muy
+00:19:37,720 --> 00:19:39,720
+Y, no sé, creo que...
 
 357
-00:23:15,180 --> 00:23:19,180
-que no sea que los árbitros, claro, tienen esta cosa de firmas.
+00:19:39,720 --> 00:19:42,720
+No sé, a mí me encanta, ha quedado muy bien, creo.
 
 358
-00:23:19,180 --> 00:23:22,180
-Quieren marcar un poco el territorio y, bueno...
+00:19:42,720 --> 00:19:45,720
+No pone Enric Adventures, ni Enric Luzan, ni nada,
 
 359
-00:23:22,180 --> 00:23:26,180
-Pero también mi pareja me dijo, cada vez que te saquen dos minutos,
+00:19:45,720 --> 00:19:47,720
+porque yo no quiero, no sé,
 
 360
-00:23:26,180 --> 00:23:29,180
-pagas la multa al equipo y, aparte,
+00:19:47,720 --> 00:19:50,720
+cuando veo a otra gente, creadores de contenido, o lo que sea,
 
 361
-00:23:29,180 --> 00:23:33,180
-me tienes que invitar a cenar por un importe de este.
+00:19:50,720 --> 00:19:53,720
+que ponen su nombre allí, a mí me hace como cosa,
 
 362
-00:23:33,180 --> 00:23:38,180
-Si tu novia se vino aquí a vivir desde Austria por ti,
+00:19:53,720 --> 00:19:56,720
+porque yo no llevaré, me daría vergüenza llevar una camiseta
 
 363
-00:23:38,180 --> 00:23:40,180
-Y quién lo ha llevado...
+00:19:56,720 --> 00:19:58,720
+El nombre de una persona, ¿no?
 
 364
-00:23:40,180 --> 00:23:41,180
-Claro, tú dices que sí, muy bien,
+00:19:58,720 --> 00:20:00,720
+Pero, sin el nombre me gusta, porque,
 
 365
-00:23:41,180 --> 00:23:44,180
-Turquía, Estambul, pero que te has quedado un poco quemado.
+00:20:00,720 --> 00:20:02,720
+si tú ves que una persona lleva esta,
 
 366
-00:23:44,180 --> 00:23:46,180
-¿Ella cómo lo ha llevado, mejor o peor que tú?
+00:20:02,720 --> 00:20:04,720
+Pues podrás decir, ostras, seguidor de Enric.
 
 367
-00:23:46,180 --> 00:23:48,180
-Bueno, ha ido a época.
+00:20:04,720 --> 00:20:08,720
+Y si no sabes de qué va la camiseta,
 
 368
-00:23:48,180 --> 00:23:54,180
-Es filóloga, española y francesa.
+00:20:08,720 --> 00:20:10,720
+Pues no piensas nada, dices, bueno,
 
 369
-00:23:54,180 --> 00:23:57,180
-porque son padres españoles, su madre es austriaca...
+00:20:10,720 --> 00:20:13,720
+una camiseta con la imagen del mapa mundi, y ya está.
 
 370
-00:23:57,180 --> 00:23:58,180
-Vale, vale, porque aquí...
+00:20:13,720 --> 00:20:15,720
+La tienda del mundo a pie, ¿cómo lo hemos hecho?
 
 371
-00:23:58,180 --> 00:24:01,180
-Tiene una mezcla así muy internacional.
+00:20:15,720 --> 00:20:17,720
+Bueno, en Banyuls, ¿os acordáis?
 
 372
-00:24:01,180 --> 00:24:03,180
-Entonces ella es profesora de secundaria
+00:20:17,720 --> 00:20:20,720
+El día 8, de la vuelta con una pie, vino Daniel Raya a verme,
 
 373
-00:24:03,180 --> 00:24:08,180
-y comenzó un instituto que estaba en las afueras de Estambul,
+00:20:20,720 --> 00:20:23,720
+es un experto en hacer webs de e-commerce,
 
 374
-00:24:08,180 --> 00:24:09,180
-a hacer de profesora.
+00:20:23,720 --> 00:20:25,720
+y me dijo, ostras, podemos hacer una web para el tema del merchandising y tal,
 
 375
-00:24:09,180 --> 00:24:10,180
-Entonces sí que sufría mucho la dificultad,
+00:20:25,720 --> 00:20:28,720
+y claro, ha costado, ha costado hacerlo, no porque la web cueste,
 
 376
-00:24:10,180 --> 00:24:13,180
-el tema del tráfico, sufría mucho la distancia,
+00:20:28,720 --> 00:20:30,720
+porque la web está hecha con una herramienta que se llama PrestaShop,
 
 377
-00:24:13,180 --> 00:24:16,180
-el tiempo de volver a casa, entonces allí sí que lo pasó mal,
+00:20:30,720 --> 00:20:33,720
+Si entras en la web,
 
 378
-00:24:16,180 --> 00:24:19,180
-pero luego cambió de cole a los 6 meses
+00:20:33,720 --> 00:20:37,720
+tenéis el enlace de la descripción aquí, en la web, y todo, tendréis enlaces.
 
 379
-00:24:19,180 --> 00:24:21,180
-y es un cole más céntrico, más al lado de casa,
+00:20:37,720 --> 00:20:39,720
+Bueno, está muy bien, está muy chula,
 
 380
-00:24:21,180 --> 00:24:23,180
-entonces lo lleva mejor.
+00:20:39,720 --> 00:20:41,720
+La web es genial, me la ha hecho Daniel.
 
 381
-00:24:23,180 --> 00:24:24,180
-Mañana será el partido, ¿no?
+00:20:41,720 --> 00:20:43,720
+Pero, claro, había que hacer la camiseta,
 
 382
-00:24:24,180 --> 00:24:25,180
-Mañana estará.
+00:20:43,720 --> 00:20:45,720
+Había que mirar el mapa.
 
 383
-00:24:25,180 --> 00:24:26,180
-Mañana la conoceremos.
+00:20:45,720 --> 00:20:47,720
+los materiales, tal, escoger, hemos tardado bastante.
 
 384
-00:24:26,180 --> 00:24:27,180
-Mañana estará.
+00:20:47,720 --> 00:20:50,720
+Pero, claro, esto no nos lo lleva ni una empresa externa.
 
 385
-00:24:27,180 --> 00:24:29,180
-¿Cuál sería el mejor jugador de la Liga ahora mismo, dirías?
+00:20:50,720 --> 00:20:53,720
+No es una empresa externa que yo he escogido el diseño,
 
 386
-00:24:29,180 --> 00:24:32,180
-¿Jugador de la Liga? Hombre, yo creo que tenemos un turco...
+00:20:53,720 --> 00:20:56,720
+y me lo hace todo, me lo envía, no, no, esto lo hacemos nosotros, todos nosotros.
 
 387
-00:24:32,180 --> 00:24:35,180
-Es turco, el mejor jugador de la Liga es turco, ¿eh?
+00:20:56,720 --> 00:20:59,720
+Bueno, yo no puedo hacer nada, pero Daniel se encargará
 
 388
-00:24:35,180 --> 00:24:38,180
-Un jugador turco de nuestro equipo llamado Eyup,
+00:20:59,720 --> 00:21:02,720
+de coger los pedidos que lleguen,
 
 389
-00:24:38,180 --> 00:24:43,180
-y es un jugador muy joven, que tiene 21-22 años,
+00:21:02,720 --> 00:21:05,720
+ir a una tienda que hagan la estampación esta,
 
 390
-00:24:43,180 --> 00:24:48,180
-y la verdad es que yo creo que en Turquía no salen jugadores potentes
+00:21:05,720 --> 00:21:07,720
+y enviarlas, lo hacemos todos nosotros.
 
 391
-00:24:48,180 --> 00:24:50,180
-a nivel internacional, etc.
+00:21:07,720 --> 00:21:09,720
+Entonces, así está bien porque, bueno, sabéis que, pues,
 
 392
-00:24:50,180 --> 00:24:53,180
-Yo creo que este jugador, si sigue este camino,
+00:21:09,720 --> 00:21:11,720
+el proceso lo podemos controlar mejor,
 
 393
-00:24:53,180 --> 00:24:56,180
-y es bien aconsejado, yo creo que puede ser un muy buen jugador
+00:21:11,720 --> 00:21:13,720
+el tipo de material, y sabéis, pues, que el dinero va a nosotros,
 
 394
-00:24:56,180 --> 00:24:59,180
-y que digas, ostras, en un equipo grande de Europa,
+00:21:13,720 --> 00:21:15,720
+no van a una empresa externa,
 
 395
-00:24:59,180 --> 00:25:01,180
-Hay un jugador turco jugando.
+00:21:15,720 --> 00:21:17,720
+Es decir, que se llevan un gran porcentaje, no, no.
 
 396
-00:25:01,180 --> 00:25:03,180
-Yo creo que este chico puede hacerlo.
+00:21:17,720 --> 00:21:19,720
+Esto a nosotros,
 
 397
-00:25:03,180 --> 00:25:07,180
-A ti te ficharon, porque claro, el entrenador ya te conocía.
+00:21:19,720 --> 00:21:21,720
+ya lo he estado llevando unos días, no para caminar,
 
 398
-00:25:07,180 --> 00:25:08,180
-Exactamente.
+00:21:21,720 --> 00:21:23,720
+sino para caminar por la calle y tal,
 
 399
-00:25:08,180 --> 00:25:09,180
-Oliver.
+00:21:23,720 --> 00:21:25,720
+y creo que es muy cómodo, y habrá
 
 400
-00:25:09,180 --> 00:25:11,180
-Oliver, del Barça, ¿no? Te había entrenado, supongo.
+00:21:25,720 --> 00:21:27,720
+varias versiones. Por el momento, sólo la
 
 401
-00:25:11,180 --> 00:25:14,180
-Bueno, él era jugando del cuerpo técnico del primer equipo del Barça,
+00:21:27,720 --> 00:21:29,720
+regular, la normal,
 
 402
-00:25:14,180 --> 00:25:17,180
-y yo, como estaba muchas veces en dinámica del primer equipo,
+00:21:29,720 --> 00:21:31,720
+me gustaría poner la talla de mujer,
 
 403
-00:25:17,180 --> 00:25:19,180
-Pues ya me conocía y...
+00:21:31,720 --> 00:21:33,720
+lo primero que quiero hacer es poner el tallaje de mujer,
 
 404
-00:25:19,180 --> 00:25:22,180
-Muy bien, pues, última pregunta.
+00:21:33,720 --> 00:21:35,720
+ahora mismo no está disponible, pero me gustaría
 
 405
-00:25:22,180 --> 00:25:25,180
-¿Te ganas bien la vida?
+00:21:35,720 --> 00:21:37,720
+ponerla, y, entonces, la versión sintética,
 
 406
-00:25:25,180 --> 00:25:26,180
-Sí.
+00:21:37,720 --> 00:21:39,720
+Esta es la versión,
 
 407
-00:25:26,180 --> 00:25:27,180
-¿Sí?
+00:21:39,720 --> 00:21:41,720
+como para hacer deporte, ¿no?, versión
 
 408
-00:25:27,180 --> 00:25:28,180
-Sí, sí.
+00:21:41,720 --> 00:21:43,720
+no de algodón, sino sintética,
 
 409
-00:25:28,180 --> 00:25:31,180
-Hay que ser sincero, y uno de los motivos también, entre otros,
+00:21:43,720 --> 00:21:45,720
+¿vale?, que es la que llevaré yo los próximos días,
 
 410
-00:25:31,180 --> 00:25:35,180
-que aquí económicamente, no lo vuelcas, sino yo creo que el tema del deporte
+00:21:45,720 --> 00:21:47,720
+los próximos meses, y habrá la versión
 
 411
-00:25:35,180 --> 00:25:37,180
-le da mucho valor,
+00:21:47,720 --> 00:21:49,720
+algodón, también, versión algodón, bueno,
 
 412
-00:25:37,180 --> 00:25:42,180
-y la verdad es que en todos los deportes creo que los sueldos están muy bien
+00:21:49,720 --> 00:21:51,720
+más cómoda para caminar, bueno
 
 413
-00:25:42,180 --> 00:25:45,180
-Y se cuida más que en España, por ejemplo.
+00:21:51,720 --> 00:21:53,720
+para estar más normal, ¿no?, quizás a quien le gusta más
 
 414
-00:25:45,180 --> 00:25:47,180
-Es un país con muchos recursos económicos.
+00:21:53,720 --> 00:21:55,720
+el algodón. Y varios colores, habrá,
 
 415
-00:25:47,180 --> 00:25:52,180
-Y creo que se dedican mucho a los deportes.
+00:21:55,720 --> 00:21:57,720
+este es el azul, que claro, es mi azul,
 
 416
-00:25:52,180 --> 00:25:54,180
-Por ejemplo, el voley femenino.
+00:21:57,720 --> 00:21:59,720
+tengo que llevar el azul, habrá en blanco,
 
 417
-00:25:54,180 --> 00:25:55,180
-El voley femenino.
+00:21:59,720 --> 00:22:01,720
+que tenéis aquí un vídeo que me hice, porque me la envió
 
 418
-00:25:55,180 --> 00:25:59,180
-El voley femenino, aquí la liga es potentísima y las jugadoras cobran millones.
+00:22:01,720 --> 00:22:03,720
+también Daniel, después la regalé, esta,
 
 419
-00:25:59,180 --> 00:26:00,180
-Joder, qué dices.
+00:22:03,720 --> 00:22:05,720
+en blanco también está bien,
 
 420
-00:26:00,180 --> 00:26:03,180
-Es increíble, el dinero que se mueve...
+00:22:05,720 --> 00:22:07,720
+y en rojo, que esta sí que no la tengo,
 
 421
-00:26:03,180 --> 00:26:05,180
-Venid a Turquía, los castillos.
+00:22:07,720 --> 00:22:09,720
+pero también estará
 
 422
-00:26:05,180 --> 00:26:08,180
-El voley quiere, aquí es el buen sitio.
+00:22:09,720 --> 00:22:11,720
+disponible en rojo,
 
 423
-00:26:08,180 --> 00:26:10,180
-Y creo que se cuida muy bien.
+00:22:11,720 --> 00:22:13,720
+y también tenéis aquí una imagen de la camiseta
 
 424
-00:26:10,180 --> 00:26:12,180
-El pabellón que has estado esta mañana...
+00:22:13,720 --> 00:22:15,720
+azul en algodón,
 
 425
-00:26:12,180 --> 00:26:13,180
-Sí, que es nuevo, me dicen.
+00:22:15,720 --> 00:22:17,720
+que será la que les regalé a los
 
 426
-00:26:13,180 --> 00:26:15,180
-Es nuevo, es del gobierno, también.
+00:22:17,720 --> 00:22:19,720
+On Travelling, en Noe
 
 427
-00:26:15,180 --> 00:26:18,180
-En gran parte financiado por el gobierno, no se debe fijar.
+00:22:19,720 --> 00:22:21,720
+Y Oscar, ¿os acordáis?
 
 428
-00:26:18,180 --> 00:26:22,180
-Había también fotografías de Erdogan dentro del pabellón.
+00:22:21,720 --> 00:22:23,720
+Bueno, pues eso, cómo lo hacemos
 
 429
-00:26:22,180 --> 00:26:26,180
-Yo creo que lo cuidan bien y también, al final,
+00:22:23,720 --> 00:22:25,720
+todos nosotros, pues bueno, el proceso
 
 430
-00:26:26,180 --> 00:26:29,180
-le tienes que dar algún incentivo al jugador para venir a jugar aquí.
+00:22:25,720 --> 00:22:27,720
+de envío, pues no es en dos días
 
 431
-00:26:29,180 --> 00:26:32,180
-Y como hemos comentado, no era una liga de los potentes de Europa.
+00:22:27,720 --> 00:22:29,720
+lo tienes en casa, vale?, es un poco más lento, porque claro,
 
 432
-00:26:32,180 --> 00:26:34,180
-Entonces, tienes que dar esto.
+00:22:29,720 --> 00:22:31,720
+se debe imprimir y tal, bueno, paciencia,
 
 433
-00:26:34,180 --> 00:26:38,180
-Pero también, Beşiktaç es un club grande en Turquía.
+00:22:31,720 --> 00:22:33,720
+paciencia. Y el precio,
 
 434
-00:26:38,180 --> 00:26:43,180
-Yo creo que, por lástima, es el único club de fútbol que tiene embol.
+00:22:33,720 --> 00:22:35,720
+Pues mira, el precio,
 
 435
-00:26:43,180 --> 00:26:47,180
-Entonces, si hubiera más clubs como Galatasaray, Fenerbahçe...
+00:22:35,720 --> 00:22:37,720
+no sabía muy bien qué precio poner,
 
 436
-00:26:47,180 --> 00:26:49,180
-que abriesen el embol...
+00:22:37,720 --> 00:22:39,720
+Hay otra creadora
 
 437
-00:26:49,180 --> 00:26:50,180
-Habría más competitividad.
+00:22:39,720 --> 00:22:41,720
+de contenido que se llama Mireia Jordà,
 
 438
-00:26:50,180 --> 00:26:52,180
-Subiría y sería más atractivo.
+00:22:41,720 --> 00:22:43,720
+que también vende camisetas, y bueno, fui a su web,
 
 439
-00:26:52,180 --> 00:26:56,180
-Pero yo creo que se está haciendo un buen trabajo en la federación turca ahora mismo.
+00:22:43,720 --> 00:22:45,720
+vi el precio que había puesto ella,
 
 440
-00:26:56,180 --> 00:26:59,180
-Y creo que, poco a poco, irán creciendo.
+00:22:45,720 --> 00:22:47,720
+y lo he puesto yo un poco más barato
 
 441
-00:26:59,180 --> 00:27:03,180
-Somos un pequeño oasis de catalanes en el mbolo en Turquía.
+00:22:47,720 --> 00:22:49,720
+y ya está. Así,
 
 442
-00:27:04,180 --> 00:27:06,180
-Porque los hay... hay varios.
+00:22:49,720 --> 00:22:51,720
+así es como lo he hecho. Bueno, ya hablaré
 
 443
-00:27:06,180 --> 00:27:08,180
-Y, bueno, poco a poco, irán creciendo, yo creo.
+00:22:51,720 --> 00:22:53,720
+más, de estas camisetas, porque quizás no todo el mundo mira este
 
 444
-00:27:08,180 --> 00:27:10,180
-Pues mucha suerte mañana en el partido.
+00:22:53,720 --> 00:22:55,720
+En el vídeo, ya iré hablando, y bueno, me iréis
 
 445
-00:27:10,180 --> 00:27:11,180
-Muy bien, gracias.
+00:22:55,720 --> 00:22:57,720
+Cada día me la veo.
 
 446
-00:27:11,180 --> 00:27:12,180
-Nos vemos allí.
+00:22:57,720 --> 00:22:59,720
+La tienda del mundo a pie.
 
 447
-00:27:12,180 --> 00:27:13,180
-Tendré que ver.
+00:23:07,720 --> 00:23:09,720
+Pues ya está, ya he llegado. Esta es la terminal
 
 448
-00:27:13,180 --> 00:27:14,180
-Perfecto.
+00:23:09,720 --> 00:23:11,720
+internacional del aeropuerto
 
 449
-00:27:23,180 --> 00:27:25,180
-Final de la Copa de Embol Turquía.
+00:23:11,720 --> 00:23:13,720
+de Estambul, gigante.
 
 450
-00:27:25,180 --> 00:27:27,180
-Aquí la tiene Joan. Primer ataque.
+00:23:13,720 --> 00:23:15,720
+Ahora me quedan dos horas
 
 451
-00:27:29,180 --> 00:27:30,180
-Ambientassu.
+00:23:15,720 --> 00:23:17,720
+infernal de transporte público, como mínimo
 
 452
-00:27:30,180 --> 00:27:36,180
-Ambientassu tenemos aquí a la derecha los nuestros, los del Besictes.
+00:23:19,720 --> 00:23:21,720
+hasta el centro de Estambul, que está allí
 
 453
-00:27:36,180 --> 00:27:38,180
-Y a la izquierda los del otro equipo.
+00:23:21,720 --> 00:23:23,720
+donde tengo el alojamiento.
 
 454
-00:27:38,180 --> 00:27:41,180
-Que veo que van de azul y yo voy de azul también, mal.
+00:23:23,720 --> 00:23:25,720
+Bueno, paciencia.
 
 455
-00:27:41,180 --> 00:27:42,180
-Pero no, hoy vamos con el Besictes.
+00:23:25,720 --> 00:23:27,720
+Bueno, vamos a dirigir
 
 456
-00:27:42,180 --> 00:27:43,180
-¡Gol!
+00:23:27,720 --> 00:23:29,720
+las posibles críticas que me imagino
 
 457
-00:27:43,180 --> 00:27:45,180
-Gol, gol, gol, gol, gol, gol, gol, gol, gol!
+00:23:29,720 --> 00:23:31,720
+que alguno de vosotros
 
 458
-00:27:47,180 --> 00:27:48,180
-Atención, atención.
+00:23:31,720 --> 00:23:33,720
+tiene o ha tenido,
 
 459
-00:27:48,180 --> 00:27:49,180
-Ataque rápido.
+00:23:33,720 --> 00:23:35,720
+algunas reticencias. Ha habido algunos
 
 460
-00:27:51,180 --> 00:27:52,180
-Vale, vale, vale, vale.
+00:23:35,720 --> 00:23:37,720
+comentarios en Instagram, el 99,9%
 
 461
-00:27:52,180 --> 00:27:53,180
-Defensa, defensa.
+00:23:37,720 --> 00:23:39,720
+positivos,
 
 462
-00:27:54,180 --> 00:27:55,180
-Bueno, bueno, solo para bajar, ¿eh?
+00:23:39,720 --> 00:23:41,720
+de enhorabuena, felicidades,
 
 463
-00:27:55,180 --> 00:27:58,180
-Ayer me lo vendieron como que no habría ni Dios,
+00:23:41,720 --> 00:23:43,720
+y alguno,
 
 464
-00:27:58,180 --> 00:27:59,180
-No había mucho ambiente.
+00:23:43,720 --> 00:23:45,720
+Un crítico, ¿no?, podríamos decir.
 
 465
-00:27:59,180 --> 00:28:00,840
-Pero no, no, atención
+00:23:45,720 --> 00:23:47,720
+Claro, yo cuando me dijeron
 
 466
-00:28:00,840 --> 00:28:04,420
-2-0
+00:23:47,720 --> 00:23:49,720
+de volver por los Premios,
 
 467
-00:28:29,180 --> 00:28:40,960
-Bueno, segunda parte
+00:23:49,720 --> 00:23:51,720
+me lo planteé, me lo pensé, porque
 
 468
-00:28:40,960 --> 00:28:42,840
-En la primera ha dominado bastante el Besictas
+00:23:51,720 --> 00:23:53,720
+Por dos razones, ¿no?
 
 469
-00:28:42,840 --> 00:28:44,500
-Al final, se acercó a los demás
+00:23:53,720 --> 00:23:55,720
+Uno, yo había dicho que no volvería,
 
 470
-00:28:44,500 --> 00:28:46,940
-y ahora van solo dos arriba
+00:23:55,720 --> 00:23:57,720
+ya he dicho, y dos,
 
 471
-00:28:46,940 --> 00:28:48,960
-Joan ha marcado dos goles
+00:23:57,720 --> 00:23:59,720
+Porque, bueno,
 
 472
-00:28:49,960 --> 00:28:51,100
-y tiene pinta
+00:23:59,720 --> 00:24:01,720
+Dijo que no volvería a
 
 473
-00:28:51,100 --> 00:28:52,360
-que estará emocionante porque ya te digo
+00:24:01,720 --> 00:24:03,720
+tema de, bueno, romper un poco
 
 474
-00:28:52,360 --> 00:28:53,580
-Sólo van dos goles arriba
+00:24:03,720 --> 00:24:05,720
+la magia del viaje, ¿no?, porque una de las gracias era
 
 475
-00:28:53,580 --> 00:28:56,260
-ahora el Besictas ataca en esta portería
+00:24:05,720 --> 00:24:07,720
+Salir de casa y no
 
 476
-00:28:56,260 --> 00:28:58,040
-Por lo tanto, tendremos mejores imágenes
+00:24:07,720 --> 00:24:09,720
+Al cabo de tres años, fue uno de los
 
 477
-00:28:59,180 --> 00:29:24,020
-Juan se ha hecho daño
+00:24:09,720 --> 00:24:11,720
+cosas, ¿no? Pero
 
 478
-00:29:24,020 --> 00:29:25,340
-espero que no se meta nada
+00:24:11,720 --> 00:24:13,720
+claro,
 
 479
-00:29:25,340 --> 00:29:28,260
-Creo que lo cambian así un poco por
+00:24:13,720 --> 00:24:15,720
+me dicen que me pagan
 
 480
-00:29:28,260 --> 00:29:29,160
-por
+00:24:15,720 --> 00:24:17,720
+el billete de avión, ahora diré los motivos, ¿no?,
 
 481
-00:29:29,160 --> 00:29:30,300
-Por precaución
+00:24:17,720 --> 00:24:19,720
+porque he vuelto al final. Claro, me pagan
 
 482
-00:29:30,300 --> 00:29:32,840
-Llevaba cuatro goles
+00:24:19,720 --> 00:24:21,720
+el billete de avión, esto no es solo el tema del dinero, sino
 
 483
-00:29:32,840 --> 00:29:33,820
-Está haciendo un buen partido
+00:24:21,720 --> 00:24:23,720
+es el hecho de que, ostras, confían en
 
 484
-00:29:33,820 --> 00:29:37,020
-Bueno, faltan cinco minutos para terminar
+00:24:23,720 --> 00:24:25,720
+los organizadores de los Premios, la Generalitat,
 
 485
-00:29:37,020 --> 00:29:39,380
-y el Besictas gana de siete
+00:24:25,720 --> 00:24:27,720
+3cat, los
 
 486
-00:29:39,380 --> 00:29:41,500
-Una victoria que parece que será
+00:24:27,720 --> 00:24:29,720
+organizadores de los Premios Crit, y hombre, claro,
 
 487
-00:29:41,500 --> 00:29:42,920
-más cómoda de lo previsto
+00:24:29,720 --> 00:24:31,720
+home, sí confían
 
 488
-00:29:42,920 --> 00:29:44,180
-Al menos, eso de lo que me dijeron
+00:24:31,720 --> 00:24:33,720
+de esta manera en mí y, pues,
 
 489
-00:29:44,180 --> 00:29:47,060
-tendría que ser un milagro ya para que no ganaran
+00:24:33,720 --> 00:24:35,720
+mola bastante, ¿no? Luego el tema
 
 490
-00:29:47,060 --> 00:29:52,420
-Expusieron a Juan
+00:24:35,720 --> 00:24:37,720
+de la desvirtualización, claro, yo,
 
 491
-00:29:52,420 --> 00:29:55,060
-No hizo absolutamente nada
+00:24:37,720 --> 00:24:39,720
+esta fama, entre comillas, pequeña fama,
 
 492
-00:29:55,060 --> 00:29:56,760
-Estaba bien en la jugada
+00:24:39,720 --> 00:24:41,720
+lo estoy viviendo de manera virtual,
 
 493
-00:29:56,760 --> 00:29:58,160
-No hizo absolutamente nada
+00:24:41,720 --> 00:24:43,720
+y el poder estar allí y,
 
 494
-00:29:58,160 --> 00:29:59,140
-la han expuesto dos minutos
+00:24:43,720 --> 00:24:45,720
+ostras, recibir el Premio y conocer toda la gente
 
 495
-00:29:59,160 --> 00:30:02,940
-y estuvieron hablando de los árbitros
+00:24:45,720 --> 00:24:47,720
+que me sigue,
 
 496
-00:30:02,940 --> 00:30:06,040
-y que le tienen un poco de manía a los extranjeros
+00:24:47,720 --> 00:24:49,720
+los creadores que he hablado con ellos
 
 497
-00:30:06,040 --> 00:30:07,020
-Bueno, según el
+00:24:49,720 --> 00:24:51,720
+por el Insta, lo que sea, ostras, esto,
 
 498
-00:30:07,020 --> 00:30:09,620
-¡Qué expulsión más
+00:24:51,720 --> 00:24:53,720
+esto es genial, esto es genial, y me va
 
 499
-00:30:09,620 --> 00:30:10,220
-no ha hecho nada
+00:24:53,720 --> 00:24:55,720
+Me encantó, me encantó, no me arrepiento.
 
 500
-00:30:29,160 --> 00:30:41,560
-fácil
+00:24:57,720 --> 00:24:59,720
+Después, bueno, algunos dirán, claro, es que
 
 501
-00:30:41,560 --> 00:30:43,540
-Final, victoria 35-29
+00:24:59,720 --> 00:25:01,720
+tú te añorabas, quizás, Enric, y ahora ya no te añoras
 
 502
-00:30:43,540 --> 00:30:45,120
-Campeones de la Copa
+00:25:01,720 --> 00:25:03,720
+porque has vuelto, ¿no? Bueno, este no era uno de los
 
 503
-00:30:45,120 --> 00:30:46,420
-Mienten al entrenador
+00:25:03,720 --> 00:25:05,720
+retos de la vuelta al mundo a pie, en el sentido que
 
 504
-00:30:46,420 --> 00:30:52,060
-Nos quedaremos en la entrega de premios, también
+00:25:05,720 --> 00:25:07,720
+Yo, ahora mismo, no tenía ese problema.
 
 505
-00:30:52,060 --> 00:30:52,940
-Gracias a todos
+00:25:07,720 --> 00:25:09,720
+Quizás dentro de un año sí que lo tengo, ¿eh?, pero ahora, de momento,
 
 506
-00:30:52,940 --> 00:30:54,040
-Gracias a todos
+00:25:09,720 --> 00:25:11,720
+no me extrañaba,
 
 507
-00:30:54,040 --> 00:30:54,940
-Gracias a todos
+00:25:11,720 --> 00:25:13,720
+Tenía, quería
 
 508
-00:30:54,940 --> 00:30:56,600
-Gracias a todos
+00:25:13,720 --> 00:25:15,720
+descansar, ¿no? Y este es uno de los motivos
 
 509
-00:30:56,600 --> 00:30:57,280
-Gracias a todos
+00:25:15,720 --> 00:25:17,720
+también por qué he decidido volver, porque yo estaba haciendo
 
 510
-00:30:57,280 --> 00:30:57,880
-Gracias a todos
+00:25:17,720 --> 00:25:19,720
+Un descanso, pero un descanso
 
 511
-00:30:57,880 --> 00:30:58,280
-Gracias a todos
+00:25:19,720 --> 00:25:21,720
+en Estambul. Si esto me llega a coger
 
 512
-00:30:58,280 --> 00:30:58,820
-Gracias a todos
+00:25:21,720 --> 00:25:23,720
+en medio de la montaña mientras estoy
 
 513
-00:30:58,820 --> 00:31:02,500
-Atención, atención
+00:25:23,720 --> 00:25:25,720
+haciendo, pues, estoy caminando, cruzando
 
 514
-00:31:02,500 --> 00:31:06,220
-Pero eso está grabado, ¿eh, Joan?
+00:25:25,720 --> 00:25:27,720
+Croacia o lo que sea, entonces quizás no debería
 
 515
-00:31:07,260 --> 00:31:08,200
-Muy bien, tú
+00:25:27,720 --> 00:25:29,720
+vuelto, pero claro, el hecho de que yo ya tenía
 
 516
-00:31:08,200 --> 00:31:10,000
-Ha sido un buen partido
+00:25:29,720 --> 00:25:31,720
+La espera es de dos semanas y esta
 
 517
-00:31:10,000 --> 00:31:11,840
-Menos emocional al final de lo previsto
+00:25:31,720 --> 00:25:33,720
+La gala coincidió
 
 518
-00:31:11,840 --> 00:31:14,200
-Pero ha estado muy guapo
+00:25:33,720 --> 00:25:35,720
+en medio de este descanso es como, bueno,
 
 519
-00:31:14,200 --> 00:31:15,680
-El ambiente ha sido espectacular
+00:25:35,720 --> 00:25:37,720
+Yo ya iba a parar igual, ¿no?
 
 520
-00:31:15,680 --> 00:31:18,200
-Venga, a ver cómo levantan el trofeo
+00:25:37,720 --> 00:25:39,720
+Quiero decir, da igual.
 
 521
-00:31:18,200 --> 00:31:20,320
-Muy bien, ¿no? Cuatro goles
+00:25:39,720 --> 00:25:41,720
+¿Esto rompe las normas? No, esto no rompe
 
 522
-00:31:20,320 --> 00:31:21,700
-Espera
+00:25:41,720 --> 00:25:43,720
+Las normas,
 
 523
-00:31:21,700 --> 00:31:24,160
-Más fácil de lo previsto, ¿no? Tal vez
+00:25:43,720 --> 00:25:45,720
+ya lo he dicho varias veces, pero por si hay alguien nuevo,
 
 524
-00:31:24,160 --> 00:31:25,600
-Y al final, bueno
+00:25:45,720 --> 00:25:47,720
+las normas de la vuelta al mundo a
 
 525
-00:31:25,600 --> 00:31:27,220
-Hemos jugado un buen partido hoy
+00:25:47,720 --> 00:25:49,720
+La Asociación Mundial de Runners
 
 526
-00:31:27,220 --> 00:31:29,960
-Ha sido increíble y ellos no se lo han creído
+00:25:49,720 --> 00:25:51,720
+Y bueno, lo que dice
 
 527
-00:31:29,960 --> 00:31:32,220
-Y bueno, ha sido increíble
+00:25:51,720 --> 00:25:53,720
+es que, básicamente, tú cuando descansas
 
 528
-00:31:32,220 --> 00:31:33,060
-Muy bien, muy contento
+00:25:53,720 --> 00:25:55,720
+tú puedes hacer lo que quieras y puedes
 
 529
-00:31:33,060 --> 00:31:35,740
-Habéis empezado muy bien, después se han acercado
+00:25:55,720 --> 00:25:57,720
+ir donde quieras. Tú tienes que seguir siempre
 
 530
-00:31:35,740 --> 00:31:37,820
-Pero los habéis mantenido a raya, cuatro goles
+00:25:57,720 --> 00:25:59,720
+donde te has quedado el día anterior,
 
 531
-00:31:37,820 --> 00:31:38,500
-Estoy contento, también
+00:25:59,720 --> 00:26:01,720
+justo después de dónde te has quedado, ¿no? Pero
 
 532
-00:31:38,500 --> 00:31:40,080
-Sí, muy contento con mi actuación
+00:26:01,720 --> 00:26:03,720
+en este descanso, pues, yo qué sé, el otro día
 
 533
-00:31:40,080 --> 00:31:41,440
-Otra vez me lo ha expulsado en los últimos
+00:26:03,720 --> 00:26:05,720
+os acordáis, ¿no? Hace un tiempo cogí
 
 534
-00:31:41,440 --> 00:31:43,500
-Es que eso te lo dijo, no entiendes el por qué
+00:26:05,720 --> 00:26:07,720
+un autobús, fui hasta
 
 535
-00:31:43,500 --> 00:31:44,380
-Porque no has hecho nada, ¿no?
+00:26:07,720 --> 00:26:09,720
+Sarajevo y volví luego al mismo lugar y me
 
 536
-00:31:44,800 --> 00:31:46,140
-He dicho, guay
+00:26:09,720 --> 00:26:11,720
+seguir. Otro día fui hasta
 
 537
-00:31:46,140 --> 00:31:48,360
-Pero además, igual
+00:26:11,720 --> 00:26:13,720
+Zagreb para entrevistar, fui
 
 538
-00:31:48,360 --> 00:31:50,360
-De puta madre
+00:26:13,720 --> 00:26:15,720
+en Roma, en Italia... Pues, bueno,
 
 539
-00:31:50,360 --> 00:31:52,840
-Increíble, muy contento
+00:26:15,720 --> 00:26:17,720
+viene a ser un poco lo mismo,
 
 540
-00:31:57,220 --> 00:31:59,220
-Gracias
+00:26:17,720 --> 00:26:19,720
+no rompe las reglas en ningún caso.
+
+541
+00:26:19,720 --> 00:26:21,720
+Entonces, bueno, poneros en mi lugar, también
+
+542
+00:26:21,720 --> 00:26:23,720
+era algo que me apetecía disfrutar
+
+543
+00:26:23,720 --> 00:26:25,720
+y me lo he pasado súper
+
+544
+00:26:25,720 --> 00:26:27,720
+bien. La gala de los primeros Crit ha sido
+
+545
+00:26:27,720 --> 00:26:29,720
+súper divertido, sorprender a la gente, ha sido
+
+546
+00:26:29,720 --> 00:26:31,720
+genial. Se ha hecho corto,
+
+547
+00:26:31,720 --> 00:26:33,720
+De hecho, pero bueno, ya está bien, ya está bien.
+
+548
+00:26:33,720 --> 00:26:35,720
+A pesar de ello, de todos estos motivos
+
+549
+00:26:35,720 --> 00:26:37,720
+que he dado y el hecho de que no estoy haciendo
+
+550
+00:26:37,720 --> 00:26:39,720
+trampas ni nada, a pesar de ello
+
+551
+00:26:39,720 --> 00:26:41,720
+Sé que hay gente
+
+552
+00:26:41,720 --> 00:26:43,720
+que no le gustará,
+
+553
+00:26:43,720 --> 00:26:45,720
+que me criticará, etc.
+
+554
+00:26:45,720 --> 00:26:47,720
+A estas personas me gustaría deciros que esta
+
+555
+00:26:47,720 --> 00:26:49,720
+La crítica la pueden tomar
+
+556
+00:26:49,720 --> 00:26:51,720
+y os la podéis quedar por vosotros mismos.
+
+557
+00:26:51,720 --> 00:26:53,720
+Coged y gritad
+
+558
+00:26:53,720 --> 00:26:55,720
+en la televisión o en el ordenador o en el móvil
+
+559
+00:26:55,720 --> 00:26:57,720
+que es donde miráis mis vídeos, pues, gritad,
+
+560
+00:26:57,720 --> 00:26:59,720
+me insultáis, haced lo que
+
+561
+00:26:59,720 --> 00:27:01,720
+Lo acepto, o sea, en parte
+
+562
+00:27:01,720 --> 00:27:03,720
+Acepto
+
+563
+00:27:03,720 --> 00:27:05,720
+Esta crítica, esta...
+
+564
+00:27:05,720 --> 00:27:07,720
+como queráis decirle, la acepto, pero bueno,
+
+565
+00:27:07,720 --> 00:27:09,720
+os la quedáis por vosotros mismos. A mí no hace falta que me la digáis,
+
+566
+00:27:09,720 --> 00:27:11,720
+¿Ok? Ya sé que algunos pensaréis así,
+
+567
+00:27:11,720 --> 00:27:13,720
+y...
+
+568
+00:27:13,720 --> 00:27:15,720
+Ya está, no hace falta que me lo comuniquéis, ¿vale?
+
+569
+00:27:15,720 --> 00:27:17,720
+La Vuelta al mundo a pie continúa
+
+570
+00:27:17,720 --> 00:27:19,720
+Dentro de una semana, más o menos, hoy es sábado
+
+571
+00:27:19,720 --> 00:27:21,720
+El día 16, y creo que
+
+572
+00:27:21,720 --> 00:27:23,720
+El viernes retomamos la marcha, y
+
+573
+00:27:23,720 --> 00:27:25,720
+días, pues, estaré siguiendo visitando
+
+574
+00:27:25,720 --> 00:27:27,720
+el Estambul, voy a hacer un masaje de estos en
+
+575
+00:27:27,720 --> 00:27:29,720
+un Hamam, y, evidentemente,
+
+576
+00:27:29,720 --> 00:27:31,720
+el tema de las postales,
+
+577
+00:27:31,720 --> 00:27:33,720
+que será
+
+578
+00:27:33,720 --> 00:27:35,720
+hacer un regateo
+
+579
+00:27:35,720 --> 00:27:37,720
+con la gente, con los vendedores de Estambul.
+
+580
+00:27:37,720 --> 00:27:39,720
+Lo grabaré en vídeo. Nos vemos
+
+581
+00:27:39,720 --> 00:27:41,720
+en la próxima. Ciao!
+
+582
+00:27:41,720 --> 00:27:43,720
