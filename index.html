@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mapa GPX amb Leaflet</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.fullscreen@3.0.0/Control.FullScreen.css" />
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      overflow: hidden;
+      font-family: Arial, sans-serif;
+    }
+
+    #map {
+      width: 100%;
+      height: 100vh;
+    }
+
+    .leaflet-control-layers {
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.fullscreen@3.0.0/Control.FullScreen.js"></script>
+
+  <script>
+    const map = L.map('map', {
+      attributionControl: false,
+      fullscreenControl: true,
+      fullscreenControlOptions: {
+        position: 'topleft',
+        title: 'Pantalla completa',
+        titleCancel: 'Sortir de pantalla completa'
+      }
+    }).setView([41.594531, 2.008466], 13);
+
+    const esriSat = L.tileLayer(
+      'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+      {
+        maxZoom: 19
+      }
+    );
+
+    const esriLabels = L.tileLayer(
+      'https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}',
+      {
+        maxZoom: 19
+      }
+    );
+
+    const esriHybrid = L.layerGroup([esriSat, esriLabels]);
+
+    const osm = L.tileLayer(
+      'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+      {
+        maxZoom: 19
+      }
+    );
+
+    osm.addTo(map);
+
+    const baseMaps = {
+      "Mapa estàndard": osm,
+      "Satèl·lit": esriHybrid
+    };
+
+    L.control.layers(baseMaps).addTo(map);
+
+    const githubApiUrl = "https://api.github.com/repos/ercoman2/GPX-LVM/contents/geojson";
+    const featureGroup = L.featureGroup().addTo(map);
+    const bounds = L.latLngBounds();
+
+    fetch(githubApiUrl)
+      .then(response => response.json())
+      .then(files => {
+        const geoJsonFiles = files
+          .filter(file => file.name.endsWith(".json"))
+          .sort((a, b) => a.name.localeCompare(b.name))
+          .map(file => file.download_url);
+
+        if (geoJsonFiles.length === 0) {
+          console.log("No s'han trobat arxius GeoJSON al repositori.");
+          return;
+        }
+
+        return Promise.all(
+          geoJsonFiles.map(url =>
+            fetch(url).then(response => response.json())
+          )
+        );
+      })
+      .then(allGeoJsonData => {
+        if (!allGeoJsonData) return;
+
+        let lastPoint = null;
+
+        allGeoJsonData.forEach(geoJsonData => {
+          const layer = L.geoJSON(geoJsonData, {
+            style: function () {
+              return { color: 'blue', weight: 4 };
+            }
+          }).addTo(featureGroup);
+
+          if (layer.getBounds && layer.getBounds().isValid()) {
+            bounds.extend(layer.getBounds());
+          }
+
+          geoJsonData.features.forEach(feature => {
+            if (!feature.geometry) return;
+
+            if (feature.geometry.type === "LineString") {
+              const coords = feature.geometry.coordinates;
+              if (coords.length > 0) {
+                lastPoint = coords[coords.length - 1];
+              }
+            }
+
+            if (feature.geometry.type === "MultiLineString") {
+              const segments = feature.geometry.coordinates;
+              if (segments.length > 0) {
+                const lastSegment = segments[segments.length - 1];
+                if (lastSegment.length > 0) {
+                  lastPoint = lastSegment[lastSegment.length - 1];
+                }
+              }
+            }
+          });
+        });
+
+        if (bounds.isValid()) {
+          map.fitBounds(bounds, { padding: [30, 30] });
+        }
+
+        if (lastPoint) {
+          const customIcon = L.icon({
+            iconUrl: 'https://raw.githubusercontent.com/Ercoman2/GPX-LVM/main/iconaenric.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41]
+          });
+
+          L.marker([lastPoint[1], lastPoint[0]], { icon: customIcon }).addTo(featureGroup);
+        }
+      })
+      .catch(error => {
+        console.error("Error carregant dades:", error);
+      });
+  </script>
+</body>
+</html>
