@@ -1,1060 +1,1659 @@
-0:00:00.000,0:00:02.360
-La vuelta al mundo a pie, día 196.
+1
+0:00:01.000 --> 0:00:04.160
+La vuelta al mundo a pie, día 197.
 
-0:00:03.220,0:00:06.080
-Me he despertado, he ido a desayunar,
+2
+0:00:05.000 --> 0:00:09.320
+Ya está todo recogido, son las 6 y media, que es bien temprano.
 
-0:00:07.100,0:00:08.300
-y luego cuando he vuelto a la habitación
+3
+0:00:10.220 --> 0:00:11.000
+Ha llovido esta noche.
 
-0:00:08.300,0:00:10.380
-ha empezado a llover de una manera,
+4
+0:00:12.180 --> 0:00:14.060
+No ha habido humedad esta mañana, pero sí ha llovido,
 
-0:00:11.380,0:00:12.320
-pero fuerte, ¿eh?
+5
+0:00:14.160 --> 0:00:17.840
+entonces con la toalla he ido secando un poco así, secando.
 
-0:00:13.200,0:00:14.000
-Fuerte, fuerte.
+6
+0:00:18.560 --> 0:00:22.860
+Vale, rápido, caminamos los 2,2 kilómetros que me separan
 
-0:00:15.140,0:00:17.460
-Ahora ha parado, pero la previsión dice que quizás
+7
+0:00:22.860 --> 0:00:26.460
+hasta la población de no sé qué para ir a ver el partido
 
-0:00:17.460,0:00:19.060
-Podría volver a llover en algún momento del día.
+8
+0:00:26.460 --> 0:00:28.880
+Inshallah Australia-Turquía. Let's go!
 
-0:00:20.440,0:00:21.100
-Hace fresquito.
+9
+0:00:39.900 --> 0:00:44.280
+Pues ya estoy en la Tarla.
 
-0:00:22.380,0:00:23.240
-Nunca estoy contento, ¿eh?
+10
+0:00:44.500 --> 0:00:48.920
+No estoy en el centro todavía del pueblo, pero de momento ni un alma,
 
-0:00:23.880,0:00:25.640
-Cuando hace mucho calor, porque hace mucho calor.
+11
+0:00:49.620 --> 0:00:53.060
+Ni un alma por aquí.
 
-0:00:26.320,0:00:27.820
-Cuando hace frío, porque hace frío. No, se está bien.
+12
+0:01:04.200 --> 0:01:06.760
+Creo que no habrá suerte, ¿eh?
 
-0:00:27.820,0:00:29.240
-No, siempre así, ¿eh? Por favor.
+13
+0:01:06.800 --> 0:01:12.020
+Aquí había una panadería abierta con dos hombres que hacían pan.
 
-0:00:30.000,0:00:31.640
-A esa temperatura, siempre.
+14
+0:01:12.720 --> 0:01:15.600
+Y con el traductor hemos ido hablando y dicen que no,
 
-0:00:32.880,0:00:33.380
-Muy bien.
+15
+0:01:15.880 --> 0:01:18.380
+que estos juegos abren a las 9.
 
-0:00:34.320,0:00:35.860
-Hoy, pues nada, es tarde.
+16
+0:01:19.120 --> 0:01:22.460
+Incluso la ciudad importante, entre comillas, que hay cerca de aquí,
 
-0:00:36.000,0:00:37.220
-Son las 12 y 10.
+17
+0:01:23.280 --> 0:01:26.440
+Que no recuerdo el nombre, que no, que abre a las 9.
 
-0:00:38.920,0:00:40.180
-Voy a empezar a caminar.
+18
+0:01:26.440 --> 0:01:29.820
+Y yo les he dicho, hombre, pero es un partido, es importante,
 
-0:00:41.180,0:00:42.100
-Saliendo de Kastamonu,
+19
+0:01:30.000 --> 0:01:31.620
+la gente no tiene ganas de verlo, y me han dicho, no.
 
-0:00:43.340,0:00:44.420
-en esta subidón,
+20
+0:01:32.360 --> 0:01:34.500
+Y me ha hecho el símbolo de dormir, el símbolo de así.
 
-0:00:45.800,0:00:46.660
-A ver si puedo hablar.
+21
+0:01:36.480 --> 0:01:39.120
+Vosotros, qué lástima, ¿no?
 
-0:00:47.800,0:00:48.960
-Sin que falte el aliento,
+22
+0:01:39.920 --> 0:01:41.780
+Qué poca devoción por el equipo nacional.
 
-0:00:49.020,0:00:50.160
-Intentaré ir un poco más lento.
+23
+0:01:43.120 --> 0:01:44.180
+Mira, ahora me saludan.
 
-0:00:51.480,0:00:51.980
+24
+0:01:45.720 --> 0:01:46.420
+Hielo, hielo!
+
+25
+0:01:46.520 --> 0:01:47.020
+Günaydın
+
+26
+0:01:47.620 --> 0:01:50.000
+No sé qué quieren. A ver si dan alguna tele.
+
+27
+0:01:50.780 --> 0:01:51.280
+¡Hello!
+
+28
+0:01:52.020 --> 0:01:52.800
+Aleyküm selam!
+
+29
+0:01:53.520 --> 0:01:54.260
+Salam aleikum!
+
+30
+0:01:54.320 --> 0:01:54.820
+Günaydın
+
+31
+0:01:54.920 --> 0:01:55.420
+Günaydın
+
+32
+0:01:56.100 --> 0:02:00.340
+¿Chorra?
+
+33
+0:02:01.100 --> 0:02:01.600
+Ausràlia.
+
+34
+0:02:01.660 --> 0:02:02.160
+Fútbol?
+
+35
+0:02:02.260 --> 0:02:03.080
+Mutfa, çek, mutfa.
+
+36
+0:02:03.320 --> 0:02:03.940
+You have TV?
+
+37
+0:02:04.340 --> 0:02:05.220
+Yemek, yemek.
+
+38
+0:02:05.700 --> 0:02:06.940
+You have TV?
+
+39
+0:02:07.240 --> 0:02:07.740
+Hielo, hielo.
+
+40
+0:02:09.680 --> 0:02:10.500
+Vu patron.
+
+41
+0:02:11.180 --> 0:02:11.720
+Patron, ¿eh?
+
+42
+0:02:11.960 --> 0:02:13.480
+Vu usta, müdür.
+
+43
+0:02:14.180 --> 0:02:14.680
+Uso gernig.
+
+44
+0:02:14.780 --> 0:02:16.760
+Pues suerte que me ha dado por pedir de que era la sopa,
+
+45
+0:02:16.840 --> 0:02:18.940
+porque resulta que era de cabeza de ternera.
+
+46
+0:02:19.300 --> 0:02:22.260
+Y he dicho, hombre, en mi país no estamos acostumbrados
+
+47
+0:02:22.260 --> 0:02:25.960
+a comer este tipo de cosas, y por favor, no lo lleve de esto.
+
+48
+0:02:26.320 --> 0:02:29.660
+Entonces me ha ofrecido un desayuno, aquí con queso,
+
+49
+0:02:29.660 --> 0:02:32.020
+aceitunas, eso no sé qué es
+
+50
+0:02:32.020 --> 0:02:33.840
+supongo que mermelada
+
+51
+0:02:33.840 --> 0:02:35.280
+muy bien, muy bien
+
+52
+0:02:35.280 --> 0:02:37.340
+Lástima que el partido no esté
+
+53
+0:02:37.340 --> 0:02:39.480
+Se puede ver el canal
+
+54
+0:02:39.480 --> 0:02:41.700
+principal de Turquía, el TRT1
+
+55
+0:02:41.700 --> 0:02:43.740
+pues no funciona
+
+56
+0:02:43.740 --> 0:02:45.540
+Como si tuvieras que pagar
+
+57
+0:02:45.540 --> 0:02:47.800
+pero es un canal en abierto, entonces no
+
+58
+0:02:47.800 --> 0:02:49.780
+se ve el partido, bueno intentaré
+
+59
+0:02:49.780 --> 0:02:51.640
+buscar un poco más aquí, ah bueno sí
+
+60
+0:02:51.640 --> 0:02:53.560
+que no lo había dicho, que tienen un local aquí con el tema de la sopa
+
+61
+0:02:53.560 --> 0:02:55.760
+y sí que tienen una tele, pero no, no hay manera
+
+62
+0:02:55.760 --> 0:02:56.480
+Ver el partido
+
+63
+0:02:56.480 --> 0:02:59.220
+y hay cero ambiente, quiero decir, la gente no tiene ni idea
+
+64
+0:02:59.220 --> 0:03:01.200
+yo creo que ni de que hoy había partido
+
+65
+0:03:01.200 --> 0:03:03.000
+lo he
+
+66
+0:03:03.000 --> 0:03:05.500
+lo he conseguido, lo he conseguido, era el mismo canal
+
+67
+0:03:05.500 --> 0:03:07.540
+TRT1 pero a otra frecuencia
+
+68
+0:03:07.540 --> 0:03:10.260
+también tenían lo mismo y ya está, sí, sí, sí
+
+69
+0:03:10.260 --> 0:03:11.180
+Australia-Turquía
+
+70
+0:03:11.180 --> 0:03:13.560
+ya ha empezado, no puedo enfocarlo porque cualquiera
+
+71
+0:03:13.560 --> 0:03:15.660
+imagen de la FIFA que yo ponga aquí
+
+72
+0:03:15.660 --> 0:03:17.680
+en el canal de YouTube, pues me chaparía
+
+73
+0:03:17.680 --> 0:03:19.660
+en el canal, pero bueno, sí, sí,
+
+74
+0:03:19.660 --> 0:03:21.680
+Son dos horas del partido
+
+75
+0:03:21.680 --> 0:03:23.880
+tendría que estar dos horas aquí, hasta las 9
+
+76
+0:03:23.880 --> 0:03:25.820
+no sé si aguantaré tanto
+
+77
+0:03:25.820 --> 0:03:27.640
+depende de cómo evolucione el partido
+
+78
+0:03:27.640 --> 0:03:28.160
+0-0
+
+79
+0:03:28.160 --> 0:03:29.180
+no
+
+80
+0:03:29.180 --> 0:03:33.120
+El gol de Australia
+
+81
+0:03:33.120 --> 0:03:35.480
+Mira que había tenido una Turquía ahora
+
+82
+0:03:35.480 --> 0:03:36.960
+para marcar, han fallado
+
+83
+0:03:36.960 --> 0:03:39.040
+y el contratado, gol de Australia
+
+84
+0:03:39.040 --> 0:03:41.580
+bueno, se ha animado la cosa
+
+85
+0:03:41.580 --> 0:03:43.340
+Ahora, hay aquí 5, 4 jóvenes
+
+86
+0:03:43.340 --> 0:03:45.700
+que han visto
+
+87
+0:03:45.700 --> 0:03:47.500
+yo creo la pantalla y están aquí desayunando
+
+88
+0:03:47.500 --> 0:03:49.420
+y mirando el partido, pero de momento
+
+89
+0:03:49.420 --> 0:03:50.140
+Mal la cosa
+
+90
+0:03:50.140 --> 0:03:53.000
+minuto 25, aún podemos remontar
+
+91
+0:04:36.260 --> 0:04:41.780
+El final de la primera parte nos hemos quedado solos aquí con el dueño y nada, al final sí que
+
+92
+0:04:41.880 --> 0:04:46.680
+me quedo toda la segunda parte porque quizás es el único partido que puedo ver del Mundial
+
+93
+0:04:46.680 --> 0:04:52.540
+en casa de la selección que juega, porque los siguientes partidos de Turquía, como dije
+
+94
+0:04:52.540 --> 0:04:57.560
+ayer, no los podré ver y cuando pase Georgia, Georgia no juega en el Mundial, por lo tanto
+
+95
+0:04:57.560 --> 0:05:01.320
+Me quedo a ver si viene más gente, porque ahora estaba interesante.
+
+96
+0:05:01.320 --> 0:05:10.360
+Final y final del partido bye bye.
+
+97
+0:05:10.360 --> 0:05:24.160
+Pues nada tú, hemos perdido, Turquía ha perdido 2-0, ya el último gol ya no lo he grabado de Australia,
+
+98
+0:05:24.160 --> 0:05:25.960
+A ver, os pongo por aquí.
+
+99
+0:05:25.960 --> 0:05:35.980
+Ostras tú, es que no he podido ni celebrar un gol tú, nada, una lástima, bueno, son
+
+100
+0:05:35.980 --> 0:05:45.360
+las 9 de la mañana, ahora empiezo a caminar, una lástima pero bueno tu, ha sido bastante
+
+101
+0:05:45.360 --> 0:05:54.280
+haramble por parte de Australia que se han defendido muy bien y han tenido
+
+102
+0:05:54.280 --> 0:05:55.720
+Les sirvió para ganar el partido.
+
+103
+0:05:55.960 --> 0:05:56.960
+Venga, sigamos.
+
+104
+0:06:06.060 --> 0:06:21.980
+Bueno, tramo largo de carretera de unos 13 km, que es lo que os dije ayer, que es ya el último antes de encarar la montaña, largo, pesado y pesado, pero hay que hacerlo.
+
+105
+0:06:36.960 --> 0:06:44.160
+Pues ya he llegado a la ciudad. Lo que para vosotros han sido 10 segundos para mí han sido más de 3 horas.
+
+106
+0:06:44.160 --> 0:06:53.660
+Bueno hoy es domingo y pensaba que estaría cerrado el supermercado, pero no. El Sok está abierto.
+
+107
+0:06:54.160 --> 0:06:58.620
+Y me aprovisionaré aquí por los próximos tres días y pico,
+
+108
+0:06:59.080 --> 0:07:01.980
+porque no pasaré por ningún supermercado grande,
+
+109
+0:07:02.840 --> 0:07:05.580
+en principio, y pequeño no lo tengo claro.
+
+110
+0:07:06.560 --> 0:07:10.580
+A ver, llevar toda la comida para tres días y medio,
+
+111
+0:07:11.300 --> 0:07:13.200
+me parece mucho, no lo haré.
+
+112
+0:07:13.360 --> 0:07:15.660
+O sea, cuento con encontrar algo,
+
+113
+0:07:15.660 --> 0:07:19.020
+en alguno de estos pueblos, encontrar un minimárquet o yo qué sé,
+
+114
+0:07:19.740 --> 0:07:21.620
+o alguien que me dé un poco de pan o algo,
+
+115
+0:07:21.620 --> 0:07:24.020
+pero porque llevar toda la comida en tres días y medio
+
+116
+0:07:24.020 --> 0:07:25.020
+Me parece una compra demasiado grande.
+
+117
+0:07:26.360 --> 0:07:28.480
+De acuerdo, y después de esto iré a comer, venga, vamos.
+
+118
+0:07:31.140 --> 0:07:35.480
+Pues he comido sopa de lentejas y pollo.
+
+119
+0:07:36.760 --> 0:07:39.340
+Bueno, última comida, quizá interesante.
+
+120
+0:07:40.300 --> 0:07:44.360
+He comprado todo esto, no sé, quizás son dos kilos de comida,
+
+121
+0:07:44.360 --> 0:07:48.220
+o más, no sé, iré más cargado que yo qué sé,
+
+122
+0:07:48.300 --> 0:07:50.400
+Os enseñaré estos días.
+
+123
+0:07:51.620 --> 0:07:54.260
+Estoy un poco cansado, exhausto,
+
+124
+0:07:54.340 --> 0:07:55.320
+he venido aquí a un parque,
+
+125
+0:07:55.680 --> 0:07:57.300
+Lo que pasa es que,
+
+126
+0:07:57.300 --> 0:08:00.440
+Yo creo que debe ser por la cultura del país,
+
+127
+0:08:01.380 --> 0:08:04.280
+el parque este tiene los bancos en un círculo,
+
+128
+0:08:04.380 --> 0:08:05.560
+es que me da vergüenza enseñároslo
+
+129
+0:08:05.560 --> 0:08:08.840
+pero tiene los bancos en un círculo,
+
+130
+0:08:09.980 --> 0:08:14.440
+entonces es así una de esto comunal, podríamos decir,
+
+131
+0:08:15.140 --> 0:08:17.160
+una especie de plazoleta dentro del parque comunal,
+
+132
+0:08:17.360 --> 0:08:19.720
+y claro, todos me miran,
+
+133
+0:08:20.840 --> 0:08:21.560
+y...
+
+134
+0:08:21.620 --> 0:08:24.420
+y ahora no tengo muchas ganas de hablar con nadie,
+
+135
+0:08:24.480 --> 0:08:27.000
+de hecho tengo sueño y me echaría una siesta,
+
+136
+0:08:27.140 --> 0:08:29.220
+pero no veo a nadie en el césped, por lo tanto no me estiro.
+
+137
+0:08:30.080 --> 0:08:32.020
+Bueno, me descanso aquí un rato, todavía son las dos.
+
+138
+0:08:33.280 --> 0:08:35.540
+Salimos del pueblo y toca subida.
+
+139
+0:08:36.440 --> 0:08:38.640
+Todo el resto del día de hoy será subida
+
+140
+0:08:38.640 --> 0:08:41.220
+con estas nubes tan feas,
+
+141
+0:08:42.760 --> 0:08:43.500
+me lo tomaré el calma,
+
+142
+0:08:44.620 --> 0:08:46.420
+poco a poco, todos buen rollo con todos,
+
+143
+0:08:47.460 --> 0:08:49.380
+y las cosas irán mejor, eso es lo que quiero decir.
+
+144
+0:08:49.380 --> 0:08:52.360
+He preguntado antes en el de restaurante
+
+145
+0:08:52.360 --> 0:08:55.660
+si había animales en la montaña,
+
+146
+0:08:57.280 --> 0:08:58.260
+Si es peligroso,
+
+147
+0:08:59.020 --> 0:09:00.020
+yo ya esperando la respuesta,
+
+148
+0:09:00.160 --> 0:09:01.540
+y me han dicho que no, me han dicho no, no, no,
+
+149
+0:09:02.040 --> 0:09:02.580
+ningún problema.
+
+150
+0:09:04.340 --> 0:09:05.340
+¿Será a la inversa?
+
+151
+0:09:06.340 --> 0:09:07.680
+Bueno, no creo.
+
+152
+0:09:08.520 --> 0:09:10.380
+En este tramo de los próximos tres días,
+
+153
+0:09:10.460 --> 0:09:11.620
+¿Me hacen más polvos perros, eh?
+
+154
+0:09:12.500 --> 0:09:13.000
+Veremos.
+
+155
+0:09:38.180 --> 0:09:41.760
+Son las cinco de la tarde,
+
+156
+0:09:41.820 --> 0:09:43.800
+empieza a haber un poco de mosaico
+
+157
+0:09:43.800 --> 0:09:45.660
+en este verde de Turquía,
+
+158
+0:09:46.160 --> 0:09:47.400
+En el sentido de que hay algunos campos
+
+159
+0:09:47.400 --> 0:09:48.500
+que ya empiezan a irse
+
+160
+0:09:49.380 --> 0:09:50.520
+a volverse de color amarillo,
+
+161
+0:09:50.600 --> 0:09:52.320
+bien, el de ayer es un ejemplo
+
+162
+0:09:52.320 --> 0:09:53.300
+que ya lo estaban recogiendo.
+
+163
+0:09:54.160 --> 0:09:55.420
+Yo creo que de un valle a otro
+
+164
+0:09:55.420 --> 0:09:57.080
+debe haber bastante diferencia de temperatura,
+
+165
+0:09:58.480 --> 0:09:59.760
+porque ahora que está el pueblo este,
+
+166
+0:10:00.200 --> 0:10:01.940
+Señaló que pasado mañana
+
+167
+0:10:01.940 --> 0:10:04.680
+máxima tendrán 31 grados.
+
+168
+0:10:06.960 --> 0:10:08.300
+Mamá, mamá por.
+
+169
+0:10:08.960 --> 0:10:11.520
+Y yo creo que, a partir de,
+
+170
+0:10:11.520 --> 0:10:13.760
+bueno, de mañana o de esta noche ya,
+
+171
+0:10:13.820 --> 0:10:14.800
+Nos encontraremos en lugares que ya,
+
+172
+0:10:15.340 --> 0:10:17.120
+creo que hará, bueno,
+
+173
+0:10:17.120 --> 0:10:19.120
+que no llegaremos a los 31 grados,
+
+174
+0:10:19.380 --> 0:10:21.380
+ni de coña.
+
+175
+0:10:21.380 --> 0:10:23.380
+Bueno, se está muy bien,
+
+176
+0:10:23.380 --> 0:10:24.380
+hoy, la verdad,
+
+177
+0:10:24.380 --> 0:10:25.380
+máxima de 21,
+
+178
+0:10:25.380 --> 0:10:28.380
+y mira, por estos paisajes tan bonitos,
+
+179
+0:10:28.380 --> 0:10:30.380
+no llueve,
+
+180
+0:10:30.380 --> 0:10:32.380
+he tenido cuatro gotas,
+
+181
+0:10:32.380 --> 0:10:34.380
+y nada, seguimos avanzando.
+
+182
+0:10:34.380 --> 0:10:36.380
+Llevo ya 30 kilómetros, creo.
+
+183
+0:10:46.380 --> 0:10:48.380
+No para de subir, eso,
+
+184
+0:10:48.380 --> 0:10:50.380
+os acordáis el otro día
+
+185
+0:10:50.380 --> 0:10:52.380
+que dije que los 1.180 metros
+
+186
+0:10:52.380 --> 0:10:54.380
+en aquel puerto de montaña hace unos días
+
+187
+0:10:54.380 --> 0:10:56.380
+Era el punto más alto
+
+188
+0:10:56.380 --> 0:10:58.380
+de mi travesía por Turquía?
+
+189
+0:10:58.380 --> 0:11:00.380
+Pues no.
+
+190
+0:11:00.380 --> 0:11:03.380
+En principio, el punto más alto será hoy.
+
+191
+0:11:03.380 --> 0:11:06.380
+Dentro de unos 6 kilómetros
+
+192
+0:11:06.380 --> 0:11:10.380
+me subiré hasta los 1.240.
+
+193
+0:11:10.380 --> 0:11:13.380
+Ligera diferencia, pero sí.
+
+194
+0:11:13.380 --> 0:11:15.380
+Será hoy.
+
+195
+0:11:15.380 --> 0:11:17.380
+Bueno, qué, ¿qué me decís?
+
+196
+0:11:17.380 --> 0:11:20.380
+Si estuviera soleado, ganaría, ¿eh?
+
+197
+0:11:20.380 --> 0:11:23.380
+Así te diría y todo que hace un poco de...
+
+198
+0:11:23.380 --> 0:11:25.380
+de yuyu, con estas nubes.
+
+199
+0:11:25.380 --> 0:11:27.380
+Mira estos coches que pasan antediluvianos
+
+200
+0:11:27.380 --> 0:11:30.380
+de hace... de hace mil años.
+
+201
+0:11:30.380 --> 0:11:32.380
+Hay muchos, ¿eh, esos?
+
+202
+0:11:32.380 --> 0:11:34.380
+Lo digo como algo positivo, ¿eh?
+
+203
+0:11:34.380 --> 0:11:36.380
+Que está muy bien que los conserven
+
+204
+0:11:36.380 --> 0:11:38.380
+en buen estado y que mola
+
+205
+0:11:38.380 --> 0:11:40.380
+Ver este tipo de coches.
+
+206
+0:11:44.380 --> 0:11:49.180
+Qué calma y silencio por esta carretera.
+
+207
+0:11:49.380 --> 0:11:51.380
+Para los que me seguís de los vídeos de setas,
+
+208
+0:11:51.380 --> 0:11:53.380
+siempre os digo que busquéis en zonas
+
+209
+0:11:53.380 --> 0:11:56.380
+de pinos y sin sotobosque
+
+210
+0:11:56.380 --> 0:11:58.380
+donde haya habido tala de árboles.
+
+211
+0:11:58.380 --> 0:12:00.380
+Y aquí es perfecto.
+
+212
+0:12:00.380 --> 0:12:02.380
+Aquí se deben hacer una de níscalos
+
+213
+0:12:02.380 --> 0:12:04.380
+y probablemente cepas, también,
+
+214
+0:12:04.380 --> 0:12:06.380
+porque veo que la roca
+
+215
+0:12:06.380 --> 0:12:08.380
+probablemente sea cilicia
+
+216
+0:12:08.380 --> 0:12:10.380
+y por lo tanto sea terreno ácido.
+
+217
+0:12:10.380 --> 0:12:12.380
+Fuá.
+
+218
+0:12:12.380 --> 0:12:14.380
+Aquí el otoño debe de ser brutal.
+
+219
+0:12:14.380 --> 0:12:16.380
+Pero ahora mismo no estoy viendo ninguna, ¿eh?
+
+220
+0:12:16.380 --> 0:12:18.380
+No estoy viendo ninguna seta.
+
+221
+0:12:27.380 --> 0:12:29.380
+Mira.
+
+222
+0:12:29.380 --> 0:12:31.380
+Una fuente, mesas de picnic
+
+223
+0:12:31.380 --> 0:12:33.380
+y lugar plano.
+
+224
+0:12:33.380 --> 0:12:35.380
+Es perfecto para acampar.
+
+225
+0:12:35.380 --> 0:12:37.380
+Pero no.
+
+226
+0:12:37.380 --> 0:12:39.380
+No... Buf, yo qué sé, no sé.
+
+227
+0:12:39.380 --> 0:12:41.380
+Todavía me da cosa acampar
+
+228
+0:12:41.380 --> 0:12:43.380
+en lugares que sean así
+
+229
+0:12:43.380 --> 0:12:45.380
+desde la carretera.
+
+230
+0:12:45.380 --> 0:12:47.380
+Podría ponerme un poco más allá, también.
+
+231
+0:12:47.380 --> 0:12:49.380
+Dentro del bosque probablemente
+
+232
+0:12:49.380 --> 0:12:51.380
+no me verían tanto.
+
+233
+0:12:51.380 --> 0:12:53.380
+Pero, bueno.
+
+234
+0:12:53.380 --> 0:12:56.380
+Todavía no son ni las siete.
+
+235
+0:12:56.380 --> 0:12:58.380
+Yo creo que puedo caminar bastante más.
+
+236
+0:12:58.380 --> 0:13:00.380
+Bueno, un poco más.
+
+237
+0:13:00.380 --> 0:13:02.380
+Y yo creo que por esta zona, por lo que estoy viendo,
+
+238
+0:13:02.380 --> 0:13:04.380
+Hay lugares de acampada
+
+239
+0:13:04.380 --> 0:13:06.380
+en punta pala.
+
+240
+0:13:06.380 --> 0:13:08.380
+Me acerco muy fuertemente a lo que es el punto
+
+241
+0:13:08.380 --> 0:13:10.380
+más alto de mi travesía por Turquía,
+
+242
+0:13:10.380 --> 0:13:12.380
+Sin embargo, parece que
+
+243
+0:13:12.380 --> 0:13:14.380
+hay un final boss,
+
+244
+0:13:14.380 --> 0:13:16.380
+Estos son los tres perros.
+
+245
+0:13:16.380 --> 0:13:18.380
+De momento, no ladran.
+
+246
+0:13:18.380 --> 0:13:20.380
+Vienen amistosamente.
+
+247
+0:13:22.380 --> 0:13:24.380
 De acuerdo.
 
-0:00:53.280,0:00:54.640
-Próxima gran parada,
-
-0:00:55.420,0:00:56.300
-ciudad de Durağan.
-
-0:00:56.880,0:00:58.080
-No es una ciudad tan grande.
-
-0:00:58.200,0:00:59.300
-es donde me envía
-
-0:01:00.000,0:01:00.700
-El camino.
-
-0:01:01.820,0:01:04.560
-Y, bueno, en esta sí hay dos alternativas.
-
-0:01:04.760,0:01:05.520
-Alternativa 1,
-
-0:01:06.280,0:01:07.120
-ir por carretera.
-
-0:01:07.920,0:01:08.640
-Más recto,
-
-0:01:09.280,0:01:10.120
-menos desnivel,
-
-0:01:11.200,0:01:12.680
-más tranquilidad, menos perros,
-
-0:01:12.920,0:01:13.420
-pero,
-
-0:01:13.880,0:01:16.000
-Más aburrido y más molesto para los coches.
-
-0:01:18.960,0:01:21.040
-Pero, esta vez sí existe la segunda alternativa,
-
-0:01:22.120,0:01:23.360
-Lo que es ir por
-
-0:01:24.000,0:01:24.500
-el interior,
-
-0:01:24.920,0:01:25.680
-por la montaña.
-
-0:01:26.880,0:01:27.480
-Que es lo que voy a hacer.
-
-0:01:27.680,0:01:28.280
-Es lo que haré.
-
-0:01:28.280,0:01:31.000
-Son más kilómetros, es más desnivel
-
-0:01:31.200,0:01:33.160
-pero, iré por caminos,
-
-0:01:34.200,0:01:38.360
-carreteras muy, muy, muy secundarias,
-
-0:01:39.800,0:01:41.800
-montaña, más desnivel, bosque
-
-0:01:43.120,0:01:44.360
-Tierra y perros, probablemente.
-
-0:01:44.760,0:01:46.920
-Pero, bueno, creo que me va a oler bastante.
-
-0:01:47.280,0:01:52.080
-Es ya de las pocas últimas oportunidades para hacer montaña aquí en Turquía,
-
-0:01:52.840,0:01:55.640
-porque cuando llegue el pueblo este de Durağan, o ciudad,
-
-0:01:56.680,0:01:58.100
-ya casi ya estoy cerca del Mar Negro.
-
-0:01:58.280,0:02:02.760
-Son 144 kilómetros que yo creo que tardaré unos
-
-0:02:04.080,0:02:04.880
-cuatro días,
-
-0:02:06.080,0:02:07.640
-Quizá cuatro y pico, en hacer.
-
-0:02:09.200,0:02:11.360
-Haremos algún tramo pequeño de carretera mañana,
-
-0:02:12.160,0:02:14.640
-Y luego todo el monte.
-
-0:02:15.200,0:02:15.700
-Let ' s go!
-
-0:02:47.429,0:02:48.639
-Pues muy bien, de momento, tú.
-
-0:02:49.560,0:02:50.620
-Casi ningún coche,
-
-0:02:51.100,0:02:52.620
-un quad de esos que hace mucho ruido,
-
-0:02:52.720,0:02:53.720
-Pero mirad, mirad qué vistas.
-
-0:02:54.800,0:02:56.020
-Son vistas de campos,
-
-0:02:56.400,0:02:58.160
-pero, bueno, a mí me gusta esto, todo verde,
-
-0:02:58.280,0:03:00.520
-Allí, turonets, está muy bien.
-
-0:03:01.540,0:03:03.860
-Bueno, hoy es sábado, día 13 de junio
-
-0:03:04.480,0:03:06.340
-Esto lo veremos el domingo 14.
-
-0:03:07.260,0:03:09.560
-y los domingos son los días que más gente mira YouTube
-
-0:03:09.560,0:03:11.660
-y los vídeos tienen más visitas, normal,
-
-0:03:11.780,0:03:13.320
-porque la gente llega a casa después del fin de semana
-
-0:03:13.320,0:03:15.520
-y se pone en la tele a mirar el capítulo, ¿no?
-
-0:03:16.280,0:03:19.520
-Y, por el contrario, los días que los vídeos tienen menos visitas
-
-0:03:19.520,0:03:22.800
-Es el sábado, porque la gente está haciendo cosas y tal.
-
-0:03:23.880,0:03:24.820
-Y, bueno, es una pena,
-
-0:03:25.840,0:03:27.540
-Porque, bueno, a veces...
-
-0:03:28.280,0:03:29.420
-No todos los vídeos son igual de buenos, ¿no?
-
-0:03:30.600,0:03:33.900
-Algunos vídeos son mejor que otros, de los míos, quiero decir,
-
-0:03:34.800,0:03:36.900
-Y hay gente que no los mira a todos.
-
-0:03:37.080,0:03:39.320
-Lo entiendo perfectamente, hay gente que mira todos seleccionados.
-
-0:03:39.740,0:03:40.740
-Claro, habría una manera...
-
-0:03:40.740,0:03:41.700
-Sería bueno que hubiera una manera
-
-0:03:41.700,0:03:44.860
-¿Quieres saber cuáles son los mejores vídeos, verdad?
-
-0:03:44.860,0:03:45.840
-Pero no hay ninguno.
-
-0:03:46.380,0:03:47.720
-Pero, en este caso, te digo que,
-
-0:03:47.920,0:03:49.360
-si tú estás mirando esto el domingo,
-
-0:03:49.500,0:03:50.540
-Te recomiendo que veas el de ayer.
-
-0:03:51.000,0:03:51.920
-El vídeo de ayer está muy bien.
-
-0:03:52.400,0:03:54.140
-El sábado, bueno, creo que está muy bien,
-
-0:03:54.140,0:03:56.180
-porque, bueno, pasan cosas,
-
-0:03:57.060,0:03:58.240
-hay más apuntes culturales,
-
-0:03:58.320,0:04:00.240
-de esos que hago como una especie de...
-
-0:04:00.240,0:04:02.100
-Cuento un poco de historia, enseño ciudades y tal.
-
-0:04:02.680,0:04:05.040
-Os recomiendo que veáis el vídeo de ayer
-
-0:04:05.040,0:04:06.680
-y, por si alguien no lo ha visto,
-
-0:04:06.760,0:04:10.240
-El vídeo del día 189 también es bastante especial.
-
-0:04:10.700,0:04:12.560
-Sigo por ahí.
-
-0:04:33.156,0:04:34.660
-Actualización seis de la tarde.
-
-0:04:40.320,0:04:40.820
-Hola.
-
-0:04:42.000,0:04:42.500
-Merhaba.
-
-0:04:42.840,0:04:43.580
-¿Cómo te llamas?
-
-0:04:44.120,0:04:44.620
-Enrique.
-
-0:04:45.080,0:04:45.580
-¿Y tú?
-
-0:04:46.380,0:04:46.880
-Alpay.
-
-0:04:47.400,0:04:47.900
-¿Alpay?
-
-0:04:48.180,0:04:48.680
-Alpay.
-
-0:04:48.740,0:04:49.240
-Alpay.
-
-0:04:49.519,0:04:50.019
-Encantado
-
-0:04:50.883,0:04:51.683
-¿Te gusta el Madrid?
-
-0:04:53.124,0:04:54.747
-A mí me gusta el Barça, Barcelona
-
-0:04:55.119,0:04:55.619
-Madrid.
-
-0:04:55.860,0:04:56.360
-Barcelona.
-
-0:04:56.940,0:04:57.500
-No, no.
-
-0:04:57.500,0:04:58.840
-Madrid, sí.
-
-0:04:59.120,0:04:59.620
-Hola
-
-0:04:59.860,0:05:00.360
-Hola
-
-0:05:00.680,0:05:01.820
-¿Me digo...?
-
-0:05:01.820,0:05:02.500
-Enrique.
-
-0:05:03.140,0:05:04.720
-My name is Ilkay.
-
-0:05:04.980,0:05:05.480
-Ilkay.
-
-0:05:07.380,0:05:09.000
-Mozo.
-
-0:05:09.120,0:05:10.040
-Mozo.
-
-0:05:11.300,0:05:12.360
-Anlatamiyorum (no entiendo)
-
-0:05:15.000,0:05:16.210
-¿Hermanos?
-
-0:05:21.700,0:05:30.000
-Yo camino hacia Samsun
-
-0:05:38.581,0:05:41.670
-Anlatamiyorum (no entiendo)
-
-0:05:43.039,0:05:48.797
-Ha nacido en Samsun este señor, de acuerdo... ok ok, adiós
-
-0:05:51.089,0:05:56.534
-Anlatamiyorum. Creo que lo he dicho bien. La palabra del día en turco, que quiere decir no entiendo.
-
-0:05:57.642,0:06:01.393
-Creo que lo habría aprendido antes, esta. Anlatamiyorum, o algo así.
-
-0:06:02.400,0:06:08.666
-Bueno, ¿qué os iba a decir? Eso que actualización 6 de la tarde, estaba muy bien caminando por los montículos estos de aquí arriba
-
-0:06:09.198,0:06:11.198
-Porque era como una cresta y, bueno, no había nadie.
-
-0:06:11.720,0:06:14.475
-Y me gusta mucho caminar por las crestas porque hay más vistas y tal.
-
-0:06:15.000,0:06:18.995
-Ahora estoy un poco en el fondo de valle pasando por estos pueblos tan rurales, con la gente tan simpática.
-
-0:06:19.604,0:06:22.911
-Pero huele un poco, ¿eh? Huele un poco a vaca.
-
-0:06:25.837,0:06:29.145
-Un poco de ambientador es necesario. Ya hablaremos de ello.
-
-0:06:30.320,0:06:34.669
-Sigo, sigo. Llevo 20 kilómetros, casi. A ver si puedo hacer 10 más.
-
-0:06:34.840,0:06:38.908
-Tenía el primer incidente con perros. Bueno, ahora se van, pero han venido corriendo hacia mí, ¿eh?
-
-0:06:40.636,0:06:49.352
-Mira, son todos muy monos, ¿eh? Son 5, ¿eh? A ver, si quisieran me podrían hacer daño, ¿eh? Pero, hombre, si son pequeños, no.
-
-0:06:49.870,0:06:52.864
-Escuche usted. ¿Qué? ¿Tengo que usar el truco o qué?
-
-0:06:55.679,0:07:01.287
-La están llamando, la están llamando. A ver, al final la he tenido que apretar, ¿eh? La he tenido que apretar, ¿eh?
-
-0:07:02.706,0:07:04.802
-Se han tranquilizado un poco, se han tranquilizado un poco.
-
-0:07:07.307,0:07:08.840
-Joder, tú, joder.
-
-0:07:16.840,0:07:17.840
-Eh, eh, eh.
-
-0:07:18.740,0:07:20.435
-Calma, calma.
-
-0:07:22.740,0:07:35.513
-Creo que a la mujer ésta, cuando ha visto mi aparato de ultrasonidos, no le ha gustado.
-
-0:07:37.740,0:07:39.740
-Estoy apretando, ¿eh? Todo el tiempo.
-
-0:07:39.740,0:07:41.740
-Quiero decir, les asusta, pero luego vuelven.
-
-0:07:41.740,0:07:46.740
-Pues no le ha gustado porque me ha puesto una cara y me ha dicho no sé qué. No lo he entendido.
-
-0:07:48.070,0:07:48.740
-Pero...
-
-0:07:49.516,0:07:52.740
-Bueno, claro, a ver, supongo que se piensa que quizás esto es algo que les hace daño.
-
-0:07:52.740,0:07:56.740
-Pero es que yo... me tengo que defender de alguna manera, tú.
-
-0:07:56.740,0:07:58.740
-Vale, ya está. Bueno, a ver.
-
-0:07:58.740,0:08:02.740
-Todos los encuentros que sean así, ¿eh? Si tiene que haber alguna. Ahora hacía...
-
-0:08:02.740,0:08:04.740
-Más de un mes que no pasaba nada.
-
-0:08:16.430,0:08:17.986
-Actualizado a las 7 de la tarde.
-
-0:08:18.740,0:08:20.740
-Ya no me está gustando tanto esto, ¿eh? Porque...
-
-0:08:20.740,0:08:22.740
-Aparte del olor,
-
-0:08:22.740,0:08:24.740
-es muy fuerte el olor a estiércol de vaca,
-
-0:08:24.740,0:08:26.740
-El camino
-
-0:08:26.740,0:08:28.740
-está pavimentado, pero es muy polvoriento
-
-0:08:28.740,0:08:30.740
-y cada vez que pasa un coche
-
-0:08:30.740,0:08:33.383
-se levanta una de polvo que... ¿sabes cuando lo notas?
-
-0:08:33.560,0:08:35.560
-Que muerdas arena.
-
-0:08:35.870,0:08:37.338
-Suerte que tengo esto, que expliqué el otro día, pero...
-
-0:08:38.740,0:08:40.740
-¡Ah! Bastante horrible.
-
-0:08:42.230,0:08:43.388
-Son casi las 8.
-
-0:08:44.240,0:08:46.240
-Mucho asco cuando paso por uno de los pueblos...
-
-0:08:46.740,0:08:48.740
-Aparte del olor de la vaca, todo lo que es
-
-0:08:48.740,0:08:50.740
-aguas que hay en cunetas y tal, están como
-
-0:08:50.740,0:08:52.740
-Contaminados...
-
-0:08:52.740,0:08:53.720
-Bueno, en fin...
-
-0:08:54.341,0:08:56.740
-Pero aquí, fuera de los pueblos, pues...
-
-0:08:57.804,0:08:58.740
-El olor no es tan fuerte
-
-0:08:58.740,0:09:00.740
-o no sé si se me ha acostumbrado ya
-
-0:09:00.740,0:09:02.740
-el olor, ¿eh? Pero no es
-
-0:09:02.740,0:09:03.898
-Tan fuerte, diría yo.
-
-0:09:04.740,0:09:06.740
-¡Acampar!
-
-0:09:08.240,0:09:09.560
-Aquí veo esta entrada.
-
-0:09:10.430,0:09:12.740
-Vamos a verla. Todos los campos que he visto
-
-0:09:12.740,0:09:14.740
-están plantados.
-
-0:09:14.740,0:09:16.164
-Sembrados.
-
-0:09:16.319,0:09:18.740
-Este lugar me gusta porque
-
-0:09:18.740,0:09:20.740
-siempre está superior, entonces, desde abajo
-
-0:09:20.740,0:09:22.740
-por la carretera, que en algunos momentos
-
-0:09:22.740,0:09:24.740
-Por aquí se ve la AP-7, ¿no?
-
-0:09:24.740,0:09:26.740
-Esta carretera
-
-0:09:26.740,0:09:28.740
-que no hay nada.
-
-0:09:28.740,0:09:30.740
-¡Oh yes!
-
-0:09:30.740,0:09:32.740
-Oh yes, mirad.
-
-0:09:36.740,0:09:38.740
-Oigo un ruido.
-
-0:09:38.740,0:09:40.740
-Hombre, eso ya está recogido.
-
-0:09:40.740,0:09:42.740
-Esto está segado y recogido.
-
-0:09:42.740,0:09:44.740
-Es perfecto.
-
-0:09:44.740,0:09:46.740
-Es muy abierto y al fondo
-
-0:09:46.740,0:09:48.740
-Están las casas, pero bueno.
-
-0:09:50.740,0:09:52.740
-Aquí hay una bolsa.
-
-0:09:52.740,0:09:53.765
-Con algo.
-
-0:09:53.765,0:09:56.275
-Es una botella de
-
-0:09:56.275,0:09:58.740
-fanta y galletas.
-
-0:09:58.740,0:10:00.740
-Bueno.
-
-0:10:00.740,0:10:01.787
-Vale.
-
-0:10:02.075,0:10:04.740
-Está demasiado cerca de la carretera para mi gusto.
-
-0:10:04.740,0:10:06.740
-Pero bueno, tú.
-
-0:10:06.740,0:10:08.740
-También podría ir un poco más allá.
-
-0:10:08.740,0:10:10.740
-Sí, tal vez voy a probar.
-
-0:10:10.740,0:10:12.740
-Bueno, en cualquier caso,
-
-0:10:12.740,0:10:14.740
-cuando haya acampado, os aviso.
-
-0:10:14.740,0:10:17.671
-(Encuentro un tractor con un hombre dentro)
-Hola
-
-0:10:18.629,0:10:20.740
-- ¿Hablas inglés?
-- No
-
-0:10:20.740,0:10:22.740
-Ok.
-
-0:10:24.740,0:10:29.621
-Voy caminando hasta Samsun
-
-0:10:30.252,0:10:34.557
-¿Puedo acampar aquí?
-
-0:10:39.867,0:10:40.737
-He tenido que apagar el móvil
-
-0:10:40.870,0:10:42.874
-He tenido que usar el traductor para hablar con él.
-
-0:10:43.339,0:10:44.740
-Ha sido una conversación
-
-0:10:44.740,0:10:46.740
-bastante fluida
-
-0:10:46.740,0:10:48.740
-pero bastante larga
-
-0:10:48.740,0:10:50.740
-En el que el resumen
-
-0:10:50.740,0:10:52.740
-Ha sido que por él
-
-0:10:52.740,0:10:54.740
-no hay ningún problema que acampe aquí,
-
-0:10:54.740,0:10:56.740
-Podría tener algún problema
-
-0:10:56.740,0:10:58.740
-con los aldeanos, según la traducción
-
-0:10:58.740,0:10:59.477
-literal de Google.
-
-0:11:00.740,0:11:02.740
-Me ha dicho, te recomiendo que vayas
-
-0:11:02.740,0:11:04.740
-a un lugar más céntrico, que el centro de la ciudad
-
-0:11:04.740,0:11:06.740
-está aquí a un kilómetro. No, precisamente
-
-0:11:06.740,0:11:07.809
-eso es lo que no quiero hacer.
-
-0:11:08.740,0:11:10.186
-Ir al centro de la ciudad.
-
-0:11:10.829,0:11:12.740
-Y vale, cuando nos hemos puesto de acuerdo y me dice
-
-0:11:12.740,0:11:14.740
-que ningún problema, ningún problema, viene la otra máquina
-
-0:11:14.740,0:11:16.740
-bien, el otro camión, y comienzan
-
-0:11:16.740,0:11:17.676
-Hacer lo que veis.
-
-0:11:19.205,0:11:20.740
-Y yo que pensaba que este campo ya estaba
-
-0:11:20.740,0:11:22.740
-ya estaba
-
-0:11:22.740,0:11:25.000
-dado y bendito, ¿no? No, no, aquí todavía hay para recoger.
-
-0:11:25.848,0:11:26.740
-Lo que no sé es
-
-0:11:26.740,0:11:28.740
-si volverán a hacer otra pasada
-
-0:11:28.740,0:11:30.740
-y todavía continuarán
-
-0:11:30.740,0:11:32.740
-o no. Porque claro, si yo ahora planto aquí la tienda
-
-0:11:32.740,0:11:34.740
-y luego vienen y me hacen
-
-0:11:34.740,0:11:36.740
-quitar, ¿qué?
-
-0:11:36.740,0:11:38.740
-En cualquier caso, tú
-
-0:11:38.740,0:11:40.740
-me espero, me espero
-
-0:11:40.740,0:11:42.740
-y ya está.
-
-0:11:46.740,0:11:48.740
-Buen lugar al final, ¿verdad?
-
-0:11:48.740,0:11:50.740
-Me he tenido que esperar
-
-0:11:50.740,0:11:52.740
-Un buen rato, ¿eh?
-
-0:11:52.740,0:11:54.740
-Siguen los pasos, han
-
-0:11:54.740,0:11:56.740
-segado aquí, que es donde he plantado
-
-0:11:56.740,0:11:58.740
-la tienda, y luego han seguido segando
-
-0:11:58.740,0:12:00.740
-En medio del
-
-0:12:00.740,0:12:02.740
-del campo
-
-0:12:02.740,0:12:04.740
-Y bueno, nada, pues al final
-
-0:12:04.740,0:12:06.740
-se ha hecho oscuro. Ya son las ocho y media pasadas.
-
-0:12:08.740,0:12:10.740
-Tengo que decirte un par de
-
-0:12:10.740,0:12:12.740
-de cosas relativamente importantes,
-
-0:12:12.740,0:12:14.740
-Pero antes de todo, hacemos un resumen.
-
-0:12:14.740,0:12:16.740
-Veintiocho y pico kilómetros
-
-0:12:16.740,0:12:19.183
-y quinientos y pico de desnivel positivo,
-
-0:12:20.000,0:12:20.740
-dos cafés,
-
-0:12:20.740,0:12:22.740
-dos refrescos,
-
-0:12:22.740,0:12:24.740
-Hablé con tres personas
-
-0:12:24.740,0:12:26.363
-y me he gastado diez euros.
-
-0:12:27.338,0:12:28.740
-Lo primero que tengo que decirte
-
-0:12:28.740,0:12:30.740
-es que mañana
-
-0:12:30.740,0:12:32.740
-Hay partido del Mundial importante.
-
-0:12:32.740,0:12:34.740
-Juega Turquía.
-
-0:12:34.740,0:12:36.740
-Turquía.
-
-0:12:36.740,0:12:38.740
-Es una pena Turquía porque tiene horarios muy malos.
-
-0:12:38.740,0:12:40.740
-El primero
-
-0:12:40.740,0:12:42.740
-El partido es el de mañana
-
-0:12:42.740,0:12:44.740
-Australia - Turquía, a las siete de la mañana.
-
-0:12:44.740,0:12:46.740
-El siguiente, que no me acuerdo contra quién es,
-
-0:12:46.740,0:12:48.740
-es a las seis de la mañana
-
-0:12:48.740,0:12:50.363
-y el último de la fase de grupos
-
-0:12:50.363,0:12:51.299
-es a las cinco de la mañana.
-
-0:12:52.030,0:12:54.740
-A estos de las cinco y de las seis no los voy a mirar.
-
-0:12:54.740,0:12:56.275
-O sea, es imposible. Pero el de mañana
-
-0:12:56.275,0:12:57.920
-a las siete me gustaría verlo
-
-0:12:58.496,0:13:00.740
-no en el móvil, sino
-
-0:13:00.740,0:13:02.740
-En un lugar, en un bar
-
-0:13:02.740,0:13:04.230
-o un lugar con otra gente.
-
-0:13:04.541,0:13:06.740
-Es a las siete de la mañana del domingo es muy temprano.
-
-0:13:06.740,0:13:08.740
-Yo no sé si podré.
-
-0:13:08.740,0:13:10.740
-Pero hay un pueblo que está relativamente cerca.
-
-0:13:10.740,0:13:12.740
-No sabría decirte a cuánto.
-
-0:13:12.740,0:13:14.740
-O sea, uno o dos kilómetros.
-
-0:13:14.740,0:13:16.740
-Y no es muy grande,
-
-0:13:16.740,0:13:18.740
-Por lo que he visto en el mapa
-
-0:13:18.740,0:13:20.740
-Parece que podría tener un
-
-0:13:20.740,0:13:22.740
-negocio de estos de "caj"
-
-0:13:22.740,0:13:24.474
-o algo. Tiene farmacias.
-
-0:13:24.474,0:13:26.098
-Por lo tanto, si tiene farmacias,
-
-0:13:26.098,0:13:28.740
-algún negocio de "caj" tendrán, ¿no?
-
-0:13:28.740,0:13:30.740
-Y yo intentaré levantarme temprano mañana
-
-0:13:30.740,0:13:32.275
-llegar hasta allí
-
-0:13:32.275,0:13:33.743
-y ver el partido.
-
-0:13:33.876,0:13:35.000
-Creo que puede ser guay
-
-0:13:35.000,0:13:37.499
-Ver el partido de Turquía
-
-0:13:37.499,0:13:38.546
-con los turcos.
-
-0:13:39.720,0:13:41.720
-Y la segunda cosa que os tengo que decir
-
-0:13:41.986,0:13:43.986
-es que, bueno, para quien no lo sepa
-
-0:13:43.986,0:13:45.410
-yo tengo una web, la web de
-
-0:13:45.410,0:13:47.410
-lavoltaalmonapeu.cat
-
-0:13:48.740,0:13:50.119
-En esta página web, te lo explico
-
-0:13:50.119,0:13:51.698
-cómo funciona la aventura, hay un apartado
-
-0:13:51.698,0:13:53.698
-que es lo que más gente mira,
-
-0:13:53.698,0:13:55.698
-que es el apartado de donde soy.
-
-0:13:56.186,0:13:58.053
-En este apartado puedes ver
-
-0:13:58.053,0:13:59.743
-un mapa en
-
-0:13:59.743,0:14:02.740
-no es en tiempo real, sino que
-
-0:14:02.740,0:14:04.740
-en relación con los vídeos, es decir,
-
-0:14:04.740,0:14:06.740
-Siempre va con un día
-
-0:14:06.740,0:14:08.740
-de delay, como los vídeos, ¿no?
-
-0:14:08.740,0:14:10.740
-Hoy es sábado, esto lo veréis el domingo,
-
-0:14:10.740,0:14:12.740
-pues si entras puedes ver lo que he hecho
-
-0:14:12.740,0:14:14.740
-el día anterior y todo lo que llevo hecho hasta ahora,
-
-0:14:14.740,0:14:16.496
-Todo el mapa y tal.
-
-0:14:16.496,0:14:18.496
-Puedes hacer zoom, puedes poner la vista
-
-0:14:18.496,0:14:20.230
-satélite para ver este tipo
-
-0:14:20.230,0:14:22.230
-el tipo de terreno por donde estoy
-
-0:14:22.740,0:14:24.740
-y he añadido una nueva funcionalidad.
-
-0:14:24.740,0:14:26.740
-Si aprietas aquí, donde pones
-
-0:14:26.740,0:14:28.740
-"Pulsa aquí", para verlo en pantalla
-
-0:14:28.740,0:14:30.740
-completa, pues se te saldrá una nueva
-
-0:14:30.740,0:14:32.740
-pantalla donde podrás ver el mapa
-
-0:14:32.740,0:14:34.740
-así, como digo,
-
-0:14:34.740,0:14:36.740
-En pantalla completa.
-
-0:14:36.740,0:14:38.740
-El móvil será más cómodo
-
-0:14:38.740,0:14:40.740
-como los que miran en el ordenador,
-
-0:14:40.740,0:14:42.740
-que sé que sois muchos, cada día que vais
-
-0:14:42.740,0:14:44.740
-mirando allá por donde he pasado,
-
-0:14:44.740,0:14:46.740
-Lo puedes ver aquí
-
-0:14:46.740,0:14:48.740
-Con una pantalla muy grande
-
-0:14:48.740,0:14:50.297
-y mejor.
-
-0:14:50.297,0:14:52.297
-Creo que estas cosas del
-
-0:14:52.297,0:14:54.297
-mapa y tal a mí me gustan,
-
-0:14:54.740,0:14:56.740
-A lo mejor a todo el mundo no le hace ilusión, pero a mí sí.
-
-0:14:57.538,0:14:59.006
-Vale, voy a cenar
-
-0:14:59.627,0:15:00.740
-y la cena
-
-0:15:00.740,0:15:02.740
-Es un lata de
-
-0:15:02.740,0:15:04.740
-¿Cómo se llama eso?
-
-0:15:06.740,0:15:08.740
-judías, una lata de judías
-
-0:15:08.740,0:15:10.740
-simplemente hay que calentarla
-
-0:15:10.740,0:15:12.740
-y ya está, no hace falta ni que hierva ni nada
-
-0:15:12.740,0:15:14.740
-y es bastante cómodo, luego se debe
-
-0:15:14.740,0:15:16.740
-limpiar la olla, pero bueno
-
-0:15:16.740,0:15:18.740
-Con un poco de agua y jabón ya está.
-
-0:15:19.627,0:15:20.740
-Es una cena
-
-0:15:20.740,0:15:22.740
-fácil y sano, porque
-
-0:15:22.740,0:15:24.740
-las legumbres
-
-0:15:24.740,0:15:26.740
-Proteínas de la buena
-
-0:15:26.740,0:15:28.740
-y ya está bien. De acuerdo,
-
-0:15:28.740,0:15:30.740
-Hasta mañana, buenas noches.
+248
+0:13:26.380 --> 0:13:28.380
+Dicen que los que no ladran son más peligrosos.
+
+249
+0:13:28.380 --> 0:13:30.380
+Hombre, estos son pequeñitos.
+
+250
+0:13:30.380 --> 0:13:32.380
+Hola, chicos. Eh, no, no,
+
+251
+0:13:32.380 --> 0:13:34.380
+Ya está, ya está. No hace falta que os apropiéis más, ¿eh?
+
+252
+0:13:34.380 --> 0:13:36.380
+Venga, venga, venga.
+
+253
+0:13:36.380 --> 0:13:38.380
+Tss, eh.
+
+254
+0:13:38.380 --> 0:13:40.380
+Venga, no.
+
+255
+0:13:40.380 --> 0:13:42.380
+Parece que se asusta tan rápido.
+
+256
+0:13:42.380 --> 0:13:44.380
+Allí en esta colina es el punto más alto.
+
+257
+0:13:44.380 --> 0:13:46.380
+Vamos a hacerlo.
+
+258
+0:13:46.380 --> 0:13:48.380
+1.240 metros. Ahora sí, espectacular.
+
+259
+0:13:48.380 --> 0:13:50.380
+Mirad.
+
+260
+0:13:50.380 --> 0:13:52.380
+Mirad. Ahora he llegado
+
+261
+0:13:52.380 --> 0:13:54.380
+a un pueblo que también, las
+
+262
+0:13:54.380 --> 0:13:56.380
+cuando he llegado, pum, todo verde.
+
+263
+0:13:56.380 --> 0:13:58.380
+Una gran vista,
+
+264
+0:13:58.380 --> 0:14:00.380
+Es una antena de 4G.
+
+265
+0:14:00.380 --> 0:14:02.380
+que es una vista que me gusta mucho tener,
+
+266
+0:14:02.380 --> 0:14:04.380
+especialmente, bueno, espero que se mantenga
+
+267
+0:14:04.380 --> 0:14:06.380
+la cobertura en el lugar donde tengo pensado
+
+268
+0:14:06.380 --> 0:14:08.380
+acampar, que podría ser aquí mismo, ¿eh?
+
+269
+0:14:08.380 --> 0:14:10.380
+Porque en realidad esto es increíble.
+
+270
+0:14:10.380 --> 0:14:12.380
+Eh, buá, es que esto, es que,
+
+271
+0:14:12.380 --> 0:14:14.380
+Es que, hace un poco
+
+272
+0:14:14.380 --> 0:14:16.380
+de fresquito, no me iría mal ahora, o sea,
+
+273
+0:14:16.380 --> 0:14:18.380
+podría ir con manga larga,
+
+274
+0:14:18.380 --> 0:14:20.380
+Tranquilo,
+
+275
+0:14:20.380 --> 0:14:22.380
+pero buá.
+
+276
+0:14:22.380 --> 0:14:24.380
+Buá, es que buá, buá.
+
+277
+0:14:24.380 --> 0:14:26.380
+Solo digo buà. Eso es
+
+278
+0:14:26.380 --> 0:14:28.380
+un gran acierto,
+
+279
+0:14:28.380 --> 0:14:30.380
+Ven a las montañas de Turquía.
+
+280
+0:14:30.380 --> 0:14:32.380
+Muchos me habéis dicho, no me imaginaba
+
+281
+0:14:32.380 --> 0:14:34.380
+Turquía así, mira otro perro.
+
+282
+0:14:34.380 --> 0:14:36.380
+Eh,
+
+283
+0:14:36.380 --> 0:14:38.380
+¿Y qué?
+
+284
+0:14:38.380 --> 0:14:40.380
+¿Sois muchos los que os está sorprendiendo?
+
+285
+0:14:40.380 --> 0:14:42.380
+Bueno,
+
+286
+0:14:42.380 --> 0:14:44.380
+la mayoría de Turquía, en especial,
+
+287
+0:14:44.380 --> 0:14:46.380
+bueno, la parte centro, es desértica
+
+288
+0:14:46.380 --> 0:14:48.380
+y ya he venido aquí especialmente
+
+289
+0:14:48.380 --> 0:14:50.380
+Por eso, buscando,
+
+290
+0:14:50.380 --> 0:14:52.380
+buscando un paisaje más amable.
+
+291
+0:14:58.380 --> 0:15:00.380
+Las ocho menos cuarto, hora de empezar
+
+292
+0:15:00.380 --> 0:15:02.380
+a hacer un pensamiento
+
+293
+0:15:02.380 --> 0:15:04.380
+para acampar. La cuestión es, como siempre,
+
+294
+0:15:04.380 --> 0:15:06.380
+todos los campos,
+
+295
+0:15:06.380 --> 0:15:08.380
+que hay muchos aquí,
+
+296
+0:15:08.380 --> 0:15:10.380
+la mayoría, la mayoría del terreno
+
+297
+0:15:10.380 --> 0:15:12.380
+es así, están como, bueno,
+
+298
+0:15:12.380 --> 0:15:14.380
+con hierba muy alta
+
+299
+0:15:14.380 --> 0:15:16.380
+o sembrados o lo que sea.
+
+300
+0:15:16.380 --> 0:15:18.380
+Pero, por lo que veo,
+
+301
+0:15:18.380 --> 0:15:20.380
+Esta entrada
+
+302
+0:15:20.380 --> 0:15:22.380
+que lleva el bosque
+
+303
+0:15:22.380 --> 0:15:24.380
+tiene la hierba más baja y
+
+304
+0:15:24.380 --> 0:15:26.380
+Y no hay campos.
+
+305
+0:15:26.380 --> 0:15:28.380
+Bueno,
+
+306
+0:15:28.380 --> 0:15:30.380
+El problema es que mañana
+
+307
+0:15:30.380 --> 0:15:32.380
+Un grupo de vacas
+
+308
+0:15:32.380 --> 0:15:34.380
+con ganas de pastar.
+
+309
+0:15:34.380 --> 0:15:36.380
+Bueno, a ver, las vacas tampoco hacen nada.
+
+310
+0:15:36.380 --> 0:15:38.380
+Es más bien si están acompañadas de un perro.
+
+311
+0:15:38.380 --> 0:15:40.380
+A ver qué tal por aquí.
+
+312
+0:15:46.380 --> 0:15:48.380
+Mirad este prado
+
+313
+0:15:48.380 --> 0:15:50.380
+a pocos metros de donde he grabado
+
+314
+0:15:50.380 --> 0:15:52.380
+el último vídeo. No lo veréis muy bien
+
+315
+0:15:52.380 --> 0:15:54.380
+porque está a contraluz.
+
+316
+0:15:54.380 --> 0:15:56.380
+Pero, si nos fijamos,
+
+317
+0:15:56.380 --> 0:15:58.380
+lo que es la hierba baja
+
+318
+0:15:58.380 --> 0:16:00.380
+está como bajita, pero sí tiene
+
+319
+0:16:00.380 --> 0:16:02.380
+Estas cosas están un poco altas, pero eso no.
+
+320
+0:16:02.380 --> 0:16:04.380
+Eso no es nada.
+
+321
+0:16:04.380 --> 0:16:06.380
+Tiene pinta
+
+322
+0:16:06.380 --> 0:16:08.380
+que hace tiempo que no vienen
+
+323
+0:16:08.380 --> 0:16:10.380
+Las vacas por aquí
+
+324
+0:16:10.380 --> 0:16:12.380
+La cuestión es si
+
+325
+0:16:12.380 --> 0:16:14.380
+acampo aquí en el campo o
+
+326
+0:16:14.380 --> 0:16:16.380
+me voy un poco detrás aquí a los árboles.
+
+327
+0:16:16.380 --> 0:16:18.380
+Sí.
+
+328
+0:16:18.380 --> 0:16:20.380
+Yo creo que si siento como algún tractor de fondo
+
+329
+0:16:22.380 --> 0:16:24.380
+y una campana
+
+330
+0:16:24.380 --> 0:16:26.380
+de algún ganado,
+
+331
+0:16:26.380 --> 0:16:28.380
+Pero bueno, debe estar
+
+332
+0:16:28.380 --> 0:16:30.380
+Lejos. Vale, sí, sí, sí, sí.
+
+333
+0:16:30.380 --> 0:16:32.380
+Me pongo por ahí.
+
+334
+0:16:32.380 --> 0:16:34.380
+Pues ya lo tenemos.
+
+335
+0:16:34.380 --> 0:16:36.380
+Muy bonito esta hora
+
+336
+0:16:36.380 --> 0:16:38.380
+Con los restos
+
+337
+0:16:38.380 --> 0:16:40.380
+de la puesta de sol de fondo.
+
+338
+0:16:40.380 --> 0:16:42.380
+Este prado
+
+339
+0:16:42.380 --> 0:16:44.380
+me estáis viendo aquí un poco
+
+340
+0:16:44.380 --> 0:16:46.380
+por encima de las hierbas.
+
+341
+0:16:46.380 --> 0:16:48.380
+Ha sido un gran día hoy.
+
+342
+0:16:48.380 --> 0:16:50.380
+Ha sido un gran día. Resumen 44 km
+
+343
+0:16:50.380 --> 0:16:52.380
+y 1.000
+
+344
+0:16:52.380 --> 0:16:54.380
+metros de desnivel positivo.
+
+345
+0:16:54.380 --> 0:16:56.380
+Una etapa
+
+346
+0:16:56.380 --> 0:16:58.380
+de las contusiones de hoy.
+
+347
+0:16:58.380 --> 0:17:00.380
+Pero mira,
+
+348
+0:17:00.380 --> 0:17:02.380
+qué cosa, ¿eh?
+
+349
+0:17:02.380 --> 0:17:04.380
+La parte más dura del día ha sido la carretera,
+
+350
+0:17:04.380 --> 0:17:06.380
+que ha sido la más fácil porque hay todo plan.
+
+351
+0:17:06.380 --> 0:17:08.380
+Y la parte más dura, que ha sido la subida esta de aquí,
+
+352
+0:17:08.380 --> 0:17:10.380
+Fue lo que se me hizo
+
+353
+0:17:10.380 --> 0:17:12.380
+más fácil
+
+354
+0:17:12.380 --> 0:17:14.380
+Porque es muy
+
+355
+0:17:14.380 --> 0:17:16.380
+Es mejor caminar por aquí.
+
+356
+0:17:16.380 --> 0:17:18.380
+Es todo cosa del coco, ¿eh?
+
+357
+0:17:18.380 --> 0:17:20.380
+Sí, sí, sí, sí, sí.
+
+358
+0:17:22.380 --> 0:17:24.380
+Un perro. Siempre hay un perro.
+
+359
+0:17:24.380 --> 0:17:26.380
+Siempre hay un perro.
+
+360
+0:17:26.380 --> 0:17:28.380
+Después de
+
+361
+0:17:28.380 --> 0:17:30.380
+Cafés uno
+
+362
+0:17:30.380 --> 0:17:32.380
+Chai, me he tomado 4 o 5
+
+363
+0:17:32.380 --> 0:17:34.380
+hoy. Porque
+
+364
+0:17:34.380 --> 0:17:36.380
+El tema del partido es, por supuesto,
+
+365
+0:17:36.380 --> 0:17:38.380
+esto hace 1.000 horas ya. Parece que fuera
+
+366
+0:17:38.380 --> 0:17:40.380
+Hace tres días se habló del partido.
+
+367
+0:17:42.380 --> 0:17:44.380
+Y de dinero
+
+368
+0:17:44.380 --> 0:17:46.380
+15 euros.
+
+369
+0:17:46.380 --> 0:17:48.380
+15 euros por el tema
+
+370
+0:17:48.380 --> 0:17:50.380
+de la compra
+
+371
+0:17:50.380 --> 0:17:52.380
+esta más grande que he hecho. Sí, sí, sí, sí.
+
+372
+0:17:52.380 --> 0:17:54.380
+Y hablar, he
+
+373
+0:17:54.380 --> 0:17:56.380
+hablado... Sí, sí,
+
+374
+0:17:56.380 --> 0:17:58.380
+hoy con varios del Bar, tal, ponle
+
+375
+0:17:58.380 --> 0:18:00.380
+Hablé con 6 personas.
+
+376
+0:18:00.380 --> 0:18:02.380
+Bueno, más o menos nadie
+
+377
+0:18:02.380 --> 0:18:04.380
+Hablaba inglés, pero... lo de siempre.
+
+378
+0:18:04.380 --> 0:18:06.380
+Un poco frustrante, eh, eso de
+
+379
+0:18:06.380 --> 0:18:08.380
+No se puede comunicar bien con la gente.
+
+380
+0:18:08.380 --> 0:18:10.380
+Ahora vienen países que tampoco
+
+381
+0:18:10.380 --> 0:18:12.380
+la gente habla inglés. Bueno,
+
+382
+0:18:12.380 --> 0:18:14.380
+otra cosa. Mirad.
+
+383
+0:18:14.380 --> 0:18:16.380
+¿Qué? Hacía tiempo, eh,
+
+384
+0:18:16.380 --> 0:18:18.380
+que no me veíais con esto. Algunos quizás que os habéis
+
+385
+0:18:18.380 --> 0:18:20.380
+enganchado ahora a la aventura. No me habéis visto
+
+386
+0:18:20.380 --> 0:18:22.380
+nunca con eso. Es como una especie de jersey polar.
+
+387
+0:18:24.380 --> 0:18:26.380
+Bueno, es que, claro, es que hace un poco de frío.
+
+388
+0:18:26.380 --> 0:18:28.380
+Las mínimas de esta
+
+389
+0:18:28.380 --> 0:18:30.380
+noche serán 6 grados.
+
+390
+0:18:30.380 --> 0:18:32.380
+No pasa nada.
+
+391
+0:18:32.380 --> 0:18:34.380
+O sea, tengo ropa de sobra y saco
+
+392
+0:18:34.380 --> 0:18:36.380
+de sobras para aguantar estas temperaturas, pero
+
+393
+0:18:36.380 --> 0:18:38.380
+Hacía mucho tiempo que no estábamos
+
+394
+0:18:38.380 --> 0:18:40.380
+así. Y me atrevería
+
+395
+0:18:40.380 --> 0:18:42.380
+A lo mejor me estoy flipando, ¿vale?
+
+396
+0:18:42.380 --> 0:18:44.380
+Pero me atrevería a decir que
+
+397
+0:18:44.380 --> 0:18:46.380
+no volveré a pasar temperaturas
+
+398
+0:18:46.380 --> 0:18:48.380
+así, con el jersey y
+
+399
+0:18:48.380 --> 0:18:50.380
+tal, hasta que
+
+400
+0:18:50.380 --> 0:18:52.380
+Llegamos a Nepal.
+
+401
+0:18:52.380 --> 0:18:54.380
+Y en Nepal ya veremos.
+
+402
+0:18:54.380 --> 0:18:56.380
+A determinadas cotas. Ya veremos.
+
+403
+0:18:56.380 --> 0:18:58.380
+Y si no, ya en Nueva Zelanda.
+
+404
+0:19:00.380 --> 0:19:02.380
+Es largo, pero puede ser.
+
+405
+0:19:02.380 --> 0:19:04.380
+Puede ser así.
+
+406
+0:19:04.380 --> 0:19:06.380
+De acuerdo, la palabra del día turca
+
+407
+0:19:06.380 --> 0:19:08.380
+ha sido çorba, que lo he dicho
+
+408
+0:19:08.380 --> 0:19:10.380
+Por la mañana, que quiere decir sopa.
+
+409
+0:19:10.380 --> 0:19:12.380
+Bueno, no
+
+410
+0:19:12.380 --> 0:19:14.380
+Lo he dicho en el momento, pero es esta.
+
+411
+0:19:14.380 --> 0:19:16.380
+Y ya está.
+
+412
+0:19:16.380 --> 0:19:18.380
+Mañana sigo caminando por este
+
+413
+0:19:18.380 --> 0:19:20.380
+lugar tan bonito y esquivando, de momento,
+
+414
+0:19:20.380 --> 0:19:22.380
+cruz los dedos, los perros pastor.
+
+415
+0:19:22.380 --> 0:19:24.380
+Buenas noches.
