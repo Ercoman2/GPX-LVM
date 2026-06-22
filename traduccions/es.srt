@@ -1,1203 +1,1203 @@
-1
-00:00:00,000 --> 00:00:10,800
-La vuelta al mundo a pie, día 203. ¿Todo recogido? Son las 5:25.
+0:00:00.000,0:00:03.100
+La Vuelta al Mundo a Pie, día 204.
 
-2
-00:00:12,120 --> 00:00:20,020
-Os recuerdo que hoy tengo una carrera contra reloj para llegar a Samsun antes de las dos para recoger un Samsung.
+0:00:03.800,0:00:08.220
+Hoy es domingo, 21 de junio, y hoy ha llegado el verano.
 
-3
-00:00:21,000 --> 00:00:26,800
-Contratiempo de última hora. Se ha puesto a llover al este de aquí, que es donde vamos, hacia allí.
+0:00:08.660,0:00:12.100
+Hoy ha llegado el verano, pero no hacen tanto calor como en Cataluña,
 
-4
-00:00:26,800 --> 00:00:35,100
-Y de hecho he oído truenos. Los pájaros se han empezado a pelar. ¿Me enganchará? Podría ser.
+0:00:12.220,0:00:16.140
+que me han dicho que hoy, especialmente cuando veis esto el lunes,
 
-5
-00:00:37,160 --> 00:00:42,960
-Vamos, tenemos 8 horas infernales por delante.
+0:00:16.240,0:00:17.060
+Va a hacer un calor brutal.
 
-6
-00:00:56,800 --> 00:01:17,020
-Son las 6, de momento muy tranquilo, poco tráfico. Hoy es sábado 20 de junio, supongo que por eso hay menos tráfico.
+0:00:18.180,0:00:23.440
+Bueno, hoy es domingo y, pues, no camino, os lo dije ayer,
 
-7
-00:01:17,840 --> 00:01:24,020
-Y bueno, ayer os dije que tenía las piernas bastante bien, teniendo en cuenta que había hecho 58 kilómetros.
+0:00:23.700,0:00:26.880
+Estoy descansando en un hotel y mañana lunes retomo la marcha.
 
-8
-00:01:26,800 --> 00:01:37,220
-Fue meterme en la cama para descansar, bueno, en la cama, en el colchón, y entonces, buah, me empezaron a entrar todos los dolores de las piernas.
+0:00:27.480,0:00:29.080
+Cuando no camino, normalmente no hay vídeo,
 
-9
-00:01:37,840 --> 00:01:39,480
-Hoy no será un día fácil.
+0:00:29.080,0:00:32.400
+pero esta vez he decidido traeros un vídeo diferente,
 
-10
-00:01:43,720 --> 00:01:49,140
-Son las 7, casi 8 kilómetros, buen ritmo y ni rastro de lluvia.
+0:00:33.220,0:00:38.440
+que es el vídeo por el que me otorgaron la Beca Propulsión
 
-11
-00:01:49,620 --> 00:01:53,360
-Convendría parar para cargar un poco la batería, tomar un café.
+0:00:38.440,0:00:41.780
+para dar la vuelta al mundo a pie, Catalanes Sin Fronteras, en 2025.
 
-12
-00:01:53,360 --> 00:01:54,100
-¿Qué pitas?
+0:00:42.660,0:00:47.320
+Os pongo un poco de contexto para los que no sabéis de qué va esto,
 
-13
-00:01:56,800 --> 00:02:00,240
-Un café, que no lo he hecho, porque he salido pitando, no he ni desayunado.
+0:00:47.420,0:00:50.240
+esto lo expliqué al principio de La Vuelta al Mundo a Pie,
 
-14
-00:02:01,240 --> 00:02:07,480
-Pues he encontrado en el bar, pone cappuccino, 70 liras, y dice, no tenemos cappuccino.
+0:00:50.300,0:00:52.560
+pero algunos os lo habéis enganchado ahora y os lo cuento.
 
-15
-00:02:07,480 --> 00:02:08,480
-Dice, ah, vale.
-
-16
-00:02:08,480 --> 00:02:09,480
-Dice, nescafé.
-
-17
-00:02:09,480 --> 00:02:10,480
-Pues nescafé.
-
-18
-00:02:10,480 --> 00:02:13,480
-Nescafé es el café soluble, le llaman nescafé aquí.
-
-19
-00:02:13,480 --> 00:02:20,480
-Y luego una pastita, y están haciendo, bueno, aquí la batería cargando, y están haciendo el partido de Turquía, del Mundial.
-
-20
-00:02:20,480 --> 00:02:26,480
-Bueno, bueno, como tampoco me quedaré mucho rato, creo que no lo miraré más, ahora están en la media parte.
-
-21
-00:02:26,800 --> 00:02:33,800
-Son las ocho, nueve kilómetros y pico, he caminado poco, porque he estado allí en la cafetería, y he tenido un problema.
-
-22
-00:02:33,800 --> 00:02:38,800
-Porque, bueno, iba a pagar, le digo, tarjeta, por favor.
-
-23
-00:02:38,800 --> 00:02:40,800
-Me dice, no, no tengo.
-
-24
-00:02:40,800 --> 00:02:47,800
-Esto fallo mío, fallo mío 100%, porque claro, sabiendo que no tenía efectivo, lo sabía yo,
-
-25
-00:02:47,800 --> 00:02:51,800
-debería haber preguntado antes de entrar, o bueno, antes de pedir.
-
-26
-00:02:51,800 --> 00:02:54,800
-Le he dicho, ostras tú, lo siento.
-
-27
-00:02:54,800 --> 00:02:55,800
-¿Hay algún cajero por aquí?
-
-28
-00:02:55,800 --> 00:02:56,800
-¿Hay algún cajero por aquí?
-
-29
-00:02:56,800 --> 00:03:00,800
-He ido al cajero que había, y no sé qué le pasaba a este cajero,
-
-30
-00:03:00,800 --> 00:03:05,800
-que solo dejaba entrar dentro del cajero a la aplicación, entre comillas, enseñando el QR.
-
-31
-00:03:05,800 --> 00:03:09,800
-Aquí en Turquía tú puedes pagar con QR o con tarjeta.
-
-32
-00:03:09,800 --> 00:03:12,800
-Yo no tengo QR porque no tengo ningún banco turco.
-
-33
-00:03:12,800 --> 00:03:15,800
-He intentado poner la tarjeta y no entraba, no entraba la tarjeta.
-
-34
-00:03:15,800 --> 00:03:17,800
-Total, no he podido sacar.
-
-35
-00:03:17,800 --> 00:03:20,800
-He ido allí, le he dicho, y evidentemente, ¿qué ha pasado?
-
-36
-00:03:20,800 --> 00:03:25,800
-Es que me ha invitado, y con muy buena cara, quiero decir, en ningún momento se ha enfadado.
-
-37
-00:03:25,800 --> 00:03:27,800
-Pero lo siento, claro, porque...
-
-38
-00:03:27,800 --> 00:03:30,800
-Vale, seguimos caminando.
-
-39
-00:03:30,800 --> 00:03:32,800
-Diría que vamos bien.
-
-40
-00:03:47,800 --> 00:03:50,800
-A las 9, poco ha pasado a esta hora.
-
-41
-00:03:50,800 --> 00:03:53,800
-Como mucho, lo destacable sería que he visto el mar.
-
-42
-00:03:53,800 --> 00:03:56,800
-De hecho, podría desviarme e ir andando por el paseo marítimo,
-
-43
-00:03:56,800 --> 00:04:02,800
-pero esto supondría un desvío de, no sé, 400 metros o así,
-
-44
-00:04:02,800 --> 00:04:06,800
-y no me lo puedo permitir, tengo que llegar lo antes posible a Samsun.
-
-45
-00:04:06,800 --> 00:04:11,800
-Por cierto, Turquía ha perdido 0-1 contra Paraguay.
-
-46
-00:04:11,800 --> 00:04:15,800
-Lamentable, lamentable el papel de Turquía en este Mundial.
-
-47
-00:04:15,800 --> 00:04:19,800
-Le queda un partido, aún podría clasificarse (nota del editor: no, no se puede clasificar), pero debe ganar a Estados Unidos.
-
-48
-00:04:19,800 --> 00:04:20,800
-No lo sé.
-
-49
-00:04:20,800 --> 00:04:21,800
-Y...
-
-50
-00:04:21,800 --> 00:04:22,800
-Estaba escuchando...
-
-51
-00:04:23,800 --> 00:04:27,800
-Dice que el Sabadell sube a segunda división.
-
-52
-00:04:27,800 --> 00:04:30,800
-Felicidades a todos los sabadellenses.
-
-53
-00:04:30,800 --> 00:04:33,800
-El año que viene, Girona-Sabadell.
-
-54
-00:04:54,800 --> 00:04:57,800
-Las diez, llevo veinte kilómetros.
-
-55
-00:04:57,800 --> 00:05:03,800
-Ahora sí que me venía bien de camino y estoy en el paseo marítimo frente al Mar Negro.
-
-56
-00:05:03,800 --> 00:05:05,800
-Claro que sí.
-
-57
-00:05:05,800 --> 00:05:11,800
-Incluso el sol se ha escondido un poco y pasa aire bastante fresco.
-
-58
-00:05:11,800 --> 00:05:12,800
-Genial.
-
-59
-00:05:12,800 --> 00:05:15,800
-Quizás no puedo estar todo el rato por el paseo marítimo, pero que ahora que sean, no sé,
-
-60
-00:05:15,800 --> 00:05:18,800
-Una hora o dos ya estará perfecto.
-
-61
-00:05:18,800 --> 00:05:22,800
-Mucho mejor por aquí por el tema del ruido, sobre todo, de los coches.
-
-62
-00:05:22,800 --> 00:05:24,800
-La tranquilidad de no tener que estar...
-
-63
-00:05:24,800 --> 00:05:27,800
-Además esquivando coches, no, porque vas por la acera.
-
-64
-00:05:27,800 --> 00:05:29,800
-Pero vas a veces por el arcén, tal...
-
-65
-00:05:29,800 --> 00:05:32,800
-Algunos coches se ponen por el arcén, es como un poco peligroso.
-
-66
-00:05:32,800 --> 00:05:33,800
-Pero no es el único motivo, ¿eh?
-
-67
-00:05:33,800 --> 00:05:35,800
-También, tema olores.
-
-68
-00:05:35,800 --> 00:05:37,800
-O sea, claro, verano.
-
-69
-00:05:37,800 --> 00:05:38,800
-El verano está muy bien, ¿no?
-
-70
-00:05:38,800 --> 00:05:40,800
-Hace sol, tal, buena temperatura...
-
-71
-00:05:40,800 --> 00:05:43,800
-Pero, claro, el calor este, no solo aparte de aplatanarme a mí,
-
-72
-00:05:43,800 --> 00:05:47,800
-cuando el calor toca la basura, ya sea en un contenedor,
-
-73
-00:05:47,800 --> 00:05:52,800
-o sea, la basura que hay lanzada por allí que a veces las echan fuera y huele mal,
-
-74
-00:05:52,800 --> 00:05:59,800
-pues con el calor todo esto sube y huele mal.
-
-75
-00:05:59,800 --> 00:06:01,800
-Cada vez que paso por el lado de un contenedor es como...
-
-76
-00:06:01,800 --> 00:06:05,800
-También algún animal muerto por allí.
-
-77
-00:06:05,800 --> 00:06:07,800
-Claro, asqueroso.
-
-78
-00:06:07,800 --> 00:06:11,800
-Pero bueno, Turquía tampoco es un país tan malo en tema de olores.
-
-79
-00:06:11,800 --> 00:06:16,800
-Yo sé que en un futuro iremos a países donde será mucho peor.
-
-80
-00:06:16,800 --> 00:06:18,800
-Yo soy bastante sensible a esto.
-
-81
-00:06:18,800 --> 00:06:21,800
-Pero bueno, tú, yo aquí, a la vuelta al mundo a pie,
-
-82
-00:06:21,800 --> 00:06:23,800
-No puedo hacer nada con el dolor.
-
-83
-00:06:23,800 --> 00:06:26,800
-Al final es convivir con ellas.
-
-84
-00:06:26,800 --> 00:06:28,800
-Pero vosotros sí.
-
-85
-00:06:28,800 --> 00:06:30,800
-Con Aroma Mensual.
-
-86
-00:06:30,800 --> 00:06:36,800
-Aroma Mensual es un servicio de suscripción mensual de una empresa catalana
-
-87
-00:06:36,800 --> 00:06:41,800
-que te permite tener fragancias nuevas y sorprendentes cada mes.
-
-88
-00:06:41,800 --> 00:06:42,800
-Os cuento.
-
-89
-00:06:42,800 --> 00:06:46,800
-Mirad, con un pago muy económico mensual de 22 euros
-
-90
-00:06:46,800 --> 00:06:50,800
-con el primer envío te envían una fragancia
-
-91
-00:06:50,800 --> 00:06:52,800
-y el difusor.
-
-92
-00:06:52,800 --> 00:06:54,800
-El difusor te lo envían una vez y es muy fácil.
-
-93
-00:06:54,800 --> 00:06:58,800
-Tú cargas la fragancia allí, pum, con el cartucho que lleve, pum,
-
-94
-00:06:58,800 --> 00:07:01,800
-y durante un mes disfrutas de esta fragancia.
-
-95
-00:07:01,800 --> 00:07:05,800
-Siempre fragancias elegantes y sorprendentes.
-
-96
-00:07:05,800 --> 00:07:08,800
-Y aparte de eso te entregan una nota de cata.
-
-97
-00:07:08,800 --> 00:07:09,800
-Pues te dicen...
-
-98
-00:07:09,800 --> 00:07:10,800
-Me lo invento, ahora me lo estoy inventando, ¿eh?
-
-99
-00:07:10,800 --> 00:07:15,800
-Yo qué sé, esta fragancia tiene olor a pino y a canela.
-
-100
-00:07:15,800 --> 00:07:16,800
-No lo sé.
-
-101
-00:07:16,800 --> 00:07:19,800
-Y bueno, pues tú dices, tienes allí, puedes meter...
-
-102
-00:07:19,800 --> 00:07:21,800
-Esta me gusta, esta no...
-
-103
-00:07:21,800 --> 00:07:23,800
-Y al mes siguiente te envían otra.
-
-104
-00:07:23,800 --> 00:07:26,800
-También con otra nota de cata, una fragancia diferente.
-
-105
-00:07:26,800 --> 00:07:29,800
-Siempre muy elegante y sorprendente. Olores muy sorprendentes.
-
-106
-00:07:29,800 --> 00:07:33,800
-Entonces, esto lo puedes contratar para tu casa o para tu negocio
-
-107
-00:07:33,800 --> 00:07:37,800
-y al final vas, entre comillas, coleccionando estas notas de cata
-
-108
-00:07:37,800 --> 00:07:41,800
-y al final del año puedes decidir cuál te ha gustado más.
-
-109
-00:07:41,800 --> 00:07:44,800
-Yo, que soy una persona muy tecnológica
-
-110
-00:07:44,800 --> 00:07:46,800
-una de las cosas que me gusta es que tiene una aplicación
-
-111
-00:07:46,800 --> 00:07:48,800
-que tú puedes controlar desde el móvil.
-
-112
-00:07:48,800 --> 00:07:52,800
-Entonces puedes decidir si aumentas la intensidad
-
-113
-00:07:52,800 --> 00:07:54,800
-o reduces la intensidad de la fragancia.
-
-114
-00:07:54,800 --> 00:07:56,800
-Ellos ya te dan unas pautas.
-
-115
-00:07:56,800 --> 00:07:58,800
-Te dicen, mira, mételo a esta intensidad, más o menos,
-
-116
-00:07:58,800 --> 00:07:59,800
-Porque es algo normal.
-
-117
-00:07:59,800 --> 00:08:01,800
-Si quieres algo más, tal, tal, tal, tal.
-
-118
-00:08:01,800 --> 00:08:02,800
-Pero bueno, lo puedes controlar desde el móvil,
-
-119
-00:08:02,800 --> 00:08:04,800
-apagar, encender el difusor...
-
-120
-00:08:04,800 --> 00:08:05,800
-Está muy bien.
-
-121
-00:08:05,800 --> 00:08:06,800
-Y es muy fácil, muy fácil.
-
-122
-00:08:06,800 --> 00:08:08,800
-Cada vez que te envían una carga, pues,
-
-123
-00:08:08,800 --> 00:08:10,800
-la cambias la que te ponen por la que te dan
-
-124
-00:08:10,800 --> 00:08:11,800
-y ya está.
-
-125
-00:08:11,800 --> 00:08:12,800
-Súper, súper fácil.
-
-126
-00:08:12,800 --> 00:08:15,800
-Recordad, aromamensual.com.
-
-127
-00:08:15,800 --> 00:08:17,800
-Por 22 euros al mes, muy fácil.
-
-128
-00:08:17,800 --> 00:08:19,800
-Fragancias elegantes y sorprendentes.
-
-129
-00:08:31,800 --> 00:08:32,800
-Las once.
-
-130
-00:08:33,800 --> 00:08:35,800
-Llevo 23 kilómetros.
-
-131
-00:08:36,800 --> 00:08:38,800
-Muy bien este paseo marítimo.
-
-132
-00:08:38,800 --> 00:08:40,800
-La playa pone que tiene bandera azul.
-
-133
-00:08:41,800 --> 00:08:42,800
+0:00:53.200,0:00:53.700
 Vamos a ver.
 
-134
-00:08:42,800 --> 00:08:44,800
-Está bien la playa, pero...
+0:00:54.320,0:00:55.540
+Yo quería dar la vuelta al mundo a pie,
 
-135
-00:08:44,800 --> 00:08:46,800
-Hoy hace un poco de viento.
+0:00:55.540,0:00:58.360
+Es una idea que tenía desde el 2020, ¿no?
 
-136
-00:08:46,800 --> 00:08:47,800
-Ya iba a decir.
+0:00:59.080,0:01:05.160
+Pero nunca, no me atrevía, no me atrevía porque no tenía el dinero suficiente,
 
-137
-00:08:47,800 --> 00:08:48,800
-Tiene mucho oleaje.
+0:01:05.240,0:01:08.280
+porque, claro, es algo que requiere tener ahorros,
 
-138
-00:08:48,800 --> 00:08:50,800
-No es la típica cala, guapa.
+0:01:08.700,0:01:10.300
+Y claro, no me atrevía a hacerlo.
 
-139
-00:08:50,800 --> 00:08:51,800
-Pero bueno, sí, no, no.
+0:01:11.160,0:01:15.780
+Pero, en 2024, la Generalitat de Catalunya convocó unas becas
 
-140
-00:08:51,800 --> 00:08:52,800
-No lo es.
+0:01:15.780,0:01:18.760
+para creadores de contenido para hacer vídeos en formato largo,
 
-141
-00:08:52,800 --> 00:08:55,800
-Es una playa larga y tal.
+0:01:19.160,0:01:22.800
+Es decir, de YouTube, de más de cinco minutos, en catalán.
 
-142
-00:08:56,800 --> 00:08:58,800
-Pero para caminar va de lujo.
+0:01:23.580,0:01:26.881
+Y, bueno, yo tengo un canal de YouTube, tenía un canal de YouTube, ya lo tengo,
 
-143
-00:08:59,800 --> 00:09:01,800
-Yo creo que llegamos a tiempo, ¿eh?
+0:01:27.710,0:01:28.873
+y, ¡ostras!
 
-144
-00:09:01,800 --> 00:09:03,800
-Yo creo que llegamos a tiempo.
+0:01:28.873,0:01:32.660
+Era la oportunidad para dar la vuelta al mundo a pie con este apoyo económico, ¿no?
 
-145
-00:09:03,800 --> 00:09:08,800
+0:01:32.660,0:01:33.660
+Era mi oportunidad.
 
+0:01:33.660,0:01:36.260
+Y me presenté, presenté un vídeo, que es lo que pedían,
 
-146
-00:09:08,840 --> 00:09:09,200
+0:01:36.260,0:01:38.260
+y un proyecto, que es, bueno, un escrito,
 
+0:01:38.260,0:01:40.559
+y no me la dieron, en el 2024.
 
-147
-00:09:16,100 --> 00:09:16,800
+0:01:40.766,0:01:42.300
+Entonces, me quedé tan triste que dije,
 
+0:01:42.300,0:01:44.300
+Si me quedo tan triste,
 
-148
-00:09:17,800 --> 00:09:26,000
-Las doce
+0:01:44.300,0:01:46.300
+Es porque es la ilusión de mi vida.
 
-149
-00:09:26,000 --> 00:09:27,680
-He parado un poco
+0:01:47.500,0:01:49.500
+El año que viene, me vuelvo a presentar.
 
-150
-00:09:27,680 --> 00:09:30,460
-porque ya estoy muy cansado
+0:01:49.500,0:01:51.000
+Y si me la dan, lo hago.
 
-151
-00:09:30,460 --> 00:09:32,180
-Sobre todo las piernas
+0:01:51.000,0:01:53.000
+Y si no, también.
 
-152
-00:09:32,180 --> 00:09:33,900
-a ver
+0:01:53.000,0:01:56.000
+Entonces, bueno, esperé un año,
 
-153
-00:09:33,900 --> 00:09:35,580
-Quedan siete kilómetros
+0:01:56.000,0:01:59.000
+En abril de 2020,
 
-154
-00:09:35,580 --> 00:09:38,720
-y dos horas
+0:01:59.000,0:02:01.645
+es decir, hace un año y dos meses,
 
-155
-00:09:38,720 --> 00:09:39,840
-pero claro, yo no quiero llegar
+0:02:01.645,0:02:03.391
+Salió la convocatoria
 
-156
-00:09:39,840 --> 00:09:42,900
-a las dos clavado porque ya es cuando cierran la oficina
+0:02:03.391,0:02:05.000
+del año siguiente,
 
-157
-00:09:42,900 --> 00:09:44,240
-quiero llegar al menos
+0:02:05.000,0:02:07.000
+y decidí
 
-158
-00:09:44,240 --> 00:09:46,440
-media hora antes, veinte minutos antes
+0:02:07.000,0:02:09.000
+Esforzarme y hacer un mejor vídeo
 
-159
-00:09:46,440 --> 00:09:48,580
-también por si la oficina
-
-160
-00:09:48,580 --> 00:09:50,500
-no está donde dice
-
-161
-00:09:50,500 --> 00:09:52,200
-la dirección que tengo, para ser caso
-
-162
-00:09:52,200 --> 00:09:54,240
-entonces por eso
-
-163
-00:09:54,240 --> 00:09:55,340
-voy justo
-
-164
-00:09:55,340 --> 00:09:57,700
-teniendo en cuenta
-
-165
-00:09:57,700 --> 00:10:00,320
-que ya no paro
-
-166
-00:10:00,320 --> 00:10:02,580
-por lo tanto, voy justito
-
-167
-00:10:02,580 --> 00:10:04,220
-a ver si no hay ningún contratiempo
-
-168
-00:10:14,980 --> 00:10:15,740
-El uno
-
-169
-00:10:15,740 --> 00:10:16,420
-¡La una
-
-170
-00:10:16,420 --> 00:10:20,320
-Quedan tres kilómetros y una hora
-
-171
-00:10:20,320 --> 00:10:22,260
-para que cierre la oficina
-
-172
-00:10:22,260 --> 00:10:24,460
-y de repente, pum
-
-173
-00:10:24,460 --> 00:10:27,220
-dice que no puedo continuar por aquí
-
-174
-00:10:27,220 --> 00:10:29,660
-bueno, pues un pequeño contratiempo
+0:02:09.000,0:02:11.000
+Lo que hizo en 2024.
 
-175
-00:10:29,660 --> 00:10:32,460
-tengo que cruzar por este paso inferior
+0:02:11.000,0:02:13.000
+Y eso es lo que veréis ahora.
 
-176
-00:10:32,460 --> 00:10:34,220
-hacia el otro lado y
+0:02:13.000,0:02:15.000
+El Video
 
-177
-00:10:34,220 --> 00:10:35,160
-y ojalá seguir
+0:02:15.000,0:02:17.000
+que yo presenté
 
-178
-00:10:35,160 --> 00:10:37,360
-ei, voy muy justo
+0:02:17.000,0:02:19.000
+para las Becas Propulsión 2025.
 
-179
-00:10:37,360 --> 00:10:39,880
-voy muy justo, yo creo que llego a
+0:02:19.000,0:02:21.000
+¿Qué pedían? Pedían un episodio piloto
 
-180
-00:10:39,880 --> 00:10:40,960
-Menos de un cuarto, ¿no?
+0:02:21.000,0:02:22.493
+o un vídeo presentación.
 
-181
-00:10:40,960 --> 00:10:42,620
-uff, espero que esté
+0:02:22.493,0:02:24.586
+Yo hice las dos cosas. Un episodio piloto,
 
-182
-00:10:42,620 --> 00:10:43,920
-la oficina
+0:02:24.586,0:02:26.793
+y dentro de este episodio piloto veréis
 
-183
-00:10:43,920 --> 00:10:45,660
-allí
+0:02:26.793,0:02:29.000
+un pequeño video presentación
 
-184
-00:10:45,660 --> 00:10:46,360
-Donde dice el mapa
+0:02:29.000,0:02:31.000
+de unos tres minutos,
 
-185
-00:10:46,360 --> 00:10:48,200
-y que cierre
+0:02:31.000,0:02:33.000
+que es un vídeo muy similar, es casi igual
 
-186
-00:10:48,200 --> 00:10:49,380
-a la hora que dice que tiene que cerrar
+0:02:33.000,0:02:35.000
+a lo que hay en mi canal de YouTube.
 
-187
-00:10:49,380 --> 00:10:50,300
-Inshallah
+0:02:35.000,0:02:37.000
+Que hay un video presentación de tres minutos
 
-188
-00:10:50,300 --> 00:10:59,180
-La una y media
+0:02:37.000,0:02:39.000
+de la vuelta al mundo a pie, pues es algo similar.
 
-189
-00:10:59,180 --> 00:11:01,580
-34 kilómetros y pico
+0:02:39.000,0:02:41.000
+Pero el resto del vídeo es un episodio piloto
 
-190
-00:11:01,580 --> 00:11:02,520
-aquí lo tenemos
+0:02:41.000,0:02:43.000
+Que simula un día
 
-191
-00:11:02,520 --> 00:11:03,840
-vinga
+0:02:43.000,0:02:45.000
+a la vuelta al mundo a pie. Simula porque,
 
-192
-00:11:03,840 --> 00:11:07,660
-Hay que cruzar la calle
+0:02:45.000,0:02:47.000
+Por eso, cuando grabé el vídeo,
 
-193
-00:11:07,660 --> 00:11:08,620
-que no me atropellen
+0:02:47.000,0:02:49.000
+yo no estaba dando la vuelta al mundo a pie. Entonces,
 
-194
-00:11:08,620 --> 00:11:10,260
-ay, ay, ay, que me atropellen
+0:02:49.000,0:02:51.000
+tenía que enseñar como podía ser, más o menos,
 
-195
-00:11:10,260 --> 00:11:11,520
-y ahora
+0:02:51.000,0:02:53.000
+un día a la vuelta al mundo a pie.
 
-196
-00:11:11,520 --> 00:11:14,320
-para los coches también
+0:02:53.000,0:02:55.000
+Entonces, ¿qué hice? Cogí el coche
 
-197
-00:11:14,320 --> 00:11:15,760
-vinga
+0:02:55.000,0:02:57.000
+y me fui a la Cataluña Norte. Cataluña Norte,
 
-198
-00:11:15,760 --> 00:11:16,060
-vinga
+0:02:57.000,0:02:59.000
+administrativamente Francia,
 
-199
-00:11:16,060 --> 00:11:16,420
+0:02:59.000,0:03:01.000
+e hice
 
+0:03:01.000,0:03:03.000
+una supuesta etapa de la vuelta al mundo a pie
 
-200
-00:11:16,420 --> 00:11:17,020
-Hehe
+0:03:03.000,0:03:05.000
+Y la grabé.
 
-201
-00:11:17,720 --> 00:11:19,580
-hostia, estoy reventado
+0:03:05.000,0:03:07.000
+¿Qué pasa? Que, claro,
 
-202
-00:11:19,580 --> 00:11:20,960
-yo, estoy reventado
+0:03:07.000,0:03:09.530
+yo no estaba dando la vuelta al mundo a pie, como os digo, entonces
 
-203
-00:11:21,000 --> 00:11:21,940
-bre
+0:03:09.645,0:03:11.530
+Lo falseé.
 
-204
-00:11:21,940 --> 00:11:22,900
-Ahora que abre la puerta
+0:03:11.530,0:03:13.000
+Todo lo que verás es
 
-205
-00:11:22,900 --> 00:11:24,740
-Parece que sí
+0:03:13.000,0:03:15.000
+bastante falso.
 
-206
-00:11:24,740 --> 00:11:25,200
-dos
+0:03:15.000,0:03:17.000
+Por ejemplo,
 
-207
-00:11:25,200 --> 00:11:25,820
-treinta posa
+0:03:17.000,0:03:19.000
+Las acampadas,
 
-208
-00:11:25,820 --> 00:11:28,320
-perfecto
+0:03:19.000,0:03:21.000
+cronológicamente, están giradas.
 
-209
-00:11:29,240 --> 00:11:42,300
+0:03:21.000,0:03:23.000
+Como veis cada día, mis blogs
 
-
-210
-00:11:42,920 --> 00:11:43,740
-Bueno ahora
-
-211
-00:11:43,740 --> 00:11:44,360
-No puede estar dentro, ¿no?
-
-212
-00:11:44,360 --> 00:11:45,180
-
-
-213
-00:11:45,180 --> 00:11:45,840
-
-
-214
-00:11:46,060 --> 00:11:51,060
-¡Lo he conseguido! ¡Oh, madre mía!
-
-215
-00:11:54,060 --> 00:12:00,060
-Pues sí, sí que está. Tengo que decir que el paquete estaba muy, muy, muy bien empaquetado.
-
-216
-00:12:00,060 --> 00:12:09,060
-Quiero decir que genial. Lo he conseguido, de las cosas más duras y no diría absurdas, pero no hacía falta.
-
-217
-00:12:09,060 --> 00:12:15,060
-Quiero decir, siempre podría haber cogido un bus, pero me ha dado satisfacción poderlo conseguir a pie,
-
-218
-00:12:15,060 --> 00:12:17,060
-Sin necesidad de transporte.
-
-219
-00:12:17,060 --> 00:12:28,060
-Pues ahora tres kilómetros a pie hasta el hotel que me he cogido para los próximos dos días.
-
-220
-00:12:28,060 --> 00:12:30,060
-Pero mucho más relajadamente, espero.
-
-221
-00:12:45,060 --> 00:12:47,060
-
-
-222
-00:12:47,060 --> 00:12:49,060
-
-
-223
-00:12:49,060 --> 00:12:53,060
-
-
-224
-00:12:57,060 --> 00:13:00,060
-
-
-225
-00:13:00,060 --> 00:13:02,060
-
-
-226
-00:13:02,060 --> 00:13:04,060
-
-
-227
-00:13:04,060 --> 00:13:06,060
-
-
-228
-00:13:06,060 --> 00:13:08,060
-
-
-229
-00:13:08,060 --> 00:13:10,060
-
-
-230
-00:13:10,060 --> 00:13:12,060
-
-
-231
-00:13:12,060 --> 00:13:13,060
-
-
-232
-00:13:13,060 --> 00:13:42,100
-La habitación es muy pequeña.
-
-233
-00:13:43,060 --> 00:13:45,940
-Pero las vistas son buenas, sí, sí, sí, sí.
-
-234
-00:13:47,380 --> 00:13:48,940
-Bueno, tenemos aire acondicionado, también.
-
-235
-00:13:50,280 --> 00:13:51,940
-Y aquí estaré dos noches.
-
-236
-00:13:52,020 --> 00:13:53,140
-Me da cosa sentarme y todo.
-
-237
-00:13:54,520 --> 00:13:55,500
-Por lo sucio que estoy.
-
-238
-00:13:55,600 --> 00:13:56,380
-Hago el resumen ahora,
-
-239
-00:13:56,900 --> 00:13:58,200
-antes de ducharme y todo ello,
-
-240
-00:13:58,280 --> 00:14:00,440
-Porque así lo hice, ¿sabes?
-
-241
-00:14:01,900 --> 00:14:03,340
-38 kilómetros, hoy.
-
-242
-00:14:03,680 --> 00:14:06,220
-Son las tres menos cuarto.
-
-243
-00:14:07,400 --> 00:14:09,900
-Y me he tomado dos cafés.
-
-244
-00:14:11,100 --> 00:14:12,360
-No he hablado con nadie.
-
-245
-00:14:12,460 --> 00:14:13,040
-Bueno, sí, con una persona,
-
-246
-00:14:13,040 --> 00:14:14,480
-El del bar.
-
-247
-00:14:15,440 --> 00:14:17,100
-Y de refrescos, dos.
-
-248
-00:14:17,460 --> 00:14:18,120
-Dos, dos, dos.
-
-249
-00:14:18,980 --> 00:14:20,960
-Ah, y de dinero, pues, mira,
-
-250
-00:14:22,420 --> 00:14:23,460
-me he gastado
-
-251
-00:14:23,460 --> 00:14:24,880
-en supermercados
-
-252
-00:14:24,880 --> 00:14:27,080
-4 euros, y en este hotel
-
-253
-00:14:27,080 --> 00:14:29,260
-Cada noche me ha costado 22 euros.
-
-254
-00:14:29,340 --> 00:14:30,960
-En total, 44 las dos noches que haré
-
-255
-00:14:30,960 --> 00:14:32,200
-con desayuno incluido.
-
-256
-00:14:32,540 --> 00:14:35,040
-La habitación es pequeña, pero, ostras, yo creo que...
-
-257
-00:14:35,960 --> 00:14:37,300
-Muy bien, muy bien.
-
-258
-00:14:37,380 --> 00:14:39,580
-Esta vez lo he reservado por internet,
-
-259
-00:14:39,760 --> 00:14:41,200
-porque me ha parecido un buen precio
-
-260
-00:14:41,200 --> 00:14:41,940
-y ya está.
-
-261
-00:14:41,940 --> 00:14:43,940
-Atención, atención.
-
-262
-00:14:43,940 --> 00:14:45,940
-Cerveza.
-
-263
-00:14:45,940 --> 00:14:47,940
-¡Aaaaaah!
-
-264
-00:14:47,940 --> 00:14:49,940
-La celebración de los
-
-265
-00:14:49,940 --> 00:14:51,940
-5.000 kilómetros.
-
-266
-00:14:51,940 --> 00:14:53,940
-Que dije que no había encontrado
-
-267
-00:14:53,940 --> 00:14:55,940
-La cerveza ya está aquí, ya está.
-
-268
-00:14:55,940 --> 00:14:57,940
-Bueno, tú, pues...
-
-269
-00:14:57,940 --> 00:14:59,940
-Está, lo he conseguido,
-
-270
-00:14:59,940 --> 00:15:01,940
-Ya tengo dos móviles, ya puedo ver el Mundial.
-
-271
-00:15:01,940 --> 00:15:03,940
-Si quiero, por la noche,
-
-272
-00:15:03,940 --> 00:15:05,940
-puedo estar con un móvil editando y con el otro
-
-273
-00:15:05,940 --> 00:15:07,940
-Puedo tener puesto el Mundial.
-
-274
-00:15:07,940 --> 00:15:09,940
-Y si se me rompe este, la pantalla otra vez,
-
-275
-00:15:09,940 --> 00:15:11,940
-pues tengo el otro. En fin.
-
-276
-00:15:11,940 --> 00:15:13,940
-Está muy bien tener un segundo móvil.
-
-277
-00:15:13,940 --> 00:15:15,940
-Estoy más sucio, más sudado,
-
-278
-00:15:15,940 --> 00:15:17,940
-que yo qué sé. Y eso que me duché ayer, ¿eh?
-
-279
-00:15:17,940 --> 00:15:19,940
-Con una botella tal, como siempre.
-
-280
-00:15:19,940 --> 00:15:21,940
-Eso me lo tomaré después, cuando ya esté más limpio.
-
-281
-00:15:21,940 --> 00:15:23,940
-Tengo una mini nevera,
-
-282
-00:15:23,940 --> 00:15:25,940
-que creo que hay que conectar. No, está conectada.
-
-283
-00:15:25,940 --> 00:15:27,940
-De acuerdo, pues eso.
-
-284
-00:15:27,940 --> 00:15:29,940
-Mañana descanso. Mañana
-
-285
-00:15:29,940 --> 00:15:31,940
-No grabaré vídeo, pero eso no quiere decir que no haya vídeo.
-
-286
-00:15:31,940 --> 00:15:33,940
-Creo que
-
-287
-00:15:33,940 --> 00:15:35,940
-Voy a subir un vídeo, pero será un vídeo
-
-288
-00:15:35,940 --> 00:15:37,940
-diferente.
-
-289
-00:15:37,940 --> 00:15:39,940
-Especial.
-
-290
-00:15:39,940 --> 00:15:41,940
-No te lo esperes,
-
-291
-00:15:41,940 --> 00:15:43,940
-Este video.
-
-292
-00:15:43,940 --> 00:15:45,940
-Bueno, yo creo que
-
-293
-00:15:45,940 --> 00:15:47,940
-yo creo que
-
-294
-00:15:47,940 --> 00:15:49,940
-te ayudará a entender un poco el concepto
-
-295
-00:15:49,940 --> 00:15:51,940
-bien,
-
-296
-00:15:51,940 --> 00:15:53,940
-os ayudará a entender algunas cosas de la aventura
-
-297
-00:15:53,940 --> 00:15:55,940
+0:03:23.000,0:03:25.000
 de la vuelta al mundo a pie,
 
-298
-00:15:55,940 --> 00:15:57,940
-El origen de la aventura, podríamos decir.
+0:03:25.000,0:03:27.000
+el primer plano no es como me despierto
 
-299
-00:15:57,940 --> 00:15:59,940
-Aquí lo dejo.
+0:03:27.000,0:03:29.000
+y el último, como me dormí, acampado.
 
-300
-00:15:59,940 --> 00:16:01,940
-Buenas tardes.
+0:03:29.000,0:03:31.000
+En este caso,
 
-301
-00:16:01,940 --> 00:16:03,940
-Buenas noches. Hasta mañana.
+0:03:31.000,0:03:33.000
+la acampada que veis
+
+0:03:33.000,0:03:35.000
+En el primer video, en el segundo,
+
+0:03:35.000,0:03:37.000
+pasó
+
+0:03:37.000,0:03:39.000
+al final del día.
+
+0:03:39.000,0:03:41.000
+Y la acampada que veis
+
+0:03:41.000,0:03:43.000
+Al final del día
+
+0:03:43.000,0:03:45.000
+pasó
+
+0:03:45.000,0:03:47.000
+El día anterior por la noche.
+(Y no acampé, dormí en el coche)
+
+0:03:47.000,0:03:49.000
+Están girados.
+
+0:03:49.000,0:03:51.000
+Después, claro, yo no podía hacer una etapa
+
+0:03:51.000,0:03:53.000
+recta, porque después
+
+0:03:53.000,0:03:55.000
+tenía que volver al coche. Y tampoco estaba
+
+0:03:55.000,0:03:57.000
+yo para caminar, quiero decir, yo...
+
+0:03:57.000,0:03:59.000
+Mi objetivo era hacer el video. Entonces
+
+0:03:59.000,0:04:01.000
+lo que hice fue ir en coche a toda la ruta
+
+0:04:01.000,0:04:03.000
+e iba parando, donde veía
+
+0:04:03.000,0:04:05.000
+un paisaje bonito, con el coche,
+
+0:04:05.000,0:04:07.000
+paraba, ponía el trípode
+
+0:04:07.000,0:04:09.000
+y me grababa caminando.
+
+0:04:09.000,0:04:11.000
+Entonces, todo lo que veis que yo camino,
+
+0:04:11.000,0:04:13.000
+en realidad, he ido hasta allí con el coche,
+
+0:04:13.000,0:04:15.000
+He plantado la cámara
+
+0:04:15.000,0:04:17.000
+y he caminado. Lo único que es
+
+0:04:17.000,0:04:19.000
+La realidad es que las localizaciones son
+
+0:04:19.000,0:04:21.000
+correctas. Bueno, casi todas.
+
+0:04:21.000,0:04:23.000
+Todas las localizaciones son donde debe estar
+
+0:04:23.000,0:04:25.000
+en la Cataluña Norte,
+
+0:04:25.000,0:04:27.000
+En el centro de la ciudad, que es lo que verás en el vídeo.
+
+0:04:27.000,0:04:29.000
+Hay una que no es, que
+
+0:04:29.000,0:04:31.000
+Verás a un invitado especial.
+
+0:04:31.000,0:04:33.000
+una amiga que se llama Laia, que me ayudó
+
+0:04:33.000,0:04:35.000
+Grabar el vídeo.
+
+0:04:35.000,0:04:37.000
+No se llama María Rosa, porque el vídeo...
+
+0:04:37.000,0:04:39.000
+Bueno, ya lo veréis.
+
+0:04:39.000,0:04:41.000
+Me ayudó a grabar el vídeo y aquello
+
+0:04:41.000,0:04:43.000
+que veréis de aquella escena
+
+0:04:43.000,0:04:45.000
+que pretende ser un pueblo de Cataluña
+
+0:04:45.000,0:04:47.000
+Norte, en realidad es
+
+0:04:47.000,0:04:49.000
+Gironella.
+
+0:04:49.000,0:04:51.000
+Creo que no... creo que
+
+0:04:51.000,0:04:53.000
+se nota bastante que no es la Catalunya Nord, pero, bueno,
+
+0:04:53.000,0:04:55.000
+Yo qué sé.
+
+0:04:55.000,0:04:57.000
+Como ejemplo, coló.
+
+0:04:57.000,0:04:59.000
+Algunos diréis, Enric, esto es un fraude.
+
+0:04:59.000,0:05:01.000
+No, bueno, al final el objetivo
+
+0:05:01.000,0:05:03.000
+Enseñar cómo puede ser
+
+0:05:03.000,0:05:05.000
+un día a la vuelta al mundo a pie, ¿no? No era
+
+0:05:05.000,0:05:07.000
+caminar por
+
+0:05:07.000,0:05:09.000
+caminar. Visto a posteriori,
+
+0:05:09.000,0:05:11.000
+o sea, cuando presenté el vídeo quedé
+
+0:05:11.000,0:05:13.000
+bastante satisfecho, pero vista posteriori
+
+0:05:13.000,0:05:15.000
+Tengo que decir que, ostras,
+
+0:05:15.000,0:05:17.000
+tiene momentos que no me acaban
+
+0:05:17.000,0:05:19.000
+de gustar, momentos un poco "cringe",
+
+0:05:21.000,0:05:23.000
+pero, bueno, me va
+
+0:05:23.000,0:05:25.000
+Me dio la segunda posición.
+
+0:05:25.000,0:05:27.000
+No sé cuántas personas se presentaron a las becas
+
+0:05:27.000,0:05:29.000
+propulsión, creo que 400 personas o 300,
+
+0:05:29.000,0:05:31.000
+y quedé el segundo, por lo tanto,
+
+0:05:31.000,0:05:33.000
+al jurado,
+
+0:05:33.000,0:05:35.000
+Al jurado le gustó.
+
+0:05:35.000,0:05:37.000
+Pues eso,
+
+0:05:37.000,0:05:39.000
+Este es el video de presentación
+
+0:05:39.000,0:05:41.000
+de la vuelta al mundo a pie,
+
+0:05:41.000,0:05:43.000
+y mañana volvemos con los vídeos
+
+0:05:43.000,0:05:45.000
+normales de la actualidad.
+
+0:05:46.497,0:05:53.424
+Este vídeo es un episodio piloto del proyecto La vuelta al mundo a pie: Catalanes sin fronteras y simula lo que podría ser un día de ruta, la cual aún no ha empezado a fecha 30/4/25
+
+0:05:57.720,0:06:00.819
+Día 10 de La Vuelta al Mundo a Pie: Catalanes sin fronteras
+
+0:06:01.000,0:06:03.000
+Fantásticas vistas del Canigó
+
+0:06:03.000,0:06:05.000
+en esta noche fría de primavera.
+
+0:06:05.000,0:06:07.000
+Toca desmontar
+
+0:06:07.000,0:06:09.000
+Antes de que venga
+
+0:06:09.000,0:06:11.000
+un campesino enfurecido,
+
+0:06:11.000,0:06:13.000
+o peor,
+
+0:06:13.000,0:06:15.000
+Me atropelló un ciclista, que hoy es domingo.
+
+0:06:15.000,0:06:17.000
+Comer unas galletas
+
+0:06:17.000,0:06:19.000
+y hacia Narbona.
+
+0:06:19.000,0:06:21.000
+Todo recogido, ni rastro
+
+0:06:21.000,0:06:23.000
+que hemos dormido aquí. Hoy,
+
+0:06:23.000,0:06:25.000
+35 km en adelante,
+
+0:06:25.000,0:06:27.000
+pero antes, y ya que estamos en el día 10,
+
+0:06:27.000,0:06:29.000
+vamos a hacer memoria de qué va todo esto,
+
+0:06:29.000,0:06:31.000
+para los que se han incorporado.
+
+0:06:31.737,0:06:33.000
+Un sueño.
+
+0:06:40.562,0:06:43.000
+La madre de todas las aventuras.
+
+0:06:53.000,0:06:55.000
+La travesía de travesías.
+
+0:07:05.000,0:07:07.000
+Un reto imposible.
+
+0:07:22.082,0:07:23.806
+La vuelta al mundo a pie.
+
+0:07:23.806,0:07:25.737
+Catalanes sin fronteras.
+
+0:07:25.737,0:07:27.000
+Bienvenidos a Enric Adventures.
+
+0:07:27.000,0:07:29.000
+Os presento el proyecto más grande de mi vida.
+
+0:07:29.000,0:07:31.000
+La vuelta al mundo a pie, en catalán.
+
+0:07:31.000,0:07:33.000
+Un día descubrí que el caminar
+
+0:07:33.000,0:07:35.000
+Es la forma más primitiva de viajar.
+
+0:07:35.000,0:07:37.000
+La que nos conecta de manera más profunda
+
+0:07:37.000,0:07:38.562
+con la Tierra y las personas que la habitan.
+
+0:07:38.562,0:07:41.000
+Fruto de esta inquietud, abrí mi canal de YouTube
+
+0:07:41.000,0:07:43.000
+para compartir mis travesías e inspirar a otros
+
+0:07:43.000,0:07:45.000
+Al igual que otros me inspiraron a mí.
+
+0:07:49.000,0:07:51.000
+La ruta empezará en la plaza Catalunya de Barcelona.
+
+0:07:51.000,0:07:53.000
+Y cruzaré Europa por Francia, Italia, Eslovenia, Croacia,
+
+0:07:53.000,0:07:55.000
+Y cruzaré Europa por Francia, Italia, Eslovenia, Croacia,
+
+0:07:55.000,0:07:57.000
+Bosnia, Montenegro, Albania, Grecia
+
+0:07:57.000,0:07:59.000
+Bosnia, Montenegro, Albania, Grecia
+
+0:07:59.000,0:08:01.000
+y entraré en Asia por Estambul, Turquía.
+
+0:08:01.000,0:08:03.000
+Seguidamente subiré por el norte hacia Georgia
+
+0:08:03.000,0:08:05.000
+y luego Armenia e Irán,
+
+0:08:05.000,0:08:07.000
+Voy a tomar un avión hasta Pakistán.
+
+0:08:07.000,0:08:09.000
+Continuaré por India,
+
+0:08:09.000,0:08:11.000
+Los Himalayas atravesando Nepal
+
+0:08:11.000,0:08:12.516
+y bajando en Bangladesh.
+
+0:08:12.516,0:08:15.000
+En Dacca volaré hasta Tailandia, recorriendo el sudeste asiático
+
+0:08:15.000,0:08:17.898
+Desde Singapur, pasando por Malasia.
+
+0:08:17.898,0:08:20.000
+El tercer continente será Oceanía.
+
+0:08:20.000,0:08:21.000
+Caminaré por Nueva Zelanda
+
+0:08:21.000,0:08:23.000
+por el sendero enumerado "Te Araroa".
+
+0:08:23.000,0:08:25.990
+La parte más difícil del viaje será Sudamérica.
+
+0:08:25.990,0:08:27.000
+Empezando por Chile,
+
+0:08:27.000,0:08:29.000
+Iré hacia el norte siguiendo la Panamericana,
+
+0:08:29.000,0:08:31.000
+atravesando el desierto de Atacama,
+
+0:08:31.000,0:08:33.000
+Montañas del Perú, Ecuador
+
+0:08:33.000,0:08:35.000
+y bañándome las aguas del mar Caribe en Colombia.
+
+0:08:35.000,0:08:37.000
+Por último, volaré hasta Santiago de Compostela
+
+0:08:37.000,0:08:39.000
+para hacer el camino de Santiago
+
+0:08:39.000,0:08:41.000
+en sentido inverso hasta el punto de inicio final,
+
+0:08:41.000,0:08:43.000
+la plaza Catalunya de Barcelona.
+
+0:08:43.000,0:08:45.000
+De camino me encontraré a 20 catalanes
+
+0:08:45.000,0:08:47.000
+En 20 países diferentes
+
+0:08:47.000,0:08:49.000
+que me explicarán cómo viven la cultura catalana
+
+0:08:49.000,0:08:51.000
+Tan lejos de casa.
+
+0:08:51.000,0:08:53.000
+Todo ello lo documentaré al estilo
+
+0:08:53.000,0:08:55.000
+Enric Adventures, grabando, editando
+
+0:08:55.000,0:08:57.000
+y subiendo los vídeos en ruta.
+
+0:08:57.000,0:08:59.000
+Y como no puede ser de otra manera,
+
+0:08:59.000,0:09:01.000
+en catalán.
+
+0:09:01.000,0:09:03.000
+26.232 kilómetros,
+
+0:09:03.000,0:09:05.000
+4 continentes y 3 años.
+
+0:09:05.000,0:09:07.000
+Durmiendo en tienda de campaña
+
+0:09:07.000,0:09:09.000
+y cocinando con hornillo.
+
+0:09:09.611,0:09:10.222
+ESTA OTOÑO
+
+0:09:11.622,0:09:13.507
+Sí, mamá, comeré bien, sí...
+
+0:09:15.188,0:09:17.000
+LA VUELTA AL MUNDO A PIE
+
+0:09:17.000,0:09:19.000
+Acompañadme.
+
+0:09:33.000,0:09:35.000
+¿Qué? Acollonando, ¿eh?
+
+0:09:35.000,0:09:37.000
+Próxima parada en Narbona.
+
+0:09:37.000,0:09:39.000
+Hoy no llegaré.
+
+0:09:39.000,0:09:40.000
+Me quedaré dos días.
+
+0:09:40.000,0:09:42.734
+Hoy pasaré cerca de Perpiñán, sin entrar
+
+0:09:43.000,0:09:44.217
+Y si el tiempo respeta,
+
+0:09:44.217,0:09:47.000
+tendremos unas fantásticas vistas del Rosellón.
+
+0:09:51.000,0:09:53.000
+8 de la mañana,
+
+0:09:53.000,0:09:55.000
+5 grados aquí en la torre de Batera.
+
+0:09:55.000,0:09:57.000
+Hay que aprovechar el día, que ya sabéis
+
+0:09:57.000,0:09:59.000
+que esta época del año se hace de noche pronto
+
+0:09:59.000,0:10:01.000
+y hay que conseguir el reto.
+
+0:10:03.000,0:10:05.000
+Apaciguada mañana,
+
+0:10:05.000,0:10:07.000
+Caminando por el Rosellón.
+
+0:10:07.000,0:10:09.000
+Una comarca que forma parte del departamento francés
+
+0:10:09.000,0:10:11.000
+de los Pirineos Orientales,
+
+0:10:11.000,0:10:13.000
+Desde 1659,
+
+0:10:13.000,0:10:15.299
+cuando se firmó el Tratado de los Pirineos.
+
+0:10:15.737,0:10:17.000
+El impresionante macizo
+
+0:10:17.000,0:10:19.000
+El monte domina la llanura
+
+0:10:19.000,0:10:23.188
+alzándose hasta los 2.784 m desde cota cero
+
+0:10:23.188,0:10:25.000
+en sólo 20 km.
+
+0:10:25.000,0:10:27.000
+La distancia entre la base
+
+0:10:27.000,0:10:29.000
+y el pico se llama Prominencia
+
+0:10:29.000,0:10:31.737
+y la del Canigó es de las más grandes del Pirineo
+
+0:10:32.678,0:10:35.000
+Bulaternera. A ver si podemos conseguir
+
+0:10:35.000,0:10:37.000
+el reto de hoy. Os recuerdo que
+
+0:10:37.000,0:10:39.000
+me estoy planteando una especie de desafío
+
+0:10:39.000,0:10:41.000
+por cada país que pase
+
+0:10:41.000,0:10:43.963
+y el de Francia consiste en comer un cruasán cada día.
+
+0:10:43.963,0:10:47.000
+El de ayer estaba buenísimo.
+
+0:10:47.000,0:10:49.000
+No estoy encontrando nada.
+
+0:10:49.000,0:10:51.000
+Es que el pueblo es muy pequeño.
+
+0:10:51.000,0:10:53.000
+Ah, mira, le preguntaremos a esta chica aquí.
+
+0:10:53.000,0:10:55.000
+¿Perdona, perdona, que hablas catalán?
+
+0:10:55.000,0:10:57.000
+Hola, por supuesto. Mira, soy catalana yo.
+
+0:10:57.000,0:10:59.000
+¿Eres de aquí, de Cataluña Norte?
+
+0:10:59.000,0:11:01.000
+No, soy de Barcelona, soy "Pixapina".
+
+0:11:01.000,0:11:02.332
+Ah, mira, ya somos dos.
+
+0:11:02.332,0:11:05.000
+Ah, mira, qué bien, dos "pixapins" que se reencuentran por el camino.
+
+0:11:05.000,0:11:07.000
+Mira, estoy haciendo un vídeo de YouTube.
+
+0:11:07.000,0:11:09.000
+Ah, mira. ¿Te importa salir?
+
+0:11:09.000,0:11:11.000
+No, no, encantada, encantada.
+
+0:11:11.000,0:11:13.000
+¿Cómo te llamas? Maria Rosa.
+
+0:11:13.000,0:11:15.000
+Encantado, Maria Rosa. Igualmente.
+
+0:11:15.000,0:11:17.000
+Mira, que estoy en ruta
+
+0:11:17.000,0:11:19.000
+por Francia. Sí, muy bien.
+
+0:11:19.000,0:11:21.000
+Y me estoy planteando un reto personal, diario,
+
+0:11:21.000,0:11:23.000
+que es comer un croissant cada día
+
+0:11:23.000,0:11:25.000
+ya que estoy en Francia. Ah, caramba.
+
+0:11:25.000,0:11:27.000
+¿Lo has conseguido hasta ahora? Sí.
+
+0:11:27.000,0:11:29.000
+Sí, muy bien. Muy buenos.
+
+0:11:29.000,0:11:31.000
+Pero claro, aquí en este pueblo encuentro que
+
+0:11:31.000,0:11:33.000
+está todo cerrado. ¡Es que hoy es festivo, chico!
+
+0:11:33.000,0:11:35.184
+Chico es festivo, está todo cerrado.
+
+0:11:35.322,0:11:37.000
+Una panadería o algo. No, nada de nada.
+
+0:11:37.000,0:11:39.000
+Pero no te preocupes, porque casualmente
+
+0:11:39.000,0:11:41.000
+no. No. Casualmente yo tengo unos cruasanes
+
+0:11:41.000,0:11:43.000
+que he comprado esta mañana
+
+0:11:43.000,0:11:45.000
+en otro pueblo. No.
+
+0:11:45.000,0:11:47.000
+¡Ostras, cómo te lo curras! Y te ayudaré
+
+0:11:47.000,0:11:49.000
+a conseguir tu reto.
+
+0:11:49.000,0:11:51.000
+Todo sea por tus seguidores, ¿eh?
+
+0:11:51.000,0:11:53.000
+Uah. Por tus seguidores.
+
+0:11:53.000,0:11:55.000
+Me has salvado. Por tus seguidores.
+
+0:11:55.000,0:11:57.000
+Me has salvado. Mira, mira.
+
+0:11:57.000,0:11:59.000
+Qué bien de Dios de cruasanes. Ostras.
+
+0:11:59.000,0:12:01.000
+¿Ostras, que podría coger uno?
+
+0:12:01.000,0:12:03.000
+El que más te guste. Ostras.
+
+0:12:03.000,0:12:05.000
+Me has salvado, me has salvado.
+
+0:12:05.000,0:12:07.000
+Vamos a comer
+
+0:12:07.000,0:12:09.000
+¿Está bueno? Mmm.
+
+0:12:09.000,0:12:11.000
+Reto conseguido.
+
+0:12:12.059,0:12:16.109
+Dejando atrás Bulaternera, le demos caña que es tarde y quiere llover.
+
+0:12:19.000,0:12:21.000
+Una travesía tan larga como esta
+
+0:12:21.000,0:12:23.000
+No se puede planificar al 100%.
+
+0:12:23.000,0:12:25.000
+Cada paso, cada kilómetro, cada camino...
+
+0:12:25.000,0:12:27.000
+Tienes una idea general
+
+0:12:27.000,0:12:29.000
+de dónde quieres ir, pero cada día te enfrentas
+
+0:12:29.000,0:12:31.000
+a decenas de decisiones.
+
+0:12:31.000,0:12:33.000
+Como ahora.
+
+0:12:33.000,0:12:35.000
+El camino que había trazado inicialmente
+
+0:12:35.000,0:12:37.000
+Va por esa carretera.
+
+0:12:37.000,0:12:39.000
+Camino seguro, sin ningún problema.
+
+0:12:39.000,0:12:41.000
+Pero,
+
+0:12:41.000,0:12:43.000
+he visto este de aquí
+
+0:12:43.000,0:12:45.000
+que de adentra por medio del bosque
+
+0:12:45.000,0:12:46.401
+y parece más bonito, no encontraré coches.
+
+0:12:46.401,0:12:48.586
+Quizás hago un poco más de vuelta,
+
+0:12:48.586,0:12:51.000
+Pero un poco de aventura no ha matado nunca a nadie, ¿no?
+
+0:12:51.000,0:12:53.000
+Me arriesgo.
+
+0:12:56.495,0:12:58.264
+Tal vez el camino
+
+0:12:58.264,0:13:01.000
+Ahora se ha vuelto un poco recrecido.
+
+0:13:01.000,0:13:02.447
+Bueno, no pasa nada.
+
+0:13:02.447,0:13:05.000
+También es parte de la aventura.
+
+0:13:06.500,0:13:08.500
+Esto no se encuentra en el planning.
+
+0:13:08.984,0:13:10.428
+Tendría que hacer caso al track
+
+0:13:10.428,0:13:12.428
+y ahora como salgo de aquí.
+
+0:13:12.428,0:13:13.000
+Re.
+
+0:13:13.000,0:13:15.000
+Retirada.
+
+0:13:15.000,0:13:17.000
+Retirada por donde he venido
+
+0:13:17.000,0:13:17.987
+y he perdido 20 minutos.
+
+0:13:17.987,0:13:19.734
+Conclusión.
+
+0:13:19.734,0:13:22.079
+Seguir el track es de cobardes,
+
+0:13:22.079,0:13:24.079
+A veces es útil.
+
+0:13:38.086,0:13:41.560
+Subida empinada y ventosa hasta aquí.
+
+0:13:42.161,0:13:43.674
+Pero ha valido la pena, tú.
+
+0:13:43.674,0:13:45.694
+Vistas espectaculares de todo el Rosellón.
+
+0:13:45.694,0:13:47.000
+De allí venimos,
+
+0:13:47.000,0:13:48.516
+del macizo del Canigó.
+
+0:13:48.516,0:13:50.954
+Hemos atravesado todo el valle, hemos subido hasta aquí
+
+0:13:50.954,0:13:53.783
+y mirad, esto es Perpiñán
+
+0:13:53.783,0:13:55.783
+y lo de allí es la laguna de Salses.
+
+0:13:56.655,0:13:59.185
+Es una laguna costera bastante grande.
+
+0:13:59.185,0:14:00.655
+Tan grandes no tenemos en Catalunya.
+
+0:14:01.000,0:14:03.000
+Este tiene la particularidad
+
+0:14:03.000,0:14:06.036
+que hace 15 años una empresa cercana vertió uranio
+
+0:14:06.036,0:14:07.852
+Pero les pillaron y les pusieron una multa.
+
+0:14:07.852,0:14:11.000
+Tomarán algo y todo.
+
+0:14:11.000,0:14:13.000
+Último tramo del día de hoy.
+
+0:14:13.000,0:14:15.000
+Ahora ya, todo bajada.
+
+0:14:29.000,0:14:31.000
+Pues ya lo tendríamos, el día de hoy.
+
+0:14:31.000,0:14:33.000
+A las ocho de la tarde se hizo de noche.
+
+0:14:33.895,0:14:35.895
+Solo falta encontrar un lugar para acampar.
+
+0:14:35.895,0:14:37.595
+He mirado la vista satélite
+
+0:14:37.595,0:14:40.329
+y aquí parecía que era bastante plano y bastante escondido.
+
+0:14:40.329,0:14:43.572
+Mirad, iré hacia allí a ver que tal.
+
+0:14:44.148,0:14:45.872
+Aquí está perfecto, tú.
+
+0:14:45.872,0:14:47.872
+Voy a plantar aquí.
+
+0:15:05.000,0:15:07.852
+Pues ha sido un buen día, al final.
+
+0:15:08.013,0:15:11.000
+Ni lluvia, ni viento, ni jabalíes,
+
+0:15:11.000,0:15:13.000
+ni ciclistas enfurecidos.
+
+0:15:13.000,0:15:14.401
+Ahora lo veréis en pantalla.
+
+0:15:14.401,0:15:16.539
+Han salido 39 kilómetros.
+
+0:15:16.539,0:15:17.503
+Ahí es nada.
+
+0:15:18.079,0:15:20.079
+900 metros de desnivel positivo.
+
+0:15:20.424,0:15:21.849
+Día bastante fuerte, al final.
+
+0:15:21.849,0:15:23.849
+Ahora, como cada día, toca encender el fuego.
+
+0:15:25.000,0:15:27.000
+Y, mientras se va haciendo la cena,
+
+0:15:27.000,0:15:29.000
+Voy contestando alguna
+
+0:15:29.000,0:15:30.194
+de sus preguntas.
+
+0:15:30.194,0:15:32.355
+Pepita Pons me pregunta:
+
+0:15:32.355,0:15:35.000
+¿has pensado hacerlo en bicicleta y no a pie?
+
+0:15:35.000,0:15:37.000
+Pues me gusta mucho que me hagas esta pregunta.
+
+0:15:37.000,0:15:39.000
+Mira, la bicicleta,
+
+0:15:39.000,0:15:41.000
+La principal ventaja que tiene
+
+0:15:41.000,0:15:43.000
+es que puedes ir más lejos
+
+0:15:43.000,0:15:45.000
+con menos tiempo. Vas más rápido,
+
+0:15:45.000,0:15:47.000
+Está claro. Pero tiene muchos inconvenientes
+
+0:15:47.000,0:15:49.000
+respeto a ir a pie. Hay lugares
+
+0:15:49.000,0:15:51.000
+No se puede llegar, como las montañas.
+
+0:15:51.000,0:15:53.000
+Y luego, todo el tema de la mecánica
+
+0:15:53.000,0:15:55.000
+es un problema. Se te pincha la rueda,
+
+0:15:55.000,0:15:57.000
+se te rompe la llanta,
+
+0:15:57.000,0:15:59.000
+la cadena... Todos estos problemas
+
+0:15:59.000,0:16:01.000
+mecánicos, yendo a pie, no los tienes.
+
+0:16:01.000,0:16:03.000
+No me gusta la velocidad.
+
+0:16:03.000,0:16:05.000
+Por lo tanto, la bicicleta queda descartada.
+
+0:16:05.000,0:16:07.000
+Y Eusebio nos escribe
+
+0:16:07.000,0:16:08.260
+siguiente:
+
+0:16:08.260,0:16:13.000
+Hola Enrique, soy un jubilado
+
+0:16:13.000,0:16:16.082
+Me encantan los videos y me gustan mucho.
+
+0:16:16.082,0:16:17.000
+He visto que estás
+
+0:16:17.000,0:16:19.000
+por la Cataluña Norte. Me puedes un favor
+
+0:16:19.000,0:16:21.000
+y ir al Lidl de Perpiñán
+
+0:16:21.000,0:16:23.000
+para mirar si tienen queso gruyere semi?
+
+0:16:23.000,0:16:25.000
+Que la semana que viene estaré por allí.
+
+0:16:25.000,0:16:27.000
+Gracias, majo!
+
+0:16:28.655,0:16:31.000
+Gracias por todos los comentarios.
+
+0:16:31.000,0:16:33.000
+Suscríbete para más episodios.
+
+0:16:33.000,0:16:34.470
+Ahora cenaré,
+
+0:16:34.470,0:16:37.000
+iré a dormir y mañana otro día
+
+0:16:37.000,0:16:39.000
+y otro y otro y otro y otro
+
+0:16:39.000,0:16:41.000
+Hasta este...
