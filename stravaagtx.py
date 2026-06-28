@@ -1,6 +1,7 @@
 from strava2gpx import strava2gpx
 from stravalib import Client
 from datetime import datetime
+from zoneinfo import ZoneInfo
 import requests
 import gpxpy
 import gpxpy.parser
@@ -197,6 +198,11 @@ async def main():
             
         with open("latest_file.txt", "w") as file:
             file.write(str(filename)+".gpx")
+        # Actualitzar la data de l'última actualització (hora de Madrid)
+        data_madrid = datetime.now(ZoneInfo("Europe/Madrid")).strftime("%-d/%-m/%y")
+
+        with open("data.txt", "w") as file:
+            file.write(data_madrid)
         with open("total_distance.txt", "r") as file:
             total_distance = float(file.read().strip())
         new_distance = calculate_distance(str(filename)+".gpx")
