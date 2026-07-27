@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ca">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -9,7 +10,8 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet.fullscreen@3.0.0/Control.FullScreen.css" />
 
   <style>
-    html, body {
+    html,
+    body {
       margin: 0;
       padding: 0;
       height: 100%;
@@ -28,6 +30,7 @@
     }
   </style>
 </head>
+
 <body>
   <div id="map"></div>
 
@@ -35,6 +38,65 @@
   <script src="https://unpkg.com/leaflet.fullscreen@3.0.0/Control.FullScreen.js"></script>
 
   <script>
+    function calcularDistancia([lat1, lon1], [lat2, lon2]) {
+      const R = 6371000; // Radi de la Terra en metres
+
+      const toRad = degrees => degrees * Math.PI / 180;
+
+      // Convertir latituds i longituds a radians
+      const φ1 = toRad(lat1);
+      const φ2 = toRad(lat2);
+      const Δφ = toRad(lat2 - lat1);
+      const Δλ = toRad(lon2 - lon1);
+
+      // Fórmula de Haversine
+      const a =
+        Math.sin(Δφ / 2) ** 2 +
+        Math.cos(φ1) *
+        Math.cos(φ2) *
+        Math.sin(Δλ / 2) ** 2;
+
+      // Calcular la distància
+      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+
+      return R * c;
+    }
+
+    function obtenirPrimerUltimPunt(features) {
+      let firstPoint = null;
+      let lastPoint = null;
+
+      for (const feature of features) {
+        if (!feature.geometry) continue;
+
+        if (feature.geometry.type === "LineString") {
+          const coords = feature.geometry.coordinates;
+          if (coords.length > 0) {
+            if (!firstPoint) firstPoint = coords[0];
+            lastPoint = coords[coords.length - 1];
+          }
+        }
+
+        if (feature.geometry.type === "MultiLineString") {
+          const segments = feature.geometry.coordinates;
+          if (segments.length > 0) {
+            const firstSegment = segments[0];
+            const lastSegment = segments[segments.length - 1];
+
+            if (firstSegment.length > 0 && !firstPoint) {
+              firstPoint = firstSegment[0];
+            }
+
+            if (lastSegment.length > 0) {
+              lastPoint = lastSegment[lastSegment.length - 1];
+            }
+          }
+        }
+      }
+
+      return { firstPoint, lastPoint };
+    }
+
     const map = L.map('map', {
       attributionControl: false,
       fullscreenControl: true,
@@ -96,7 +158,7 @@
 
         return Promise.all(
           geoJsonFiles.map(url =>
-            fetch(url).then(response => response.json())
+            fetch(url).then(response => response.json().then(data => ({ ...data, date: url.split('/').pop().split('.')[0] })))
           )
         );
       })
@@ -115,6 +177,11 @@
           if (layer.getBounds && layer.getBounds().isValid()) {
             bounds.extend(layer.getBounds());
           }
+
+          const { firstPoint, lastPoint: endPoint } = obtenirPrimerUltimPunt(geoJsonData.features);
+
+          geoJsonData.firstPoint = firstPoint;
+          geoJsonData.lastPoint = endPoint;
 
           geoJsonData.features.forEach(feature => {
             if (!feature.geometry) return;
@@ -151,10 +218,35 @@
 
           L.marker([lastPoint[1], lastPoint[0]], { icon: customIcon }).addTo(featureGroup);
         }
+
+        // Afegir línies als gaps entre geojsons majors a 500 metres
+        for (let i = 0; i < allGeoJsonData.length - 1; i++) {
+          const currentData = allGeoJsonData[i];
+          const nextData = allGeoJsonData[i + 1];
+          const currentLastPoint = currentData.lastPoint;
+          const nextFirstPoint = nextData.firstPoint;
+
+          if (currentLastPoint && nextFirstPoint) {
+            const distance = calcularDistancia(
+              [currentLastPoint[1], currentLastPoint[0]],
+              [nextFirstPoint[1], nextFirstPoint[0]]
+            );
+            if (distance > 500) {
+              L.polyline(
+                [
+                  [currentLastPoint[1], currentLastPoint[0]],
+                  [nextFirstPoint[1], nextFirstPoint[0]]
+                ],
+                { color: 'red', weight: 4, dashArray: '5, 5' }
+              ).addTo(featureGroup);
+            }
+          }
+        }
       })
       .catch(error => {
         console.error("Error carregant dades:", error);
       });
   </script>
 </body>
+
 </html>
