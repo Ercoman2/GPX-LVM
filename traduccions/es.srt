@@ -1,787 +1,1004 @@
 1
-00:00:00,280 --> 00:00:05,040
-La vuelta al mundo a pie, día 261.
+00:00:00,000 --> 00:00:04,100
+La vuelta al mundo a pie, día 262.
 
 2
-00:00:05,279 --> 00:00:09,400
-Bueno, este es el nuevo sombrero que tengo, que me he comprado. Se puede poner así...
+00:00:04,100 --> 00:00:05,900
+Siempre hay perros, tú.
 
 3
-00:00:09,400 --> 00:00:13,519
-...o se puede poner al revés para que no se vea la
-marca. Probablemente me lo ponga al revés,
+00:00:05,900 --> 00:00:07,560
+Cada noche, perros.
 
 4
-00:00:13,519 --> 00:00:18,080
-pero para que veáis que es de marca
-Patagonia. A ver, no me acaba tampoco
+00:00:07,560 --> 00:00:09,220
+Después no se ven, ¿eh?
 
 5
-00:00:18,080 --> 00:00:22,519
-de enamorar. Lo veo un poco demasiado, no sé, no mucho de
+00:00:09,220 --> 00:00:11,080
+Pero están ahí, porque ladran
 
 6
-00:00:22,519 --> 00:00:27,800
-senderismo, pero es verdad que
-protege mucho. Y así como tirado cabeza
+00:00:11,080 --> 00:00:12,660
+Bueno
 
 7
-00:00:27,800 --> 00:00:32,559
-Es mejor para el viento.
-Lo que me compré aquel de 3€ era
+00:00:12,660 --> 00:00:14,600
+Aparte de eso, una buena noche.
 
 8
-00:00:32,559 --> 00:00:37,200
-demasiado recto y cuando venía un poco viento, volaba. Tiene también por ahí para
+00:00:14,600 --> 00:00:17,000
+Son las 6 y 37
 
 9
-00:00:37,200 --> 00:00:42,079
-aguantar el viento y al Pamir apretará mucho...aquí en Tayikistán aprieta mucho el
+00:00:17,000 --> 00:00:19,700
+Hoy me despierto relativamente temprano.
 
 10
-00:00:42,079 --> 00:00:46,520
-solo, entonces...creo que puede estar bien, no sé, quizás me acaba gustando al
+00:00:19,700 --> 00:00:21,880
+Continuamos caminando
 
 11
-00:00:46,520 --> 00:00:51,840
-¿Qué más? La bandera, no la veis por aquí. A ver cuando tardo en
+00:00:21,880 --> 00:00:23,460
+por Tajikistán.
 
 12
-00:00:51,840 --> 00:00:57,000
-perderla. De acuerdo. ¿Qué más? Son las 10 y pico. Son
+00:00:23,460 --> 00:00:25,220
+Atención que pasa un tractor
 
 13
-00:00:57,000 --> 00:01:01,840
-las 10 y pico, largas. Y aún no he empezado a caminar. ¿Por qué?
+00:00:25,780 --> 00:00:26,560
+justo por delante.
 
 14
-00:01:01,840 --> 00:01:05,920
-Porque estoy pensando, probablemente vaya al médico. Ayer voy
+00:00:26,560 --> 00:00:28,560
+Creo que no me habrá visto
 
 15
-00:01:05,920 --> 00:01:11,520
-activar el protocolo del seguro y me dijeron: "Mira, chico, no si quieres ir al
+00:00:28,560 --> 00:00:29,840
+Pero si no me hubiera escondido tanto...
 
 16
-00:01:11,520 --> 00:01:15,119
-médico..." me pidieron los datos, lo que pasaba y tal. Dice, "Ve a este
+00:00:29,840 --> 00:00:32,620
+si me hubiera puesto al lado de allí en el campo y ya está
 
 17
-00:01:15,119 --> 00:01:18,759
-hospital? Lo que pasa es que no tenemos convenio con ellos, entonces tendrás que pagar
+00:00:32,620 --> 00:00:33,300
+Me habría visto seguro.
 
 18
-00:01:18,759 --> 00:01:22,560
-y luego volvemos al dinero." Y me han dicho la ubicación de
+00:00:33,300 --> 00:00:36,520
+Aún me habría saludado y me hubiera dado de desayunar,
 
 19
-00:01:22,560 --> 00:01:27,640
-hospital y puedo ir y yo creo que debería ir, aunque quizás no
+00:00:36,520 --> 00:00:38,340
+Conozco a esta gente.
 
 20
-00:01:27,640 --> 00:01:31,040
-esté tan mal, creo que debería ir porque es
+00:00:38,340 --> 00:00:40,820
+Yo intentando esquivar el de la máquina
 
 21
-00:01:31,040 --> 00:01:35,680
-probablemente el único, el último lugar en mucho tiempo, en un mes, donde poder
+00:00:40,820 --> 00:00:42,520
+y ha aparecido este hombre de aquí detrás
 
 22
-00:01:35,680 --> 00:01:42,280
-Un buen médico que hable inglés, ¿sabes?
-Porque fuera Dusambé ya
+00:00:42,520 --> 00:00:43,380
+con la carretilla
 
 23
-00:01:42,280 --> 00:01:48,680
-ya no...y si tengo algo que se debe mirar bien? Pues eso. Empezaré caminar
+00:00:43,380 --> 00:00:46,200
+que cuando me ha visto salir del
 
 24
-00:01:48,680 --> 00:01:52,040
-después del médico? Pues depende de lo que
-diga el médico empezaré a caminar hoy o
+00:00:46,200 --> 00:00:49,260
+campo este de manzanos
 
 25
-00:01:52,040 --> 00:01:55,880
-volveré al hotel porque ya he hecho el check-out y volveré a hacer el check-in, no lo sé.
+00:00:49,260 --> 00:00:51,260
+me ha mirado con una cara
 
 26
-00:01:55,880 --> 00:02:00,399
-En cualquier caso, antes de todo he decidido, como está cerca el hotel, venir
+00:00:51,260 --> 00:00:53,000
+como si estuviera viendo un fantasma
 
 27
-00:02:00,399 --> 00:02:05,960
-esta mezquita que es la mezquita de...no sé cómo se llama, es la primera o la
+00:00:53,000 --> 00:00:53,160
+
 
 28
-00:02:05,960 --> 00:02:11,039
-segunda, no lo tengo claro, mezquita más grande de Centro Asia y es enorme.
+00:00:53,160 --> 00:00:54,020
+"¿Qué hace una persona aquí?"
 
 29
-00:02:11,039 --> 00:02:17,120
-Es enorme, enorme. Vamos a echar un vistazo.
+00:00:54,020 --> 00:00:57,920
+y le he hecho el gesto de camping, dormir
 
 30
-00:02:17,120 --> 00:02:22,080
-Como les gusta el azul, eh? Pero esta blanca, esta tiene...blanca. Es
+00:00:57,920 --> 00:00:58,540
+ok
 
 31
-00:02:22,080 --> 00:02:28,480
-muy grande, ¿eh? Uy, me están diciendo...me tengo que... me tengo que vestir. No
+00:00:58,540 --> 00:00:59,540
+me ha dicho "ah, sí"
 
 32
-00:02:28,480 --> 00:02:33,599
-Puedo ir así con pantalones cortos.
-Vaya. No, no era, no era que tenía que
+00:00:59,540 --> 00:01:00,540
+ok, me ha dado la mano
 
 33
-00:02:33,599 --> 00:02:37,640
-ponerme, taparme los patalones cortos,
-sino que tenía que dejar la mochila, la he
+00:01:00,540 --> 00:01:01,040
+y todo bien
 
 34
-00:02:37,640 --> 00:02:41,879
-dejada allí. Hay una cámara de seguridad. Espero que no pase nada. No
+00:01:01,040 --> 00:01:01,540
+ya os digo:
 
 35
-00:02:41,879 --> 00:02:46,040
-debería pasar nada. Esta mezquita tiene una particularidad que es
+00:01:01,540 --> 00:01:02,540
+Si no hay ningún problema
 
 36
-00:02:46,040 --> 00:02:51,200
-que las mujeres de Tayikistán no pueden entrar. Sólo pueden entrar hombres de
+00:01:02,540 --> 00:01:03,540
+Si no hay ningún problema
 
 37
-00:02:51,200 --> 00:02:56,640
-Tayikistán, hombres extranjeros como yo y también mujeres extranjeras, pero mujeres
+00:01:32,540 --> 00:01:34,200
+pues son las 9 de la mañana
 
 38
-00:02:56,640 --> 00:03:00,159
-Tayikistán, no.
+00:01:34,200 --> 00:01:37,040
+y he caminado 11 kilómetros y medio.
 
 39
-00:03:01,280 --> 00:03:05,031
-No lo sé, no lo entiendo muy bien, pero bueno...OK.
+00:01:37,040 --> 00:01:37,620
+Está muy bien.
 
 40
-00:03:28,799 --> 00:03:33,120
-No se podía visitar la parte más grande y
+00:01:37,620 --> 00:01:40,780
+Ayer a esta hora todavía no me había ni levantado de la cama
 
 41
-00:03:33,120 --> 00:03:37,040
-donde están las lámparas y todo esto de la mezquita, la parte más grande no se podía
+00:01:40,780 --> 00:01:42,440
+muy bien
 
 42
-00:03:37,040 --> 00:03:42,080
-visitar.
-Pues vaya. Bueno, pues nada, tú, pues ya lo
+00:01:42,440 --> 00:01:44,340
+Ahora tocaría parar.
 
 43
-00:03:42,080 --> 00:03:46,022
-Hemos visto. Una mezquita grande, pero tampoco tiene mucho más.
+00:01:44,340 --> 00:01:46,780
+En este pueblo
 
 44
-00:03:49,599 --> 00:03:52,959
-Pues he venido al hospital. Ya verás,
+00:01:46,780 --> 00:01:48,020
+en teoría hay algo que parar,
 
 45
-00:03:52,959 --> 00:03:55,799
-ya verás qué "percal" será esto para que me atiendan, ¿eh? Ya verás cómo
+00:01:48,020 --> 00:01:49,640
+comer algo aunque sea
 
 46
-00:03:55,799 --> 00:04:00,519
-me arrepentiré. Ya verás, tú...
+00:01:49,640 --> 00:01:52,220
+Beber algo, refrescarse.
 
 47
-00:04:00,519 --> 00:04:04,959
-Surrealista.
-La experiencia médica más surrealista de
+00:01:52,220 --> 00:01:53,280
+Tengo que decir que a las 9 ya
 
 48
-00:04:04,959 --> 00:04:08,599
-mi vida. No he estado ni 10 minutos. Tal vez
+00:01:53,280 --> 00:01:56,140
+el sol directo durante dos horas ya
 
 49
-00:04:08,599 --> 00:04:13,519
-10, pero cinco de ellos ha sido charlar, charlar de de mi vuelta al mundo y tal.
+00:01:56,140 --> 00:01:57,540
+tengo el cuerpo bastante
 
 50
-00:04:13,519 --> 00:04:19,919
-El resto...bueno en fin. Entro en el edificio, digo "hello, english?" y aparece un hombre con
+00:01:57,540 --> 00:02:00,540
+escalfado
 
 51
-00:04:19,919 --> 00:04:27,479
-una bata de color azul. Ismail, este señor de aquí, un crack.
+00:02:00,540 --> 00:02:02,540
+Y ya empieza a apretar.
 
 52
-00:04:27,479 --> 00:04:33,280
-Y entonces empieza a hablar en inglés, le empiezo a contar lo que me pasa, tal.
+00:02:02,540 --> 00:02:04,540
+Agua con gas para hidratarme,
 
 53
-00:04:33,280 --> 00:04:39,199
-El tío, sin entrarme ni a un despacho de estos de médicos ni nada y bien,
+00:02:04,540 --> 00:02:06,540
+café para ver si evacuo
 
 54
-00:04:39,199 --> 00:04:44,160
-Pues empiezo a explicar los síntomas y me dice, "Bueno, no te preocupes,
+00:02:06,540 --> 00:02:08,540
+y pollo para alimentarme.
 
 55
-00:04:44,160 --> 00:04:48,880
-te tendrás que tomar unas medicinas, ahora vamos a la farmacia y
+00:02:08,540 --> 00:02:10,540
+Son las 9 de la mañana.
 
 56
-00:04:48,880 --> 00:04:54,320
-lo compramos"...y yo: ¿cómo? no lo entiendo.
-No entiendo. Mi país primero te tiene que
+00:02:10,540 --> 00:02:12,540
+¿Qué? ¿Quizás es demasiado eso para desayunar?
 
 57
-00:04:54,320 --> 00:05:01,960
-ver a un médico y luego pues te receta unas medicinas y pues te dice
+00:02:12,540 --> 00:02:14,540
+quizás, quizás sí
 
 58
-00:05:01,960 --> 00:05:05,520
-la frecuencia que te las has depender, te lo apunta a un papel, ¿no? Me dice: "No,
+00:02:14,540 --> 00:02:15,540
+Quizá sí.
 
 59
-00:05:05,520 --> 00:05:10,479
-pero aquí en Tayikistán lo hacemos diferente." Vamos a la farmacia que está aquí justo al lado
+00:02:15,540 --> 00:02:17,540
+Me apetecía.
 
 60
-00:05:10,479 --> 00:05:15,199
-y compro una una medicina. Y me dijo "esto lo tienes que tomar
+00:02:17,540 --> 00:02:20,540
+A ver, ¿qué tal la situación de la barriga?
 
 61
-00:05:15,199 --> 00:05:20,440
-pues tres veces al día, los primeros dos días, y luego, pues, sólo dos y cuando
+00:02:20,540 --> 00:02:22,540
+Pues hombre, entre poco y demasiado
 
 62
-00:05:20,440 --> 00:05:24,600
-Ya puedes dejar de tomarlo.
-Y tienes que ver muchos líquidos."
+00:02:22,540 --> 00:02:24,540
+Hace más de 24 horas que no
 
 63
-00:05:24,600 --> 00:05:29,039
-Y ya está y me lleva a la...dice, "Bueno, ahora ir a ver al líder
+00:02:24,540 --> 00:02:26,540
+no voy de vientre
 
 64
-00:05:29,039 --> 00:05:35,440
-del grupo de emergencias que es un tío que no hablaba inglés y nada, pues
+00:02:26,540 --> 00:02:28,540
+Tampoco creo que tenga hambre.
 
 65
-00:05:35,440 --> 00:05:39,240
-mira "Enric tal, me he tomado unas pastillas, ya está, adiós" Y bien,
+00:02:28,540 --> 00:02:29,540
+¿Significa eso que estoy bien?
 
 66
-00:05:39,240 --> 00:05:43,000
-luego he estado hablando con Ismail y ya está. Luego ha aparecido gente con
+00:02:29,540 --> 00:02:30,540
+que ya me he curado?
 
 67
-00:05:43,000 --> 00:05:46,880
-bata blanca que tenía más pinta de médico...pinta, sabes? Yo que sé, a veces
+00:02:30,540 --> 00:02:32,540
+¿O es que tengo un tapón ahí puesto?
 
 68
-00:05:46,880 --> 00:05:52,199
-la pinta es la pinta. Y le pregunto: "Ah, pero normalmente no la...claro, hay que ver a un médico".
+00:02:32,540 --> 00:02:34,540
+Yo espero que después de este café
 
 69
-00:05:52,199 --> 00:05:54,840
-dice, "No, yo soy técnico de ambulancias." Me dijo, me pareció
+00:02:34,540 --> 00:02:35,540
+me entren ganas
 
 70
-00:05:54,840 --> 00:06:00,560
-que me ha dicho esto y yo: "Ah, vale,
+00:02:35,540 --> 00:02:37,540
+y entonces ya os diré qué tal ha ido.
 
 71
-00:06:00,560 --> 00:06:04,880
-ok." Y los médicos han pasado y me han
+00:02:37,540 --> 00:02:40,540
+Otra vez me han invitado!
 
 72
-00:06:04,880 --> 00:06:09,520
-escuchado tan tranquilo, quiero decir no ha parecido como si fuera nada extraño.
+00:02:40,540 --> 00:02:42,540
+Muy bestia, muy bestia.
 
 73
-00:06:09,520 --> 00:06:14,280
-Y no me ha hecho ningún papel, evidentemente, ni ninguna factura, pero no me han cobrado nada.
+00:02:42,540 --> 00:02:44,540
+El café, el agua, el pollo...
 
 74
-00:06:14,280 --> 00:06:17,680
-Solo me han cobrado la medicina esa que me ha costado 2 euros y medio. Tú dirás...
+00:02:44,540 --> 00:02:46,540
+que estaba bueno,
 
 75
-00:06:17,680 --> 00:06:23,840
-...eso no hace falta que lo pase por el seguro, da igual, sabes, ¿eh? No sé, no
+00:02:46,540 --> 00:02:48,540
+estaba bien cocido,
 
 76
-00:06:23,840 --> 00:06:27,599
-sé, no sé, no sé. Me dice...tal...me ha dado el WhatsApp, nos hemos hecho la foto,
+00:02:48,540 --> 00:02:49,540
+estaba bien asado,
 
 77
-00:06:27,599 --> 00:06:32,400
-"...ya me lo vas a enviar, tal." No sé, muy surrealista, ¿no? A ver, si
+00:02:49,540 --> 00:02:50,540
+tenía la sal correcta;
 
 78
-00:06:32,400 --> 00:06:36,520
-estuviera grave, yo hubiera dicho, "No, no, por favor, déjame
+00:02:50,540 --> 00:02:52,540
+Este pollo estaba bueno.
 
 79
-00:06:36,520 --> 00:06:41,720
-sentarme con un médico y decirle y explicarle todo." Pero bueno como
+00:02:52,540 --> 00:02:53,540
+¡Y no me ha dejado pagar nada, el tío!
 
 80
-00:06:41,720 --> 00:06:46,639
-tampoco tengo eso, que tampoco es tal. Bueno,
+00:02:53,540 --> 00:02:54,540
+Le he caído simpático,
 
 81
-00:06:46,639 --> 00:06:49,759
-pues nada, no sé qué decir, no sé qué decir. Ahora tendré que escribir a los de
+00:02:54,540 --> 00:02:56,540
+me ha enseñado fotos de un viaje que él hizo
 
 82
-00:06:49,759 --> 00:06:53,479
-el seguro y decirles, "Mira, ha pasado esto, no me han cobrado nada, ni me han hecho
+00:02:56,540 --> 00:02:57,540
+en Londres
 
 83
-00:06:53,479 --> 00:06:57,800
-ningún papel, quiero decir, que ya podéis cerrar
-expediente."
+00:02:59,540 --> 00:03:01,540
+y ya está, no he pagado.
 
 84
-00:06:57,800 --> 00:07:02,919
-Vale, son las 12:30. Tal vez podría comer algo y luego
+00:03:01,540 --> 00:03:04,540
+Bueno, tema vientre, ¿no?
 
 85
-00:07:02,919 --> 00:07:07,960
-Empezar a caminar no sería mala idea.
-Pues mientras paso en la calle os cuento
+00:03:04,540 --> 00:03:06,540
+pues sí, he ido, he ido
 
 86
-00:07:07,960 --> 00:07:13,440
-que acabo de hacer mi última comida occidental en mucho tiempo. Hombre, Enrique, esto no se
+00:03:06,540 --> 00:03:08,540
+y ya no sale líquido.
 
 87
-00:07:13,440 --> 00:07:17,240
-vuelo por la barriga. El local estaba en
-condiciones higénicas perfectas. Por
+00:03:08,540 --> 00:03:10,540
+No es líquido.
 
 88
-00:07:17,240 --> 00:07:21,879
-Por lo tanto, eso es lo que cuenta para mí. ¿Qué más? He hablado con el del seguro Escribà
+00:03:10,540 --> 00:03:12,540
+ahora es...
 
 89
-00:07:21,879 --> 00:07:27,120
-que se ha quedado bastante...me ha dicho "Bueno, claro, es que
+00:03:12,540 --> 00:03:14,540
+tampoco diría que es sólido 100%
 
 90
-00:07:27,120 --> 00:07:32,759
-en estos países ya se sabe, ¿sabes?" Vale. Y ahora toca ir a Correos, que en
+00:03:14,540 --> 00:03:16,540
+pero bueno, ahora diría que bien
 
 91
-00:07:32,759 --> 00:07:37,000
-El principio es por ahí dentro, cosa que no acabo de entender. Yo creo que no, ¿eh?
+00:03:16,540 --> 00:03:18,540
+o sea que
 
 92
-00:07:37,000 --> 00:07:42,319
-Correos, sí, porque esto no tengo porque hacerlo, eh, pero hay gente que se ha
+00:03:18,540 --> 00:03:20,540
+Estoy satisfecho, estoy correcto.
 
 93
-00:07:42,319 --> 00:07:47,319
-dado de alta este agosto y no le envié la postal de Uzbekistán
+00:03:20,540 --> 00:03:22,540
+Iremos monitorizando.
 
 94
-00:07:47,319 --> 00:07:50,000
-porque la envié a principios de agosto. Entonces, hombre, siento que
+00:03:22,540 --> 00:03:23,540
+No os voy a decir nada a partir de ahora.
 
 95
-00:07:50,000 --> 00:07:55,919
-hayan pagado este mes, ¿no? Y no hayan recibido la postal porque no les
+00:03:23,540 --> 00:03:25,540
+Si no os digo nada, es que estoy bien.
 
 96
-00:07:55,919 --> 00:08:00,159
-la he enviado. Entonces, envío la de Tayikistán. Tengo mis dudas de que
+00:03:25,540 --> 00:03:28,540
+Si empeora ya os lo volveré a explicar
 
 97
-00:08:00,159 --> 00:08:04,280
-lleguen las de Tayikistán, pero bueno, tú, esta gente tendrá una postal muy
+00:03:28,540 --> 00:03:31,540
+Pero si no, diría que ya me he curado.
 
 98
-00:08:04,280 --> 00:08:08,080
-Es la de Tayikistán, ¿no?
-No he podido comprar más, he comprado
+00:03:31,540 --> 00:03:32,540
+Siguiente parada:
 
 99
-00:08:08,080 --> 00:08:11,479
-Unas 15 personas que se han dado de alta.
+00:03:32,540 --> 00:03:33,540
+El próximo pueblo,
 
 100
-00:08:11,479 --> 00:08:15,800
-Si la recibís, me avisáis, ¿eh? Que la de Tayikistán creo que es una postal muy
+00:03:33,540 --> 00:03:36,540
+que no sé si está a 10 o 5 km,
 
 101
-00:08:15,800 --> 00:08:19,360
-También lo envío a mis padres para que tengan la colección
+00:03:36,540 --> 00:03:38,540
+hay una tienda de megafondos
 
 102
-00:08:19,360 --> 00:08:20,001
-completa.
+00:03:38,540 --> 00:03:41,540
+que es la tienda, la compañía de móviles
 
 103
-00:08:24,360 --> 00:08:31,879
-Tres soms me ha costado cada sello. Qué barato, 30 céntimos postal internacional. Si lo
+00:03:41,540 --> 00:03:43,540
+de mi tarjeta SIM.
 
 104
-00:08:31,879 --> 00:08:35,440
-llego a saber, las envío todas desde aquí del mundo mundial. El país
+00:03:43,540 --> 00:03:45,540
+Me acaba de llegar un SMS que dice
 
 105
-00:08:35,440 --> 00:08:42,479
-barato, pero mucha diferencia, ¿eh?
-Compara con Georgia
+00:03:45,540 --> 00:03:48,540
+que si no paso por una tienda de megafon
 
 106
-00:08:42,479 --> 00:08:49,160
-que valían 2€ con 60, creo, cada postal aquí 30 céntimos y solo he enviado 15.
+00:03:48,540 --> 00:03:49,540
+en los próximos 5 días
 
 107
-00:08:49,160 --> 00:08:54,320
-Bueno, en fin. Vale, ya está. Estoy en el lugar donde ayer
+00:03:49,540 --> 00:03:52,540
+me desactivarán la cuenta (?)
 
 108
-00:08:54,320 --> 00:09:01,440
-terminé la ruta. Bastante diferente que ayer. Son las 2 del mediodía, 38
+00:03:52,540 --> 00:03:54,540
+porque se ve que tenía como 15 días
 
 109
-00:09:01,440 --> 00:09:07,560
-grados. Buena hora para empezar a caminar...Fresqueta.
+00:03:54,540 --> 00:03:56,540
+15 días de
 
 110
-00:09:07,560 --> 00:09:12,440
-La máxima del día de hoy. Ya se ve, ya se ve polvo que anoche no se veía.
+00:03:56,540 --> 00:03:57,540
+período de gracia.
 
 111
-00:09:12,440 --> 00:09:17,320
-Pues nada, a ver, hasta donde llego. Si hago 20 km ya será mucho porque supongo
+00:03:57,540 --> 00:03:59,540
+No lo he entendido demasiado bien
 
 112
-00:09:17,320 --> 00:09:22,959
-que tendré que ir parando. Let's go. A algunos os da mucha rabia que diga "let's go".
+00:03:59,540 --> 00:04:01,540
+el motivo, si yo contraté por 30 días.
 
 113
-00:09:22,959 --> 00:09:27,022
-Es que me gusta decir "let's go". También puedo decir vamos, ¿no? Vamos, vamos.
+00:04:01,540 --> 00:04:03,540
+Pues me pasaré por allí
 
 114
-00:10:01,640 --> 00:10:06,120
-Bueno, pues me he parado aquí ahora después de 10 km. He grabado otro vídeo ahora,
+00:04:03,540 --> 00:04:05,540
+y a ver qué me dicen.
 
 115
-00:10:06,120 --> 00:10:11,160
-pero el chico que me ha dado esta agua, muy simpático, no quiere salir al
+00:04:24,540 --> 00:04:37,540
+
 
 116
-00:10:11,160 --> 00:10:16,399
-vídeo. Entonces, pues, vuelvo a grabar y nada tú, pues muy amable la gente aquí. Voy
+00:04:40,540 --> 00:04:42,540
+la 1 y 26,
 
 117
-00:10:16,399 --> 00:10:22,320
-parando también en gasolineras a comprar agua y bien, pues porque me han dicho
+00:04:42,540 --> 00:04:44,540
+23 km, bastante bien.
 
 118
-00:10:22,320 --> 00:10:25,880
-que me tengo que hidratar mucho, pero además tengo sed. Tengo sed. Tengo que decir que hace
+00:04:44,540 --> 00:04:46,540
+He parado un buen rato en una gasolinera
 
 119
-00:10:25,880 --> 00:10:29,000
-mucho calor, pero lo llevo mejor
-que el otro día. Supongo que claro,
+00:04:46,540 --> 00:04:48,540
+donde se estaba muy fresco
 
 120
-00:10:29,000 --> 00:10:32,920
-el otro día estaba cansado, hacía seis días que no iba a un hotel y ahora pues, eh,
+00:04:48,540 --> 00:04:50,540
+y ahora vamos a megafono.
 
 121
-00:10:32,920 --> 00:10:37,800
-estoy más descansado, hace tres días que no camino y tal. Bien: dos. Entonces
+00:04:50,540 --> 00:04:52,540
+Creo que está aquí
 
 122
-00:10:37,800 --> 00:10:43,600
-mejor, mejor. Además, va cayendo la tarde,
-hay algunos árboles, van dando sombra
+00:04:52,540 --> 00:04:53,540
+Si no está aquí, está cerca
 
 123
-00:10:43,600 --> 00:10:48,399
-parece que la medicina está haciendo efecto. Porque no estoy yendo al baño.
+00:04:54,540 --> 00:04:58,740
+A ver si me solucionan esto, porque no puede ser que me quede sin internet.
 
 124
-00:10:48,399 --> 00:10:51,880
-No he ido ni una vez. Espero que luego no haga efecto rebote
+00:05:02,660 --> 00:05:05,180
+Ha costado un poco entendernos, porque no hablaba el inglés,
 
 125
-00:10:51,880 --> 00:10:56,279
-y me sale todo de golpe. Pero bueno, bueno, bien.
-Pues nada, descanso un rato con ellos y
+00:05:05,240 --> 00:05:06,880
+todo el tiempo con el traductor de Google,
 
 126
-00:10:56,279 --> 00:10:57,644
-sigo 10 km. Bastante bien.
+00:05:07,720 --> 00:05:11,060
+pero sí, me ha pedido el visado, le he dado el permiso GBAO,
 
 127
-00:10:58,004 --> 00:11:01,003
-Tengo un equipo de dos representantes que llevan las colaboraciones
+00:05:11,140 --> 00:05:13,560
+porque el visado no, no tengo un papel que sea el visado,
 
 128
-00:11:02,003 --> 00:11:05,079
-y ostras, se lo curran...tal, negocian los
+00:05:13,660 --> 00:05:15,080
+Tengo el permiso del PAMIR.
 
 129
-00:11:05,079 --> 00:11:09,639
-precios y ahora hacer algo que no debería hacer que es promocionar esta tienda
+00:05:15,780 --> 00:05:16,880
+Pero bueno, ya le ha sido suficiente,
 
 130
-00:11:09,639 --> 00:11:14,000
-gratis. Pero bueno, supongo que aquí no vendrá nadie. Me ha dicho "Eh tío, a ver si
+00:05:16,880 --> 00:05:21,880
+y creo que lo ha hecho, que me ha desactivado esto de...
 
 131
-00:11:14,000 --> 00:11:18,519
-promocionas nuestro negocio." Pues sí, mira, si tenéis algún problema y pasad
+00:05:21,880 --> 00:05:25,120
+(Vea la pavimentación)
 
 132
-00:11:18,519 --> 00:11:22,639
-por Tayikistán, venid a este negocio de aquí.
+00:05:25,880 --> 00:05:30,800
+Me ha desactivado el tema este que se anulará la SIM dentro de 5 días y ya está.
 
 133
-00:11:22,639 --> 00:11:27,720
-No sabía deciros tampoco dónde estoy. Estoy en las afueras de Dusambé
+00:05:31,660 --> 00:05:35,460
+Y además, hay algo que pasa aquí, en Tajikistán,
 
 134
-00:11:27,720 --> 00:11:33,240
-os darán agua y si venís de por mí, pues decidles que venís, que venís del
+00:05:35,540 --> 00:05:36,360
+Lo mismo ocurre con Turquía.
 
 135
-00:11:33,240 --> 00:11:38,399
-chico loco que camina, ya os entenderán. No
-he caminado ni
+00:05:37,520 --> 00:05:42,180
+que es que tú no puedes importar un teléfono de extranjero
 
 136
-00:11:38,399 --> 00:11:41,200
-dos kilómetros del otro lugar...
+00:05:42,180 --> 00:05:45,720
+sin pagar impuestos y ponerlo en un e-sim y ya está.
 
 137
-00:11:41,200 --> 00:11:45,519
-Nothing, nothing. This for me?
+00:05:46,240 --> 00:05:50,420
+Te dan 30 días para los turistas, pero si eres un local no vale,
 
 138
-00:11:45,519 --> 00:11:48,720
-Rahmat.
-Salom,
+00:05:50,580 --> 00:05:51,740
+Porque tienes que pagar.
 
 139
-00:11:48,720 --> 00:11:51,240
-Hitoy.
+00:05:51,880 --> 00:05:54,040
+Bueno, sí que puedes, pero tienes que pagar las tasas de importación.
 
 140
-00:11:51,240 --> 00:11:56,160
-Thank you very much. You are the best.
-Ni 2 kilómetros he caminado desde
+00:05:55,060 --> 00:05:56,880
+Entonces es muy loco porque te llega un SMS
 
 141
-00:11:56,160 --> 00:12:00,839
-el otro lugar y este señor me ha dado agua y un helado. Había visto una
+00:05:56,880 --> 00:06:01,540
+que te dice tu Samsung S24 con tu e-mail tal,
 
 142
-00:12:00,839 --> 00:12:03,440
-parada de helados y digo "No cojas porque es demasiado azúcar, pero claro, si
+00:06:02,300 --> 00:06:03,580
+Dentro de 30 días se bloqueará,
 
 143
-00:12:03,440 --> 00:12:06,959
-te lo regalan, ¿qué tienes que hacer?" Lo que tanta agua no necesito, pero bueno,...
+00:06:03,940 --> 00:06:05,460
+si no pagas las tasas, que no son pequeñas!
 
 144
-00:12:06,959 --> 00:12:10,023
-...la cargaré. Sí, ya está, ya la tengo.
+00:06:06,720 --> 00:06:07,800
+Es depende del valor del móvil.
 
 145
-00:12:23,160 --> 00:12:29,120
-Las 5 y 37 estoy en Vahdat.
+00:06:08,480 --> 00:06:11,520
+Y son, pueden ser cien y pico euros, o doscientos,
 
 146
-00:12:29,639 --> 00:12:37,320
-Es que suena mucho a Bagdad, ¿no? Bueno, es un pueblo que está adyacente a Dusambé. Hay de todo.
+00:06:11,720 --> 00:06:12,560
+Depende del valor del móvil.
 
 147
-00:12:37,320 --> 00:12:43,760
-Edificios altos, KFC y creo que es el último pueblo ya grande
+00:06:13,120 --> 00:06:15,680
+En Turquía esto pasaba, lo que pasa es que no es después de un mes,
 
 148
-00:12:43,760 --> 00:12:50,760
-Hasta...en bastantes días. Sí. Muy bien. Llevo bien el día.
+00:06:15,740 --> 00:06:16,900
+Si no fue después de tres meses,
 
 149
-00:12:50,760 --> 00:12:53,959
-Estoy bien. Aún queda hora y media. A ver si podemos llegar a los 20. Yo creo
+00:06:17,780 --> 00:06:18,860
+Los impuestos son brutales.
 
 150
-00:12:53,959 --> 00:12:59,279
-Que sí. Vamos bien, vamos bien. La gente muy simpática. Todo el mundo saluda.
+00:06:18,860 --> 00:06:21,860
+De hecho, los turcos bromean,
 
 151
-00:12:59,279 --> 00:13:01,012
-Buen humor y buen tiempo.
+00:06:21,880 --> 00:06:25,000
+y cuando tienen que comprar un móvil, o importarlo, o lo que sea,
 
 152
-00:13:36,760 --> 00:13:42,360
-Son las 7.He dejado atrás ya esta última pequeña población y toca acampar.
+00:06:25,620 --> 00:06:29,040
+Lo que dicen es la mitad para mí y la mitad para Erdogan.
 
 153
-00:13:42,360 --> 00:13:48,160
-Aquí hay unos campos que no tienen ninguna edificación alrededor, por
+00:06:29,840 --> 00:06:32,540
+Y los móviles de Turquía son megacaros por culpa de este impuesto.
 
 154
-00:13:48,160 --> 00:13:53,720
-tanto debería estar bien. Lo que sí que veo algún coche por allí
+00:06:33,260 --> 00:06:34,120
+¡Bueno, hello!
 
 155
-00:13:53,720 --> 00:13:58,920
-Probablemente no pase nada, pero no está de más esquivarlos.
+00:06:35,000 --> 00:06:36,120
+Entonces, ¿cuál es la trampilla?
 
 156
-00:13:58,920 --> 00:14:04,440
-Entonces, creo que ahora en breves me pondré aquí a la derecha y empezaré a
+00:06:37,360 --> 00:06:38,700
+Claro, yo tengo dos móviles.
 
 157
-00:14:04,440 --> 00:14:11,680
-Buscar. Este parece un buen lugar para entrar. Hay un campo que ya está segado.
+00:06:39,540 --> 00:06:42,860
+Yo tengo dos móviles, entonces, lo que había pensado yo era,
 
 158
-00:14:11,680 --> 00:14:15,800
-Vamos a entrar hacia aquí. Up!
+00:06:43,120 --> 00:06:47,680
+pues, compro un e-sim, no hace falta ahora, sino dentro de una semana o dos,
 
 159
-00:14:16,320 --> 00:14:20,040
-Bueno, bueno, bueno...
+00:06:48,220 --> 00:06:50,160
+a otro de megafono, por el otro móvil,
 
 160
-00:14:20,040 --> 00:14:23,959
-Muy bien. Uy, hay un perro allí. No pasa nada. Los perros aquí, en este país,
+00:06:50,560 --> 00:06:51,520
+Entonces, bueno.
 
 161
-00:14:23,959 --> 00:14:29,000
-no son problema. Pues ando un poco más. A ver qué encuentro. Salto
+00:06:51,880 --> 00:06:54,380
+Tengo internet en el otro móvil, pero, bueno, siempre puedo compartir, ¿no?
 
 162
-00:14:29,000 --> 00:14:35,199
-de un campo a otro. Este me da mejor espina. Ahora no matarme. Uy, uy, uy...
+00:06:55,380 --> 00:06:58,380
+Pero, bueno, este chico de aquí me ha dicho que tú puedes hacer el truco de tener dos SIMs
 
 163
-00:14:35,199 --> 00:14:39,880
-es muy empinado esto, ¿eh? A ver estos árboles. Espero que estén bien
+00:06:59,480 --> 00:07:00,380
+en el mismo móvil.
 
 164
-00:14:39,880 --> 00:14:44,360
-firmes. Ay, ya está. Vale,
+00:07:02,380 --> 00:07:06,380
+Me extraña, porque, en teoría, si te bloquea el e-mail del S24 (del móvil),
 
 165
-00:14:44,360 --> 00:14:49,480
-Pues a ver hacia allí. Uy, aquí parece perfecto, ¿eh?
+00:07:07,880 --> 00:07:09,380
+Debería bloquearte por todas las compañías.
 
 166
-00:14:49,480 --> 00:14:54,079
-Es una plantación de árboles frutales al parecer, manzano o así. Entonces claro los
+00:07:10,380 --> 00:07:11,880
+Pero, bueno, no lo sé.
 
 167
-00:14:54,079 --> 00:14:58,079
-árboles me protegen de la vista y como veis
+00:07:13,380 --> 00:07:17,380
+Pues, bueno, compraré la SIM por el otro móvil y lo probaré con éste, y si no, pues, tal.
 
 168
-00:14:58,079 --> 00:15:02,720
-la hierba está muy baja. Allí hay como una especie de camino, pero
+00:07:17,880 --> 00:07:21,380
+Tampoco estaré mucho más de 30 días totales en este país, yo creo,
 
 169
-00:15:02,720 --> 00:15:08,639
-bah, dudo que vaya mucha gente. Yo creo que me pongo por aquí, ¿eh? Uf, estoy cansado.
+00:07:21,380 --> 00:07:24,380
+Yo creo que en 40 ya estaré fuera.
 
 170
-00:15:08,639 --> 00:15:18,199
-Resumen, hoy 21 km, dos refrescos, he hablado con dos personas y ningún café.
+00:07:24,880 --> 00:07:30,380
+Y en los últimos 10 días creo que el internet será tan escaso que ni podré subir los vídeos.
 
 171
-00:15:18,199 --> 00:15:22,600
-Los últimos días que no os he dicho lo que me he gastado, pues en total me
+00:07:30,880 --> 00:07:32,380
+Eso es lo que me han dicho Noe y Òscar.
 
 172
-00:15:22,600 --> 00:15:29,560
-gastado 190€ que es bastante. El sombrero me costó 35 creo
+00:07:32,880 --> 00:07:34,380
+Pero, bueno, ya veremos.
 
 173
-00:15:29,560 --> 00:15:36,399
-y la noche de hotel cada noche 34 con desayuno incluido, pero era la habitación
+00:07:34,880 --> 00:07:38,380
+Ahora mismo, una y 45, sigo caminando.
 
 174
-00:15:36,399 --> 00:15:41,399
-Es la más barata de toda Dushanbe, o sea, de aquí para arriba.
+00:07:51,380 --> 00:07:54,880
+Hay un incendio aquí, junto a una gasolinera, tú.
 
 175
-00:15:41,399 --> 00:15:45,440
-Me ha sorprendido. Me ha sorprendido el precio. Sí, sí.
+00:07:55,880 --> 00:07:59,880
+Bueno, son 4 matorrales, eh, pero la gente pasa tan tranquila, tú.
 
 176
-00:15:45,440 --> 00:15:48,480
-Y tampoco era una gran habitación, pero tenía taza, tenía ducha
+00:08:00,380 --> 00:08:01,880
+Bueno, parece que ahora ya se está apagando.
 
 177
-00:15:48,480 --> 00:15:52,120
-Tenía aire acondicionado, que es lo que cuenta. Y wifi.
+00:08:02,880 --> 00:08:04,380
+Sí, parece que no fue nada.
 
 178
-00:15:52,120 --> 00:15:58,240
-Muy bien, hoy un día de transición, pero teniendo en cuenta que yo me
+00:08:04,380 --> 00:08:05,380
+Vaya calor que hace.
 
 179
-00:15:58,240 --> 00:16:04,600
-Un poco por el calor, pues bien, lo he podido superar...solo 21 km, pero está bien.
+00:08:06,380 --> 00:08:09,880
+Qué, oh, es que solo la sombra ya, estar a la sombra, oh.
 
 180
-00:16:04,600 --> 00:16:07,759
-Mañana más y deciros una cosa que es que
-hay mucha gente que me pregunta. Yo
+00:08:10,380 --> 00:08:11,380
+Es brutal, eh, uf.
 
 181
-00:16:07,759 --> 00:16:11,880
-pensaba que lo había dicho, pero quizás no
-Lo dijo, que al final del
+00:08:12,380 --> 00:08:13,380
+Voy a comprar agua.
 
 182
-00:16:11,880 --> 00:16:15,880
-vídeos no sale el logo de la Generalitat porque ya se acabó la beca, la beca
+00:08:38,380 --> 00:08:43,880
+Son las 4 y 36, llevo 35 kilómetros, que está muy bien, es lo mínimo que me estoy planteando cada día.
 
 183
-00:16:15,880 --> 00:16:19,519
-Propulsión, que es el dinero que me van
-donar para hacer estos videos. Se van
+00:08:44,380 --> 00:08:46,380
+Casi 800 metros de desnivel positivo.
 
 184
-00:16:19,519 --> 00:16:25,880
-terminar el 31 de julio y yo pues sigo haciendo los vídeos, pero ahora ya no
+00:08:47,380 --> 00:08:50,880
+Y me encuentro bien, estoy fuerte, no tengo ningún problema en la barriga y en ninguna parte.
 
 185
-00:16:25,880 --> 00:16:30,680
-están patrocinados, entre comillas, por la
-Generalidad, becados. Entonces, pues por
+00:08:51,380 --> 00:08:57,880
+Ya estoy motivado, mira, cambio de paisaje, ahora un poco de montaña, totalmente seco, pero también guapo.
 
 186
-00:16:30,680 --> 00:16:34,959
-esto pongo esto diferente al final. Pero todo igual, es que pensaba que lo había
+00:08:58,380 --> 00:09:00,880
+No sé si soy yo o qué, pero ha bajado un poco el calor.
 
 187
-00:16:34,959 --> 00:16:39,480
-Dicho, será todo igual, vídeos diarios, bueno, cuando pueda, lo de siempre.
+00:09:01,380 --> 00:09:04,880
+Estoy motivado, venga, vamos, adelante.
 
 188
-00:16:39,480 --> 00:16:45,720
-Frecuencia diaria, casi diaria, en catalán independientemente de si está la
+00:09:21,880 --> 00:09:25,380
+42,4 kilómetros, un maratón ya, son las 6 y 22.
 
 189
-00:16:45,720 --> 00:16:54,319
-Generalitat o si está otro.
-De acuerdo, señores. Hasta mañana. Buenas noches.
+00:09:25,880 --> 00:09:30,880
+Y encontré un sitio de campamento en la aplicación IOverlander, del que hablé varias veces.
 
 190
-00:16:58,120 --> 00:17:00,600
-He
+00:09:31,880 --> 00:09:33,880
+Está a 4 kilómetros y pico.
+
+191
+00:09:34,880 --> 00:09:37,880
+Lo que quiere decir que llegaré más tarde de las 7.
+
+192
+00:09:38,380 --> 00:09:43,880
+Siempre a las 7 prefiero acampar, porque a las 7 y media se va el sol, entonces tengo más tiempo.
+
+193
+00:09:44,380 --> 00:09:47,880
+Pero este lugar tiene pinta de molar, por lo tanto, intentaré llegar.
+
+194
+00:09:48,380 --> 00:09:49,880
+Mira que me he pillado.
+
+195
+00:09:50,880 --> 00:09:51,880
+Parece un Kebab.
+
+196
+00:09:52,380 --> 00:09:53,880
+Es un kebab sin carne.
+
+197
+00:09:54,880 --> 00:09:56,880
+Es un lugar que hacen pan, aquí.
+
+198
+00:09:57,880 --> 00:09:58,880
+Y hacían eso.
+
+199
+00:09:59,880 --> 00:10:00,880
+Y digo "ostras, ponme uno".
+
+200
+00:10:01,880 --> 00:10:03,880
+Y he dado un mordisco, está bastante bueno.
+
+201
+00:10:04,880 --> 00:10:09,880
+Lleva una salsita, también, tomate, pepino, como siempre, zanahoria y el pan.
+
+202
+00:10:10,380 --> 00:10:11,880
+Muy bien, tú, bastante sano.
+
+203
+00:10:12,380 --> 00:10:16,880
+Aunque pasaré por algún otro supermercado para comprar agua y desayuno,
+
+204
+00:10:17,380 --> 00:10:18,880
+Pues ya lo tendríamos.
+
+205
+00:10:25,880 --> 00:10:29,880
+(Pues al final sí que tenía carne)
+Pues el lugar que decía la aplicación estaba allí.
+
+206
+00:10:30,380 --> 00:10:32,880
+Creo que está muy bien, creo que es muy acertado.
+
+207
+00:10:32,880 --> 00:10:35,880
+Aquí tenemos el camino que nos llevará, vamos.
+
+208
+00:10:42,880 --> 00:10:45,880
+Los últimos kilómetros que hago antes de llegar al lugar de acampada,
+
+209
+00:10:46,380 --> 00:10:49,880
+que voy cargado con 2-3 litros de agua extra, las piernas lo notan, eh?
+
+210
+00:10:50,380 --> 00:10:51,880
+El lugar está muy bien, tú.
+
+211
+00:10:52,380 --> 00:10:54,880
+Hay que buscar el lugar plano, porque no en todas partes es plano, pero sí.
+
+212
+00:10:55,380 --> 00:10:58,880
+Sí, sí, sí, no hay demasiado polvo, que es el problema de este país,
+
+213
+00:10:59,380 --> 00:11:01,880
+que hay mucho polvo, aquí hay como hierba cortada.
+
+214
+00:11:02,880 --> 00:11:07,880
+Buen sitio, buen sitio. Además, buenas vistas, eso sí.
+
+215
+00:11:08,380 --> 00:11:11,880
+Y mañana a primera hora me como el sol a saco.
+
+216
+00:11:12,380 --> 00:11:14,880
+Pero muy bien, tú, contento.
+
+217
+00:11:18,880 --> 00:11:19,880
+Estoy cansado, ¿eh?
+
+218
+00:11:20,380 --> 00:11:23,880
+47 kilómetros y 1.000 de desnivel positivo.
+
+219
+00:11:24,380 --> 00:11:25,880
+Ahí es nada.
+
+220
+00:11:26,380 --> 00:11:29,880
+Dos refrescos, he hablado con dos personas de conversaciones,
+
+221
+00:11:29,880 --> 00:11:33,380
+Aunque "saludar" he saludado a muchísima gente.
+
+222
+00:11:33,880 --> 00:11:35,880
+Ningún café, creo que... No, sí, un café hoy.
+
+223
+00:11:36,380 --> 00:11:39,880
+Iba a decir... "Lo dejaría de decir", pero no, no, es que hoy he tomado un café.
+
+224
+00:11:40,380 --> 00:11:42,880
+Novedad. Y de dinero, nada, de dinero.
+
+225
+00:11:43,380 --> 00:11:47,880
+Me he gastado 6 euros, sí, sí, y aún gracias.
+
+226
+00:11:48,380 --> 00:11:50,880
+Muchos han sido aguas, que iba comprando durante el día aguas.
+
+227
+00:11:51,380 --> 00:11:54,880
+Bueno, ostras, estoy derrengado, ¿eh? Pero muy satisfecho.
+
+228
+00:11:55,380 --> 00:11:57,880
+De haber hecho hoy 47 kilómetros.
+
+229
+00:11:57,880 --> 00:11:59,880
+Muy bien, tú, muy bien.
+
+230
+00:12:00,380 --> 00:12:03,880
+Este lugar tiene pinchos, pinchos de plantas que están secas y pinchan.
+
+231
+00:12:04,380 --> 00:12:06,880
+Ya he mirado que bajo el colchón no hubiera.
+
+232
+00:12:07,380 --> 00:12:08,880
+Cuidado con eso.
+
+233
+00:12:09,380 --> 00:12:12,880
+Y... y también me han venido 4 perros.
+
+234
+00:12:13,380 --> 00:12:15,880
+No han venido hasta aquí, pero siento que empiezan a ladrar.
+
+235
+00:12:16,380 --> 00:12:18,880
+Siento que empieza, se empieza a levantar polvo allá a lo lejos.
+
+236
+00:12:19,380 --> 00:12:24,880
+Y, bueno, se han puesto a 50 metros y han dado la vuelta.
+
+237
+00:12:25,380 --> 00:12:26,880
+Eran 4 perros ladrando, ¿eh?
+
+238
+00:12:26,880 --> 00:12:28,380
+Y venían corriendo.
+
+239
+00:12:28,880 --> 00:12:32,380
+No sé si es que me han visto y han tenido miedo o alguien les ha llamado.
+
+240
+00:12:32,880 --> 00:12:34,880
+Siento vacas. No lo sé.
+
+241
+00:12:35,380 --> 00:12:39,380
+Hombre, 4 perros aquí defendiendo los rebaños me hubieran podido destrozar, ¿eh?
+
+242
+00:12:39,880 --> 00:12:42,380
+Yo creo que este país es bastante más tranquilo en este tema.
+
+243
+00:12:42,880 --> 00:12:45,380
+Sí, bueno, al menos ahora lo está siendo.
+
+244
+00:12:46,380 --> 00:12:48,380
+Bueno, ya estamos en otro entorno.
+
+245
+00:12:48,880 --> 00:12:53,380
+No os he enseñado mucho esta tarde, pero esto es bastante diferente de la parte plana de Dushanbé, ¿eh?
+
+246
+00:12:53,380 --> 00:12:55,880
+Y hace menos calor, sí.
+
+247
+00:12:56,380 --> 00:13:00,880
+De hecho, ahora me pasaré un agua por encima, pero hace un poco de vientecillo y sé que cogeré un poco de frío, ¿eh?
+
+248
+00:13:01,380 --> 00:13:02,880
+Tampoco nos flipamos.
+
+249
+00:13:03,380 --> 00:13:06,880
+Ahora mismo, pues, deben hacer 24 grados o así, pero...
+
+250
+00:13:07,380 --> 00:13:12,880
+Pero mucho mejor que el calor que hacía ayer y esta mañana.
+
+251
+00:13:14,380 --> 00:13:15,880
+Hasta mañana.
