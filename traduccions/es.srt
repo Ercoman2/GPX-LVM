@@ -1,2201 +1,791 @@
-1
-00:00:00,000 --> 00:00:07,900
-Buenos días! La vuelta al mundo a pie, día 263.
-
-2
-00:00:09,240 --> 00:00:13,040
-Bueno, ningún problema con perros, solo problemas sonoros, como siempre.
-
-3
-00:00:14,300 --> 00:00:21,480
-Una noche tranquila, bien de temperatura, me he podido tapar, todo seco, incluso la tienda.
-
-4
-00:00:22,820 --> 00:00:28,020
-Y nada, seguir caminando, back on the road, let's go, como os gusta.
-
-5
-00:00:30,000 --> 00:00:44,100
-Las 8 y cuarto, como habéis visto en el plan anterior, no llevo las polainas hoy.
-
-6
-00:00:44,640 --> 00:00:50,760
-Ayer tampoco las llevaba, decidí no ponerlas porque, bueno, dan un poco de calor, no mucho, pero un poco sí.
-
-7
-00:00:51,700 --> 00:00:56,400
-Y como no camino por terreno muy pedregoso, sino más bien asfalto y tal, bueno,
-
-8
-00:00:56,400 --> 00:00:59,400
-De momento no las pongo, así también.
-
-9
-00:01:00,000 --> 00:01:07,720
-A ver, sí, es verdad que ensucia mucho el calcetín, porque arena y polvo hay, pero estoy un poco más ventilado.
-
-10
-00:01:07,800 --> 00:01:12,880
-Bueno, hemos llegado a un pueblo con bastante cosa, pueblo de carretera.
-
-11
-00:01:14,000 --> 00:01:14,980
-Me arrolla el camión.
-
-12
-00:01:16,000 --> 00:01:18,300
-Claro, el siguiente restaurante está a unos 15 kilómetros.
-
-13
-00:01:19,640 --> 00:01:28,420
-Ahora sería momento de caminar, no de parar, pero pararé, pararé un rato, aunque no sea mucho, porque me apetece.
-
-14
-00:01:35,580 --> 00:01:38,600
-Buah, he comido mucho.
-
-15
-00:01:39,840 --> 00:01:42,720
-Hamburguesa con patatas, estaba buena, ¿eh?
-
-16
-00:01:43,480 --> 00:01:45,760
-Y las patatas bien hechas, ¿eh? Y la hamburguesa también, eh...
-
-17
-00:01:47,500 --> 00:01:50,040
-Pero, ostras, quizás esta hora no sé si hacía falta, ¿eh?
-
-18
-00:01:52,060 --> 00:01:53,300
-Bueno, tú ya hemos comido, ¿no?
-
-19
-00:01:54,160 --> 00:01:59,360
-A ver, para comer comer comeré algo seguro, pero esto ha sido la comida fuerte del día.
-
-20
-00:01:59,760 --> 00:02:10,000
-Son las 9 y cuarto.
-Bien, pues nada, caminando tranquilamente, estamos a bastante altura, ahora os pondré aquí la altitud, y entonces ahora toca bajar, desgraciadamente.
-
-21
-00:02:10,000 --> 00:02:17,000
-Todo lo que hemos subido ayer, mil metros, pues tocará bajarlos y luego volver a subir, mañana. Bueno, poco a poco.
-
-22
-00:03:00,000 --> 00:03:22,280
-Las 12 y media, cómo pica el sol.
-
-23
-00:03:23,240 --> 00:03:24,720
-Bueno, aquí tenemos una intersección.
-
-24
-00:03:24,720 --> 00:03:27,860
-El camino se divide entre esta carretera que sube hacia arriba
-
-25
-00:03:27,860 --> 00:03:31,620
-y esta otra carretera que bordea por aquí,
-
-26
-00:03:31,680 --> 00:03:34,040
-que podemos ver la montaña, la montaña, la
+0:00:00.000,0:00:09.060
+La vuelta al mundo a pie, día 264. Estoy en la parada de taxis del pueblo y me han venido todos los taxistas a decir
 
-27
-00:03:34,140 --> 00:03:35,880
-y luego más allá.
+0:00:09.060,0:00:14.320
+Dusambé, Dusambé, que yo no, no, no, Duxambe no, pero sí, pero sí quiero el taxi.
 
-28
-00:03:37,140 --> 00:03:39,680
-La carretera que va hacia arriba es tan nueva
+0:00:15.060,0:00:18.960
+Lo que no saben es que solo necesito que me conduzcan 3 kilómetros hasta la intersección.
 
-29
-00:03:39,680 --> 00:03:41,580
-Ni siquiera aparece en Google Maps.
+0:00:20.020,0:00:21.820
+¿Qué intersección, Enric? ¿De qué me estás hablando?
 
-30
-00:03:41,880 --> 00:03:43,000
-Bueno, esa es mi suposición.
+0:00:22.240,0:00:25.040
+A los que no vieron el vídeo de ayer no les voy a contar nada.
 
-31
-00:03:43,840 --> 00:03:45,820
-Esta es mi suposición de por qué no sale en Google Maps,
+0:00:25.160,0:00:26.340
+Mira el video de ayer y ya está.
 
-32
-00:03:45,920 --> 00:03:46,940
-porque es demasiado nueva, no lo sé.
+0:00:27.376,0:00:33.080
+Total, ahora les diré que sólo quiero que me conduzcan 3 kilómetros, a ver si no me mandan a hacer el ridículo...
 
-33
-00:03:47,900 --> 00:03:51,000
-El hecho es que no entiendo muy bien por qué lo han hecho,
+0:00:33.640,0:00:40.300
+Son 6 minutos de trayecto, he intentado negociar el precio, pero no me bajan de 30 SM, que son 3 euros.
 
-34
-00:03:51,080 --> 00:03:51,800
-me lo tendrían que explicar.
+0:00:40.620,0:00:46.600
+Bueno, ¿qué le vamos a hacer? En la capital esto cuesta nada, menos de un euro.
 
-35
-00:03:52,460 --> 00:03:55,060
-En el Mapy sí que sale, y en el Mapy sale que hay bastantes túneles,
+0:00:48.020,0:00:49.000
+3 euros, ya está.
 
-36
-00:03:55,240 --> 00:03:57,640
-Por lo tanto, no iré por aquí, si no iré a la carretera de abajo.
+0:00:49.960,0:00:54.540
+Muy bien, es que me da palo subir andando, me hace palísimo porque es subida y porque, hombre,
 
-37
-00:03:57,860 --> 00:04:00,840
-Y son bastante paralelas, una va por medio,
+0:00:54.540,0:00:56.280
+son 3 kilómetros de gratis que no tengo ganas de hacer
 
-38
-00:04:00,920 --> 00:04:02,700
-lo de estos túneles y tal, y la otra va por ahí abajo.
+0:00:56.340,0:00:57.160
+Let ' s go!
 
-39
-00:04:02,800 --> 00:04:06,040
-Supongo que, no lo sé, esta aquí abajo tenía poco ancha,
+0:01:05.580,0:01:10.160
+De acuerdo, pues en esta intersección es donde he recortado el track de Strava de ayer.
 
-40
-00:04:06,800 --> 00:04:09,880
-era, no sé, demasiado incómoda para los camiones,
+0:01:11.120,0:01:14.260
+Le damos al "play" y a caminar hacia allí.
 
-41
-00:04:10,420 --> 00:04:13,180
-quizás era demasiado cara de ensanchar,
+0:01:36.890,0:01:41.720
+Ya llevo 5 kilómetros y medio andados por esta carretera, todo subida.
 
-42
-00:04:13,640 --> 00:04:16,000
-y tenía problemas de deslizamientos, es mi suposición.
+0:01:42.740,0:01:48.160
+Ahora aquí hay un market donde me aprovisionaré de agua porque no sé cuándo será el siguiente market.
 
-43
-00:04:16,140 --> 00:04:17,200
-Y dijeron, mira, ¿sabes qué?
+0:01:49.100,0:01:52.140
+Y como veis la carretera está super bien, se nota que es nueva, eh?
 
-44
-00:04:17,720 --> 00:04:20,100
-Hacemos una nueva por este tramo y ya está, más ancha.
+0:01:52.140,0:01:57.065
+Estándares, iba a decir europeos, no, estándares turcos, que las mejores carreteras eran las turcas.
 
-45
-00:04:20,620 --> 00:04:21,120
-No lo sé.
+0:01:57.800,0:02:00.820
+y digo, ostras, que poco tráfico, tú, que bien que se está aquí, que bien que se va,
 
-46
-00:04:21,700 --> 00:04:26,340
-Cualquier caso, vuelve a juntarse dentro de 60 kilómetros,
+0:02:01.600,0:02:02.940
+Hay pocos camiones, no hay camiones.
 
-47
-00:04:26,340 --> 00:04:27,760
-Más o menos, entonces nada.
+0:02:04.060,0:02:07.700
+Wait, espera, no hay ningún camión.
 
-48
-00:04:27,860 --> 00:04:28,780
-Pues seguiremos por ahí.
+0:02:09.220,0:02:10.640
+¿Cómo es posible que no haya camiones?
 
-49
-00:04:29,680 --> 00:04:31,480
-Ahora hay muchos ciclistas, ¿eh?
+0:02:12.200,0:02:13.080
+Me estoy asustando, ¿eh?
 
-50
-00:04:32,140 --> 00:04:34,400
-Bueno, muchos, hoy he encontrado cuatro.
+0:02:14.380,0:02:16.540
+Me estoy asustando de que no me haya vuelto a equivocar de camino.
 
-51
-00:04:57,860 --> 00:04:59,000
-¿Messi, no?
+0:02:17.260,0:02:19.460
+Por eso esta carretera no la pone el Google Maps, quizás.
 
-52
-00:04:59,540 --> 00:05:00,140
-No.
+0:02:20.180,0:02:26.100
+Bueno, voy a preguntar al minimarket este a ver si puedo ir, donde quiero ir por aquí,
 
-53
-00:05:00,800 --> 00:05:01,700
-¿Ronaldo, no?
+0:02:26.340,0:02:28.000
+o está cortado, o a saber qué.
 
-54
-00:05:02,040 --> 00:05:02,680
-¡Yes!
+0:02:28.640,0:02:29.940
+No sé, joder, no jodamos, ¿eh?
 
-55
-00:05:07,040 --> 00:05:09,000
-Ok, my friend, goodbye.
+0:02:30.480,0:02:32.760
+He ido al hombre del market, que no habla inglés,
 
-56
-00:05:12,740 --> 00:05:13,680
-¿Qué? No.
+0:02:33.880,0:02:37.820
+y lo he ido diciendo a los pueblos, y le pregunto, "open, open"
 
-57
-00:05:14,040 --> 00:05:14,780
-Rahmat, rahmat.
+0:02:38.760,0:02:41.360
+la he llamado "tunnel, tri tunnel", y dice, sí, sí, sí, "tritunnel".
 
-58
-00:05:15,340 --> 00:05:16,860
-Thank you very much, que aún me intoxicaré.
+0:02:43.020,0:02:46.080
+He dicho al traductor, he dicho open, y le he preguntado al traductor,
 
-59
-00:05:17,160 --> 00:05:18,520
-No, que todavía me intoxicaré con ésta.
+0:02:46.600,0:02:47.540
+¿Por qué no hay camiones?
 
-60
-00:05:18,620 --> 00:05:19,860
-Rahmat, rahmat.
+0:02:48.300,0:02:49.780
+Se ha reído, y dice, ya.
 
-61
-00:05:19,980 --> 00:05:21,440
-No, no, no.
+0:02:50.960,0:02:54.180
+Le he puesto con el traductor, suspicious, sospechoso.
 
-62
-00:05:22,420 --> 00:05:23,540
-No, no, no.
+0:02:54.180,0:02:57.580
+Pero dice sí, sí, open, open, open.
 
-63
-00:05:23,540 --> 00:05:24,040
-No, no, no.
+0:02:58.600,0:03:01.440
+Entonces después he preguntado, ¿dónde está el siguiente supermercado, a qué distancia?
 
-64
-00:05:24,740 --> 00:05:27,820
-A mí me gusta la sopa, ¿eh?
+0:03:01.620,0:03:05.620
+Le he dicho, más o menos, 10, 20, le pongo la calculadora, kilómetro, kilómetro.
 
-65
-00:05:27,860 --> 00:05:31,740
-Pero, claro, uy, ahora me seguirán tres kilómetros aquí.
+0:03:06.420,0:03:08.900
+Y me coge la calculadora y me pone 350.
 
-66
-00:05:36,740 --> 00:05:38,300
-Muy del Madrid, aquí, por lo que veo, ¿eh?
+0:03:11.140,0:03:17.240
+O sea, que no nos hemos entendido, porque evidentemente el siguiente supermercado no está a 350 kilómetros.
 
-67
-00:05:38,900 --> 00:05:41,420
-Al final me ha atascado la botella igualmente.
+0:03:19.120,0:03:19.620
+Bueno.
 
-68
-00:05:42,860 --> 00:05:46,620
-Creo que no me la tomaré, pero, bueno, he dicho, va, he cometido el error.
+0:03:20.840,0:03:21.340
+Bueno.
 
-69
-00:05:46,820 --> 00:05:48,620
-He cometido el error de sacar la cartera,
+0:03:22.960,0:03:28.160
+Que sea lo que Dios quiera, tú... siempre puedo hacer autostop si me muero de sed o si no hay carretera.
 
-70
-00:05:49,660 --> 00:05:51,980
-sacar un billete de 10 soms, que es un euro,
+0:03:40.040,0:03:43.680
+Me he comprado unas peras, a uno que las vendía aquí en la carretera.
 
-71
-00:05:52,380 --> 00:05:55,140
-y, bueno, error, error, porque ya se han vuelto locos.
+0:03:43.920,0:03:47.440
+Oh, jugosas, oh, buenísimas, buenísimas.
 
-72
-00:05:55,540 --> 00:05:57,640
-Todos los niños, dámela a mí, dámela a mí.
+0:03:47.740,0:03:51.620
+Bueno, estamos a los 1.900 metros sobre el nivel del mar,
 
-73
-00:05:57,860 --> 00:05:59,260
-Y, ostras, pero ¿a quién se lo doy?
+0:03:51.620,0:03:56.020
+Y aquí, como se puede ver, tenemos el primer túnel.
 
-74
-00:05:59,900 --> 00:06:02,140
-Y, pues, al final hay un par que han señalado a uno de ellos,
+0:03:56.240,0:04:00.160
+La diferencia entre este túnel y el túnel de la muerte, espero que sean muchas,
 
-75
-00:06:02,580 --> 00:06:06,020
-que supongo que es el que lleva las cuentas,
+0:04:00.360,0:04:02.460
+pero la principal es que éste tiene una alternativa.
 
-76
-00:06:06,100 --> 00:06:08,140
-y lo he dado a él, y ya está.
+0:04:02.600,0:04:07.200
+La alternativa, que la veis aquí en imágenes, pues da mucha vuelta.
 
-77
-00:06:19,240 --> 00:06:21,140
-He tirado la botella.
+0:04:07.620,0:04:08.340
+Y no lo cogeré.
 
-78
-00:06:21,920 --> 00:06:24,600
-He llegado al pueblo este, que tiene tantos árboles y está tan así verde.
+0:04:09.220,0:04:13.560
+Cogeré el túnel, sí, cogeré el túnel porque, bueno... que pitas?!
 
-79
-00:06:24,900 --> 00:06:27,240
-El calor hace lo mismo o más.
+0:04:17.000,0:04:20.040
+El túnel tiene mucha mejor pinta, aún no he entrado, aún no lo sé,
 
-80
-00:06:27,860 --> 00:06:31,180
-Me gustaría hablar, ay, hablar, calla.
+0:04:21.134,0:04:23.860
+pero veo que, por ejemplo, está mucho mejor iluminado.
 
-81
-00:06:31,940 --> 00:06:33,940
-Me gustaría parar en algún sitio,
+0:04:24.800,0:04:28.800
+Y, para mí, lo más importante no es si está iluminado, si hay gases, si no hay gases.
 
-82
-00:06:35,340 --> 00:06:38,140
-imprescindible que esté o a la sombra, sombra, sombra, bien sombra,
+0:04:29.360,0:04:32.460
+El principal problema es que no hay tráfico.
 
-83
-00:06:38,220 --> 00:06:39,320
-o que tenga aire acondicionado.
+0:04:32.600,0:04:36.860
+Comparado con el túnel de la muerte, en este túnel, le llamaremos el túnel de la vida.
 
-84
-00:06:40,180 --> 00:06:41,020
-Preferiblemente lo segundo.
+0:04:37.620,0:04:40.220
+No hay... Es que aquí pasa un coche cada 30 segundos.
 
-85
-00:06:44,100 --> 00:06:47,640
-Pues, mira, al final he acabado en un restaurante de empanadillas.
+0:04:40.720,0:04:44.760
+El túnel de la muerte era una constante de camiones, era brutal, era brutal.
 
-86
-00:06:48,680 --> 00:06:50,700
-Bueno, eso lo comí ya el primer día que entré en Tajikistán.
+0:04:45.720,0:04:47.320
+Y bueno, se ve más moderno, se ve más moderno.
 
-87
-00:06:51,580 --> 00:06:52,540
-Lo enseñé en el vídeo.
+0:04:48.080,0:04:50.740
+Son 1,6 kilómetros, lo vemos aquí, que lo pone.
 
-88
-00:06:52,980 --> 00:06:55,680
-Estaba bastante bueno y no lo había comido hasta entonces.
+0:04:50.740,0:04:51.440
+Túnel de Orellono
 
-89
-00:06:55,680 --> 00:06:57,360
-Es una especie de eso, de empanadilla,
+0:04:53.300,0:04:54.334
+Let ' s go!
 
-90
-00:06:57,360 --> 00:07:00,800
-con carne dentro, y cebolla, y especias, está muy bueno.
+0:04:58.200,0:05:02.060
+Entrando en el túnel sin chaleco reflectante, sin frontal y sin mascarilla. Yolo!
 
-91
-00:07:00,800 --> 00:07:05,120
-Como veis, no tengo aire acondicionado, pero tengo ventilador, que bien, está bien.
+0:05:02.660,0:05:05.600
+Bueno, para empezar ya veo ventiladores.
 
-92
-00:07:05,880 --> 00:07:09,680
-Y eso, eso lo hacen en el horno este tipo tandoori, que lo ponen boca abajo.
+0:05:06.100,0:05:09.680
+Es decir, hay circulación de aire y se nota el ambiente.
 
-93
-00:07:10,400 --> 00:07:12,480
-Y claro, lo acaban de sacar y está muy caliente.
+0:05:10.760,0:05:12.600
+Es decir, no...
 
-94
-00:07:12,480 --> 00:07:16,520
-Entonces, he dado un par de mordiscos y luego me lo sigo comiendo.
+0:05:12.600,0:05:15.400
+Bueno, supongo porque el hecho de que no haya camiones es lo más importante, ¿eh?
 
-95
-00:07:17,000 --> 00:07:19,240
-Bueno, tú, hoy, hoy...
+0:05:15.420,0:05:20.200
+Pero, sobre todo, porque hay circulación de agua, de aire, la iluminación es muy buena.
 
-96
-00:07:20,000 --> 00:07:20,920
-Más difícil que ayer, ¿eh?
+0:05:21.120,0:05:23.080
+Podría caminar por aquí, pero no lo haré porque ya te digo, no hace falta.
 
-97
-00:07:21,840 --> 00:07:23,320
-Ayer ya fue difícil, pero hoy más.
+0:05:24.300,0:05:26.860
+Bueno, pues nada, nos adentramos, nos adentramos.
 
-98
-00:07:23,520 --> 00:07:25,400
-Yo creo que porque me falta un poco más de energía.
+0:05:27.300,0:05:31.120
+Hay uno, bueno, no diría arcén, pero bueno, sí, pequeño arcén.
 
-99
-00:07:26,320 --> 00:07:27,200
-Me la gasté toda ayer
+0:05:32.180,0:05:34.960
+Y pim-pam, sí, sí, se está mejor aquí que fuera.
 
-100
-00:07:27,200 --> 00:07:28,200
-Me la gasté toda ayer
+0:05:35.080,0:05:35.960
+En el túnel y todo, tú.
 
-101
-00:07:29,200 --> 00:07:30,200
-Son las tres de la tarde.
+0:05:36.500,0:05:37.660
+Claro, no da el sol.
 
-102
-00:07:31,200 --> 00:07:34,200
-Llevo un buen rato en este banco, que está en la sombra, pasa un poco de aire.
+0:05:39.180,0:05:41.020
+Que me pongan más túneles, tú, todo el día.
 
-103
-00:07:36,200 --> 00:07:40,200
-Sinceramente, tengo cero ganas de levantarme y ponerme a caminar, ¿eh familia?
+0:06:04.137,0:06:06.740
+Ya se ve la luz al final del túnel.
 
-104
-00:07:43,200 --> 00:07:44,200
-¿Llamo familia?
+0:06:06.860,0:06:09.040
+Qué lástima, con lo que lo estaba disfrutando.
 
-105
-00:07:45,200 --> 00:07:46,200
-Es que yo no os digo nunca, ¿eh?
+0:06:09.720,0:06:10.850
+No es broma, ¿eh?
 
-106
-00:07:46,200 --> 00:07:47,200
-Tipo, un nombre, ¿no?
+0:06:12.100,0:06:15.580
+De los mejores ratos de caminar de la última semana.
 
-107
-00:07:47,200 --> 00:07:50,200
-Hay uno que sigo que siempre llama familia a sus seguidores.
+0:06:16.380,0:06:18.720
+Porque he estado caminando con calor, solo,
 
-108
-00:07:51,200 --> 00:07:52,200
-Tal vez debería ponerles un nombre.
+0:06:18.720,0:06:21.740
+que pica y no para, no da tregua.
 
-109
-00:07:53,200 --> 00:07:54,200
-Enriqueros, ¿qué pasa, Enriqueros?
+0:06:22.840,0:06:24.000
+Mira, aquí está bien.
 
-110
-00:07:56,200 --> 00:07:57,200
-No.
+0:06:24.960,0:06:29.180
+Bueno, tengo que decir que los ventiladores estos no funcionan.
 
-111
-00:07:57,200 --> 00:07:58,200
-No hace falta.
+0:06:30.860,0:06:32.740
+Están cerrados, están apagados.
 
-112
-00:07:58,200 --> 00:08:01,200
-Pero la verdad sí, es que el calor es muy heavy, ¿eh?
+0:06:32.820,0:06:34.060
+Hay uno, mira, allí hay uno que funciona.
 
-113
-00:08:02,200 --> 00:08:03,200
-Además, estoy cansado.
+0:06:34.720,0:06:35.860
+Sí, bueno, pues no sé.
 
-114
-00:08:05,200 --> 00:08:09,200
-Llevo 22 km hoy, a ver si puedo llegar a los 35, que es lo mínimo que me estoy planteando.
+0:06:36.260,0:06:38.420
+Me pregunto quién habrá construido esta autopista,
 
-115
-00:08:10,200 --> 00:08:11,200
-Pero de aquí no me muevo, ¿eh?
+0:06:38.900,0:06:40.520
+Esta carretera, estos túneles.
 
-116
-00:08:11,200 --> 00:08:12,200
-No, no, no, todavía no.
+0:06:41.900,0:06:43.920
+No tiene pinta de que hayan sido los Tajiks, ¿eh?
 
-117
-00:08:12,200 --> 00:08:13,200
-Se está demasiado bien.
+0:06:45.960,0:06:49.720
+Decidme... prejuicioso
 
-118
-00:08:13,200 --> 00:08:14,200
-Se está demasiado bien.
+0:06:49.720,0:06:52.720
+No sé si existe esa palabra, pero eso está demasiado bien hecho.
 
-119
-00:08:14,200 --> 00:08:16,200
-Tengo un poco de agua con gas fría.
+0:06:53.620,0:06:54.620
+salida del túnel.
 
-120
-00:08:17,200 --> 00:08:19,200
-En realidad, es una casa de un particular, ¿eh?
+0:06:54.720,0:06:57.520
+Justo ahora pasan los primeros dos camiones del día.
 
-121
-00:08:19,200 --> 00:08:20,200
-Creo.
+0:06:58.520,0:07:00.020
+El de antes y el de ahora de aquí.
 
-122
-00:08:20,200 --> 00:08:23,200
-Porque está esa puerta abierta y he entrado...
+0:07:02.820,0:07:03.820
+Muy bien, tú.
 
-123
-00:08:23,200 --> 00:08:25,200
-He visto este banco.
+0:07:04.520,0:07:07.220
+Pues nada, volvamos al sol y la abrasión.
 
-124
-00:08:25,200 --> 00:08:26,200
-Me quedo aquí, tú
+0:07:07.920,0:07:09.120
+Todavía quedan dos túneles más.
 
-125
-00:08:26,200 --> 00:08:34,200
-Me he dignado a ponerme a caminar y ahora estoy en la carretera esta, que no pasa nadie,
+0:07:09.120,0:07:12.520
+Creo que hoy uno y mañana otro.
 
-126
-00:08:34,200 --> 00:08:37,200
-Porque todo el mundo va a la otra, a la nueva, ¿no?
+0:07:13.620,0:07:15.720
+Todavía no estamos en la Pamir Profunda,
 
-127
-00:08:37,200 --> 00:08:41,200
-Aquí supongo que antes venían todos los camiones y, bueno, se entiende un poco porque han hecho
+0:07:15.720,0:07:18.120
+porque todavía hay supermercados cada dos por tres aquí.
 
-128
-00:08:41,200 --> 00:08:42,200
-la otra.
+0:07:18.620,0:07:26.631
+Ni con rótulo ni nada, había este hombre vendiendo... bueno, poca cosa, pero como mínimo el agua la tengo, sí!
 
-129
-00:08:42,200 --> 00:08:43,200
-Mirad cuáles...
+0:07:46.720,0:07:47.620
+Las dos y cuarto.
 
-130
-00:08:43,200 --> 00:08:44,200
-Aquí cuáles...
+0:07:47.620,0:07:49.880
+22 kilómetros casi
 
-131
-00:08:44,200 --> 00:08:45,200
-Bueno, qué taludes han hecho.
+0:07:49.880,0:07:51.400
+bastante bien
 
-132
-00:08:45,200 --> 00:08:46,200
-Y aquí...
+0:07:51.400,0:07:53.560
+teniendo en cuenta que he empezado a las 9 a caminar
 
-133
-00:08:46,200 --> 00:08:49,200
-También hay mucha más opción de bajar por la carretera porque ya tienes el río.
+0:07:53.560,0:07:55.220
+y ya sabemos quién hace
 
-134
-00:08:49,200 --> 00:08:50,200
+0:07:55.220,0:07:56.120
+Esta carretera
+
+0:07:56.120,0:07:59.360
+o al parecer han hecho los chinos
+
+0:07:59.360,0:08:01.640
+Existe una planta hormigonera
+
+0:08:01.640,0:08:02.400
+o no sé qué es esto
+
+0:08:02.400,0:08:05.400
+letras chinas, supongo que son los chinos
+
+0:08:05.400,0:08:07.836
+segundo túnel, túnel de Vahdat
+
+0:08:08.988,0:08:13.063
+raro porque Vahdat era un pueblo que pasamos hace 4 o 5 días, eh
+
+0:08:13.320,0:08:15.965
+1.700 metros, un poco más largo que el otro
+
+0:08:16.177,0:08:17.257
+mejor
+
+0:08:37.156,0:08:39.431
+Puede que no se aprecie, pero...
+
+0:08:40.467,0:08:42.887
+ahora de repente se ha hecho de noche, tú...
+
+0:08:43.570,0:08:45.940
+la luz del túnel se ha ido... ostras se debería quitar el frontal, eh
+
+0:08:46.552,0:08:48.240
+pero me da bastante pereza
+
+0:08:48.240,0:08:50.720
+No, lo que haré será
+
+0:08:50.720,0:08:51.480
+Pared
+
+0:08:51.480,0:08:54.360
+como quedan 500 metros o menos
+
+0:08:54.360,0:08:55.360
+lo que haré será
+
+0:08:55.360,0:08:58.240
+Iluminado con el flash
+
+0:08:58.240,0:09:00.600
+del móvil porque es que ahora quitarme la mochila
+
+0:09:00.600,0:09:02.360
+y sacar el frontal da pereza
+
+0:09:02.360,0:09:04.160
+Si crees que yo estoy loco
+
+0:09:04.160,0:09:06.640
+me acabo de encontrar unos niños
+
+0:09:06.640,0:09:08.340
+Con dos burros
+
+0:09:08.340,0:09:10.640
+Caminando por estas plataformas
+
+0:09:10.640,0:09:13.567
+que el pobre burro se tropezaba
+
+0:09:15.480,0:09:16.560
+Bueno, segundo túnel superado!
+
+0:09:48.117,0:09:56.060
+Las 5 y 18, estoy cansado, estoy cansado, estoy cansado de caminar y cansado de tanto calor, estoy cansado de tanto calor.
+
+0:09:56.180,0:10:00.780
+Bueno, os he dicho que el tercer túnel era mañana, pues no, es hoy, no he calculado bien.
+
+0:10:01.900,0:10:09.640
+Túnel de Istiklol, es el más largo de todos, dos kilómetros y medio.
+
+0:10:11.960,0:10:13.940
+Perfecto, tú, estaremos fresquitos un rato.
+
+0:10:14.929,0:10:24.483
+Dos defectos que tiene este túnel: es todo en subida, no es culpa suya supongo, pero no está iluminado, tú, nada, cero iluminación, tú, qué desastre.
+
+0:10:47.500,0:10:54.540
+He llegado a un pueblo donde no hay demasiada nada, pero aquí hay un casoplón que flipas y una persona que estaba regando, no sé si es el jardinero o qué,
+
+0:10:55.220,0:11:02.800
+me ha dicho, ven, ven, ven, ven, ven, y yo que es tarde, estoy cansado, tengo sed y tengo hambre, pues a ver si me dan algo.
+
+0:11:15.734,0:11:24.100
+Estaba hablando aquí con el hombre de la casa, que me ha traído té, pan, miel, todo muy bueno.
+
+0:11:25.180,0:11:28.320
+Bueno, hablando, a ver, hablando, yo cuando digo hablar ya me entendéis.
+
+0:11:29.580,0:11:36.820
+Y ahora está allí, no lo enfoco, pero está dentro de casa, con las ventanas lo veo, y me ha dicho, espera un momento, y se ha ido a rezar.
+
+0:11:38.920,0:11:43.120
+Y lleva dos, tres minutos rezando.
+
+0:11:43.940,0:11:45.320
+Todavía dura, todavía dura.
+
+0:11:47.080,0:11:48.760
+Choques culturales, pero bueno, el lugar es increíble.
+
+0:11:48.900,0:11:59.360
+Me han invitado a dormir aquí, y aunque eran a las seis y media cuando me lo han dicho, he dicho que sí, porque hoy estoy más cansado de lo habitual, tú, me quedo.
+
+0:12:00.060,0:12:01.220
+Ha terminado de rezar, pero no ha vuelto.
+
+0:12:01.900,0:12:03.260
+Bueno, tampoco había demasiada conversación.
+
+0:12:03.640,0:12:05.060
+Hay una abeja por ahí.
+
+0:12:05.200,0:12:07.400
+Bueno, me han traído una sopa, tú, qué bien, tú.
+
+0:12:08.540,0:12:12.520
+Que bien, lleva un trozo, un par de trozos de ternera y todo, mirad.
+
+0:12:13.940,0:12:17.900
+No, Enric, no deberías comer cosas que lleven agua, porque no sé qué.
+
+0:12:18.000,0:12:19.240
+Venga, hombre, tío, por favor.
+
+0:12:19.780,0:12:20.500
+Si no, no comería nada.
+
+0:12:21.600,0:12:23.180
+Esto supongo que habrá hervido, ¿no?
+
+0:12:23.420,0:12:25.920
+Habrá eliminado las bacterias, digo yo, no sé.
+
+0:12:27.520,0:12:29.565
+Bueno, muchas cosas que contar.
+
+0:12:30.520,0:12:39.440
+A ver, para empezar, os cuento el lugar donde dormiré, que es esta especie de cuadrado, aquí, cubierto, que hay ahí fuera en el jardín.
+
+0:12:39.700,0:12:42.900
+Y como podéis escuchar, supongo que lo escucháis, está al lado de la carretera.
+
+0:12:42.900,0:12:47.860
+Y cuando suben los coches, sobre todo cuando suben, porque es una subida, pues, hace bastante ruido el motor.
+
+0:12:48.860,0:12:54.300
+Me han ofrecido dormir dentro, eh, pero he dicho que fuera, porque, bueno, he pensado que tocaría más el aire, estaría más fresquito.
+
+0:12:54.460,0:12:59.860
+Y, además, mañana por la mañana, si me quiero levantar temprano, si me quiero levantar temprano, bueno, pues no molestaré, ¿no?
+
+0:13:00.320,0:13:02.040
+Y, además, yo creo que aquí tengo más intimidad.
+
+0:13:03.240,0:13:07.140
+Pero, bueno, si que es verdad que espero que dejen de pasar coches, porque hace bastante ruido.
+
+0:13:09.960,0:13:12.309
+¿Qué más? A ver, es que...
+
+0:13:12.900,0:13:18.000
+Este hombre, Ismail, se llamaba? No, no me acuerdo. Son difíciles los nombres tayikos, ¿eh?
+
+0:13:19.020,0:13:22.260
+Pues, bueno, todavía me ha ofrecido más comida.
+
+0:13:22.860,0:13:24.740
+Yo, cuando ya está lleno, me trae un plato.
+
+0:13:25.780,0:13:29.820
+Y con patatas, carne y un poco de tomate con cebolla.
+
+0:13:30.880,0:13:33.920
+He comido un poco, muy bueno, pero, claro, ya no podía más.
+
+0:13:34.720,0:13:38.400
+Creo que hoy es la generosidad máxima que he recibido en la vuelta al mundo a pie.
+
+0:13:38.720,0:13:40.420
+Creo que es este hombre, ¿eh? O sea, increíble.
+
+0:13:41.900,0:13:43.418
+Después de esto...
+
+0:13:43.418,0:13:46.518
+Me enseña los lavabos y las duchas.
+
+0:13:46.740,0:13:47.940
+Ducha y lavabo tayiko.
+
+0:13:48.640,0:13:51.540
+O sea, un agujero, bien acondicionado, ¿eh? Pero un agujero.
+
+0:13:51.680,0:13:54.340
+Y luego la ducha, pues, como ayer, ¿no?
+
+0:13:54.460,0:13:56.580
+Una de eso que rejaban y te lo tiras por encima, ¿no?
+
+0:13:57.340,0:13:59.760
+Y yo, bueno, vale, perfecto. Perfecto, gracias, gracias.
+
+0:13:59.920,0:14:00.700
+Y dice, no, no, espera, espera.
+
+0:14:01.240,0:14:03.620
+Mientras dentro de casa, me baja por unas escaleras...
+
+0:14:03.620,0:14:04.740
+Y yo, a ver a dónde me lleva este señor.
+
+0:14:05.520,0:14:06.740
+Lástima no haberlo podido grabar, ¿eh?
+
+0:14:07.500,0:14:09.820
+Y me abre una puerta y allí hay una ducha.
+
+0:14:10.340,0:14:12.340
+Una ducha. Ducha. Una ducha.
+
+0:14:12.900,0:14:15.140
+Un ducha occidental y un retrete.
+
+0:14:16.020,0:14:18.800
+Y un retrete. Y digo, Mashallah.
+
+0:14:19.320,0:14:21.060
+Eso digo yo. Lo he pensado.
+
+0:14:22.000,0:14:24.860
+Y sí, sí, me he duchado allí, con champú, todo.
+
+0:14:26.120,0:14:27.117
+Toalla.
+
+0:14:27.440,0:14:29.500
+Es decir, este tío...
+
+0:14:29.500,0:14:32.300
+Increíble. O sea...
+
+0:14:32.300,0:14:36.040
+Rahmat. Muchísimas, muchísimas, muchísimas gracias.
+
+0:14:37.480,0:14:39.082
+Espectacular, espectacular.
+
+0:14:39.824,0:14:42.680
+La hospitalidad y todo.
+
+0:14:42.900,0:14:44.680
+Ahora bien.
+
+0:14:45.120,0:14:45.800
+No, ahora bien no.
+
+0:14:46.180,0:14:49.420
+Pero me gustaría decir que este hombre es muy religioso.
+
+0:14:50.600,0:14:53.940
+Se ha parado dos veces a rezar mientras estaba yo aquí.
+
+0:14:55.040,0:14:56.520
+Y sus hijos también estaban rezando.
+
+0:14:58.020,0:15:00.780
+Y llevaba el sombrero tayiko, que no sé qué nombre tiene (toki),
+
+0:15:00.840,0:15:03.660
+que es así como una gorra, pero sin la visera, ¿no?
+
+0:15:03.980,0:15:04.480
+Más o menos.
+
+0:15:05.000,0:15:11.550
+Y en la gorra ésta llevaba un cubículo negro,
+
+0:15:11.550,0:15:12.550
+¿Qué es el...
+
+0:15:12.900,0:15.220
+el cubículo este, que no sé cómo se llama, que hay en la Meca (Kaaba).
+
+0:15:15.220,0:15:17.900
+Este hombre era muy religioso.
+
+0:15:17.900,0:15:20.592
+Esto no está bien visto aquí, en Tadjikistán.
+
+0:15:21.393,0:15:26.740
+Ya hablaremos de ello, hoy no, pero ya hablaremos de que el gobierno de Tadjikistán no promueve esto.
+
+0:15:26.740,0:15:28.100
+Promueve lo contrario.
+
+0:15:28.100,0:15:30.100
+Pero bueno, ya hablaremos otro día.
+
+0:15:30.100,0:15:33.540
+Y otro detalle es que no he visto a ninguna mujer.
+
+0:15:33.540,0:15:36.540
+Y están ahí, porque las he escuchado.
+
+0:15:36.540,0:15:39.540
+Pero hay otra puerta por allí, para el jardín.
+
+0:15:39.540,0:15:41.540
+Una parte como más privada, supongo.
+
+0:15:41.540,0:15:42.180
+Y...
+
+0:15:42.180,0:15:47.180
+Y no sé si es casualidad o no, pero...
+
+0:15:47.180,0:15:50.180
+En este caso yo creo que no es casualidad, ¿eh?
+
+0:15:50.180,0:15:56.180
+Yo creo que está hecho a propósito para que no haya esta conjunción
+
+0:15:56.180,0:16:00.180
+entre visitante masculino y mujer de la casa femenina.
+
+0:16:00.180,0:16:01.180
+Pero bueno, no lo sé, no lo sé.
+
+0:16:01.180,0:16:04.180
+En cualquier caso, un crack este hombre muy amable.
+
+0:16:04.180,0:16:07.756
+Hoy 36 kilómetros, creo.
+
+0:16:07.756,0:16:11.180
+He hablado con tres personas, que es el hombre este y sus dos hijos.
+
+0:16:12.180,0:16:14.180
+Bueno, y el jardinero, porque yo diría que era un jardinero.
+
+0:16:14.180,0:16:16.180
+Este hombre yo creo que tiene pasta, ¿eh?
+
+0:16:16.180,0:16:18.180
+Al final, cuatro personas.
+
+0:16:18.180,0:16:20.180
+¿Y qué más?
+
+0:16:20.180,0:16:24.180
+Cafés cabeza, refrescos...
+
+0:16:24.180,0:16:25.180
+Uno.
+
+0:16:25.180,0:16:26.180
+Refrescos, uno.
+
+0:16:26.180,0:16:28.180
+Y no me he gastado nada.
+
+0:16:28.180,0:16:30.180
+Me he gastado dos euros, creo.
+
+0:16:30.180,0:16:32.180
+Con aguas.
+
+0:16:32.180,0:16:35.180
+Porque la compra en el supermercado, pequeña compra.
+
+0:16:35.180,0:16:37.180
+Ya lo había hecho ayer.
+
+0:16:37.180,0:16:38.180
+No, ponle tres.
+
+0:16:38.180,0:16:39.180
+Ponle tres euros.
+
+0:16:39.180,0:16:40.180
 Sí, sí, sí, sí.
 
-135
-00:08:50,200 --> 00:08:51,200
-Además, bueno, ya veis...
+0:16:41.180,0:16:43.180
+Un día, eso sí, aburrido.
 
-136
-00:08:51,200 --> 00:08:52,200
-Sí, sí, sí, sí.
+0:16:43.180,0:16:47.180
+O sea, esta parte final ha sido espectacular, pero el resto del día ha sido muy aburrido.
 
-137
-00:08:52,200 --> 00:08:53,200
-Sí, sí, sí, sí.
+0:16:47.180,0:16:52.180
+Caminando por la carretera esta, sí, con montañas, sí, el paisaje no está mal,
 
-138
-00:08:53,200 --> 00:08:54,200
-Sí, sí, sí, sí.
+0:16:52.180,0:16:56.180
+pero aburrido del calor y aburrido de todo el día carretera y sin poca cosa.
 
-139
-00:08:54,200 --> 00:08:58,200
-Además, bueno, ya veis como hay algunos tramos así mal pavimentados y tal.
+0:16:56.180,0:16:59.180
+Hoy es viernes, para mí es jueves.
 
-140
-00:08:58,200 --> 00:09:01,200
-Pero bueno, tú supertranquilo.
+0:16:59.180,0:17:01.180
+Y mañana para vosotros es sábado.
 
-141
-00:09:01,200 --> 00:09:02,200
-Estoy solo.
+0:17:01.180,0:17:02.180
+Mañana no hay vídeo.
 
-142
-00:09:02,200 --> 00:09:03,200
-¡Ostras!
+0:17:02.180,0:17:03.180
+Yo mañana no grabo.
 
-143
-00:09:03,200 --> 00:09:04,200
-Prohibido pasar.
+0:17:03.180,0:17:05.180
+Mañana no hay vídeo.
 
-144
-00:09:04,200 --> 00:09:11,200
-No, si todavía será que han hecho la otra carretera porque esta no tiene salida porque hay
+0:17:05.180,0:17:09.180
+Porque es sábado, que ya os dije que los sábados, pues, a veces haría fiesta.
 
-145
-00:09:11,200 --> 00:09:16,200
-¿Ha habido algún desprendimiento y quizás a pie tampoco lo puedo atravesar, eh?
+0:17:09.180,0:17:11.180
+Porque mañana será igual que hoy.
 
-146
-00:09:16,200 --> 00:09:18,200
-Ahora que estoy aquí...
+0:17:11.180,0:17:13.180
+Sin túneles, pero igual que hoy.
 
-147
-00:09:18,200 --> 00:09:19,200
-No sé.
+0:17:13.180,0:17:15.180
+Caminar, caminar, caminar, pum, pum, pum.
 
-148
-00:09:19,200 --> 00:09:22,200
-Yo sigo. En Mapy no salía que estaba cortada.
+0:17:15.180,0:17:17.180
+Hoy también tengo que explicar más cosas.
 
-149
-00:09:22,200 --> 00:09:24,200
-Me fío bastante de la aplicación esta.
+0:17:17.180,0:17:18.180
+Ya lo contaré el próximo día, ¿eh?
 
-150
-00:09:24,200 --> 00:09:25,200
-Sigo por ahí.
+0:17:18.180,0:17:19.180
+Pero...
 
-151
-00:09:25,200 --> 00:09:26,200
-Es que mirando esto tampoco me extrañaría, ¿eh?
+0:17:19.180,0:17:21.180
+La presa que nos encontramos ayer, ¿eh?
 
-152
-00:09:26,200 --> 00:09:27,200
-Mirando esto,
+0:17:21.180,0:17:22.180
+Buf, lo que he aprendido...
 
-153
-00:09:28,200 --> 00:09:29,200
-Tampoco me extrañaría, eh.
-Mirad aquí
+0:17:22.180,0:17:23.180
+Sí, sí, sí.
 
-154
-00:09:30,200 --> 00:09:31,200
-Hay deslizamientos.
+0:17:23.180,0:17:24.180
+Eso es un tema, ¿eh?
 
-155
-00:09:39,200 --> 00:09:41,185
-Ahora cuando he grabado el último vídeo
+0:17:24.180,0:17:25.180
+Un tema interesante.
 
-156
-00:09:41,200 --> 00:09:42,200
-Me he asustado un poco
+0:17:25.180,0:17:26.180
+Venga.
 
-157
-00:09:42,200 --> 00:09:43,200
-Digo ay, ay, ay,...
-
-158
-00:09:43,200 --> 00:09:44,200
-Vuelvo a mirar el mapa
-
-159
-00:09:44,200 --> 00:09:45,200
-Sin conexión
-
-160
-00:09:46,200 --> 00:09:47,200
-Porque evidentemente,
-
-161
-00:09:47,200 --> 00:09:48,200
-en este desfiladero,
-
-162
-00:09:48,200 --> 00:09:49,200
-No hay cobertura.
-
-163
-00:09:49,200 --> 00:09:50,200
-Muy importante,
-
-164
-00:09:50,200 --> 00:09:51,200
-Siempre que vayas a caminar
-
-165
-00:09:51,200 --> 00:09:52,200
-debes llevar un mapa en el móvil sin conexión
-
-166
-00:09:53,200 --> 00:09:54,200
-Yo,
-
-167
-00:09:54,200 --> 00:09:55,200
-desgraciadamente,
-
-168
-00:09:55,200 --> 00:09:56,200
-No me pagan por
-
-169
-00:09:56,200 --> 00:09:57,200
-hacer publicidad de esta applicación
-
-170
-00:09:57,200 --> 00:09:58,200
-Pero bueno,
-
-171
-00:09:58,200 --> 00:09:59,200
-lo digo igualmente,
-
-172
-00:09:59,200 --> 00:10:00,200
-es la applicación Mapy
-
-173
-00:10:00,200 --> 00:10:01,200
-Lo intenté
-
-174
-00:10:02,200 --> 00:10:03,200
-Bueno, no yo,
-
-175
-00:10:03,200 --> 00:10:04,200
-uno de mis seguidores,
-
-176
-00:10:04,200 --> 00:10:05,200
-sin que yo lo pidiera
-
-177
-00:10:06,180 --> 00:10:07,147
-Escribió a Mapy y se lo dijo
-
-178
-00:10:07,147 --> 00:10:10,146
-Podrías patrocinar a este chico.
-
-179
-00:10:10,200 --> 00:10:11,200
-Me enfadé un poco con este seguidor.
-
-180
-00:10:11,200 --> 00:10:12,200
-Hombre chico,
-
-181
-00:10:12,200 --> 00:10:13,200
-Tú, tú...
-
-182
-00:10:13,200 --> 00:10:14,200
-Sin mi permiso,
-
-183
-00:10:14,200 --> 00:10:15,200
-tú le vas a
-
-184
-00:10:15,200 --> 00:10:16,200
-hablar de mí
-
-185
-00:10:16,200 --> 00:10:17,200
-a otras marcas?
-
-186
-00:10:17,200 --> 00:10:18,280
-Pero bueno.
-
-187
-00:10:18,280 --> 00:10:20,560
-No, no surgió...
-
-188
-00:10:20,560 --> 00:10:21,980
-esa colaboración.
-
-189
-00:10:21,980 --> 00:10:24,520
-Me dieron un código de...
-
-190
-00:10:24,520 --> 00:10:25,520
-De descuento.
-
-191
-00:10:25,520 --> 00:10:27,960
-Bueno, un código para tener la aplicación gratis.
-
-192
-00:10:27,960 --> 00:10:28,960
-¿Que menos?
-
-193
-00:10:28,960 --> 00:10:29,960
-Es que.
-
-194
-00:10:29,960 --> 00:10:30,960
-Yo tuve...
-
-195
-00:10:30,960 --> 00:10:33,480
-Yo hice un vídeo, que está en el canal de YouTube.
-
-196
-00:10:33,480 --> 00:10:35,180
-Que tiene mucho...
-
-197
-00:10:35,180 --> 00:10:36,180
-10 mil lo habría dicho.
-
-198
-00:10:36,180 --> 00:10:37,520
-Tiene muchas más visualizaciones.
-
-199
-00:10:37,520 --> 00:10:39,500
-No sé si quince mil o decís oit mil o veinte mil.
-
-200
-00:10:39,500 --> 00:10:42,080
-Explicando cómo funciona esta aplicación
-
-201
-00:10:42,080 --> 00:10:43,640
-Gracias a mí, en este video
-
-202
-00:10:43,640 --> 00:10:45,840
-Muchos de ustedes han descargado
-
-203
-00:10:45,840 --> 00:10:47,020
-y pagado esta aplicación
-
-204
-00:10:47,020 --> 00:10:49,600
-Se puede usar gratis, pero bueno
-
-205
-00:10:49,600 --> 00:10:50,880
-Existe la opción de pago
-
-206
-00:10:50,880 --> 00:10:53,220
-Mapas offline
-
-207
-00:10:53,220 --> 00:10:55,480
-Sí, hay algunos pueblos aquí cerca
-
-208
-00:10:55,480 --> 00:10:57,700
-o sea, en este valle, cosa que me tranquiliza
-
-209
-00:10:57,700 --> 00:10:59,540
-y además, ahora habéis visto que pasaba un coche
-
-210
-00:10:59,540 --> 00:11:01,080
-pues he visto que pasaba otro, entonces bien
-
-211
-00:11:01,080 --> 00:11:02,800
-me tranquiliza un poco
-
-212
-00:11:02,800 --> 00:11:05,400
-por otra parte, entonces no sé por qué ponen esta señal
-
-213
-00:11:05,400 --> 00:11:07,400
-pero bueno, es Tajikistan, tú
-
-214
-00:11:07,400 --> 00:11:08,860
-Aquí funciona así
-
-215
-00:11:08,860 --> 00:11:13,860
-Malas noticias
-
-216
-00:11:13,860 --> 00:11:15,260
-batacazo histórico
-
-217
-00:11:15,260 --> 00:11:16,980
-Acaba de pasar un coche de los que bajaban
-
-218
-00:11:16,980 --> 00:11:19,800
-y me ha dicho que está cerrado
-
-219
-00:11:19,800 --> 00:11:21,160
-y le he dicho
-
-220
-00:11:21,160 --> 00:11:22,640
-pero caminando también, y dice sí
-
-221
-00:11:22,640 --> 00:11:28,120
-y ahora ha pasado un hombre caminando
-
-222
-00:11:28,120 --> 00:11:30,880
-bueno, es que no nos entendemos en inglés
-
-223
-00:11:30,880 --> 00:11:32,680
-pero sí, sí, también me ha dicho que cerrado
-
-224
-00:11:32,680 --> 00:11:33,760
-Pero que
-
-225
-00:11:33,760 --> 00:11:36,660
-me ha hecho entender, creo que
-
-226
-00:11:36,660 --> 00:11:38,460
-hay un deslizamiento o algo
-
-227
-00:11:38,460 --> 00:11:40,560
-y si subo alguna de estas montañas
-
-228
-00:11:40,560 --> 00:11:42,360
-y hago así, a pie puedo superar
-
-229
-00:11:42,360 --> 00:11:43,520
-este deslizamiento y seguir
-
-230
-00:11:43,520 --> 00:11:47,740
-ahora volver atrás es
-
-231
-00:11:47,740 --> 00:11:49,780
-es un
-
-232
-00:11:49,780 --> 00:11:52,260
-No son tantos kilómetros
-
-233
-00:11:52,260 --> 00:11:52,760
-pero
-
-234
-00:11:55,060 --> 00:11:59,560
-creo que lo intentaré tú
-
-235
-00:11:59,560 --> 00:12:03,760
-lo intentaré
-
-236
-00:12:03,760 --> 00:12:04,960
-sí
-
-237
-00:12:04,960 --> 00:12:07,100
-a ver qué hay
-
-238
-00:12:07,100 --> 00:12:08,120
-a ver qué hay, no lo sé
-
-239
-00:12:08,120 --> 00:12:24,000
-un embalse
-
-240
-00:12:24,000 --> 00:12:26,820
-el embalse estaba previsto
-
-241
-00:12:26,820 --> 00:12:28,400
-estaba en el mapa, pero lo que no me esperaba yo
-
-242
-00:12:28,400 --> 00:12:29,260
-es que empezara tan pronto
-
-243
-00:12:29,260 --> 00:12:32,400
-Yo creo que está más lleno
-
-244
-00:12:32,400 --> 00:12:33,900
-Lo que hay en el mapa
-
-245
-00:12:33,900 --> 00:12:35,280
-ah
-
-246
-00:12:35,280 --> 00:12:37,860
-y dónde está
-
-247
-00:12:38,120 --> 00:12:40,120
-la carretera, porque claro, yo lo que veo es
-
-248
-00:12:40,120 --> 00:12:42,140
-que la carretera debería ir por aquí
-
-249
-00:12:42,140 --> 00:12:43,980
-y no va, se lo ha comido el embalse
-
-250
-00:12:43,980 --> 00:12:46,040
-La carretera podría ser
-
-251
-00:12:46,040 --> 00:12:49,480
-ostras
-
-252
-00:12:49,480 --> 00:12:52,060
-no, no, si es eso
-
-253
-00:12:52,060 --> 00:12:53,760
-ahora lo tendré que mirar, pero si es esto
-
-254
-00:12:53,760 --> 00:12:56,040
-ni deslizamiento
-
-255
-00:12:56,040 --> 00:12:58,100
-ni de eso, eso no sé cómo
-
-256
-00:12:58,100 --> 00:12:59,800
-Esto es imposible de atravesar, ¿no?
-
-257
-00:13:02,960 --> 00:13:03,600
-bua, chaval
-
-258
-00:13:03,600 --> 00:13:06,340
-¡Hey, eh!
-
-259
-00:13:06,340 --> 00:13:07,900
-Esto es muy fuerte
-
-260
-00:13:08,120 --> 00:13:08,940
-no lo había visto nunca
-
-261
-00:13:08,940 --> 00:13:11,440
-no lo había visto nunca
-
-262
-00:13:11,440 --> 00:13:14,720
-que fuerte
-
-263
-00:13:14,720 --> 00:13:16,600
-Allí había una familia
-
-264
-00:13:16,600 --> 00:13:17,960
-una mujer hablaba el inglés
-
-265
-00:13:17,960 --> 00:13:20,360
-y la posibilidad de ir por las montañas
-
-266
-00:13:20,360 --> 00:13:21,820
-existe, como decía el hombre aquel
-
-267
-00:13:21,820 --> 00:13:24,420
-Hay que tomar una carretera que está marcada
-
-268
-00:13:24,420 --> 00:13:26,260
-en el mapa, que sube hasta un pequeño pueblo que hay aquí
-
-269
-00:13:26,260 --> 00:13:27,200
-de unas casas
-
-270
-00:13:27,200 --> 00:13:29,980
-y luego seguir por un camino que no marca
-
-271
-00:13:29,980 --> 00:13:30,680
-El Mapa
-
-272
-00:13:30,680 --> 00:13:34,420
-y simplemente ir por las montañas que quizás no hay ni camino
-
-273
-00:13:34,420 --> 00:13:36,440
-y volver a enlazar
-
-274
-00:13:36,440 --> 00:13:37,920
-con el pueblo de después
-
-275
-00:13:37,920 --> 00:13:38,920
-que no me acuerdo del nombre
-
-276
-00:13:38,920 --> 00:13:40,920
-sí
-
-277
-00:13:40,920 --> 00:13:43,500
-la otra posibilidad sería simplemente ir campo a través
-
-278
-00:13:43,500 --> 00:13:44,660
-por aquí
-
-279
-00:13:44,660 --> 00:13:48,180
-pero creo que es un poco demasiado
-
-280
-00:13:48,180 --> 00:13:49,680
-empinado
-
-281
-00:13:49,680 --> 00:13:51,340
-hasta que la carretera volviera a surgir
-
-282
-00:13:51,340 --> 00:13:53,520
-Es la opción más
-
-283
-00:13:53,520 --> 00:13:56,180
-más corto, pero no necesariamente
-
-284
-00:13:56,180 --> 00:13:56,820
-la más rápida
-
-285
-00:13:56,820 --> 00:13:59,360
-El Problema
-
-286
-00:13:59,360 --> 00:14:02,360
-de ir por esta desviación
-
-287
-00:14:02,360 --> 00:14:04,000
-es que, bueno, hoy
-
-288
-00:14:04,000 --> 00:14:05,080
-No llegaría al siguiente pueblo
-
-289
-00:14:05,080 --> 00:14:07,480
-No tendría agua
-
-290
-00:14:07,480 --> 00:14:08,980
-ahora podría cargar
-
-291
-00:14:08,980 --> 00:14:09,980
-debería cargar
-
-292
-00:14:09,980 --> 00:14:11,980
-y...
-
-293
-00:14:11,980 --> 00:14:12,980
-sí, sí, sí
-
-294
-00:14:12,980 --> 00:14:14,980
-y bien, un contratiempo
-
-295
-00:14:14,980 --> 00:14:16,980
-y mañana tendría que volver
-
-296
-00:14:16,980 --> 00:14:18,980
-A atrapar al pueblo
-
-297
-00:14:18,980 --> 00:14:20,980
-y bien, sería subida
-
-298
-00:14:20,980 --> 00:14:22,980
-y tampoco está muy claro
-
-299
-00:14:22,980 --> 00:14:24,980
-¿Cuál es el camino, sabes?
-
-300
-00:14:24,980 --> 00:14:26,980
-y sin cobertura
-
-301
-00:14:26,980 --> 00:14:28,480
-no puedo mirar la pista satélite
-
-302
-00:14:28,480 --> 00:14:30,480
-que a veces te ayuda a encontrar, ¿sabes?
-
-303
-00:14:30,480 --> 00:14:32,480
-ay, ay, ay
-
-304
-00:14:32,480 --> 00:14:34,480
-la opción más fácil sería volver atrás
-
-305
-00:14:34,480 --> 00:14:36,480
-¿Ir por la carretera con túneles, no?
-
-306
-00:14:36,480 --> 00:14:38,480
-pero creo que ya estoy demasiado
-
-307
-00:14:38,480 --> 00:14:40,480
-metido dentro de aquí como para volver atrás
-
-308
-00:14:40,480 --> 00:14:42,480
-unos 2,2 kilómetros
-
-309
-00:14:42,480 --> 00:14:44,480
-Por esta carretera
-
-310
-00:14:44,480 --> 00:14:46,480
-no, camino
-
-311
-00:14:46,480 --> 00:14:48,480
-con subida
-
-312
-00:14:48,480 --> 00:14:50,480
-y luego a preguntar
-
-313
-00:14:50,480 --> 00:14:52,480
-y a rezar
-
-314
-00:15:06,480 --> 00:15:16,480
-ahora llevo un rato subiendo
-
-315
-00:15:16,480 --> 00:15:18,480
-¡Mira, esa pista!
-
-316
-00:15:18,480 --> 00:15:20,480
-no lo había visto, pero mira
-
-317
-00:15:20,480 --> 00:15:22,480
-pum, pum,
-
-318
-00:15:22,480 --> 00:15:24,480
-Ustedes creen que sigue
-
-319
-00:15:24,480 --> 00:15:26,480
-hacia el otro lado de la montaña
-
-320
-00:15:26,480 --> 00:15:28,480
-y sigue, sigue hasta llegar a la carretera
-
-321
-00:15:28,480 --> 00:15:30,480
-o simplemente
-
-322
-00:15:30,480 --> 00:15:32,480
-es por
-
-323
-00:15:32,480 --> 00:15:34,480
-llegar hasta aquel palo
-
-324
-00:15:34,480 --> 00:15:36,480
-no lo sé, pero ahora mismo está
-
-325
-00:15:36,480 --> 00:15:38,480
-complicado cogerla
-
-326
-00:15:38,480 --> 00:15:40,480
-no, es cuestión de hablar con algún habitante mejor
-
-327
-00:15:40,480 --> 00:15:42,480
-que me diga ve por aquí, ve por allá
-
-328
-00:15:42,480 --> 00:15:44,480
-Es el mejor
-
-329
-00:15:44,480 --> 00:15:46,480
-pues nada, he llegado hasta el final del pueblo
-
-330
-00:15:46,480 --> 00:15:48,480
-y estas personas tan simpáticas
-
-331
-00:15:48,480 --> 00:15:50,480
-Me dieron agua
-
-332
-00:15:50,480 --> 00:15:52,480
-bien, agua con yogur
-
-333
-00:15:52,480 --> 00:15:54,480
-lo que el otro, antes estaba diciendo que no quiero beber
-
-334
-00:15:54,480 --> 00:15:56,480
-pues bien, como me han dado han sido muy simpáticos
-
-335
-00:15:56,480 --> 00:15:58,480
-pero me han dicho
-
-336
-00:15:58,480 --> 00:16:00,480
-Que no, que no siga por aquí
-
-337
-00:16:00,480 --> 00:16:02,480
-hay otro que me ha dicho que sí, eh
-
-338
-00:16:02,480 --> 00:16:04,480
-es decir
-
-339
-00:16:04,480 --> 00:16:06,480
-me he encontrado un hombre
-
-340
-00:16:06,480 --> 00:16:08,480
-con aquel coche gigante que habéis visto que iba supercargado
-
-341
-00:16:08,480 --> 00:16:10,480
-que me ha dicho que sí, que podía tal
-
-342
-00:16:10,480 --> 00:16:12,480
-que me ha dicho que sí, que podía tirar hacia arriba
-
-343
-00:16:12,480 --> 00:16:14,480
-y que, bueno, como me lo ha dicho, eh
-
-344
-00:16:14,480 --> 00:16:16,480
-y ese hombre que hay aquí en el coche delante de mí
-
-345
-00:16:16,480 --> 00:16:18,480
-me ha dicho también
-
-346
-00:16:18,480 --> 00:16:20,480
-que sí, pero
-
-347
-00:16:20,480 --> 00:16:22,480
-este me ha dicho que no
-
-348
-00:16:22,480 --> 00:16:24,480
-Igualmente, sí, yo creo que sí se podría
-
-349
-00:16:24,480 --> 00:16:26,480
-Creo que sí se podría, pero
-
-350
-00:16:26,480 --> 00:16:28,480
-Espera que ahora
-
-351
-00:16:28,480 --> 00:16:30,480
-este hombre me ha intentado ayudar
-
-352
-00:16:30,480 --> 00:16:32,480
-con el traductor, a ver qué me dice ahora
-
-353
-00:16:32,480 --> 00:16:34,480
-lo que me ha dicho este buen hombre es que ya es tarde
-
-354
-00:16:34,480 --> 00:16:36,480
-y que si quería podía quedarme en su casa
-
-355
-00:16:36,480 --> 00:16:38,480
-a dormir, superamable
-
-356
-00:16:38,480 --> 00:16:40,480
-sí que es verdad que es un poco tarde
-
-357
-00:16:40,480 --> 00:16:42,480
-Son las
-
-358
-00:16:42,480 --> 00:16:44,480
-6 menos cuarto, pero
-
-359
-00:16:44,480 --> 00:16:46,480
-Existe la posibilidad de
-
-360
-00:16:46,480 --> 00:16:48,480
-si yo llego abajo, quizás encuentro
-
-361
-00:16:48,480 --> 00:16:50,480
-Un coche que me lleva
-
-362
-00:16:50,480 --> 00:16:52,480
-hasta Obigarm
-
-363
-00:16:52,480 --> 00:16:54,480
-que es el pueblo donde he comido
-
-364
-00:16:54,480 --> 00:16:56,480
-y luego volver a hacer autostop
-
-365
-00:16:56,480 --> 00:16:58,480
-y volver a la intersección
-
-366
-00:16:58,480 --> 00:17:00,480
-para ir ya por la carretera
-
-367
-00:17:00,480 --> 00:17:02,480
-porque sí, sí, sí, me retiro
-
-368
-00:17:02,480 --> 00:17:04,480
-me retiro
-
-369
-00:17:04,480 --> 00:17:06,480
-Derrotas monumentales
-
-370
-00:17:06,480 --> 00:17:08,480
-no sé, yo creo que hubiera podido, pero
-
-371
-00:17:08,480 --> 00:17:10,480
-demasiadas incertidumbres
-
-372
-00:17:10,480 --> 00:17:12,480
-Si en el mapa no hay caminos
-
-373
-00:17:12,480 --> 00:17:14,480
-Podría tomar agua, pero
-
-374
-00:17:14,480 --> 00:17:16,480
-no hay agua probablemente durante todo el camino
-
-375
-00:17:16,480 --> 00:17:18,480
-y quién sabe
-
-376
-00:17:18,480 --> 00:17:20,480
-si llego donde pretendo llegar
-
-377
-00:17:20,480 --> 00:17:22,480
-y
-
-378
-00:17:22,480 --> 00:17:24,480
-y no, no, hay pantano
-
-379
-00:17:24,480 --> 00:17:26,480
-y no hay camino, sabes, yo qué sé
-
-380
-00:17:26,480 --> 00:17:28,480
-yo qué sé
-
-381
-00:17:28,480 --> 00:17:30,480
-Bien, esto es un
-
-382
-00:17:30,480 --> 00:17:32,480
-mal planificado, quiero decir
-
-383
-00:17:32,480 --> 00:17:34,480
-me hubiera tenido que tragar mi orgullo
-
-384
-00:17:34,480 --> 00:17:36,480
-entre comillas, y cuando estaba abajo
-
-385
-00:17:36,480 --> 00:17:38,480
-cuando he encontrado la carretera cerrada
-
-386
-00:17:38,480 --> 00:17:40,480
-Había dos coches allí
-
-387
-00:17:40,480 --> 00:17:42,480
-que me hubieran podido llevar
-
-388
-00:17:42,480 --> 00:17:44,480
-otra vez hasta Obigarm, o incluso el primer coche
-
-389
-00:17:44,480 --> 00:17:46,480
-que me ha dicho, no, no se puede pasar
-
-390
-00:17:46,480 --> 00:17:48,480
-sabéis, el primer coche que me ha dicho así, no se puede pasar
-
-391
-00:17:48,480 --> 00:17:50,480
-aquel se ha ofrecido a traerme
-
-392
-00:17:50,480 --> 00:17:52,480
-también hasta Obigarm en coche
-
-393
-00:17:52,480 --> 00:17:54,480
-y he dicho, hostia, no, para no
-
-394
-00:17:54,480 --> 00:17:56,480
-volver atrás, ya estaría allí
-
-395
-00:17:56,480 --> 00:17:58,480
-y ya hubiera empezado el camino
-
-396
-00:17:58,480 --> 00:18:00,480
-lo que pierdo
-
-397
-00:18:00,480 --> 00:18:02,480
-con eso de tiempo, bueno, ya veremos
-
-398
-00:18:02,480 --> 00:18:04,480
-pero
-
-399
-00:18:04,480 --> 00:18:06,480
-Un día entero podría ser
-
-400
-00:18:06,480 --> 00:18:08,480
-porque duda que
-
-401
-00:18:08,480 --> 00:18:10,480
-quizás mañana por la mañana
-
-402
-00:18:10,480 --> 00:18:12,480
-o mañana al mediodía llego a la intersección
-
-403
-00:18:12,480 --> 00:18:14,480
-donde puedo volver a coger la carretera con los túneles, pero
-
-404
-00:18:14,480 --> 00:18:16,480
-Un día entero puede perderlo
-
-405
-00:18:16,480 --> 00:18:18,480
-sí, sí, bastante
-
-406
-00:18:18,480 --> 00:18:20,480
-bastante, bastante
-
-407
-00:18:20,480 --> 00:18:22,480
-toca de aquello, eh
-
-408
-00:18:22,480 --> 00:18:24,480
-con el tema del track, como lo haré, porque claro
-
-409
-00:18:24,480 --> 00:18:26,480
-volviendo atrás así y tal, si ahora cojo un coche
-
-410
-00:18:26,480 --> 00:18:28,480
-porque espero que haya un coche
-
-411
-00:18:28,480 --> 00:18:30,480
-Es que si no
-
-412
-00:18:30,480 --> 00:18:32,480
-si tengo que volver andando hasta Obigarm
-
-413
-00:18:32,480 --> 00:18:34,480
-ya es la liada máxima, es muy posible
-
-414
-00:18:34,480 --> 00:18:36,480
-Porque, claro está
-
-415
-00:18:36,480 --> 00:18:38,480
-Aquí no hay ningún coche
-
-416
-00:18:38,480 --> 00:18:40,480
-y mañana a primera hora tampoco habrá nadie
-
-417
-00:18:40,480 --> 00:18:42,480
-bien,
-
-418
-00:18:42,480 --> 00:18:44,480
-pues lo que haré será, pues, parar el track
-
-419
-00:18:44,480 --> 00:18:46,480
-y Strava tiene la opción
-
-420
-00:18:46,480 --> 00:18:48,480
-de recortar, tiene la opción de recortar
-
-421
-00:18:48,480 --> 00:18:50,480
-entonces, recortaré el track
-
-422
-00:18:50,480 --> 00:18:52,480
-hasta la intersección y mañana
-
-423
-00:18:52,480 --> 00:18:54,480
-cuando la vuelva a pegar, volveré a poner en marcha el track
-
-424
-00:18:54,480 --> 00:18:56,480
-es lo que hay
-
-425
-00:18:58,480 --> 00:19:00,480
-bien Enrique, no pasa nada, es un día
-
-426
-00:19:00,480 --> 00:19:02,480
-ya, ya, ya, hombre, un día es
-
-427
-00:19:02,480 --> 00:19:04,480
-es bastante, teniendo en cuenta todo lo que estoy diciendo estos días
-
-428
-00:19:04,480 --> 00:19:06,480
-que voy corto de tiempo
-
-429
-00:19:06,480 --> 00:19:08,480
-para llegar al Pamir
-
-430
-00:19:08,480 --> 00:19:10,480
-Y todas estas historias
-
-431
-00:19:10,480 --> 00:19:12,480
-bien
-
-432
-00:19:12,480 --> 00:19:14,480
-ya está, ya está, no pasa nada
-
-433
-00:19:14,480 --> 00:19:16,480
-no pasa nada, vamos allá
-
-434
-00:19:26,480 --> 00:19:28,480
-pues he llegado abajo
-
-435
-00:19:28,480 --> 00:19:30,480
-yo pensando que había hecho una ultramaratón
-
-436
-00:19:30,480 --> 00:19:32,480
-desde Obigram
-
-437
-00:19:32,480 --> 00:19:34,480
-Resulta que sólo eran
-
-438
-00:19:34,480 --> 00:19:36,480
-no llega ni a 6 km, por lo tanto
-
-439
-00:19:36,480 --> 00:19:38,480
-pues podría ir ahora mismo
-
-440
-00:19:38,480 --> 00:19:40,480
-caminando, pero veo que hay dos coches
-
-441
-00:19:40,480 --> 00:19:42,480
-aquí, entonces a ver si algún
-
-442
-00:19:42,480 --> 00:19:44,480
-de esos que me están mirando
-
-443
-00:19:44,480 --> 00:19:46,480
-fijamente me pueden
-
-444
-00:19:46,480 --> 00:19:48,480
-llevar
-
-445
-00:19:48,480 --> 00:19:50,480
-allí
-
-446
-00:19:56,480 --> 00:20:06,480
-Pues ya está, tú
-
-447
-00:20:06,480 --> 00:20:08,480
-me han traído hasta aquí
-
-448
-00:20:08,480 --> 00:20:10,480
-y sabes qué?
-
-449
-00:20:10,480 --> 00:20:12,480
-me quedo en un hotel, bueno, hotel
-
-450
-00:20:12,480 --> 00:20:14,480
-o cómo se le diga eso que tengo aquí detrás
-
-451
-00:20:14,480 --> 00:20:16,480
-Sí, sí, tú, ya está
-
-452
-00:20:16,480 --> 00:20:18,480
-hoy he sido vencido otra vez
-
-453
-00:20:18,480 --> 00:20:20,480
-Tajikistán me ha vencido
-
-454
-00:20:20,480 --> 00:20:22,480
-es la segunda vez que me ha vencido
-
-455
-00:20:22,480 --> 00:20:24,480
-bien, que es que aquí se podía suponer que
-
-456
-00:20:24,480 --> 00:20:26,480
-La carretera terminó
-
-457
-00:20:26,480 --> 00:20:28,480
-en un lago, en un embalse
-
-458
-00:20:28,480 --> 00:20:30,480
-un desprendimiento todavía, pero un embalse
-
-459
-00:20:30,480 --> 00:20:32,480
-bien, tú, voy a la habitación
-
-460
-00:20:32,480 --> 00:20:34,480
-a ducharme
-
-461
-00:20:34,480 --> 00:20:36,480
-amigos,
-
-462
-00:20:36,480 --> 00:20:38,480
-estos rincones del mundo, esto no es lo mío
-
-463
-00:20:38,480 --> 00:20:40,480
-habitación, mi habitación tenía lavabo
-
-464
-00:20:40,480 --> 00:20:42,480
-pero no hay agua en el baño, no hay agua corriente
-
-465
-00:20:42,480 --> 00:20:44,480
-y me han llevado a otro
-
-466
-00:20:44,480 --> 00:20:46,480
-Edificio cercano aquí
-
-467
-00:20:46,480 --> 00:20:48,480
-esto supongo que son unos baños, no sé
-
-468
-00:20:48,480 --> 00:20:50,480
-comunales del pueblo o algo
-
-469
-00:20:50,480 --> 00:20:52,480
-y hay estas dos bañeras
-
-470
-00:20:52,480 --> 00:20:54,480
-no os preocupéis que no me bañaré en la bañera
-
-471
-00:20:54,480 --> 00:20:56,480
-pero también hay la ducha esta
-
-472
-00:20:56,480 --> 00:20:58,480
-y aquí
-
-473
-00:20:58,480 --> 00:21:00,480
-aquí es donde me ducharé
-
-474
-00:21:02,480 --> 00:21:04,480
-una toalla
-
-475
-00:21:04,480 --> 00:21:06,480
-Jabón, suerte que tengo
-
-476
-00:21:06,480 --> 00:21:08,480
-ropa de recambio también, pero
-
-477
-00:21:10,480 --> 00:21:12,480
-ay, Enric adventures
-
-478
-00:21:12,480 --> 00:21:14,480
-peor habitación
-
-479
-00:21:14,480 --> 00:21:16,480
-de la historia, la habitación en sí
-
-480
-00:21:16,480 --> 00:21:18,480
-dices, bueno
-
-481
-00:21:18,480 --> 00:21:20,480
-humil, pequeña
-
-482
-00:21:20,480 --> 00:21:22,480
-No, pero es claro
-
-483
-00:21:22,480 --> 00:21:24,480
-El hecho de que no haya agua en el baño
-
-484
-00:21:24,480 --> 00:21:26,480
-aparte de que hay, no sé, porque hay botellas
-
-485
-00:21:26,480 --> 00:21:28,480
-allá y cosas
-
-486
-00:21:28,480 --> 00:21:30,480
-y está lleno de polvo
-
-487
-00:21:30,480 --> 00:21:32,480
-es decir, he caminado ahora por esta tierra
-
-488
-00:21:32,480 --> 00:21:34,480
-y notaba los precios
-
-489
-00:21:34,480 --> 00:21:36,480
-creo, creo, sabes, cuando he caminado
-
-490
-00:21:36,480 --> 00:21:38,480
-sin el calzado
-
-491
-00:21:38,480 --> 00:21:40,480
-que menos que tener pulso, ¿no?
-
-492
-00:21:40,480 --> 00:21:42,480
-yo creo que este lugar está cerrado
-
-493
-00:21:42,480 --> 00:21:44,480
-me lo han abierto a mí, porque han dicho
-
-494
-00:21:44,480 --> 00:21:46,480
-bien, vamos a hacer negocio con el guiri este
-
-495
-00:21:46,480 --> 00:21:48,480
-me han cobrado 5 euros, eh, solo, también es la más barata
-
-496
-00:21:48,480 --> 00:21:50,480
-de la vuelta al mundo a pie,
-
-497
-00:21:50,480 --> 00:21:52,480
-y el que a mí me toca más, las pelotas, porque
-
-498
-00:21:52,480 --> 00:21:54,480
-bueno, digo, bueno ducharme, ya me he duchado allí
-
-499
-00:21:54,480 --> 00:21:56,480
-Es lo mismo, es eso
-
-500
-00:21:56,480 --> 00:21:58,480
-el aire acondicionado, funciona
-
-501
-00:21:58,480 --> 00:22:00,480
-funciona porque lo he enchufado
-
-502
-00:22:00,480 --> 00:22:02,480
-y ha hecho pip, tal, pero el tío
-
-503
-00:22:02,480 --> 00:22:04,480
-No quiso darme el
-
-504
-00:22:04,480 --> 00:22:06,480
-mando, dice, no, no, no hay
-
-505
-00:22:06,480 --> 00:22:08,480
-bien, no sé qué me ha dicho, pero que no, que no, que no
-
-506
-00:22:08,480 --> 00:22:10,480
-y hace calor
-
-507
-00:22:10,480 --> 00:22:12,480
-Lo curioso es que fuera
-
-508
-00:22:12,480 --> 00:22:14,480
-Esta hora es perfecta
-
-509
-00:22:14,480 --> 00:22:16,480
-aquí, se está muy bien
-
-510
-00:22:16,480 --> 00:22:18,480
-tú dentro
-
-511
-00:22:18,480 --> 00:22:20,480
-no corre el aire, hace calor
-
-512
-00:22:20,480 --> 00:22:22,480
-hubiera acampado, eh
-
-513
-00:22:22,480 --> 00:22:24,480
-lo llego a saber y acampo
-
-514
-00:22:24,480 --> 00:22:26,480
-bien, hoy
-
-515
-00:22:26,480 --> 00:22:28,480
-31 km, mira, lo que verás
-
-516
-00:22:28,480 --> 00:22:30,480
-Ahora en pantalla es
-
-517
-00:22:30,480 --> 00:22:32,480
-lo que sería, lo que he hecho
-
-518
-00:22:32,480 --> 00:22:34,480
-vale, lo que he hecho, en Strava
-
-519
-00:22:34,480 --> 00:22:36,480
-Verás la versión
-
-520
-00:22:36,480 --> 00:22:38,480
-La ley, la versión legal
-
-521
-00:22:38,480 --> 00:22:40,480
-entre comillas, vale, pero aquí veis lo que he hecho
-
-522
-00:22:40,480 --> 00:22:42,480
-eh,
-
-523
-00:22:42,480 --> 00:22:44,480
-Podría haber sido un buen día, la verdad
-
-524
-00:22:44,480 --> 00:22:46,480
-bastante tranqui, por el desfiladero este
-
-525
-00:22:46,480 --> 00:22:48,480
-pum, pum, pum, he pasado un poco
-
-526
-00:22:48,480 --> 00:22:50,480
-de calor, pero también he ido descansando
-
-527
-00:22:50,480 --> 00:22:52,480
-Sin embargo, este final
-
-528
-00:22:52,480 --> 00:22:54,480
-Un final que podría haber sido feliz
-
-529
-00:22:54,480 --> 00:22:56,480
-por el hotel, pero
-
-530
-00:22:56,480 --> 00:22:58,480
-todo mal, todo mal
-
-531
-00:22:58,480 --> 00:23:00,480
-Después, con gente con la que he
-
-532
-00:23:00,480 --> 00:23:02,480
-hablado, pues, bien hoy bastante, eh
-
-533
-00:23:02,480 --> 00:23:04,480
-hoy ponle, ponle
-
-534
-00:23:04,480 --> 00:23:06,480
-5 o 6, y de calés
-
-535
-00:23:06,480 --> 00:23:08,480
-es complicado porque voy pagando en efectivo
-
-536
-00:23:08,480 --> 00:23:10,480
-sabes, y es difícil, ponle 10
-
-537
-00:23:10,480 --> 00:23:12,480
-no, ponle 12
-
-538
-00:23:12,480 --> 00:23:14,480
-con el hotel este ponle 12
-
-539
-00:23:14,480 --> 00:23:16,480
-cafés y tés, nada
-
-540
-00:23:16,480 --> 00:23:18,480
-bien, tú, mañana
-
-541
-00:23:18,480 --> 00:23:20,480
-Intentaré llegar al punto de salida
-
-542
-00:23:20,480 --> 00:23:22,480
-ya sea a pie o en autostop
-
-543
-00:23:22,480 --> 00:23:24,480
-o en taxi
-
-544
-00:23:24,480 --> 00:23:26,480
-y volvemos
-
-545
-00:23:26,480 --> 00:23:28,480
-Los túneles, los túneles
-
-546
-00:23:28,480 --> 00:23:30,480
-Hay un kilómetro, lo que pasa es que
-
-547
-00:23:30,480 --> 00:23:32,480
-no será mañana, será pasado mañana porque es un tramo
-
-548
-00:23:32,480 --> 00:23:34,480
-de 60 km, entonces
-
-549
-00:23:34,480 --> 00:23:36,480
-Tengo para dos días, venga
-
-550
-00:23:36,480 --> 00:23:38,480
-Enrique Aventuras, hoy más que nunca
+0:17:26.180,0:17:27.180
+Buenas noches.
