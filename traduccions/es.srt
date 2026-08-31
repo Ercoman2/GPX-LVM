@@ -1,999 +1,2571 @@
 1
-00:00:00,200 --> 00:00:02,720
-Venga, son las 9 de la noche, tengo una vaca aquí.
+00:00:00,000 --> 00:00:03,000
+0:00:00.000,0:00:04.756
 
 2
-00:00:05,000 --> 00:00:09,040
-Bueno, si te pirás mejor, ¿no? Yo creo.
+00:00:03,000 --> 00:00:06,000
+La vuelta al mundo a pie, día 274
 
 3
-00:00:10,320 --> 00:00:12,840
-Vamos, vamos. Fuera.
+00:00:06,000 --> 00:00:09,000
+0:00:04.756,0:00:09.639
 
 4
-00:00:14,400 --> 00:00:17,020
-Tampoco la quiero cabrear demasiado, que... Vale.
+00:00:09,000 --> 00:00:12,000
+Ha sido una buena noche, pero a las 11 o así han venido los militares.
 
 5
-00:00:18,820 --> 00:00:20,480
-Parece que se ha dado cuenta de mi presencia
+00:00:12,000 --> 00:00:15,000
+0:00:11.220,0:00:15.120
 
 6
-00:00:20,480 --> 00:00:24,580
-y prefiere irse a otra parte. 9 de la noche, ¿eh?
+00:00:15,000 --> 00:00:18,000
+De repente veo que me están apuntando con una linterna desde fuera.
 
 7
-00:00:24,640 --> 00:00:27,840
-Todavía hay mucha noche por delante. Vale.
+00:00:18,000 --> 00:00:21,000
+0:00:15.620,0:00:18.850
 
 8
-00:00:27,840 --> 00:00:31,660
-Venga, allí hay otra, veo, no se ve aquí por el móvil, pero hay otra.
+00:00:21,000 --> 00:00:24,000
+Digo, bueno, (serán unos niños, ¿no?, que estarán curiosos), y no, no,
 
 9
-00:00:32,760 --> 00:00:35,460
-Bueno, dile, dile al otro que no se acerque, tampoco, ¿eh?
+00:00:24,000 --> 00:00:27,000
+0:00:18.850,0:00:23.339
 
 10
-00:00:35,700 --> 00:00:36,840
-Venga, buenas noches.
+00:00:27,000 --> 00:00:30,000
+salgo y veo a unos tíos con unas metralletas en la carretera, ¿eh?, no se han acercado.
 
 11
-00:00:38,180 --> 00:00:40,480
-Pasa que tengo la bolsa colgada, ¿la veis? Fluorescente.
+00:00:30,000 --> 00:00:33,000
+0:00:23.580,0:00:28.200
 
 12
-00:00:43,060 --> 00:00:45,220
-A las vacas les gusta todo lo que huele a comida.
+00:00:33,000 --> 00:00:36,000
+Y nada, yo me he levantado tranquilamente con la luz, enfocándome a mí mismo para que vieran que no soy un peligro.
 
 13
-00:00:49,120 --> 00:00:51,960
-La vuelta al mundo a pie, día 273.
+00:00:36,000 --> 00:00:39,000
+0:00:28.200,0:00:30.157
 
 14
-00:00:53,220 --> 00:00:54,480
-A las 12 regresaron las vacas.
+00:00:39,000 --> 00:00:42,000
+y me he acercado,
 
 15
-00:00:54,480 --> 00:00:56,480
-Se pusieron bastante cerca y esta vez...
+00:00:42,000 --> 00:00:45,000
+0:00:30.157,0:00:31.703
 
 16
-00:00:56,480 --> 00:00:58,480
-No pude alejarme de ellos.
+00:00:45,000 --> 00:00:48,000
+"turist, turist",
 
 17
-00:00:58,480 --> 00:01:00,480
-Hice "eh, eh, eh", pero, bueno, se quedaron cerca y ya está.
+00:00:48,000 --> 00:00:51,000
+0:00:31.703,0:00:35.720
 
 18
-00:01:00,480 --> 00:01:04,480
-No me han molestado más en toda la noche, por lo tanto, me doy por satisfecho.
+00:00:51,000 --> 00:00:54,000
+me han dicho, "ah, ok, ok", "me tengo que ir?", y ellos: "no, no, tranquilo, te puedes quedar".
 
 19
-00:01:04,480 --> 00:01:07,480
-De hecho, he dormido tan bien que me he levantado a las 7.
+00:00:54,000 --> 00:00:57,000
+0:00:35.720,0:00:44.740
 
 20
-00:01:07,480 --> 00:01:10,480
-Compara con ayer, con el tema del gallo,
+00:00:57,000 --> 00:01:00,000
+Por lo tanto, pues nada, todo bien, todo bien, pero claro, normal que si acampo junto a la frontera quieran saber qué pasa aquí, ¿no?
 
 21
-00:01:10,480 --> 00:01:13,480
-que a las 5 y pico o 6 ya estaba caminando,
+00:01:00,000 --> 00:01:03,000
+0:00:46.160,0:00:48.373
 
 22
-00:01:13,480 --> 00:01:16,480
-Hoy son las 8 y 12 de la mañana y...
+00:01:03,000 --> 00:01:06,000
+Bueno, sigamos.
 
 23
-00:01:16,480 --> 00:01:19,480
-todavía no he recogido. Es la teoría del péndulo, ¿no?
+00:01:06,000 --> 00:01:09,000
+0:00:48.373,0:00:52.116
 
 24
-00:01:19,480 --> 00:01:22,480
-No lo sé, no sé si es la teoría del péndulo, pero yo le llamo así,
+00:01:09,000 --> 00:01:12,000
+Pasan camiones a saco, también, hoy, ahora a esta hora,
 
 25
-00:01:22,480 --> 00:01:26,300
-que un día hago mucho y el día segundo estoy cansado y hago poco.
+00:01:12,000 --> 00:01:15,000
+0:00:52.116,0:00:55.001
 
 26
-00:01:26,300 --> 00:01:29,300
-Va así. Va así bastante, bastante, bastante.
+00:01:15,000 --> 00:01:18,000
+sin novedades en este sentido, tocará comer polvo.
 
 27
-00:01:29,300 --> 00:01:33,300
-Ahora veo a un payés allí al fondo, que, bueno, le he saludado antes.
+00:01:18,000 --> 00:01:21,000
+0:01:15.374,0:01:18.745
 
 28
-00:01:33,300 --> 00:01:34,300
-Eh, hola.
+00:01:21,000 --> 00:01:24,000
+Tregua momentánea de camiones.
 
 29
-00:01:34,300 --> 00:01:37,300
-La comida no se la habían comido las vacas.
+00:01:24,000 --> 00:01:27,000
+0:01:18.745,0:01:22.935
 
 30
-00:01:37,300 --> 00:01:40,300
-Hoy tocará...
+00:01:27,000 --> 00:01:30,000
+Ya os digo, pasan todos a la vez, durante media hora o 1 hora, y luego ya dejan de pasar.
 
 31
-00:01:40,300 --> 00:01:42,300
-Mucho calor, supongo.
+00:01:30,000 --> 00:01:33,000
+0:01:23.120,0:01:27.420
 
 32
-00:01:42,300 --> 00:01:43,300
-Vamos allá.
+00:01:33,000 --> 00:01:36,000
+Y mirad, eh?, mirad qué tramo de río más ancho.
 
 33
-00:02:12,300 --> 00:02:14,300
-Son las 9, todavía se va bastante bien.
+00:01:36,000 --> 00:01:39,000
+0:01:28.200,0:01:34.480
 
 34
-00:02:14,300 --> 00:02:17,300
-Veo que aquí hay como una fábrica de mármol.
+00:01:39,000 --> 00:01:42,000
+Y lo que siempre me flipa a mí, lo que siempre estoy mirando, es la carretera de Afganistán al otro lado, es lo que siempre me fijo.
 
 35
-00:02:17,300 --> 00:02:20,300
-No, bueno, una cantera de mármol, más bien.
+00:01:42,000 --> 00:01:45,000
+0:01:35.560,0:01:39.900
 
 36
-00:02:20,300 --> 00:02:24,300
-Sí, sí, sí. Bueno, algo que hace días que quiero decir,
+00:01:45,000 --> 00:01:48,000
+Pasan motos, coches muy pocos, pero alguno de vez en cuando.
 
 37
-00:02:24,300 --> 00:02:26,300
-pero que siempre me olvido.
+00:01:48,000 --> 00:01:51,000
+0:01:40.440,0:01:44.185
 
 38
-00:02:26,300 --> 00:02:29,300
-A ver, la bandera. No llevo la bandera. ¿Por qué?
+00:01:51,000 --> 00:01:54,000
+Hay alguien en los comentarios de YouTube que me ha contado que
 
 39
-00:02:29,300 --> 00:02:32,300
-Bueno, porque, en cambio de región, estamos en el Pamir,
+00:01:54,000 --> 00:01:57,000
+0:01:44.185,0:01:48.650
 
 40
-00:02:32,300 --> 00:02:37,300
-en la región de Gormisbonistán, se dice, o algo así.
+00:01:57,000 --> 00:02:00,000
+la frontera entre Tajikistán y Afganistán es bastante artificial, hecha por los británicos,
 
 41
-00:02:37,300 --> 00:02:43,300
-Ahora ya, pues, sacamos la bandera y ya está.
+00:02:00,000 --> 00:02:03,000
+0:01:48.760,0:01:53.496
 
 42
-00:02:43,300 --> 00:02:48,300
-No, no la guardo, no la guardo, ya no la tengo.
+00:02:03,000 --> 00:02:06,000
+porque en realidad hay mucha gente de la parte afgana (de esta parte del norte)
 
 43
-00:02:48,300 --> 00:02:53,300
-Bueno, por la agrografía del terreno,
+00:02:06,000 --> 00:02:09,000
+0:01:53.496,0:01:58.200
 
 44
-00:02:53,300 --> 00:02:57,300
-Parece que, al menos esta mañana, tendremos bastante solana.
+00:02:09,000 --> 00:02:12,000
+que son tayikos, étnicamente o nacionalmente, como quieras llamarlo, son tayikos.
 
 45
-00:02:57,300 --> 00:03:01,300
-Aquí, hay un restaurante, desgraciadamente, a esta hora, pues, no pararé de comer.
+00:02:12,000 --> 00:02:15,000
+0:01:58.200,0:02:05.720
 
 46
-00:03:01,300 --> 00:03:06,300
-Y el siguiente, pues, tendré que mirar a cuánto está, pero quizás hoy no...
+00:02:15,000 --> 00:02:18,000
+Bueno, una persona que lo ha dicho en los comentarios. Yo no puedo investigar, no tengo internet.
 
 47
-00:03:06,300 --> 00:03:10,300
-quizás hoy no tenemos. Cosas de la vida!
+00:02:18,000 --> 00:02:21,000
+0:02:06.584,0:02:10.274
 
 48
-00:03:10,300 --> 00:03:14,300
-Mira qué locura de talud que ha excavado aquí, ¿eh?
+00:02:21,000 --> 00:02:24,000
+Pero me lo creo, porque no hace mucho
 
 49
-00:03:14,300 --> 00:03:20,300
-Eso debe de tener, ¿qué? Más de 50 metros de alto, ¿eh? Es enorme, ¿eh?
+00:02:24,000 --> 00:02:27,000
+0:02:10.274,0:02:13.576
 
 50
-00:03:20,300 --> 00:03:22,300
-Tajikistán será un país...
+00:02:27,000 --> 00:02:30,000
+es decir, hace este año, estos meses últimos,
 
 51
-00:03:23,300 --> 00:03:26,300
-que, bueno, podremos considerar que no está muy desarrollado, lo que sea,
+00:02:30,000 --> 00:02:33,000
+0:02:13.576,0:02:18.295
 
 52
-00:03:26,300 --> 00:03:31,300
-pero si hay algo que, de verdad, nos pasan la mano por la cara es con el tema de coches eléctricos, ¿eh?
+00:02:33,000 --> 00:02:36,000
+sé que los talibanes han estado teniendo sus trifulcas
 
 53
-00:03:31,300 --> 00:03:36,300
-Porque hay muchísimos coches eléctricos. En Dushanbe, sobre todo, es una pasada.
+00:02:36,000 --> 00:02:39,000
+0:02:18.295,0:02:28.755
 
 54
-00:03:36,300 --> 00:03:40,300
-No sé si son la mayoría, quizás no, pero hay muchos. Todos los taxis son eléctricos.
+00:02:39,000 --> 00:02:42,000
+con algunos grupos insurgentes justo aquí, en esta banda de Afganistán. Por lo tanto, no lo sé, podría ser.
 
 55
-00:03:40,300 --> 00:03:46,300
-Y aquí estamos en el Pamir, estamos en un lugar abandonado de la Virgen, casi,
+00:02:42,000 --> 00:02:45,000
+0:02:52.200,0:02:55.360
 
 56
-00:03:46,300 --> 00:03:51,300
-y hay una estación de carga de vehículos eléctricos. Sí, sí, sí, sí.
+00:02:45,000 --> 00:02:48,000
+Son las 9h, veo que aquí hay un restaurante.
 
 57
-00:03:51,300 --> 00:03:57,300
-Supongo que quieren reducir la dependencia del petróleo. No lo sé.
+00:02:48,000 --> 00:02:51,000
+0:02:56.180,0:02:56.940
 
 58
-00:03:57,300 --> 00:03:59,300
-También me preguntaron el otro día cuánto valía la gasolina.
+00:02:51,000 --> 00:02:54,000
+Por lo general, de todo esto,
 
 59
-00:03:59,300 --> 00:04:04,300
-Pues mira, no me he encontrado ninguna gasolinera estos últimos días que ponga los precios.
+00:02:54,000 --> 00:02:57,000
+0:02:56.940,0:02:57.440
 
 60
-00:04:04,300 --> 00:04:11,300
-Sé que aquí en el Pamir es más caro que en Dushanbe. En Dushanbe sí que voy a ver los precios, pero ahora no me acuerdo.
+00:02:57,000 --> 00:03:00,000
+Por lo general, de todo esto,
 
 61
-00:04:11,300 --> 00:04:20,300
-Y otra cosa que es que, bueno, al final ya llevo días caminando por aquí y me acostumbro, ¿eh? Pero el paisaje...
+00:03:00,000 --> 00:03:03,000
+0:02:57.500,0:02:58.180
 
 62
-00:04:20,300 --> 00:04:22,300
-El paisaje es único, ¿verdad?
+00:03:03,000 --> 00:03:06,000
+Por lo general, de todo esto,
 
 63
-00:04:22,300 --> 00:04:27,300
-Yo creo que por ver montañas así, en pocos lugares del mundo las encontrarás.
+00:03:06,000 --> 00:03:09,000
+0:02:58.180,0:03:07.180
 
 64
-00:04:27,300 --> 00:04:32,300
-Me refiero a esa paleta de colores tan seco.
+00:03:09,000 --> 00:03:12,000
+no tienen nada, solo tienen el arroz. Dice que está abierto, si me dan algo, está bien.
 
 65
-00:04:32,300 --> 00:04:38,300
-Las montañas a la vez son tan, tan altas. Ves nieve en algunas de estas aquí de atrás.
+00:03:12,000 --> 00:03:15,000
+0:03:07.180,0:03:12.180
 
 66
-00:04:38,300 --> 00:04:41,300
-Es muy, muy guapo, ¿eh?
+00:03:15,000 --> 00:03:18,000
+¿Cuántos días hacía que no comía carne, más allá de los cuatro trozos que ponen en el plov?
 
 67
-00:04:41,300 --> 00:04:49,300
-Siempre preferiré las montañas tipo Alpes, ¿no?, o Pirineos que son más verdes, pero eso también mola.
+00:03:18,000 --> 00:03:21,000
+0:03:12.180,0:03:20.180
 
 68
-00:04:49,300 --> 00:04:56,300
-Pues ahora aquí detrás había un check point y había un tío allí enviando documentos, pero a mí me han dicho, "pasa, pasa".
+00:03:21,000 --> 00:03:24,000
+Mira, mira, me han llamado kebab, yo no sé si esto es kebab, pero vamos a probarlo antes de decir nada.
 
 69
-00:04:56,300 --> 00:04:58,300
-Debo de tener cara de buena persona.
+00:03:24,000 --> 00:03:27,000
+0:03:20.180,0:03:34.453
 
 70
-00:04:58,300 --> 00:05:06,300
-Bueno, aquí tenemos un gran río. Como veis, ahora esta zona de la frontera y tal, pues es bastante diferente.
+00:03:27,000 --> 00:03:30,000
+Diría que es cordero, es un sabor bastante fuerte, está bueno, es un sabor bastante fuerte, ¿eh? Sí, sí.
 
 71
-00:05:06,300 --> 00:05:17,300
-Pero la idea es ir hacia allí y volver un poco al paisaje de estos últimos días, que es el valle más angosta, la carretera así "chunga"...
+00:03:30,000 --> 00:03:33,000
+0:03:34.453,0:03:40.180
 
 72
-00:05:17,300 --> 00:05:18,300
-Afganistán allí super cerca y tal.
+00:03:33,000 --> 00:03:36,000
+Quizás demasiado para mi gusto de fuerte, pero bueno, bueno, también tengo pan y té, té negro.
 
 73
-00:05:18,300 --> 00:05:20,300
-Afganistán allí super cerca y tal.
+00:03:36,000 --> 00:03:39,000
+0:03:40.180,0:03:48.180
 
 74
-00:05:20,300 --> 00:05:32,300
-Venga, hay un restaurante que sale en el mapa, pero solo tiene valoraciones desde hace... la última es de hace dos años. Por lo tanto, no es muy de fiar. A ver qué hay.
+00:03:39,000 --> 00:03:42,000
+Muy bien, tú, a las 9 de la mañana, pero hay FOMO, hay FOMO en el Pamir porque nunca sabes cuándo te encontrarás el restaurante.
 
 75
-00:05:32,300 --> 00:05:39,300
-Ahora detrás está el segundo puente que he visto de frontera entre Afganistán y Tajikistán.
+00:03:42,000 --> 00:03:45,000
+0:03:48.180,0:03:50.180
 
 76
-00:05:39,300 --> 00:05:46,300
-No he querido grabar demasiado descaradamente porque, bueno, no quiero que me vean, pero muy poca presencia militar.
+00:03:45,000 --> 00:03:48,000
+Siguen los camiones, sigue
 
 77
-00:05:46,300 --> 00:05:47,300
-No he querido grabar demasiado descaradamente porque, bueno, no quiero que me vean, pero muy poca presencia militar.
+00:03:48,000 --> 00:03:51,000
+0:03:50.180,0:03:57.180
 
 78
-00:05:47,300 --> 00:05:56,300
-No demasiado control y tal, simplemente. Tampoco veo a nadie cruzando. Normalidad.
+00:03:51,000 --> 00:03:54,000
+la carretera a tramos muy polvorienta y mirad que me he dignado a sacar hoy, hoy sí, la mascarilla.
 
 79
-00:05:56,300 --> 00:06:07,300
-Bueno, ahora de repente, de repente hay bastante tráfico. Eso es bueno. Eso significa que si hay tráfico, hay conductores que necesitan comida y algo vamos a encontrar, ¿no? No sé.
+00:03:54,000 --> 00:03:57,000
+0:03:57.180,0:04:05.180
 
 80
-00:06:17,300 --> 00:06:20,300
+00:03:57,000 --> 00:04:00,000
+Bueno, de normal no me la pondría ahora, lo que haría será, justo cuando más o menos pasa aquel camión por el lado,
 
 81
-00:06:20,300 --> 00:06:24,300
-Las 12 y media. El calor es brutal.
+00:04:00,000 --> 00:04:03,000
+0:04:05.180,0:04:13.180
 
 82
-00:06:24,300 --> 00:06:33,300
-Cuanto más estrecho es el valle, menos sopla el viento y entonces se acumula el calor aquí abajo y no... El calor es brutal, ¿eh?
+00:04:03,000 --> 00:04:06,000
+pues entonces sí que me la pongo y los 20-30 segundos después es cuando está el polvo levantado y cuando tal.
 
 83
-00:06:33,300 --> 00:06:36,300
-Todavía dos kilómetros hasta el pueblo que no sé si habrá nada.
+00:04:06,000 --> 00:04:09,000
+0:04:13.180,0:04:20.180
 
 84
-00:06:36,300 --> 00:06:45,300
-Pero saco el móvil para decir que acabo de ver la primera colaboración entre los dos países, entre Tajikistán y Afganistán, que es esta línea eléctrica.
+00:04:09,000 --> 00:04:12,000
+He visto gente que en los Himalayas se pone esto no para los trekkings sino para caminar
 
 85
-00:06:45,300 --> 00:06:53,300
-Esta línea eléctrica de alta tensión... Tenemos torres en Tajikistán y va pasando la torre hasta...
+00:04:12,000 --> 00:04:15,000
+0:04:20.180,0:04:23.180
 
 86
-00:06:53,300 --> 00:06:59,300
-Bueno, Afganistán-Tajikistán va cruzando el río. Depende de la agrografía.
+00:04:15,000 --> 00:04:18,000
+por carreteras y caminos de Nepal donde también hay mucho polvo,
 
 87
-00:06:59,300 --> 00:07:05,300
-Bueno, tú, está muy bien, está muy bien. Que colaboren y no...
+00:04:18,000 --> 00:04:21,000
+0:04:23.180,0:04:28.180
 
 88
-00:07:05,300 --> 00:07:09,300
-¿Sabes qué sería más interesante, también? (Que no lo he visto en ningún otro lugar de aquí)
+00:04:21,000 --> 00:04:24,000
+y dicen que lo hacen para evitarse infecciones respiratorias,
 
 89
-00:07:09,300 --> 00:07:13,300
-Que las antenas telefónicas estuvieran al otro lado del país.
+00:04:24,000 --> 00:04:27,000
+0:04:28.180,0:04:32.180
 
 90
-00:07:13,300 --> 00:07:14,300
-Es decir...
+00:04:27,000 --> 00:04:30,000
+porque si sacas mucho polvo se puede pillar algo chungo en los pulmones, no sé.
 
 91
-00:07:15,300 --> 00:07:17,300
-Hay mucha más cobertura
+00:04:30,000 --> 00:04:33,000
+0:04:32.180,0:04:34.180
 
 92
-00:07:17,300 --> 00:07:24,300
-si la antena de 4G de Tajikistan está en el lado afgano, porque abarca más parte tayika,
+00:04:33,000 --> 00:04:36,000
+Mira, mira, mira, mira.
 
 93
-00:07:24,300 --> 00:07:34,300
-y al revés, que la antena de 4G (o lo que tenga en Afganistán), esté en la parte tayika, pues daría mejor cobertura.
+00:04:36,000 --> 00:04:39,000
+0:04:47.189,0:04:49.653
 
 94
-00:07:34,300 --> 00:07:38,300
-Pero eso no... Hasta tanto no llegan.
+00:04:39,000 --> 00:04:42,000
+Brutal, tío, brutal.
 
 95
-00:07:41,300 --> 00:07:43,300
-¡La una!
+00:04:42,000 --> 00:04:45,000
+0:04:49.653,0:04:52.778
 
 96
-00:07:43,300 --> 00:07:47,300
-Ya he llegado al pueblo este, veo dos camiones...
+00:04:45,000 --> 00:04:48,000
+Es lo peor de este país, ¿eh?
 
 97
-00:07:47,300 --> 00:07:51,300
-Bueno, mira, no sé si habrá restaurante, pero...
+00:04:48,000 --> 00:04:51,000
+0:04:52.778,0:04:54.180
 
 98
-00:07:51,300 --> 00:07:55,300
-Solo que haya un supermercado para beber agua fría...
+00:04:51,000 --> 00:04:54,000
+Realmente brutal.
 
 99
-00:07:55,300 --> 00:07:57,300
-Ya me conformo, ¿eh?
+00:04:54,000 --> 00:04:57,000
+0:04:54.180,0:05:00.180
 
 100
-00:08:00,300 --> 00:08:05,300
-Oh, sí que había restaurante, sí. Sí, sí. Y tenían... ¿adivináis qué?
+00:04:57,000 --> 00:05:00,000
+Bueno, mira, estas paredes, este valle hoy de momento es muy muy estrecho con unas paredes verticales brutales,
 
 101
-00:08:05,300 --> 00:08:08,300
-Plov. Plov.
+00:05:00,000 --> 00:05:03,000
+0:05:00.180,0:05:03.180
 
 102
-00:08:08,300 --> 00:08:11,300
-Ahora estoy aquí... no sé...
+00:05:03,000 --> 00:05:06,000
+Eso es bueno porque tengo sombra.
 
 103
-00:08:11,300 --> 00:08:14,300
-Tomando un poco la sombra en esta especie de prado.
+00:05:06,000 --> 00:05:09,000
+0:05:03.180,0:05:04.180
 
 104
-00:08:14,300 --> 00:08:20,300
-Y quería grabar el video cuando esta máquina parara el motor, para que se sintiera mejor,
+00:05:09,000 --> 00:05:12,000
+Sigo.
 
 105
-00:08:20,300 --> 00:08:25,300
-pero lleva 5-10 minutos con el motor encendido y no lo apaga.
-[¡¿Por qué?!]
+00:05:12,000 --> 00:05:15,000
+0:05:28.829,0:05:33.180
 
 106
-00:08:29,300 --> 00:08:34,300
-Pocas ganas de caminar hoy, ¿eh? Son las dos y pico y llevo ni 20 km.
+00:05:15,000 --> 00:05:18,000
+Pues he parado en este restaurante que, mirad, está super bien, está super bien.
 
 107
-00:08:35,300 --> 00:08:37,300
-Actualización a las 4 de la tarde,
+00:05:18,000 --> 00:05:21,000
+0:05:33.180,0:05:35.180
 
 108
-00:08:37,300 --> 00:08:40,300
-esperando que el sol se vaya detrás de las montañas un poco,
+00:05:21,000 --> 00:05:24,000
+Mira, qué pantalla plana y todo.
 
 109
-00:08:40,300 --> 00:08:43,300
-para no ir tan asfixiado, porque es bastante horrible.
+00:05:24,000 --> 00:05:27,000
+0:05:35.180,0:05:39.180
 
 110
-00:08:43,300 --> 00:08:47,300
-Yo no sé por qué, pero hay determinadas horas del día
+00:05:27,000 --> 00:05:30,000
+No tenía demasiada hambre por lo de esta mañana, entonces he comido solo una ensalada.
 
 111
-00:08:47,300 --> 00:08:51,300
-que pasan más camiones y más coches que otros.
+00:05:30,000 --> 00:05:33,000
+0:05:39.180,0:05:43.180
 
 112
-00:08:51,300 --> 00:08:55,300
-Ahora hace media hora que quizá no veo ningún coche.
+00:05:33,000 --> 00:05:36,000
+Veo bastante movimiento, ¿eh? Ya han venido unos turistas occidentales,
 
 113
-00:08:55,300 --> 00:08:57,300
-O 15 minutos, no sé.
+00:05:36,000 --> 00:05:39,000
+0:05:43.180,0:05:47.180
 
 114
-00:08:57,300 --> 00:09:01,300
-Y de repente, cuando pasan, empiezan a pasar todos a la vez.
+00:05:39,000 --> 00:05:42,000
+ahora aquí estaban sentados también unos estadounidenses que estaban haciendo un tour,
 
 115
-00:09:01,300 --> 00:09:05,300
-Yo creo que los camiones deben ir en convoyes, ¿no? Deben ir todos juntos.
+00:05:42,000 --> 00:05:45,000
+0:05:47.180,0:05:49.180
 
 116
-00:09:05,300 --> 00:09:09,300
-Y los coches van detrás... no lo sé. No lo sé, no lo sé, no lo sé.
+00:05:45,000 --> 00:05:48,000
+y me han dado esta agua.
 
 117
-00:09:10,300 --> 00:09:13,300
-Lo desconozco, pero suele ser por allí...
+00:05:48,000 --> 00:05:51,000
+0:05:49.180,0:05:52.180
 
 118
-00:09:13,300 --> 00:09:16,300
-Uy, ¿qué es eso? ¿Un control? ¿Qué es eso?
+00:05:51,000 --> 00:05:54,000
+Y bueno, nada, son las 12 y media.
 
 119
-00:09:16,300 --> 00:09:23,300
-Suele ser por allí a las 5-6 que empiezan a pasar bastante a saco.
+00:05:54,000 --> 00:05:57,000
+0:05:52.180,0:05:55.180
 
 120
-00:09:23,300 --> 00:09:30,300
-Allí hay un puente y veo gente con chalecos fluorescentes.
+00:05:57,000 --> 00:06:00,000
+Aún me quedaré aquí 10 minutos más.
 
 121
-00:09:30,300 --> 00:09:32,300
-No los grabaré, ¿eh? Porque quizás son polis.
+00:06:00,000 --> 00:06:03,000
+0:05:55.180,0:05:57.180
 
 122
-00:09:32,300 --> 00:09:35,300
-Ah, no, deben ser trabajadores que están construyendo el puente.
+00:06:03,000 --> 00:06:06,000
+Y luego continúo.
 
 123
-00:09:35,300 --> 00:09:38,300
-Sí, sí, porque veo que hay un puente antiguo y están haciendo un puente nuevo.
+00:06:06,000 --> 00:06:09,000
+0:05:57.180,0:06:00.180
 
 124
-00:09:38,300 --> 00:09:40,300
-¡Vale!
+00:06:09,000 --> 00:06:12,000
+Mira, muy interesante, un mapa que no había encontrado todavía.
 
 125
-00:09:44,300 --> 00:09:46,300
-Actualización a las 5 de la tarde.
+00:06:12,000 --> 00:06:15,000
+0:06:00.180,0:06:04.180
 
 126
-00:09:46,300 --> 00:09:48,300
-Mucho mejor ahora sin el sol.
+00:06:15,000 --> 00:06:18,000
+Un mapa de esta región de Tayikistán, que no es todo el país, todo el país es eso, ¿de acuerdo?
 
 127
-00:09:48,300 --> 00:09:52,300
-Tengo 4 militares detrás, no sé si todavía están, no quiero girarme.
+00:06:18,000 --> 00:06:21,000
+0:06:04.180,0:06:05.180
 
 128
-00:09:52,300 --> 00:09:57,300
-Simplemente han cogido un coche, han aparcado y han empezado a caminar,
+00:06:21,000 --> 00:06:24,000
+Y aquí tenemos esa parte.
 
 129
-00:09:57,300 --> 00:09:59,300
-separados por 100 o 200 metros cada uno de ellos.
+00:06:24,000 --> 00:06:27,000
+0:06:05.180,0:06:08.180
 
 130
-00:09:59,300 --> 00:10:02,300
-Y, bueno, pues yo voy un poco más rápido.
+00:06:27,000 --> 00:06:30,000
+Ahora mismo estamos por aquí, ¿de acuerdo?
 
 131
-00:10:02,300 --> 00:10:04,300
-Ya los he pasado.
+00:06:30,000 --> 00:06:33,000
+0:06:08.180,0:06:10.180
 
 132
-00:10:04,300 --> 00:10:07,300
-Bueno, el paisaje es brutal, ¿eh?
+00:06:33,000 --> 00:06:36,000
+Y yo he venido caminando desde aquí.
 
 133
-00:10:08,300 --> 00:10:12,300
-Bueno, es el consuelo que me queda porque no tengo internet
+00:06:36,000 --> 00:06:39,000
+0:06:10.180,0:06:13.180
 
 134
-00:10:12,300 --> 00:10:14,300
-No tengo a nadie con quien hablar.
+00:06:39,000 --> 00:06:42,000
+Aquí di el paso este, tal, tal, tal, el 3200 y pico.
 
 135
-00:10:14,300 --> 00:10:21,300
-Creo que en este lado del país deben de estar más acostumbrados a la gente, ¿no?
+00:06:42,000 --> 00:06:45,000
+0:06:13.180,0:06:15.180
 
 136
-00:10:21,300 --> 00:10:23,300
-Porque aquí dicen pasar turistas, ciclistas, lo que sea.
+00:06:45,000 --> 00:06:48,000
+He caminado hasta aquí.
 
 137
-00:10:23,300 --> 00:10:27,300
-Y, bueno, son simpáticos, son tayikos, son hospitalarios, todo lo que quieras,
+00:06:48,000 --> 00:06:51,000
+0:06:15.180,0:06:17.180
 
 138
-00:10:27,300 --> 00:10:29,300
-Pero no me detengo tanto
+00:06:51,000 --> 00:06:54,000
+Y ahora la idea que tenía yo inicial,
 
 139
-00:10:29,300 --> 00:10:32,300
-"ostras, tú, tal", no me venden la típica horda de niños, no.
+00:06:54,000 --> 00:06:57,000
+0:06:17.180,0:06:22.180
 
 140
-00:10:32,300 --> 00:10:35,300
-También la cultura quizás es diferente, no lo sé.
+00:06:57,000 --> 00:07:00,000
+Lo que yo tenía pensado era ir por aquí y llegar aquí.
 
 141
-00:10:35,300 --> 00:10:36,300
-Bueno, tú.
+00:07:00,000 --> 00:07:03,000
+0:06:22.180,0:06:25.180
 
 142
-00:10:36,300 --> 00:10:39,300
-30 kilómetros, a ver si puedo hacer 10 más.
+00:07:03,000 --> 00:07:06,000
+Esta sería la última ciudad "grande".
 
 143
-00:10:39,300 --> 00:10:43,300
-Un poco optimista, quizá, pero 7, 8, quizá sí.
+00:07:06,000 --> 00:07:09,000
+0:06:25.180,0:06:28.180
 
 144
-00:11:14,300 --> 00:11:16,300
-Actualización a las 6 de la tarde.
+00:07:09,000 --> 00:07:12,000
+Entonces, si no me equivoco, (porque este mapa es un poco tal),
 
 145
-00:11:16,300 --> 00:11:19,300
-Ahora, ahora, os lo he dicho, ¿eh?
+00:07:12,000 --> 00:07:15,000
+0:06:28.180,0:06:30.180
 
 146
-00:11:19,300 --> 00:11:21,300
-De 5 a 6 empezaba el tráfico.
+00:07:15,000 --> 00:07:18,000
+la Pamir highway seguiría por ahí, ¿de acuerdo?
 
 147
-00:11:21,300 --> 00:11:24,300
-Y sí, sí, como veis la carretera ha cambiado bastante.
+00:07:18,000 --> 00:07:21,000
+0:06:30.180,0:06:34.180
 
 148
-00:11:24,300 --> 00:11:27,300
-Sigue estando asfaltada en algunos tramos,
+00:07:21,000 --> 00:07:24,000
+Entonces yo, en vez de ir por aquí y hacer así,
 
 149
-00:11:27,300 --> 00:11:32,300
-pero ya no es de dos carriles lo anchos, sino que es de un carril y tiene agujeros y tal.
+00:07:24,000 --> 00:07:27,000
+0:06:34.180,0:06:39.180
 
 150
-00:11:32,300 --> 00:11:35,300
-Bueno, me ha pasado algo que no me había pasado nunca todavía
+00:07:27,000 --> 00:07:30,000
+La haría así, que es un tramo que sería solo senderismo.
 
 151
-00:11:35,300 --> 00:11:37,300
-a la vuelta con una pie,
+00:07:30,000 --> 00:07:33,000
+0:06:39.180,0:06:42.180
 
 152
-00:11:37,300 --> 00:11:40,300
-que es que han empezado a venir camiones de cara, ¿no?
+00:07:33,000 --> 00:07:36,000
+O sea, solo senderismo, quiero decir que aquí no pasan camiones, ¿vale?
 
 153
-00:11:40,300 --> 00:11:45,300
-Y uno de ellos me ha dado un pan.
+00:07:36,000 --> 00:07:39,000
+0:06:42.180,0:06:44.180
 
 154
-00:11:45,300 --> 00:11:48,300
-Me habían dado vehículos, comida.
+00:07:39,000 --> 00:07:42,000
+Haría una parte de naturaleza.
 
 155
-00:11:48,300 --> 00:11:51,300
-Pero es que no es solo eso, es que uno de ellos me ha dado un pan.
+00:07:42,000 --> 00:07:45,000
+0:06:44.180,0:06:47.180
 
 156
-00:11:51,300 --> 00:11:54,300
-Después lo siguiente, no sé si es porque lo ha visto o qué,
+00:07:45,000 --> 00:07:48,000
+Y aquí sería un tramo que no hay absolutamente nada, hasta...
 
 157
-00:11:54,300 --> 00:11:56,300
-me ha lanzado una manzana.
+00:07:48,000 --> 00:07:51,000
+0:06:47.180,0:06:50.180
 
 158
-00:11:56,300 --> 00:12:00,300
-Y uno más tarde me ha hecho así, como diciendo,
+00:07:51,000 --> 00:07:54,000
+Murghob, que está aquí, esto es Murghob?
 
 159
-00:12:00,300 --> 00:12:01,300
-"¿vas a pie?"
+00:07:54,000 --> 00:07:57,000
+0:06:50.180,0:06:52.180
 
 160
-00:12:01,300 --> 00:12:03,300
-Y yo, "sí, sí".
+00:07:57,000 --> 00:08:00,000
+¡Caramba, cuesta decir, eh!
 
 161
-00:12:03,300 --> 00:12:05,300
-Y me ha dado una botella de té.
+00:08:00,000 --> 00:08:03,000
+0:06:52.180,0:06:54.180
 
 162
-00:12:05,300 --> 00:12:06,300
-Chino.
+00:08:03,000 --> 00:08:06,000
+O quizá sea eso.
 
 163
-00:12:06,300 --> 00:12:08,300
-Marca china.
+00:08:06,000 --> 00:08:09,000
+0:06:54.180,0:06:56.180
 
 164
-00:12:08,300 --> 00:12:11,300
-Comprado en China, eso es en China, sí, sí.
+00:08:09,000 --> 00:08:12,000
+Quizá sea eso, Murghob.
 
 165
-00:12:11,300 --> 00:12:14,300
-Y de hecho el que llevaba el camión no sé si era chino, tal vez.
+00:08:12,000 --> 00:08:15,000
+0:06:56.180,0:06:58.180
 
 166
-00:12:14,300 --> 00:12:17,300
-No sé, como los tayikos también tienen un poco los ojos, un poco así.
+00:08:15,000 --> 00:08:18,000
+O está aquí. No sé, es complicado, ¿eh?
 
 167
-00:12:17,300 --> 00:12:19,300
-Bueno.
+00:08:18,000 --> 00:08:21,000
+0:06:58.180,0:07:01.180
 
 168
-00:12:19,300 --> 00:12:21,300
-35 kilómetros ya.
+00:08:21,000 --> 00:08:24,000
+Pero bueno, por aquí y después ya creo que aquí,
 
 169
-00:12:21,300 --> 00:12:24,300
-Bastante bien. Todavía caminaré unos 3 más o así.
+00:08:24,000 --> 00:08:27,000
+0:07:01.180,0:07:04.180
 
 170
-00:12:24,300 --> 00:12:28,300
-Bueno, ahora estoy pasando por un tramo que veis que hay bastantes casas,
+00:08:27,000 --> 00:08:30,000
+Kulma, sí, eso es la frontera con China.
 
 171
-00:12:28,300 --> 00:12:31,300
-y están construyendo casas nuevas, y hay árboles a ambos lados del camino.
+00:08:30,000 --> 00:08:33,000
+0:07:04.180,0:07:06.180
 
 172
-00:12:31,300 --> 00:12:34,300
-Pero hay un problema, que es que, claro,
+00:08:33,000 --> 00:08:36,000
+Kulma paso.
 
 173
-00:12:34,300 --> 00:12:37,300
-cada vez que pasa un vehículo o un camión de estos,
+00:08:36,000 --> 00:08:39,000
+0:07:06.180,0:07:08.180
 
 174
-00:12:37,300 --> 00:12:40,300
-¡Fuá! Levanta una de polvo...
+00:08:39,000 --> 00:08:42,000
+Hay una segunda opción que hacen los ciclistas,
 
 175
-00:12:40,300 --> 00:12:43,300
-Les tendrían que asfaltar urgentemente esta pista,
+00:08:42,000 --> 00:08:45,000
+0:07:08.180,0:07:10.180
 
 176
-00:12:43,300 --> 00:12:46,300
-porque, fuà, es que todo se llena de polvo, ¿eh?
+00:08:45,000 --> 00:08:48,000
+los ciclistas italianos aquellos que vimos,
 
 177
-00:12:46,300 --> 00:12:49,300
-Bueno, pues, teniendo en cuenta que ya
+00:08:48,000 --> 00:08:51,000
+0:07:10.180,0:07:13.180
 
 178
-00:12:49,300 --> 00:12:52,300
-Se acerca la hora de dormir,
+00:08:51,000 --> 00:08:54,000
+hacen algo que es bastante loca, es posible,
 
 179
-00:12:52,300 --> 00:12:55,300
-Al salir de este pueblo que hay casa, casa, casa, casa,
+00:08:54,000 --> 00:08:57,000
+0:07:13.180,0:07:16.180
 
 180
-00:12:55,300 --> 00:12:58,300
-con un poco de suerte sigue la zona plana
+00:08:57,000 --> 00:09:00,000
+pero si en vez de ir por ahí y hacer esto, ¿de acuerdo?
 
 181
-00:12:58,300 --> 00:13:00,300
-y puedo poner la tienda a algún lado.
+00:09:00,000 --> 00:09:03,000
+0:07:16.180,0:07:18.180
 
 182
-00:13:10,300 --> 00:13:12,300
-La hora de los camiones, tú. Han pasado 10 seguidos. Horrible.
+00:09:03,000 --> 00:09:06,000
+Aquí se desvían,
 
 183
-00:13:12,300 --> 00:13:15,300
-Bueno, ¿qué pone aquí?
+00:09:06,000 --> 00:09:09,000
+0:07:18.180,0:07:20.180
 
 184
-00:13:15,300 --> 00:13:18,300
-Russian Cross Border Energy Project,
+00:09:09,000 --> 00:09:12,000
+y van por este valle que tiene un nombre bastante famoso,
 
 185
-00:13:18,300 --> 00:13:20,300
-lo que os he dicho antes.
+00:09:12,000 --> 00:09:15,000
+0:07:20.180,0:07:22.180
 
 186
-00:13:20,300 --> 00:13:22,300
-Las torres estas de energía, cross border,
+00:09:15,000 --> 00:09:18,000
+pero no recuerdo ahora mismo,
 
 187
-00:13:22,300 --> 00:13:24,300
-y esto está financiado por Alemania,
+00:09:18,000 --> 00:09:21,000
+0:07:22.180,0:07:24.180
 
 188
-00:13:24,300 --> 00:13:26,300
-por Noruega,
+00:09:21,000 --> 00:09:24,000
+y aquí hay unos cuantos pueblos, ok,
 
 189
-00:13:26,300 --> 00:13:29,300
-La bandera de Tayikistán y la bandera de Afganistán.
+00:09:24,000 --> 00:09:27,000
+0:07:24.180,0:07:26.180
 
 190
-00:13:29,300 --> 00:13:32,300
-Veo que la bandera de Tajikistán está tachada.
+00:09:27,000 --> 00:09:30,000
+pero aquí deja de haber pueblos ya,
 
 191
-00:13:32,300 --> 00:13:35,300
-Bueno, el escudo.
+00:09:30,000 --> 00:09:33,000
+0:07:26.180,0:07:31.180
 
 192
-00:13:35,300 --> 00:13:38,300
-No lo sé. No vamos a hablar de este tema.
+00:09:33,000 --> 00:09:36,000
+y pum, pum, pum, creo que acabas aquí arriba, sí.
 
 193
-00:13:38,300 --> 00:13:41,300
-De acuerdo, aquí, en la torre esta de alta tensión,
+00:09:36,000 --> 00:09:39,000
+0:07:31.180,0:07:35.180
 
 194
-00:13:41,300 --> 00:13:44,300
-hay una zona llana y junto a los árboles
+00:09:39,000 --> 00:09:42,000
+Acabas aquí arriba, o haces por aquí y acabas aquí arriba,
 
 195
-00:13:44,300 --> 00:13:47,300
-Parece que también.
+00:09:42,000 --> 00:09:45,000
+0:07:35.180,0:07:40.180
 
 196
-00:13:47,300 --> 00:13:50,300
-Por lo tanto, creo que me pondré por ahí.
+00:09:45,000 --> 00:09:48,000
+y luego tienes que bajar por la highway hasta aquí,
 
 197
-00:13:50,300 --> 00:13:53,300
-¡Uh! Salida de agua.
+00:09:48,000 --> 00:09:51,000
+0:07:40.180,0:07:43.180
 
 198
-00:13:53,300 --> 00:13:56,300
-Bueno, voy bastante cargado de agua,
+00:09:51,000 --> 00:09:54,000
+hasta Murghob, lo que habíamos dicho.
 
 199
-00:13:56,300 --> 00:13:58,300
-pero, me parece bien, además parece limpia.
+00:09:54,000 --> 00:09:57,000
+0:07:43.180,0:07:45.180
 
 200
-00:13:58,300 --> 00:14:00,300
-Bastante transparente, sí.
+00:09:57,000 --> 00:10:00,000
+Bueno.
 
 201
-00:14:00,300 --> 00:14:02,300
-Había cogido una que era un poco turbia.
+00:10:00,000 --> 00:10:03,000
+0:07:45.180,0:07:48.180
 
 202
-00:14:02,300 --> 00:14:04,300
-Ostras, espera, espera.
+00:10:03,000 --> 00:10:06,000
+No hay mucha diferencia de distancia de kilómetros.
 
 203
-00:14:04,300 --> 00:14:06,300
-Eso es uralita, ¿eh?
+00:10:06,000 --> 00:10:09,000
+0:07:48.180,0:07:50.180
 
 204
-00:14:06,300 --> 00:14:09,300
-Creo que esto es uralita.
+00:10:09,000 --> 00:10:12,000
+Aunque parezca que esta se desvía mucho,
 
 205
-00:14:09,300 --> 00:14:11,300
-El agua desciende por un conducto de uralita.
+00:10:12,000 --> 00:10:15,000
+0:07:50.180,0:07:52.180
 
 206
-00:14:11,300 --> 00:14:14,300
-Pues mira, creo que mejor que no.
+00:10:15,000 --> 00:10:18,000
+No hay mucha diferencia de kilómetros.
 
 207
-00:14:14,300 --> 00:14:16,300
-Mejor no.
+00:10:18,000 --> 00:10:21,000
+0:07:52.180,0:07:54.180
 
 208
-00:14:16,300 --> 00:14:18,300
-Estamos literalmente al lado de la carretera,
+00:10:21,000 --> 00:10:24,000
+Esta es más corta, ¿verdad?
 
 209
-00:14:18,300 --> 00:14:22,300
-Pero, bueno, como hay algunos árboles,
+00:10:24,000 --> 00:10:27,000
+0:07:54.180,0:07:56.180
 
 210
-00:14:22,300 --> 00:14:26,300
-tampoco está lejos de un puesto militar que está hacia allí,
+00:10:27,000 --> 00:10:30,000
+Pero esta sí que es verdad que pasa por un tramo
 
 211
-00:14:26,300 --> 00:14:28,300
-Pero no lo ven desde allí.
+00:10:30,000 --> 00:10:33,000
+0:07:56.180,0:08:00.180
 
 212
-00:14:28,300 --> 00:14:31,300
-La hierba está un poco alta, pero, bueno, tampoco,
+00:10:33,000 --> 00:10:36,000
+que es muy largo donde hay muy pocos servicios.
 
 213
-00:14:31,300 --> 00:14:33,300
-Tampoco mucho, ¿verdad?
+00:10:36,000 --> 00:10:39,000
+0:08:00.180,0:08:03.180
 
 214
-00:14:33,300 --> 00:14:35,300
-Sí, sí, sí, yo creo que
+00:10:39,000 --> 00:10:42,000
+Esta también tiene algún tramo así, ¿eh?
 
 215
-00:14:35,300 --> 00:14:37,300
-El lugar está bastante decente.
+00:10:42,000 --> 00:10:45,000
+0:08:03.180,0:08:07.180
 
 216
-00:14:37,300 --> 00:14:39,300
-No, no, es un chico.
+00:10:45,000 --> 00:10:48,000
+Y ésta pasa por mucho más tramos off-road,
 
 217
-00:14:39,300 --> 00:14:41,300
-Mal.
+00:10:48,000 --> 00:10:51,000
+0:08:07.180,0:08:11.180
 
 218
-00:14:41,300 --> 00:14:44,300
-Mal. Si viene uno, ya me puede venir todo el pueblo, ahora.
+00:10:51,000 --> 00:10:54,000
+donde no hay tanta carretera y es un poco más lento el avance.
 
 219
-00:14:44,300 --> 00:14:48,300
-Lo que sufro es si está demasiado húmedo, esto.
+00:10:54,000 --> 00:10:57,000
+0:08:11.180,0:08:14.180
 
 220
-00:14:48,300 --> 00:14:50,300
-Vamos a ver.
+00:10:57,000 --> 00:11:00,000
+La verdad es que esta ruta no la había conocido
 
 221
-00:14:50,300 --> 00:14:53,300
-No, no.
+00:11:00,000 --> 00:11:03,000
+0:08:14.180,0:08:16.180
 
 222
-00:14:53,300 --> 00:14:56,300
-¿Por aquí, por allá, quizás por allá?
+00:11:03,000 --> 00:11:06,000
+hasta hace pocos días,
 
 223
-00:14:56,300 --> 00:14:58,300
-Lo veo un poco más seco.
+00:11:06,000 --> 00:11:09,000
+0:08:16.180,0:08:18.180
 
 224
-00:14:58,300 --> 00:15:02,300
-Lo que veo es que está literalmente al lado de la carretera, ¿eh?
+00:11:09,000 --> 00:11:12,000
+que los italianos dijeron que irían por aquí,
 
 225
-00:15:02,300 --> 00:15:04,300
-Aquí quizá mejor.
+00:11:12,000 --> 00:11:15,000
+0:08:18.180,0:08:23.180
 
 226
-00:15:04,300 --> 00:15:05,300
-Vale, planto.
+00:11:15,000 --> 00:11:18,000
+lo he investigado y ostras, ahora estoy un poco enfadado.
 
 227
-00:15:05,300 --> 00:15:08,300
-Sigue la caminata, me veis bien.
+00:11:18,000 --> 00:11:21,000
+0:08:23.180,0:08:26.180
 
 228
-00:15:08,300 --> 00:15:14,300
-Y también pasan niños en bicicleta y tal, les saludo.
+00:11:21,000 --> 00:11:24,000
+Un poco enfadado porque cuando a mí se me presenta una decisión
 
 229
-00:15:14,300 --> 00:15:18,300
-Hoy 37,7 kilómetros, 500 metros de desnivel positivo.
+00:11:24,000 --> 00:11:27,000
+0:08:26.180,0:08:28.180
 
 230
-00:15:18,300 --> 00:15:21,300
-10 kilómetros menos que ayer.
+00:11:27,000 --> 00:11:30,000
+que me trastoca los planes,
 
 231
-00:15:21,300 --> 00:15:24,300
-Es lo que tiene empezar a caminar dos horas más tarde.
+00:11:30,000 --> 00:11:33,000
+0:08:28.180,0:08:30.180
 
 232
-00:15:24,300 --> 00:15:31,300
-Bueno, tres refrescos, ningún té y de dinero me he gastado 12 euros.
+00:11:33,000 --> 00:11:36,000
+yo que soy un poco rígido quizás,
 
 233
-00:15:31,300 --> 00:15:33,300
-Sí, sí, sí.
+00:11:36,000 --> 00:11:39,000
+0:08:30.180,0:08:32.180
 
 234
-00:15:33,300 --> 00:15:38,300
-Bueno, ha sido un día más caluroso que ayer, pero menos polvoriento.
+00:11:39,000 --> 00:11:42,000
+digo "ostras, ¿ahora tengo que tomar una decisión?",
 
 235
-00:15:38,300 --> 00:15:41,300
-No, va, es un día más.
+00:11:42,000 --> 00:11:45,000
+0:08:32.180,0:08:34.180
 
 236
-00:15:41,300 --> 00:15:45,300
-Un día más en mi ruta hacia China.
+00:11:45,000 --> 00:11:48,000
+¿Ahora debo posiblemente cambiar mis planes?
 
 237
-00:15:45,300 --> 00:15:47,300
-Momentos altos y bajos.
+00:11:48,000 --> 00:11:51,000
+0:08:34.180,0:08:38.180
 
 238
-00:15:49,300 --> 00:15:52,300
-Ostras, tú, lo de los camiones, es brutal. Se ven, ¿no?, desde la cámara.
+00:11:51,000 --> 00:11:54,000
+porque quizás esta nueva ruta es más bonita,
 
 239
-00:15:52,300 --> 00:15:54,300
-Mira, este lleva coches.
+00:11:54,000 --> 00:11:57,000
+0:08:38.180,0:08:40.180
 
 240
-00:15:54,300 --> 00:15:58,300
-Tengo que decir que hay una curiosidad, que es que estoy viendo muchos coches sin matrícula,
+00:11:57,000 --> 00:12:00,000
+porque me han dicho que es muy bonita,
 
 241
-00:15:58,300 --> 00:16:02,300
-de estos blancos chinos eléctricos, con gente conduciéndolos.
+00:12:00,000 --> 00:12:03,000
+0:08:40.180,0:08:42.180
 
 242
-00:16:02,300 --> 00:16:06,300
-No sé si es que, directamente, en vez de ahorrarse el tráiler,
+00:12:03,000 --> 00:12:06,000
+Pues ahora me toca un poco el de esto.
 
 243
-00:16:06,300 --> 00:16:11,300
-los conducen desde China hasta Dushanbe para venderlos y así se ahorran el tráiler,
+00:12:06,000 --> 00:12:09,000
+0:08:42.180,0:08:44.180
 
 244
-00:16:11,300 --> 00:16:14,300
-o la gente los conduce sin matrícula.
+00:12:09,000 --> 00:12:12,000
+Y si hago la ruta que tenía originalmente pensada
 
 245
-00:16:14,300 --> 00:16:16,300
-No lo entiendo, no lo entiendo.
+00:12:12,000 --> 00:12:15,000
+0:08:44.180,0:08:46.180
 
 246
-00:16:16,300 --> 00:16:20,300
-Vale, como hay bastante tráfico, pues esperaré a que oscurezca para pasarme un agua,
+00:12:15,000 --> 00:12:18,000
+estaré todo el rato pensando
 
 247
-00:16:20,300 --> 00:16:21,300
-hoy estoy bastante sudado.
+00:12:18,000 --> 00:12:21,000
+0:08:46.180,0:08:48.180
 
 248
-00:16:22,300 --> 00:16:24,300
-Y hace bastante calor.
+00:12:21,000 --> 00:12:24,000
+Si hubiera ido por la otra sería más bonito.
 
 249
-00:16:24,300 --> 00:16:27,300
-Hoy, como estoy bastante bajo, no hace frío.
+00:12:24,000 --> 00:12:27,000
+0:08:48.180,0:08:50.180
 
 250
-00:16:27,300 --> 00:16:30,300
-Nada, buenas noches.
+00:12:27,000 --> 00:12:30,000
+Pero si hago por la otra estaré pensando
+
+251
+00:12:30,000 --> 00:12:33,000
+0:08:50.180,0:08:52.180
+
+252
+00:12:33,000 --> 00:12:36,000
+guay, es que...
+
+253
+00:12:36,000 --> 00:12:39,000
+0:08:52.180,0:08:54.180
+
+254
+00:12:39,000 --> 00:12:42,000
+y si por la otra fuera más rápido,
+
+255
+00:12:42,000 --> 00:12:45,000
+0:08:54.180,0:08:56.180
+
+256
+00:12:45,000 --> 00:12:48,000
+y me pillará allí el invierno y no sé qué, no sé cuándo.
+
+257
+00:12:48,000 --> 00:12:51,000
+0:08:56.180,0:08:58.180
+
+258
+00:12:51,000 --> 00:12:54,000
+No sé, no sé.
+
+259
+00:12:54,000 --> 00:12:57,000
+0:08:58.180,0:09:00.180
+
+260
+00:12:57,000 --> 00:13:00,000
+Probablemente acabe haciendo la ruta original,
+
+261
+00:13:00,000 --> 00:13:03,000
+0:09:00.180,0:09:04.180
+
+262
+00:13:03,000 --> 00:13:06,000
+pero me gusta expresaros lo que estoy pensando desde ayer
+
+263
+00:13:06,000 --> 00:13:09,000
+0:09:04.180,0:09:08.180
+
+264
+00:13:09,000 --> 00:13:12,000
+Porque pienso en ello, pienso en ello.
+
+265
+00:13:12,000 --> 00:13:15,000
+0:09:08.180,0:09:10.180
+
+266
+00:13:15,000 --> 00:13:18,000
+Una y media más o menos
+
+267
+00:13:18,000 --> 00:13:21,000
+0:09:10.180,0:09:12.180
+
+268
+00:13:21,000 --> 00:13:24,000
+Hace un calor brutal.
+
+269
+00:13:24,000 --> 00:13:27,000
+0:09:12.180,0:09:14.180
+
+270
+00:13:27,000 --> 00:13:30,000
+Sé que lo digo cada día
+
+271
+00:13:30,000 --> 00:13:33,000
+0:09:14.180,0:09:16.180
+
+272
+00:13:33,000 --> 00:13:36,000
+y es como que me repito,
+
+273
+00:13:36,000 --> 00:13:39,000
+0:09:16.180,0:09:18.180
+
+274
+00:13:39,000 --> 00:13:42,000
+pero es que lo más importante de mi día
+
+275
+00:13:42,000 --> 00:13:45,000
+0:09:18.180,0:09:22.180
+
+276
+00:13:45,000 --> 00:13:48,000
+Es el calor que hace.
+
+277
+00:13:48,000 --> 00:13:51,000
+0:09:22.180,0:09:27.180
+
+278
+00:13:51,000 --> 00:13:54,000
+Estoy 8-9 horas caminando cada día, ¿no?
+
+279
+00:13:54,000 --> 00:13:57,000
+0:09:27.180,0:09:31.180
+
+280
+00:13:57,000 --> 00:14:00,000
+Entonces, es que es lo más importante de mis días
+
+281
+00:14:00,000 --> 00:14:03,000
+0:09:31.180,0:09:33.180
+
+282
+00:14:03,000 --> 00:14:06,000
+El calor que hace y...
+
+283
+00:14:06,000 --> 00:14:09,000
+0:09:33.180,0:09:39.180
+
+284
+00:14:09,000 --> 00:14:12,000
+Y eso es lo que condiciona más mi día, ¿no?
+
+285
+00:14:12,000 --> 00:14:15,000
+0:09:39.180,0:09:41.180
+
+286
+00:14:15,000 --> 00:14:18,000
+Lo que me hace sentir, pues, que digo
+
+287
+00:14:18,000 --> 00:14:21,000
+0:09:41.180,0:09:43.180
+
+288
+00:14:21,000 --> 00:14:24,000
+buah, es que es "too much" [demasiado]
+
+289
+00:14:24,000 --> 00:14:27,000
+0:09:43.180,0:09:45.180
+
+290
+00:14:27,000 --> 00:14:30,000
+Hoy he acampado.
+
+291
+00:14:30,000 --> 00:14:33,000
+0:09:45.180,0:09:47.180
+
+292
+00:14:33,000 --> 00:14:36,000
+O sea, esta pasada noche he acampado a los 1.600
+
+293
+00:14:36,000 --> 00:14:39,000
+0:09:47.180,0:09:49.180
+
+294
+00:14:39,000 --> 00:14:42,000
+y hoy llegaré hasta los 2.000
+
+295
+00:14:42,000 --> 00:14:45,000
+0:09:49.180,0:09:51.180
+
+296
+00:14:45,000 --> 00:14:48,000
+y ya mantendré la cota 2.000
+
+297
+00:14:48,000 --> 00:14:51,000
+0:09:51.180,0:09:54.180
+
+298
+00:14:51,000 --> 00:14:54,000
+hasta los próximos 3 días, en principio.
+
+299
+00:14:54,000 --> 00:14:57,000
+0:09:54.180,0:09:57.180
+
+300
+00:14:57,000 --> 00:15:00,000
+Y tú dirías, bueno, 2.000 tendría que hacer menos calor, ¿no?
+
+301
+00:15:00,000 --> 00:15:03,000
+0:09:57.180,0:09:58.180
+
+302
+00:15:03,000 --> 00:15:06,000
+menos calor.
+
+303
+00:15:06,000 --> 00:15:09,000
+0:09:58.180,0:10:00.180
+
+304
+00:15:09,000 --> 00:15:12,000
+No, parece que no, ¿eh?
+
+305
+00:15:12,000 --> 00:15:15,000
+0:10:00.180,0:10:02.180
+
+306
+00:15:15,000 --> 00:15:18,000
+Por la noche sí que es verdad que me tapo
+
+307
+00:15:18,000 --> 00:15:21,000
+0:10:02.180,0:10:04.180
+
+308
+00:15:21,000 --> 00:15:24,000
+con el saco y estoy bien,
+
+309
+00:15:24,000 --> 00:15:27,000
+0:10:04.180,0:10:06.180
+
+310
+00:15:27,000 --> 00:15:30,000
+pero ahora al mediodía es...
+
+311
+00:15:30,000 --> 00:15:33,000
+0:10:06.180,0:10:07.180
+
+312
+00:15:33,000 --> 00:15:36,000
+Es muy bestia.
+
+313
+00:15:36,000 --> 00:15:39,000
+0:10:07.180,0:10:09.180
+
+314
+00:15:39,000 --> 00:15:42,000
+La amplitud térmica...
+
+315
+00:15:42,000 --> 00:15:45,000
+0:10:09.180,0:10:10.180
+
+316
+00:15:45,000 --> 00:15:48,000
+Ya lo dije, ¿eh?
+
+317
+00:15:48,000 --> 00:15:51,000
+0:10:10.180,0:10:11.180
+
+318
+00:15:51,000 --> 00:15:54,000
+Esto ya hace unos días, pero...
+
+319
+00:15:54,000 --> 00:15:57,000
+0:10:11.180,0:10:13.180
+
+320
+00:15:57,000 --> 00:16:00,000
+Es muy, muy grande.
+
+321
+00:16:00,000 --> 00:16:03,000
+0:10:13.180,0:10:15.180
+
+322
+00:16:03,000 --> 00:16:06,000
+Bueno...
+
+323
+00:16:06,000 --> 00:16:09,000
+0:10:15.180,0:10:17.180
+
+324
+00:16:09,000 --> 00:16:12,000
+Parece que va bajando.
+
+325
+00:16:12,000 --> 00:16:15,000
+0:10:17.180,0:10:19.180
+
+326
+00:16:15,000 --> 00:16:18,000
+Es decir, yo miro la previsión
+
+327
+00:16:18,000 --> 00:16:21,000
+0:10:19.180,0:10:22.180
+
+328
+00:16:21,000 --> 00:16:24,000
+Y cada día parece que baja un grado, ¿no?
+
+329
+00:16:24,000 --> 00:16:27,000
+0:10:22.180,0:10:24.180
+
+330
+00:16:27,000 --> 00:16:30,000
+Esto es positivo y a la vez negativo,
+
+331
+00:16:30,000 --> 00:16:33,000
+0:10:24.180,0:10:28.180
+
+332
+00:16:33,000 --> 00:16:36,000
+Cuando llegue a la parte más cercana a China, pues...
+
+333
+00:16:36,000 --> 00:16:39,000
+0:10:28.180,0:10:30.180
+
+334
+00:16:39,000 --> 00:16:42,000
+me interesa que no haga frío.
+
+335
+00:16:42,000 --> 00:16:45,000
+0:10:30.180,0:10:32.180
+
+336
+00:16:45,000 --> 00:16:48,000
+Pero bueno, ya me lo esperaba
+
+337
+00:16:48,000 --> 00:16:51,000
+0:10:32.180,0:10:35.180
+
+338
+00:16:51,000 --> 00:16:54,000
+que a medida que vamos acercándonos en septiembre,
+
+339
+00:16:54,000 --> 00:16:57,000
+0:10:35.180,0:10:37.180
+
+340
+00:16:57,000 --> 00:17:00,000
+¿Hacía mucho calor, no?
+
+341
+00:17:00,000 --> 00:17:03,000
+0:10:37.180,0:10:38.180
+
+342
+00:17:03,000 --> 00:17:06,000
+30 de agosto, hoy.
+
+343
+00:17:06,000 --> 00:17:09,000
+0:10:38.180,0:10:41.180
+
+344
+00:17:09,000 --> 00:17:12,000
+Hoy hace 9 meses
+
+345
+00:17:12,000 --> 00:17:15,000
+0:10:41.180,0:10:43.180
+
+346
+00:17:15,000 --> 00:17:18,000
+que salí de la Plaza Catalunya.
+
+347
+00:17:18,000 --> 00:17:21,000
+0:10:43.180,0:10:46.180
+
+348
+00:17:21,000 --> 00:17:24,000
+Nos acercamos peligrosamente al año
+
+349
+00:17:24,000 --> 00:17:27,000
+0:10:46.180,0:10:48.180
+
+350
+00:17:27,000 --> 00:17:30,000
+De la vuelta al mundo, ¿eh?
+
+351
+00:17:30,000 --> 00:17:33,000
+0:10:48.180,0:10:50.180
+
+352
+00:17:33,000 --> 00:17:36,000
+Pero no, no, aún queda.
+
+353
+00:17:36,000 --> 00:17:39,000
+0:10:50.180,0:10:52.180
+
+354
+00:17:39,000 --> 00:17:42,000
+Bueno...
+
+355
+00:17:42,000 --> 00:17:45,000
+0:10:52.180,0:10:54.180
+
+356
+00:17:45,000 --> 00:17:48,000
+Un trailer...
+
+357
+00:17:48,000 --> 00:17:51,000
+0:10:54.180,0:10:56.180
+
+358
+00:17:51,000 --> 00:17:54,000
+Toca ponerse la...
+
+359
+00:17:54,000 --> 00:17:57,000
+0:10:56.180,0:10:58.180
+
+360
+00:17:57,000 --> 00:18:00,000
+La máscara, ¿no?
+
+361
+00:18:00,000 --> 00:18:03,000
+0:11:01.180,0:11:03.180
+
+362
+00:18:03,000 --> 00:18:06,000
+Como si no fuera suficiente.
+
+363
+00:18:06,000 --> 00:18:09,000
+0:11:27.180,0:11:28.180
+
+364
+00:18:09,000 --> 00:18:12,000
+Ha costado.
+
+365
+00:18:12,000 --> 00:18:15,000
+0:11:28.180,0:11:29.180
+
+366
+00:18:15,000 --> 00:18:18,000
+Son las 5 y 10,
+
+367
+00:18:18,000 --> 00:18:21,000
+0:11:29.180,0:11:31.180
+
+368
+00:18:21,000 --> 00:18:24,000
+pero ya se ha ido el sol, por fin.
+
+369
+00:18:24,000 --> 00:18:27,000
+0:11:31.180,0:11:32.180
+
+370
+00:18:27,000 --> 00:18:30,000
+¡Fu!
+
+371
+00:18:30,000 --> 00:18:33,000
+0:11:32.180,0:11:33.180
+
+372
+00:18:33,000 --> 00:18:36,000
+Estoy en un tramo del río,
+
+373
+00:18:36,000 --> 00:18:39,000
+0:11:33.180,0:11:34.180
+
+374
+00:18:39,000 --> 00:18:42,000
+Está aquí, en un pueblo.
+
+375
+00:18:42,000 --> 00:18:45,000
+0:11:35.180,0:11:36.180
+
+376
+00:18:45,000 --> 00:18:48,000
+Mirad.
+
+377
+00:18:48,000 --> 00:18:51,000
+0:11:36.180,0:11:37.180
+
+378
+00:18:51,000 --> 00:18:54,000
+Parece un embalse,
+
+379
+00:18:54,000 --> 00:18:57,000
+0:11:37.180,0:11:39.160
+
+380
+00:18:57,000 --> 00:19:00,000
+De lo tranquila que está el agua.
+
+381
+00:19:00,000 --> 00:19:03,000
+0:11:41.560,0:11:42.300
+
+382
+00:19:03,000 --> 00:19:06,000
+Muy bien, tú.
+
+383
+00:19:06,000 --> 00:19:09,000
+0:11:42.480,0:11:44.180
+
+384
+00:19:09,000 --> 00:19:12,000
+Ha sido una "torramenta" bestial
+
+385
+00:19:12,000 --> 00:19:15,000
+0:11:44.180,0:11:45.540
+
+386
+00:19:15,000 --> 00:19:18,000
+hoy.
+
+387
+00:19:18,000 --> 00:19:21,000
+0:11:46.500,0:11:47.520
+
+388
+00:19:21,000 --> 00:19:24,000
+Me tocaba el cuerpo, (ya me repito)
+
+389
+00:19:24,000 --> 00:19:27,000
+0:11:47.760,0:11:50.200
+
+390
+00:19:27,000 --> 00:19:30,000
+Me tocó el cuerpo y
+
+391
+00:19:30,000 --> 00:19:33,000
+0:11:50.200,0:11:51.240
+
+392
+00:19:33,000 --> 00:19:36,000
+Es que estaba hirviendo.
+
+393
+00:19:36,000 --> 00:19:39,000
+0:11:52.300,0:11:53.360
+
+394
+00:19:39,000 --> 00:19:42,000
+Hirviendo, hirviendo. Como ves,
+
+395
+00:19:42,000 --> 00:19:45,000
+0:11:54.080,0:11:55.320
+
+396
+00:19:45,000 --> 00:19:48,000
+un coche se paró y me dio
+
+397
+00:19:48,000 --> 00:19:51,000
+0:11:55.320,0:11:57.060
+
+398
+00:19:51,000 --> 00:19:54,000
+unos tomates. ¡Hello!
+
+399
+00:19:54,000 --> 00:19:57,000
+0:11:57.760,0:11:58.500
+
+400
+00:19:57,000 --> 00:20:00,000
+Y un pan.
+
+401
+00:20:00,000 --> 00:20:03,000
+0:12:00.340,0:12:00.780
+
+402
+00:20:03,000 --> 00:20:06,000
+¡Hello!
+
+403
+00:20:06,000 --> 00:20:09,000
+0:12:00.780,0:12:07.080
+
+404
+00:20:09,000 --> 00:20:12,000
+¡Hello!
+
+405
+00:20:12,000 --> 00:20:15,000
+Este es el último pueblo
+
+406
+00:20:15,000 --> 00:20:18,000
+0:12:07.080,0:12:07.660
+
+407
+00:20:18,000 --> 00:20:21,000
+por donde paso hoy.
+
+408
+00:20:21,000 --> 00:20:24,000
+0:12:09.460,0:12:10.480
+
+409
+00:20:24,000 --> 00:20:27,000
+Ah, mira, aquí hay un márquet.
+
+410
+00:20:27,000 --> 00:20:30,000
+0:12:10.580,0:12:11.780
+
+411
+00:20:30,000 --> 00:20:33,000
+Quería parar en el márquet.
+
+412
+00:20:33,000 --> 00:20:36,000
+0:12:13.280,0:12:14.340
+
+413
+00:20:36,000 --> 00:20:39,000
+Bueno, como podéis ver,
+
+414
+00:20:39,000 --> 00:20:42,000
+0:12:15.840,0:12:16.720
+
+415
+00:20:42,000 --> 00:20:45,000
+una mujer sin velo.
+
+416
+00:20:45,000 --> 00:20:48,000
+0:12:16.780,0:12:18.500
+
+417
+00:20:48,000 --> 00:20:51,000
+Hoy he visto cuatro o cinco.
+
+418
+00:20:51,000 --> 00:20:54,000
+0:12:18.920,0:12:20.800
+
+419
+00:20:54,000 --> 00:20:57,000
+Sí, sí. Yo creo que...
+
+420
+00:20:57,000 --> 00:21:00,000
+0:12:20.800,0:12:21.540
+
+421
+00:21:00,000 --> 00:21:03,000
+Estoy viendo otra.
+
+422
+00:21:03,000 --> 00:21:06,000
+0:12:22.300,0:12:24.560
+
+423
+00:21:06,000 --> 00:21:09,000
+Es un país diferente al que tiene
+
+424
+00:21:09,000 --> 00:21:12,000
+0:12:24.560,0:12:26.760
+
+425
+00:21:12,000 --> 00:21:15,000
+otras maneras de hacer.
+
+426
+00:21:15,000 --> 00:21:18,000
+0:12:26.760,0:12:29.580
+
+427
+00:21:18,000 --> 00:21:21,000
+Pero ahora hacía bastante tiempo
+
+428
+00:21:21,000 --> 00:21:24,000
+0:12:29.580,0:12:30.880
+
+429
+00:21:24,000 --> 00:21:27,000
+que no veía mujeres sin velo.
+
+430
+00:21:27,000 --> 00:21:30,000
+0:12:30.900,0:12:33.380
+
+431
+00:21:30,000 --> 00:21:33,000
+Muy bien, muy interesante.
+
+432
+00:21:33,000 --> 00:21:36,000
+0:12:33.960,0:12:34.980
+
+433
+00:21:36,000 --> 00:21:39,000
+Pues sí, eso, voy a comprar
+
+434
+00:21:39,000 --> 00:21:42,000
+0:12:34.980,0:12:37.040
+
+435
+00:21:42,000 --> 00:21:45,000
+algo. La última compra del día.
+
+436
+00:21:45,000 --> 00:21:48,000
+0:12:38.320,0:12:39.240
+
+437
+00:21:48,000 --> 00:21:51,000
+Pues he hecho la compra
+
+438
+00:21:51,000 --> 00:21:54,000
+0:12:39.240,0:12:40.860
+
+439
+00:21:54,000 --> 00:21:57,000
+y me he sentado
+
+440
+00:21:57,000 --> 00:22:00,000
+0:12:40.860,0:12:43.000
+
+441
+00:22:00,000 --> 00:22:03,000
+para mirar mis opciones
+
+442
+00:22:03,000 --> 00:22:06,000
+0:12:43.000,0:12:45.240
+
+443
+00:22:06,000 --> 00:22:09,000
+Ahora que queda una hora y media para que se vaya el sol.
+
+444
+00:22:09,000 --> 00:22:12,000
+0:12:46.360,0:12:47.100
+
+445
+00:22:12,000 --> 00:22:15,000
+Y al siguiente
+
+446
+00:22:15,000 --> 00:22:18,000
+0:12:47.100,0:12:49.080
+
+447
+00:22:18,000 --> 00:22:21,000
+pueblo he visto que hay un homestay
+
+448
+00:22:21,000 --> 00:22:24,000
+0:12:49.080,0:12:51.160
+
+449
+00:22:24,000 --> 00:22:27,000
+que es como aquí le llaman a las guesthouse.
+
+450
+00:22:27,000 --> 00:22:30,000
+0:12:52.000,0:12:53.000
+
+451
+00:22:30,000 --> 00:22:33,000
+Que, bueno, duermes en casa de alguien.
+
+452
+00:22:33,000 --> 00:22:36,000
+0:12:54.200,0:12:54.880
+
+453
+00:22:36,000 --> 00:22:39,000
+Y, bueno, no sé
+
+454
+00:22:39,000 --> 00:22:42,000
+0:12:54.880,0:12:56.700
+
+455
+00:22:42,000 --> 00:22:45,000
+cuánto vale, no sé nada, pero hay una valoración que dice
+
+456
+00:22:45,000 --> 00:22:48,000
+0:12:56.700,0:12:58.860
+
+457
+00:22:48,000 --> 00:22:51,000
+"es uno de los mejores juegos que me he quedado
+
+458
+00:22:51,000 --> 00:22:54,000
+0:12:58.860,0:13:00.880
+
+459
+00:22:54,000 --> 00:22:57,000
+en Tajikistan. Hay ducha caliente,
+
+460
+00:22:57,000 --> 00:23:00,000
+0:13:00.900,0:13:02.740
+
+461
+00:23:00,000 --> 00:23:03,000
+baño y no sé qué".
+
+462
+00:23:03,000 --> 00:23:06,000
+0:13:03.720,0:13:05.500
+
+463
+00:23:06,000 --> 00:23:09,000
+¡Pues, òndia!?
+
+464
+00:23:09,000 --> 00:23:12,000
+0:13:05.660,0:13:06.700
+
+465
+00:23:12,000 --> 00:23:15,000
+Hoy no lo tenía previsto.
+
+466
+00:23:15,000 --> 00:23:18,000
+0:13:07.620,0:13:08.740
+
+467
+00:23:18,000 --> 00:23:21,000
+Tampoco lo necesito porque
+
+468
+00:23:21,000 --> 00:23:24,000
+0:13:08.740,0:13:10.380
+
+469
+00:23:24,000 --> 00:23:27,000
+o sea,
+
+470
+00:23:27,000 --> 00:23:30,000
+0:13:11.820,0:13:13.200
+
+471
+00:23:30,000 --> 00:23:33,000
+normalmente en estos lugares te dan cena,
+
+472
+00:23:33,000 --> 00:23:36,000
+0:13:13.300,0:13:14.920
+
+473
+00:23:36,000 --> 00:23:39,000
+te dan desayuno y
+
+474
+00:23:39,000 --> 00:23:42,000
+0:13:14.920,0:13:17.120
+
+475
+00:23:42,000 --> 00:23:45,000
+hoy he comido bastante, pero bueno,
+
+476
+00:23:45,000 --> 00:23:48,000
+0:13:17.900,0:13:19.340
+
+477
+00:23:48,000 --> 00:23:51,000
+Lo que sí necesito es una ducha.
+
+478
+00:23:51,000 --> 00:23:54,000
+0:13:20.300,0:13:21.600
+
+479
+00:23:54,000 --> 00:23:57,000
+Eso me apetece mucho.
+
+480
+00:23:57,000 --> 00:24:00,000
+0:13:22.360,0:13:23.600
+
+481
+00:24:00,000 --> 00:24:03,000
+A ver, ostras, el camión, tú.
+
+482
+00:24:03,000 --> 00:24:06,000
+0:13:24.660,0:13:25.160
+
+483
+00:24:06,000 --> 00:24:09,000
+Bueno,
+
+484
+00:24:09,000 --> 00:24:12,000
+0:13:25.580,0:13:27.540
+
+485
+00:24:12,000 --> 00:24:15,000
+el único problema es que está a 10 km
+
+486
+00:24:15,000 --> 00:24:18,000
+0:13:27.540,0:13:29.840
+
+487
+00:24:18,000 --> 00:24:21,000
+y son las 5 y 25,
+
+488
+00:24:21,000 --> 00:24:24,000
+0:13:29.840,0:13:30.500
+
+489
+00:24:24,000 --> 00:24:27,000
+por lo tanto,
+
+490
+00:24:27,000 --> 00:24:30,000
+0:13:30.900,0:13:32.180
+
+491
+00:24:30,000 --> 00:24:33,000
+Son dos horas de caminata,
+
+492
+00:24:33,000 --> 00:24:36,000
+0:13:32.900,0:13:35.100
+
+493
+00:24:36,000 --> 00:24:39,000
+dos horas y pico, por lo tanto, llegaría
+
+494
+00:24:39,000 --> 00:24:42,000
+0:13:35.100,0:13:37.220
+
+495
+00:24:42,000 --> 00:24:45,000
+pasada la puesta de sol,
+
+496
+00:24:45,000 --> 00:24:48,000
+0:13:37.920,0:13:39.340
+
+497
+00:24:48,000 --> 00:24:51,000
+Pero bueno, no pasa nada
+
+498
+00:24:51,000 --> 00:24:54,000
+0:13:39.340,0:13:41.580
+
+499
+00:24:54,000 --> 00:24:57,000
+para caminar un poco a oscuras.
+
+500
+00:24:57,000 --> 00:25:00,000
+0:13:42.840,0:13:44.220
+
+501
+00:25:00,000 --> 00:25:03,000
+Joder, imagínate que llego
+
+502
+00:25:03,000 --> 00:25:06,000
+0:13:44.220,0:13:45.120
+
+503
+00:25:06,000 --> 00:25:09,000
+Y ya está lleno.
+
+504
+00:25:09,000 --> 00:25:12,000
+0:13:45.600,0:13:47.260
+
+505
+00:25:12,000 --> 00:25:15,000
+No creo. Hoy es domingo, ¿no?
+
+506
+00:25:15,000 --> 00:25:18,000
+0:13:47.360,0:13:48.700
+
+507
+00:25:18,000 --> 00:25:21,000
+No lo sé, no lo sé.
+
+508
+00:25:21,000 --> 00:25:24,000
+0:13:49.420,0:13:49.940
+
+509
+00:25:24,000 --> 00:25:27,000
+Cruzamos los dedos.
+
+510
+00:25:27,000 --> 00:25:30,000
+0:14:48.840,0:14:53.740
+
+511
+00:25:30,000 --> 00:25:33,000
+¡Fuera! ¡Guapísimo! Este último tramo, ¿eh? Me ha encantado.
+
+512
+00:25:33,000 --> 00:25:36,000
+0:14:53.740,0:14:58.140
+
+513
+00:25:36,000 --> 00:25:39,000
+Encima con la puesta de sol, los colores... Genial, genial.
+
+514
+00:25:39,000 --> 00:25:42,000
+0:14:58.140,0:15:01.940
+
+515
+00:25:42,000 --> 00:25:45,000
+Y he llegado. He llegado. En teoría está aquí.
+
+516
+00:25:45,000 --> 00:25:48,000
+0:15:01.940,0:15:06.740
+
+517
+00:25:48,000 --> 00:25:51,000
+Bueno, ahora voy a mirar exactamente dónde está. Son las 19h14 o 20 o algo así.
+
+518
+00:25:51,000 --> 00:25:54,000
+0:15:06.740,0:15:12.940
+
+519
+00:25:54,000 --> 00:25:57,000
+¡Uf! 46 km. Ahí es nada. Venga, va. A ver si tengo suerte. Por favor.
+
+520
+00:25:57,000 --> 00:26:00,000
+0:15:15.940,0:15:22.140
+
+521
+00:26:00,000 --> 00:26:03,000
+Sí. Sí, sí, sí, claro, claro. Y lavabo y ducha.
+
+522
+00:26:03,000 --> 00:26:06,000
+0:15:22.140,0:15:25.940
+
+523
+00:26:06,000 --> 00:26:09,000
+¡Oh! Ya me he duchado. Ha sido glorioso. Ha sido glorioso.
+
+524
+00:26:09,000 --> 00:26:12,000
+0:15:25.940,0:15:32.340
+
+525
+00:26:12,000 --> 00:26:15,000
+Con champús que usan por la casa. Quiero decir que encima me he lavado bien.
+
+526
+00:26:15,000 --> 00:26:18,000
+0:15:32.340,0:15:38.240
+
+527
+00:26:18,000 --> 00:26:21,000
+Bueno, bueno, bueno. He cenado. He cenado una gran ensalada. Muy bien. Una pequeña sopa.
+
+528
+00:26:21,000 --> 00:26:24,000
+0:15:38.240,0:15:46.340
+
+529
+00:26:24,000 --> 00:26:27,000
+¿Y qué más? Y esas verduras llenas de carne. Más de lo que necesitaba, pero bueno. Bueno, bueno, bueno.
+
+530
+00:26:27,000 --> 00:26:30,000
+0:15:46.340,0:15:52.940
+
+531
+00:26:30,000 --> 00:26:33,000
+Té. Siempre te dan té para la comida. Cosa que a mí, con estos calores, no me hace falta.
+
+532
+00:26:33,000 --> 00:26:36,000
+0:15:52.940,0:15:54.940
+
+533
+00:26:36,000 --> 00:26:39,000
+Pero bueno, ahora no hace calor. Ahora se está bien.
+
+534
+00:26:39,000 --> 00:26:42,000
+0:15:54.940,0:16:02.340
+
+535
+00:26:42,000 --> 00:26:45,000
+La camas. Como podéis ver. La cubierta es una manta. Ay, no manta. Una alfombra.
+
+536
+00:26:45,000 --> 00:26:48,000
+0:16:02.340,0:16:10.240
+
+537
+00:26:48,000 --> 00:26:51,000
+Pero luego veo que tiene otras... otras mantas. Bueno, siempre tengo el saco si no me es cómodo.
+
+538
+00:26:51,000 --> 00:26:54,000
+0:16:10.240,0:16:21.340
+
+539
+00:26:54,000 --> 00:26:57,000
+Hoy 46 o 47 km. Y 3 refrescos. 32 euros gastados. 12
+
+540
+00:26:57,000 --> 00:27:00,000
+0:16:21.340,0:16:23.300
+
+541
+00:27:00,000 --> 00:27:03,000
+más 20 de eso, 20.
+
+542
+00:27:03,000 --> 00:27:06,000
+0:16:23.300,0:16:24.280
+
+543
+00:27:06,000 --> 00:27:09,000
+20 con cena y desayuno incluido.
+
+544
+00:27:09,000 --> 00:27:12,000
+0:16:24.940,0:16:27.500
+
+545
+00:27:12,000 --> 00:27:15,000
+Bueno, bien
+
+546
+00:27:15,000 --> 00:27:18,000
+0:16:27.500,0:16:29.300
+
+547
+00:27:18,000 --> 00:27:21,000
+bien, está bien.
+
+548
+00:27:21,000 --> 00:27:24,000
+0:16:29.300,0:16:31.060
+
+549
+00:27:24,000 --> 00:27:27,000
+Sí, sí, y he hablado con
+
+550
+00:27:27,000 --> 00:27:30,000
+0:16:31.060,0:16:33.320
+
+551
+00:27:30,000 --> 00:27:33,000
+con la niña que hablaba
+
+552
+00:27:33,000 --> 00:27:36,000
+0:16:33.320,0:16:34.000
+
+553
+00:27:36,000 --> 00:27:39,000
+inglés de aquí.
+
+554
+00:27:39,000 --> 00:27:42,000
+0:16:34.000,0:16:37.280
+
+555
+00:27:42,000 --> 00:27:45,000
+¿Alguien más? Quizás de alguien más, ponle
+
+556
+00:27:45,000 --> 00:27:48,000
+0:16:37.280,0:16:39.420
+
+557
+00:27:48,000 --> 00:27:51,000
+dos personas. Ah sí, sí
+
+558
+00:27:51,000 --> 00:27:54,000
+0:16:39.420,0:16:41.200
+
+559
+00:27:54,000 --> 00:27:57,000
+No, he hablado con más gente, ponle cuatro.
+
+560
+00:27:57,000 --> 00:28:00,000
+0:16:41.200,0:16:42.700
+
+561
+00:28:00,000 --> 00:28:03,000
+Y la niña esta
+
+562
+00:28:03,000 --> 00:28:06,000
+0:16:42.700,0:16:45.160
+
+563
+00:28:06,000 --> 00:28:09,000
+habla un poco inglés,
+
+564
+00:28:09,000 --> 00:28:12,000
+0:16:45.160,0:16:47.520
+
+565
+00:28:12,000 --> 00:28:15,000
+habla ruso, y le pregunto
+
+566
+00:28:15,000 --> 00:28:18,000
+0:16:47.520,0:16:49.340
+
+567
+00:28:18,000 --> 00:28:21,000
+"hablas tayiko?" y dice "sí", y "hablas
+
+568
+00:28:21,000 --> 00:28:24,000
+0:16:49.340,0:16:51.500
+
+569
+00:28:24,000 --> 00:28:27,000
+algún idioma más?" 12 años tendría
+
+570
+00:28:27,000 --> 00:28:30,000
+0:16:51.500,0:16:53.220
+
+571
+00:28:30,000 --> 00:28:33,000
+y dice
+
+572
+00:28:33,000 --> 00:28:36,000
+0:16:53.220,0:16:53.980
+
+573
+00:28:36,000 --> 00:28:39,000
+ah, pamir
+
+574
+00:28:39,000 --> 00:28:42,000
+0:16:53.980,0:16:57.320
+
+575
+00:28:42,000 --> 00:28:45,000
+es que
+
+576
+00:28:45,000 --> 00:28:48,000
+0:16:57.320,0:16:59.420
+
+577
+00:28:48,000 --> 00:28:51,000
+Hoy he preguntado a varias personas si hablaban
+
+578
+00:28:51,000 --> 00:28:54,000
+0:16:59.420,0:17:01.340
+
+579
+00:28:54,000 --> 00:28:57,000
+Otro idioma, aparte de
+
+580
+00:28:57,000 --> 00:29:00,000
+0:17:01.340,0:17:03.520
+
+581
+00:29:00,000 --> 00:29:03,000
+tadjik, y nadie me ha acabado de responder
+
+582
+00:29:03,000 --> 00:29:06,000
+0:17:03.520,0:17:05.180
+
+583
+00:29:06,000 --> 00:29:09,000
+porque supongo que no me entendían
+
+584
+00:29:09,000 --> 00:29:12,000
+0:17:05.180,0:17:07.380
+
+585
+00:29:12,000 --> 00:29:15,000
+pero esta niña dice que habla pamir, lo he buscado
+
+586
+00:29:15,000 --> 00:29:18,000
+0:17:07.380,0:17:09.080
+
+587
+00:29:18,000 --> 00:29:21,000
+en el pamir hay varias lenguas, por lo tanto
+
+588
+00:29:21,000 --> 00:29:24,000
+0:17:09.080,0:17:11.360
+
+589
+00:29:24,000 --> 00:29:27,000
+no nos queda muy claro exactamente
+
+590
+00:29:27,000 --> 00:29:30,000
+0:17:11.360,0:17:13.260
+
+591
+00:29:30,000 --> 00:29:33,000
+Lo que dice, y luego
+
+592
+00:29:33,000 --> 00:29:36,000
+0:17:13.260,0:17:15.140
+
+593
+00:29:36,000 --> 00:29:39,000
+le he preguntado, "cómo se llama gracias
+
+594
+00:29:39,000 --> 00:29:42,000
+0:17:15.140,0:17:16.680
+
+595
+00:29:42,000 --> 00:29:45,000
+en tu lengua?"
+
+596
+00:29:45,000 --> 00:29:48,000
+0:17:16.680,0:17:18.600
+
+597
+00:29:48,000 --> 00:29:51,000
+y me llama "caló"
+
+598
+00:29:51,000 --> 00:29:54,000
+0:17:18.600,0:17:21.000
+
+599
+00:29:54,000 --> 00:29:57,000
+o algo así, y luego he buscado y
+
+600
+00:29:57,000 --> 00:30:00,000
+0:17:21.000,0:17:22.920
+
+601
+00:30:00,000 --> 00:30:03,000
+no sé
+
+602
+00:30:03,000 --> 00:30:06,000
+0:17:22.920,0:17:24.420
+
+603
+00:30:06,000 --> 00:30:09,000
+en ninguna de estas lenguas
+
+604
+00:30:09,000 --> 00:30:12,000
+0:17:24.420,0:17:26.820
+
+605
+00:30:12,000 --> 00:30:15,000
+me sale esta palabra, no sé
+
+606
+00:30:15,000 --> 00:30:18,000
+0:17:26.820,0:17:29.080
+
+607
+00:30:18,000 --> 00:30:21,000
+investigaré más, pero a mí siempre
+
+608
+00:30:21,000 --> 00:30:24,000
+0:17:29.080,0:17:31.300
+
+609
+00:30:24,000 --> 00:30:27,000
+me gusta encontrar las palabras
+
+610
+00:30:27,000 --> 00:30:30,000
+0:17:31.300,0:17:33.260
+
+611
+00:30:30,000 --> 00:30:33,000
+en la lengua local, especialmente si es una lengua
+
+612
+00:30:33,000 --> 00:30:36,000
+0:17:33.260,0:17:35.040
+
+613
+00:30:36,000 --> 00:30:39,000
+que no es la lengua estatal, porque entonces
+
+614
+00:30:39,000 --> 00:30:42,000
+0:17:35.040,0:17:37.300
+
+615
+00:30:42,000 --> 00:30:45,000
+A la gente se le explota la cabeza porque no
+
+616
+00:30:45,000 --> 00:30:48,000
+0:17:37.300,0:17:39.300
+
+617
+00:30:48,000 --> 00:30:51,000
+no creo que nadie aprenda estas palabras, me gusta hacerlo
+
+618
+00:30:51,000 --> 00:30:54,000
+0:17:39.300,0:17:41.020
+
+619
+00:30:54,000 --> 00:30:57,000
+pero bueno, no sé si lo conseguiré
+
+620
+00:30:57,000 --> 00:31:00,000
+0:17:41.020,0:17:42.800
+
+621
+00:31:00,000 --> 00:31:03,000
+A pesar de esto, existen varios idiomas
+
+622
+00:31:03,000 --> 00:31:06,000
+0:17:42.800,0:17:44.560
+
+623
+00:31:06,000 --> 00:31:09,000
+Vale, qué más
+
+624
+00:31:09,000 --> 00:31:12,000
+0:17:44.560,0:17:47.340
+
+625
+00:31:12,000 --> 00:31:15,000
+ya está, dormiré
+
+626
+00:31:15,000 --> 00:31:18,000
+0:17:47.340,0:17:48.000
+
+627
+00:31:18,000 --> 00:31:21,000
+lo mejor posible
+
+628
+00:31:21,000 --> 00:31:24,000
+0:17:48.000,0:17:51.320
+
+629
+00:31:24,000 --> 00:31:27,000
+y mañana continuamos, quedan 80
+
+630
+00:31:27,000 --> 00:31:30,000
+0:17:51.320,0:17:52.800
+
+631
+00:31:30,000 --> 00:31:33,000
+kilómetros, y por tanto, dos
+
+632
+00:31:33,000 --> 00:31:36,000
+0:17:52.920,0:17:55.100
+
+633
+00:31:36,000 --> 00:31:39,000
+días, hasta la última
+
+634
+00:31:39,000 --> 00:31:42,000
+0:17:55.100,0:17:56.720
+
+635
+00:31:42,000 --> 00:31:45,000
+Ciudad principal
+
+636
+00:31:45,000 --> 00:31:48,000
+0:17:56.720,0:17:58.240
+
+637
+00:31:48,000 --> 00:31:51,000
+Antes de encarar
+
+638
+00:31:51,000 --> 00:31:54,000
+0:17:58.240,0:18:00.580
+
+639
+00:31:54,000 --> 00:31:57,000
+Antes de encarar el
+
+640
+00:31:57,000 --> 00:32:00,000
+0:18:00.580,0:18:02.600
+
+641
+00:32:00,000 --> 00:32:03,000
+Pamir auténtico y salvaje.
+
+642
+00:32:03,000 --> 00:32:06,000
+0:18:02.600,0:18:04.140
+
+643
+00:32:06,000 --> 00:32:09,000
+Buenas noches
