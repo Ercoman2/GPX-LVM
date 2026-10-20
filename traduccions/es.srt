@@ -1,887 +1,932 @@
-0:00:03.840,0:00:12.719
-Buenos días. ¿Qué noche más fría tú? Ahora entre el sol y la nieve que hace rebotar los
+1
+00:00:00,000 --> 00:00:02,680
+La Vuelta al Mundo a Pie, día 324.
+
+2
+00:00:03,080 --> 00:00:05,420
+El último día os dejé con la decisión
+
+3
+00:00:05,420 --> 00:00:08,500
+de ir por el paso corto, ahorrarme 100 kilómetros
+
+4
+00:00:08,500 --> 00:00:09,980
+e ir por Babusar Pass,
+
+5
+00:00:10,300 --> 00:00:12,860
+pero tener que subir un puerto de 4.100 metros
+
+6
+00:00:12,860 --> 00:00:15,280
+o seguir por la carretera del Karakórum
+
+7
+00:00:15,280 --> 00:00:19,100
+sin puertos de alta montaña, pero 100 kilómetros más.
+
+8
+00:00:19,880 --> 00:00:21,400
+Había decidido ir por Babussar Pass.
+
+9
+00:00:22,220 --> 00:00:22,720
+Sí.
+
+10
+00:00:23,800 --> 00:00:26,420
+Y de repente voy caminando,
+
+11
+00:00:26,840 --> 00:00:29,360
+Veo el checkpoint, paro, no me dejan pasar.
+
+12
+00:00:30,720 --> 00:00:32,680
+No me dejan pasar a pie por Babussar Pass.
+
+13
+00:00:35,160 --> 00:00:36,680
+Creo que puede haber alguna manera
+
+14
+00:00:36,680 --> 00:00:38,380
+de intentar que me dejen, de alguna manera,
+
+15
+00:00:38,820 --> 00:00:41,860
+pero ahora mismo no encuentro ningún poli de los que me siguen
+
+16
+00:00:41,860 --> 00:00:44,460
+y no puedo pedirles ayuda ni nada.
+
+17
+00:00:45,860 --> 00:00:47,860
+Bien, pues ve por la carretera del Karakórum, diréis.
+
+18
+00:00:48,800 --> 00:00:51,060
+Mira, tengo fecha de salida de Pakistán ya,
+
+19
+00:00:51,220 --> 00:00:54,040
+el 14 de noviembre.
+
+20
+00:00:54,040 --> 00:00:56,960
+Será el día que coja el avión
+
+21
+00:00:56,960 --> 00:00:59,200
+desde Pakistán hasta la India,
+
+22
+00:00:59,260 --> 00:01:00,988
+Ya os hablaré de ello después.
+
+23
+00:01:01,800 --> 00:01:02,740
+Pero claro, tengo prisa.
+
+24
+00:01:02,860 --> 00:01:04,720
+Tengo 27 días y me interesa,
+
+25
+00:01:04,720 --> 00:01:06,500
+me interesa ahorrarme 100 kilómetros.
+
+26
+00:01:08,520 --> 00:01:10,380
+Son las 12.39.
+
+27
+00:01:11,240 --> 00:01:13,720
+Voy a intentar hacer algunas llamadas o algo
+
+28
+00:01:14,280 --> 00:01:15,520
+para ver si me pueden ayudar,
+
+29
+00:01:17,240 --> 00:01:18,520
+Pero no me lo esperaba, ¿eh?
+
+30
+00:01:18,840 --> 00:01:20,200
+Esta... ahora me han jodido, ¿eh?
+
+31
+00:01:20,940 --> 00:01:21,440
+Imposible.
+
+32
+00:01:22,260 --> 00:01:24,800
+No ha habido manera, el dueño del checkpoint
+
+33
+00:01:24,800 --> 00:01:27,780
+Era un hombre, era una persona.
+
+34
+00:01:27,980 --> 00:01:29,840
+Pero bueno, más o menos
+
+35
+00:01:30,000 --> 00:01:31,900
+simpático, pero implacable, implacable.
+
+36
+00:01:32,640 --> 00:01:33,640
+Órdenes de los superiores,
+
+37
+00:01:34,380 --> 00:01:35,620
+Ningún turista puede pasar por aquí.
+
+38
+00:01:36,840 --> 00:01:38,720
+Me han dado razones de terrorismo.
+
+39
+00:01:40,600 --> 00:01:41,320
+Exageradísimo, seguro.
+
+40
+00:01:42,440 --> 00:01:43,200
+Exageradísimo, seguro.
+
+41
+00:01:44,480 --> 00:01:46,100
+Joder, me han jodido, me han jodido,
+
+42
+00:01:46,200 --> 00:01:47,100
+me han jodido.
+
+43
+00:01:49,160 --> 00:01:50,080
+Me han jodido.
+
+44
+00:01:50,180 --> 00:01:52,660
+A ver, son la una menos diez, o así.
+
+45
+00:01:53,880 --> 00:01:55,580
+Empiezo a caminar hasta Xilas,
+
+46
+00:01:55,680 --> 00:01:56,300
+desde donde vengo.
+
+47
+00:01:58,040 --> 00:01:59,540
+Ua, putada, ¿eh?
+
+48
+00:02:00,000 --> 00:02:02,880
+Ayer compré los aviones estos que os he dicho
+
+49
+00:02:02,980 --> 00:02:05,980
+para ir hasta la India desde Pakistán
+
+50
+00:02:06,080 --> 00:02:09,180
+y me estaba decidiendo entre comprarlo el 16 o el 14 de noviembre,
+
+51
+00:02:09,280 --> 00:02:12,280
+Pero bueno, al final lo he comprado el 14, y error.
+
+52
+00:02:12,380 --> 00:02:15,180
+Error, porque si lo hubiera comprado el 16,
+
+53
+00:02:15,280 --> 00:02:20,040
+tendría dos días más y estos dos días ahora me vienen de lujo,
+
+54
+00:02:20,140 --> 00:02:23,280
+porque acabo de sumar 100 kilómetros más a mi ruta
+
+55
+00:02:23,380 --> 00:02:24,380
+y ya iba justo.
+
+56
+00:02:26,520 --> 00:02:28,380
+Buf, bueno, vale.
+
+57
+00:02:28,798 --> 00:02:29,758
+Ua.
+
+58
+00:02:30,000 --> 00:02:31,000
+Ua, putada, ¿eh?
+
+59
+00:02:31,100 --> 00:02:35,393
+Además, por aquí es mucho menos escénico que por Babusar Pass.
+
+60
+00:02:35,954 --> 00:02:37,000
+Me han jodido.
+
+61
+00:02:37,100 --> 00:02:41,000
+Bueno, pues, ya que estoy aquí, os voy a meter chapa, señores, os voy a meter chapa.
+
+62
+00:02:41,100 --> 00:02:45,000
+Hoy será día de chapas, pero chapas importantes de logística.
+
+63
+00:02:45,100 --> 00:02:46,000
+Vamos a ver.
+
+64
+00:02:46,100 --> 00:02:49,000
+Por si alguien no lo sabe, yo no me puedo cruzar la frontera entre Pakistán e India.
+
+65
+00:02:49,100 --> 00:02:53,000
+Desde el año pasado, que tuvimos conflictos armados entre Pakistán e India,
+
+66
+00:02:53,100 --> 00:02:57,524
+esta frontera está cerrada para todos, excepto diplomáticos, etc.
+
+67
+00:02:58,572 --> 00:02:59,980
+Y, para cruzar los pocos metros
+
+68
+00:03:00,100 --> 00:03:02,000
+que separan Pakistán e India en la frontera,
+
+69
+00:03:02,100 --> 00:03:06,000
+tengo que coger un avión, que, además, tengo que ir a un tercer país,
+
+70
+00:03:06,100 --> 00:03:09,000
+porque no hay vuelos directos entre Pakistán e India,
+
+71
+00:03:09,100 --> 00:03:14,000
+y este país, he cogido el vuelo más barato, es Uzbekistán.
+
+72
+00:03:14,100 --> 00:03:17,718
+Volveré a Uzbekistán, pasaré un día entero en Uzbekistán
+
+73
+00:03:17,718 --> 00:03:22,000
+y el día 15 volaré a Delhi para continuar mi ruta desde Delhi.
+
+74
+00:03:22,100 --> 00:03:24,000
+Tendré que coger un bus hasta el otro lado de la frontera, etc.
+
+75
+00:03:24,100 --> 00:03:26,000
+Pero, bueno, eso es otro tema.
+
+76
+00:03:26,100 --> 00:03:29,000
+Entonces, me han costado 360 euros los billetes.
+
+77
+00:03:29,000 --> 00:03:33,000
+No, 330 y pico. 330, ponlo.
+
+78
+00:03:33,100 --> 00:03:36,000
+Es bastante, es bastante.
+
+79
+00:03:36,100 --> 00:03:39,000
+Pero, bueno, también lo he cogido con poca antelación, ¿no?
+
+80
+00:03:39,100 --> 00:03:42,000
+Día 14 de noviembre, 27 días.
+
+81
+00:03:42,100 --> 00:03:44,898
+Ahora necesitaré calcular los kilómetros.
+
+82
+00:03:44,898 --> 00:03:46,917
+Estos son los kilómetros que me quedan.
+
+83
+00:03:46,917 --> 00:03:48,880
+Y estos son los días que tengo.
+
+84
+00:03:48,880 --> 00:03:51,000
+Si haces la división estricta...
+
+85
+00:03:51,100 --> 00:03:53,000
+Hola.
+
+86
+00:03:53,100 --> 00:03:57,000
+Ese es el número de kilómetros que tengo que recorrer cada día.
+
+87
+00:03:57,100 --> 00:03:58,100
+Que dices...
+
+88
+00:03:58,345 --> 00:04:00,158
+No es mucho, este número de kilómetros, Enric.
+
+89
+00:04:00,158 --> 00:04:01,900
+Tú has hecho mucho más, ya.
+
+90
+00:04:02,000 --> 00:04:04,900
+Pero eso supone que no hago ningún día de descanso.
+
+91
+00:04:05,000 --> 00:04:09,495
+Y, además, ya sabéis que aquí, en Pakistán, estoy caminando menos.
+
+92
+00:04:09,495 --> 00:04:11,900
+Tendré que cambiar el chip completamente.
+
+93
+00:04:12,000 --> 00:04:16,900
+Y empezar a levantarme muy temprano, aunque esté en un hotel.
+
+94
+00:04:17,000 --> 00:04:18,900
+Y caminar... caminar más.
+
+95
+00:04:19,000 --> 00:04:19,663
+Caminar más.
+
+96
+00:04:19,663 --> 00:04:22,900
+Además, necesito algunos días de descanso.
+
+97
+00:04:23,000 --> 00:04:25,439
+Quiero encontrarme con algunas personas.
+
+98
+00:04:25,439 --> 00:04:28,686
+Hablar con ellos, entrevistarlos, visitar Islamabad, visitar Lahore, etc.
+
+99
+00:04:29,000 --> 00:04:29,900
+Sigo con las chapas.
+
+100
+00:04:30,000 --> 00:04:31,900
+Así ya me lo quito todo de encima.
+
+101
+00:04:32,000 --> 00:04:34,900
+Tema visado de India.
+
+102
+00:04:35,000 --> 00:04:37,900
+Eso, un poco falta previsión por mi parte.
+
+103
+00:04:38,000 --> 00:04:41,900
+Pero, yo el visado de la India aún no lo había hecho.
+
+104
+00:04:42,000 --> 00:04:43,900
+Lo he hecho hoy, esta mañana.
+
+105
+00:04:44,000 --> 00:04:48,900
+Y el hecho de visitar Pakistán antes de ir a India
+
+106
+00:04:49,000 --> 00:04:52,518
+no debería ser un motivo para que me denegaran la visa, no.
+
+107
+00:04:52,518 --> 00:04:53,900
+Evidentemente, no.
+
+108
+00:04:54,000 --> 00:04:56,900
+Pero sí es verdad que, según he leído,
+
+109
+00:04:56,900 --> 00:04:59,900
+me pondrán... me harán preguntas extras.
+
+110
+00:05:00,000 --> 00:05:01,900
+Me harán preguntas...
+
+111
+00:05:02,000 --> 00:05:03,900
+O sea, todavía no me aceptarán el visado
+
+112
+00:05:04,000 --> 00:05:06,900
+y, probablemente, los próximos días recibiré e-mails de India
+
+113
+00:05:07,000 --> 00:05:09,900
+diciendo, ei, cuál es tu ruta por Pakistán y tal.
+
+114
+00:05:10,000 --> 00:05:13,900
+Y no sé si será un problema el hecho de que...
+
+115
+00:05:14,000 --> 00:05:18,518
+de que yo esté pidiendo el visado desde Pakistán.
+
+116
+00:05:18,518 --> 00:05:20,900
+No que haya hecho un viaje anterior a Pakistán hace dos años,
+
+117
+00:05:21,000 --> 00:05:22,900
+Ahora mismo estoy en Pakistán.
+
+118
+00:05:23,000 --> 00:05:24,900
+Quizá eso sea un problema.
+
+119
+00:05:24,900 --> 00:05:27,387
+No sé, no debería serlo, ¿no?
+
+120
+00:05:27,817 --> 00:05:28,900
+En principio, no.
+
+121
+00:05:29,000 --> 00:05:31,900
+Bueno, os iré informando de este tema.
+
+122
+00:05:32,000 --> 00:05:33,900
+El saco de dormir de Georgia.
+
+123
+00:05:34,000 --> 00:05:34,900
+Bueno, la Georgia.
+
+124
+00:05:35,000 --> 00:05:37,900
+El saco de dormir polaco, ese famoso que ha dado más vueltas que una peonza.
+
+125
+00:05:38,000 --> 00:05:39,900
+Llegó a Georgia.
+
+126
+00:05:40,000 --> 00:05:42,900
+Les pedí por activa y por pasiva los de DHL
+
+127
+00:05:43,000 --> 00:05:45,900
+que lo volvieran a enviar donde lo habían enviado.
+
+128
+00:05:46,000 --> 00:05:47,900
+No me hacían caso. Al final me hicieron caso.
+
+129
+00:05:48,000 --> 00:05:50,900
+Pero les dije, mira, no, no lo volvamos a enviar a Cumulus
+
+130
+00:05:51,000 --> 00:05:52,800
+Cumulus no se quiere hacer cargo.
+
+131
+00:05:52,900 --> 00:05:53,800
+Envíalo a casa.
+
+132
+00:05:53,900 --> 00:05:54,800
+En mi casa.
+
+133
+00:05:54,900 --> 00:05:55,800
+En Esplugues.
+
+134
+00:05:55,900 --> 00:05:57,800
+¡Un pastón!
+
+135
+00:05:57,900 --> 00:05:58,800
+¡Un pastón!
+
+136
+00:05:58,900 --> 00:06:00,800
+O sea, Cumulus me devuelve el dinero del saco.
+
+137
+00:06:00,900 --> 00:06:03,800
+O sea, el servicio de atención al cliente de Cumulus, un 10.
+
+138
+00:06:03,900 --> 00:06:04,800
+10 de 10.
+
+139
+00:06:04,900 --> 00:06:07,800
+Porque con todo esto te dicen, te devolvemos el dinero.
+
+140
+00:06:07,900 --> 00:06:10,800
+Pero es que el envío desde Georgia
+
+141
+00:06:10,900 --> 00:06:15,800
+y los aranceles de recogida en aduanas españolas,
+
+142
+00:06:15,900 --> 00:06:20,800
+En total, puede que cuesten 300 euros.
+
+143
+00:06:20,900 --> 00:06:22,800
+No llega, quizá, pero por ahí.
+
+144
+00:06:22,900 --> 00:06:23,800
+Sí.
+
+145
+00:06:23,800 --> 00:06:26,700
+Por un saco que vale menos de 300 euros.
+
+146
+00:06:26,800 --> 00:06:29,700
+Vale 200, creo, o 230.
+
+147
+00:06:29,800 --> 00:06:31,700
+Pero lo he pagado porque, si no, ¿qué?
+
+148
+00:06:31,800 --> 00:06:33,700
+Si no, me quedo sin saco, ¿sabes?
+
+149
+00:06:33,800 --> 00:06:35,700
+Y lo quiero, ese saco.
+
+150
+00:06:35,800 --> 00:06:36,700
+¿Vale?
+
+151
+00:06:36,800 --> 00:06:41,700
+Hoy, en principio, mis padres lo pasarán a recoger en el punto de recogida
+
+152
+00:06:41,800 --> 00:06:43,700
+y debería decidir qué hago con él.
+
+153
+00:06:43,800 --> 00:06:48,700
+Cosa importante porque, claro, yo lo quería desde hace tiempo porque
+
+154
+00:06:48,800 --> 00:06:51,700
+He pasado tiempo, días, en lugares que hacía calor.
+
+155
+00:06:51,700 --> 00:06:53,600
+Pero, claro, ahora viene el invierno.
+
+156
+00:06:53,700 --> 00:06:57,600
+Yo, en invierno, os dije que Nepal, pues, por mucho el invierno que fuera,
+
+157
+00:06:57,700 --> 00:06:58,600
+no hacía frío.
+
+158
+00:06:58,700 --> 00:07:00,600
+No, creo que me he equivocado, ¿eh?
+
+159
+00:07:00,700 --> 00:07:05,600
+Creo que si vas a los 3.000 metros de Nepal en enero, pues, hace rasca.
+
+160
+00:07:05,700 --> 00:07:08,517
+¿No se muere, no?
+
+161
+00:07:08,517 --> 00:07:12,600
+No es el Pamir, pero tendrás temperatura bajo cero, seguro.
+
+162
+00:07:12,700 --> 00:07:17,881
+Por lo tanto, este saco, en realidad, en invierno, ahora no lo usaré.
+
+163
+00:07:20,782 --> 00:07:27,500
+Entonces, estoy pensando, o me lo envío ya, con esta persona que me tiene que venir a visitar a la India,
+
+164
+00:07:27,600 --> 00:07:32,500
+o me lo envío ya y lo guardo todo el invierno y lo tengo guardado en la mochila,
+
+165
+00:07:32,600 --> 00:07:36,500
+o espero que alguno de vosotros me lo lleve a Katmandú cuando yo ya esté en Katmandú
+
+166
+00:07:36,600 --> 00:07:38,500
+y haya pasado ya todo el invierno.
+
+167
+00:07:38,600 --> 00:07:43,005
+¿Alguno de vosotros tiene previsto viajar a Nepal en marzo?
+
+168
+00:07:43,199 --> 00:07:44,500
+Yo creo que alguien lo encontraré, ¿no?
+
+169
+00:07:44,600 --> 00:07:46,500
+Hay muchos catalanes que viajan a Nepal.
+
+170
+00:07:46,500 --> 00:07:48,400
+Y en marzo creo que es buena época.
+
+171
+00:07:48,500 --> 00:07:51,400
+No lo sé, bueno, esto es un tema que todavía no tengo que decidir.
+
+172
+00:07:51,500 --> 00:07:56,400
+Pero bueno, sí, una cosa que... de eso.
+
+173
+00:07:57,660 --> 00:08:00,400
+Y nada, creo que son estas tres cosas.
+
+174
+00:08:02,540 --> 00:08:07,400
+Tocará caminar, tocará caminar y meterle caña.
+
+175
+00:08:07,500 --> 00:08:09,400
+Algo bueno, algo bueno.
+
+176
+00:08:09,500 --> 00:08:12,400
+¿Sabéis la chaqueta gruesa que compré en Tayikistán que llevo cargando?
+
+177
+00:08:12,500 --> 00:08:15,400
+También llevo unos calcetines gruesos.
+
+178
+00:08:15,400 --> 00:08:17,300
+Los estaba guardando para Babusar Pass.
+
+179
+00:08:17,400 --> 00:08:19,300
+Era el único motivo por el que los necesitaba.
+
+180
+00:08:19,400 --> 00:08:25,300
+Ahora ya no lo necesito y ya me puedo deshacer de la chaqueta esta.
+
+181
+00:08:25,400 --> 00:08:29,300
+Enric, tú en invierno la volvías a necesitar, una chaqueta gorda.
+
+182
+00:08:29,400 --> 00:08:33,300
+Bueno, eso será dentro de dos meses, ¿no?
+
+183
+00:08:33,400 --> 00:08:37,300
+Prefiero comprarme una nueva, sinceramente, porque por lo que cuesta,
+
+184
+00:08:37,400 --> 00:08:39,300
+me costó 35 euros.
+
+185
+00:08:39,400 --> 00:08:42,300
+No tengo que cargar lo que pesa, que esto pesa más de un kilo.
+
+186
+00:08:42,400 --> 00:08:45,300
+Ahora cuando llegue a Xilas se lo daré a alguien.
+
+187
+00:08:45,400 --> 00:08:47,300
+A alguien gratis.
+
+188
+00:08:47,400 --> 00:08:48,614
+Ah, otra cosa.
+
+189
+00:08:48,614 --> 00:08:51,913
+¿Os acordáis que el último día os dije que estaba un poco descompuesto?
+
+190
+00:08:51,913 --> 00:08:55,300
+Fue peor a mucho peor.
+
+191
+00:08:55,400 --> 00:08:58,300
+El mismo día por la tarde, sábado por la tarde,
+
+192
+00:08:58,400 --> 00:09:01,300
+y el domingo por la mañana fue una tras otra.
+
+193
+00:09:01,400 --> 00:09:02,577
+Tú, pan, pan.
+
+194
+00:09:02,577 --> 00:09:05,300
+Y agua, caía agua por allí.
+
+195
+00:09:05,400 --> 00:09:07,502
+Luego domingo por la tarde, no sé, como se curó,
+
+196
+00:09:07,502 --> 00:09:11,300
+y ahora estoy mejor, pero sigo no estando bien de la barriga.
+
+197
+00:09:11,400 --> 00:09:13,300
+Pero no puedo quedarme más esperando.
+
+198
+00:09:13,300 --> 00:09:15,200
+Bueno, tengo que seguir caminando.
+
+199
+00:09:15,300 --> 00:09:19,200
+Si es necesario, llevo papel y me pongo en un lado de la carretera y tal.
+
+200
+00:09:19,300 --> 00:09:22,057
+No es tan urgente de momento, pero sí.
+
+201
+00:09:22,057 --> 00:09:26,724
+Y estoy con poca hambre y, sabes, un poco así.
+
+202
+00:09:26,724 --> 00:09:28,200
+He llegado a Xilas.
+
+203
+00:09:28,300 --> 00:09:31,200
+Buah, necesito ir al baño urgentemente.
+
+204
+00:09:31,300 --> 00:09:34,200
+Estoy yendo hacia el hotel donde he estado estos dos días
+
+205
+00:09:34,300 --> 00:09:36,200
+y pediré que me dejen ir al baño.
+
+206
+00:09:36,300 --> 00:09:38,200
+Fua...
+
+207
+00:09:38,300 --> 00:09:42,067
+Entre pitos y flautas hoy, día durísimo.
+
+208
+00:09:45,810 --> 00:09:48,100
+Joder, tú.
+
+209
+00:09:48,200 --> 00:09:52,568
+Hay días que... hay días que todo mal, eh.
 
-0:00:12.719,0:00:16.160
-rayos de sol, tendré que ponerme gafas de sol y quema de sol urgentemente. Pero
+210
+00:09:53,935 --> 00:09:56,100
+Buah, no me encuentro bien, eh.
 
-0:00:16.160,0:00:20.640
-Bueno, vengo a enseñarle que el lago este que está al lado del hotel
+211
+00:09:56,200 --> 00:09:59,100
+Ahora me están entrando nauses y todo, también.
 
-0:00:20.640,0:00:23.920
-Está congelado.
+212
+00:10:03,200 --> 00:10:05,100
+Fua...
 
-0:00:24.199,0:00:28.560
-La previsión decía que menos dos esta noche, pero no
+213
+00:10:05,200 --> 00:10:07,100
+Creo que me quedo aquí, eh... Son las dos y pico.
 
-0:00:28.560,0:00:32.800
-Y dentro de las mantas estaba bien.
+214
+00:10:09,200 --> 00:10:11,100
+Lamentable, eh.
 
-0:00:32.800,0:00:37.320
-Tenemos vistas del Nanga Parbatt, pero con el sol al otro lado se ve algo
+215
+00:10:11,100 --> 00:10:13,000
+Eso debería ir al hospital, ¿no?
 
-0:00:37.320,0:00:41.760
-Se ve con la luz distinta.
+216
+00:10:13,100 --> 00:10:16,000
+Si es que hay hospital aquí en Xilas.
 
-0:00:41.760,0:00:47.760
-Nunca se verá desde ahí 100% iluminando porque esto es la cara norte.
+217
+00:10:19,100 --> 00:10:22,000
+Nada. He estado todo el día aquí, al final.
 
-0:00:47.760,0:00:55.039
-Ay, ostras tú, qué guapo. Bien, salimos ahora.
+218
+00:10:22,100 --> 00:10:26,000
+No estoy bien de la barriga, yendo al lavabo...
 
-0:00:55.039,0:00:59.239
-Vamos a caminar un poco en dirección al Nanga Parbat. Nada...20 minutos porque
+219
+00:10:26,100 --> 00:10:28,000
+No sé.
 
-0:00:59.239,0:01:02.640
-tampoco tenemos más tiempo y después bajaremos. Y el reto, creo que se lo voy ayer
+220
+00:10:28,100 --> 00:10:32,000
+Yo quiero continuar, tengo como esta espada de Damocles encima del día 14.
 
-0:01:02.640,0:01:07.040
-pero será el barro que resbala, que es peor con
+221
+00:10:33,242 --> 00:10:36,000
+Pero, bueno, si no llego el día 14 cogeré el avión igualmente, ¿sabes?
 
-0:01:07.040,0:01:11.520
-La bajada, que evidentemente, creo que necesitaría
+222
+00:10:36,100 --> 00:10:38,000
+Da igual.
 
-0:01:11.520,0:01:16.560
-piolet para el barro. Los vídeos que tienen más visualizaciones
+223
+00:10:38,100 --> 00:10:41,000
+Si no, si mañana tengo que ir al hospital
 
-0:01:16.560,0:01:20.680
-Es cuando lo paso mal. No sé si se ha fijado el otro día que me pasó
+224
+00:10:41,000 --> 00:10:42,900
+bueno, en el centro médico, que haya aquí lo que sea,
 
-0:01:20.680,0:01:25.600
-Aquello en el campamento aquel de los buscadores de oro. Tiene muchas visitas. El día de después
+225
+00:10:43,000 --> 00:10:45,900
+Mañana voy a ver como estoy.
 
-0:01:25.600,0:01:30.159
-para ver si estaba vivo, también... cuando estaba pasando mal Pamir. Tenía
+226
+00:10:46,000 --> 00:10:49,900
+5 km hoy y mañana ya os digo cuánto me he gastado.
 
-0:01:30.159,0:01:34.920
-Los primeros días en Pakistán que iba super bien y super plácido
+227
+00:10:50,000 --> 00:10:51,900
+Bueno, mira, hay días que no.
 
-0:01:34.920,0:01:40.014
-bajaron mucho las visitas. Sois unos puñeteros, ¿eh? Unos puñeteros.
+228
+00:10:52,000 --> 00:10:53,900
+Hay días que no.
 
-0:02:12.599,0:02:16.560
-Bien, Marc, brutal estos viewpoints, ¿eh? Sí, sí, es increíble.
+229
+00:10:54,000 --> 00:10:57,900
+Pero, bueno, también los comparto con vosotros y ya está.
 
-0:02:16.560,0:02:20.160
-A 5 minutos del hotel pensaba que teníamos que andar como tres horas, ¿no?
+230
+00:10:58,000 --> 00:10:59,900
+Hasta mañana, si hay vídeo.
 
-0:02:20.160,0:02:23.319
-para ver esto. Sí. Y mira, aquí todavía se ven
+231
+00:11:00,000 --> 00:11:01,900
+Porque si mañana no camino, tampoco grabaré.
 
-0:02:23.319,0:02:25.519
-Hoteles. Sí. Tú sí que sí continuarás, ¿no?
+232
+00:11:02,000 --> 00:11:03,900
+No tiene sentido, ¿no?
 
-0:02:25.519,0:02:30.080
-Por eso como debes estar tres días aquí... Yo hoy con el día que hace, al menos en el
+233
+00:11:04,000 --> 00:11:05,900
+Venga, adiós.
 
-0:02:30.080,0:02:34.599
-campo, como mínimo intento llegar. Y allí esperaré a
-
-0:02:34.599,0:02:39.840
-paquistaníes, si llegan y si no, yo creo que me quedaré allí porque solo
-
-0:02:39.840,0:02:42.720
-Tampoco quiero seguir más. Se puede dormir también, ¿eh?
-
-0:02:42.720,0:02:47.680
-Se puede dormir allí, pero volveré, volveré. Muy bien. Nosotros ahora iremos volviendo.
-
-0:02:47.680,0:02:50.319
-Valió la pena. No esperábamos estas vistas, ¿eh?
-
-0:02:50.319,0:02:54.760
-Sí, sí, es increíble. Tú todavía tienes unos días más y después autostop, ¿eh?
-
-0:02:54.760,0:02:59.840
-Luego autostop hasta eso...Karimabad y luego regresar autostop. Te lo
-
-0:02:59.840,0:03:03.400
-Lo recomiendo. Está muy bien. Está muy chulo. Karimabad. Un placer, señor.
-
-0:03:03.400,0:03:06.030
-Y gracias, igualmente. Que vaya muy bien el viaje. Gracias.
-
-0:04:17.880,0:04:20.016
-Acabamos de tener un accidente.
-
-0:04:22.600,0:04:28.040
-Madre mía. No, no...podríamos estar muertos, ¿eh?
-
-0:04:28.040,0:04:36.199
-Podríamos estar muertos. Estoy temblando, ¿eh? Madre mía...
-
-0:04:36.199,0:04:43.039
-Bueno, ¿qué pasó? Estábamos conduciendo. Esto ocurrió hace 30 segundos. Estaba
-
-0:04:43.039,0:04:46.880
-Conduciendo. De repente, veo que la rueda va hacia aquí, hacia las piedras
-
-0:04:46.880,0:04:53.360
-Estas. ¿Qué hace? ¿Qué hace? Pum. Choca. Choca el coche se levanta.
-
-0:04:53.360,0:04:59.160
-Y vuelca... y sí, sí, estaba dentro del coche volcado,
-
-0:04:59.160,0:05:04.880
-sin cinturón de seguridad. Todo el mundo está bien creo.
-
-0:05:04.880,0:05:09.280
-Sí, sí, sí, todo el mundo está bien. He tenido que salir por
-
-0:05:09.280,0:05:12.960
-he tenido que salir por arriba. He tenido que escalar por la ventana
-
-0:05:12.960,0:05:18.240
-el coche encendido y hacía mucho humo, pero han logrado
-
-0:05:18.240,0:05:23.003
-apagar el motor. Y ya está...
-
-0:05:24.560,0:05:29.120
-Pero llega a ir hacia el otro lado o lo que sea, miren la distancia entre el
-
-0:05:29.120,0:05:34.680
-El coche y el acantilado y estaremos abajo y estaremos muertos.
-
-0:05:46.032,0:05:55.919
-Guau.
-
-0:05:56.800,0:06:02.400
-Íbamos lentos, evidentemente. Entonces no...o sea, cuando hemos chocado, nada ha pasado
-
-0:06:02.400,0:06:06.639
-No me he hecho daño, no tengo dolor alguno, no tengo nada.
-
-0:06:06.639,0:06:11.880
-Y al volcar pues estábamos así, pero sí, sí, salido por la ventana.
-
-0:06:11.880,0:06:17.026
-Madre de Dios, la mochila está dentro. En principio, está todo.
-
-0:06:24.840,0:06:30.840
-Error de los frenos, dice porque...
-
-0:06:35.759,0:06:39.440
-Ah, y como los frenos no funcionaban, el tío ha girado para no ir hacia abajo
-
-0:06:39.440,0:06:43.400
-Para no ir hacia aquí.
-
-0:06:49.639,0:06:53.019
-Es la experiencia más cercana a la muerte que he tenido en mi vida.
-
-0:07:47.560,0:07:51.080
-La verdad...no sé muy bien dónde he puesto el pie como lo he conseguido, pero he abierto la
-
-0:07:51.080,0:07:54.280
-Puerta de par en par porque se abre de par en par.
-
-0:07:54.280,0:07:58.840
-Subí por ahí, y esto era un poco tenso porque salía un montón de humo.
-
-0:07:58.840,0:08:02.759
-Salía un montón de humo de aquí. Digo, uy, esto todavía explotará o lo que sea.
-
-0:08:02.759,0:08:08.280
-Entonces he conseguido subir aquí los pies y he dado un salto hasta aquí.
-
-0:08:08.280,0:08:14.840
-Un salto considerable dentro de aquí, pero tampoco nada muy grave. Y
-
-0:08:14.840,0:08:20.280
-Ya está. Y ya está. Luca es el compañero polaco.
-
-0:08:20.280,0:08:25.599
-Ha salido por debajo gateando por ahí debajo, por el espacio que hay
-
-0:08:25.599,0:08:29.479
-Madre mía. Tampoco se ha hecho daño, ¿eh? Nadie se ha hecho daño. Mira aquí la
-
-0:08:29.479,0:08:32.479
-Caída.
-
-0:08:34.440,0:08:38.120
-El conductor notó que el freno no funcionaba. Chocó contra
-
-0:08:38.120,0:08:42.839
-Aquí. ¿De acuerdo? Como os he dicho antes, si lo hubiera notado más tarde o lo que sea,
-
-0:08:42.839,0:08:47.440
-mirad, mirad. Esto es muy empinado, ¿eh? No sé si se nota, pero hubiera bajado hacia
-
-0:08:47.440,0:08:53.360
-Quizá por no habernos podido mover bien el freno, nos habríamos
-
-0:08:53.360,0:08:59.399
-Yo que sé. A saber.
-
-0:08:59.399,0:09:06.160
-Ahora dicen que han llamado abajo al puente y llevarán con un jeep
-
-0:09:06.160,0:09:10.880
-cuerda intentarán poner el coche de pie de alguna manera para poder sacar
-
-0:09:10.880,0:09:16.120
-el equipaje de dentro. Yo creo que podíamos sacarlo ahora si nos pusiéramos,
-
-0:09:16.120,0:09:20.079
-pero, no sé, supongo que no quieren que nos pongamos allí. No sé. Bien,
-
-0:09:20.079,0:09:23.240
-ya ha venido el de la cuerda. No sé muy bien cómo quieren hacerlo, si tenemos que estirar a
-
-0:09:23.240,0:09:27.920
-Todos tenemos que tirar de la cuerda para poner el jeep en orden.
-
-0:09:27.920,0:09:31.880
-Depende de cómo lo hagamos. Si lo hacemos mal puede acabar también abajo...
-
-0:09:31.880,0:09:36.160
-Y mi mochila...está todo el pueblo aquí.
-
-0:09:36.160,0:09:40.519
-Este señor es el del hotel de anteayer...mira, ya han sacado las mochilas.
-
-0:09:40.519,0:09:45.600
-Viva, ésta es la del chico polaco. Mi
-
-0:09:45.600,0:09:49.519
-mochila está algo más adentro. Cuesta algo más de coger. La mía no
-
-0:09:49.519,0:09:57.640
-la han cogido. ¿O sí? Está ahí...no. Sí, mira.
-
-0:09:57.640,0:10:01.200
-Aquí está, ya lo tenemos. Bien, pues ahora que hagan lo que
-
-0:10:01.200,0:10:06.160
-quieran...no. Con seguridad. Ahora me han dicho que este
-
-0:10:06.160,0:10:11.120
-Hubo otro accidente en el que murieron cuatro personas. Todos los
-
-0:10:11.120,0:10:18.040
-ocupantes del jeep cayeron al vacío y murieron. Este año sí, hemos
-
-0:10:18.040,0:10:23.160
-Mucha suerte. Mucha suerte. Hay un par de jeeps aquí, uno que desciende y luego
-
-0:10:23.160,0:10:26.399
-otro que ha subido. una chica eslovaca que está aquí esperando con nosotros y
-
-0:10:26.399,0:10:32.720
-esta chica dice, "Yo no subo con jeep, ¿eh?" Mira, está ahí. Yo subo,
-
-0:10:32.720,0:10:37.008
-Yo subo caminando, ¿eh? A mí no me enredáis.
-
-0:10:41.040,0:10:44.560
-Está muy cerca, ¿no? Se le caerá encima el coche.
-
-0:10:44.560,0:10:49.440
-Ah, no, no. Pim, palmo, ¿eh? Lo hicieron en un pim palm.
-
-0:10:49.440,0:10:54.000
-Ahora no sé cómo le sacarán de aquí. Bravo!
-
-0:10:56.560,0:11:02.639
-Si va a venir aquí y le ofrecen subir con un jeep rojo,
-
-0:11:02.639,0:11:06.760
-no venga con este coche. Intentarán moverlo a un lado de la carretera para que
-
-0:11:06.760,0:11:10.360
-puedan pasar los demás jeeps. Atención, algo, un detalle muy importante. Mira la matrícula
-
-0:11:10.360,0:11:16.480
-del coche, ¿eh? RIP. Era premonitorio, ¿eh? Resto in
-
-0:11:16.480,0:11:19.033
-peace Resto in peace.
-
-0:11:51.800,0:11:57.800
-Yo preferiría bajar andando, pero se ofrecen a llevarnos con otro jeep.
-
-0:11:57.800,0:12:02.320
-A ver, supongo que no pasa nada, ¿no? Quiero decir, es algo muy fuera
-
-0:12:02.320,0:12:04.024
-Es común que ocurra un acento así.
-
-0:12:07.959,0:12:11.839
-No, no, sí, creo que bajamos con jeep.
-
-0:12:11.839,0:12:15.360
-Nos bajamos con jeep.
-
-0:12:15.399,0:12:19.399
-Quedan 5 km y la parte, "Ei, eh, nano, tranquilo."
-
-0:12:19.399,0:12:23.600
-La parte más chunga, ¿no? Es que puede pasar a cualquier sitio que
-
-0:12:23.600,0:12:28.019
-Perdimos los frenos, pero sí bajamos con jeep.
-
-0:12:49.720,0:12:54.600
-Ya he llegado abajo y al hotel allí al salir, he puesto en marcha
-
-0:12:54.600,0:12:59.680
-el traco y rápidamente he empezado a andar antes de que la policía,
-
-0:12:59.680,0:13:02.560
-eh, me diga, "No, no puedo caminar por aquí" lo que sea, como ocurrió
-
-0:13:02.560,0:13:07.360
-el otro día." Pues ya está y he salido y
-
-0:13:07.360,0:13:12.839
-Por el momento parece que bien.
-
-0:13:12.839,0:13:17.040
-Pie. Por si alguien está viendo este video por primera vez
-
-0:13:17.040,0:13:20.360
-No sabe lo que estoy haciendo, estoy dando la vuelta
-
-0:13:20.360,0:13:26.040
-mundo
-
-0:13:26.040,0:13:30.600
-A pie desde
-
-0:13:30.600,0:13:36.760
-Aquí .
-
-0:13:36.760,0:13:41.760
-Vuelta
-
-0:13:41.760,0:13:46.560
-la carretera no está asfaltada y vuelve a saltar el polvo. Ahora entraremos
-
-0:13:46.560,0:13:50.000
-en
-
-0:13:50.000,0:13:53.480
-una zona de sombra porque aquí hay unas paredes muy
-
-0:13:53.480,0:13:57.160
-Podía
-
-0:13:57.160,0:14:00.880
-ver
-
-0:14:00.880,0:14:03.800
-.
-
-0:14:03.800,0:14:08.519
-el accidente. Entonces muchos de ustedes
-
-0:14:08.519,0:14:13.360
-Se enteran del accidente antes de que vean
-
-0:14:13.360,0:14:17.279
-el
-
-0:14:17.279,0:14:19.030
-video
-
-0:14:34.560,0:14:39.720
-Ellos dicen: "No,
-
-0:14:39.720,0:14:46.759
-no, FC Pakistán." FC, FC.
-
-0:14:46.759,0:14:53.399
-Me han preguntado de dónde vengo, dónde voy, de dónde soy, bla bla bla y
-
-0:14:53.399,0:14:57.759
-ya está y todo bien. Y sonrisas y todo bien. Pues se acuerda que antes de ayer me
-
-0:14:57.759,0:15:02.839
-pusieron un escolta policial. El escolta no iba a mi lado, iba
-
-0:15:02.839,0:15:08.440
-Yo estaba en la calle y me iba controlando, no, cada kilómetro, 2 km.
-
-0:15:08.440,0:15:12.320
-Ahora ha venido de nuevo la policía. Esta vez era turista police.
-
-0:15:12.320,0:15:15.320
-Entonces,
-
-0:15:15.480,0:15:20.279
-Ahora sí, ¿eh? Ahora sí están,
-
-0:15:20.279,0:15:26.959
-intento no grabarlos. Me están siguiendo, me están siguiendo
-
-0:15:26.959,0:15:31.199
-Querían que entrara en el vehículo y que me escucharan 10
-
-0:15:31.199,0:15:36.880
-Yo no, no, no, al final me he dado cuenta.
-
-0:15:36.880,0:15:40.519
-Se hará muy pesado lo de Pakistán si es constantemente así.
-
-0:15:40.519,0:15:44.759
-Se hará muy pesado. Las 4:30
-
-0:15:44.759,0:15:49.000
-después de una hora más o menos, 45 minutos, una hora de seguirme. Se ha marchado
-
-0:15:49.000,0:15:52.079
-el coche. No sé si me los encontraré más adelante o
-
-0:15:52.079,0:15:57.240
-Qué. Pues ok. Si les ha hecho ilusión...
-
-0:15:57.240,0:16:01.880
-Hoy contaba en lo de siempre, ¿no? Que en la carretera del Karakorum
-
-0:16:01.880,0:16:06.720
-hubiera bastantes hoteles y tal. Pero si nos guiamos por Google Maps y por
-
-0:16:06.720,0:16:12.720
-el Iverlander, el próximo hotel se encuentra a unos 11 km y
-
-0:16:12.720,0:16:20.079
-Son las 4:30, voy mal. Llegaría a las 6:30-7
-
-0:16:20.079,0:16:26.600
-Oscuro ya. No es lo ideal. Yo acamparía, la verdad hoy, pero no sé después de
-
-0:16:26.600,0:16:30.279
-que ha pasado con el accidente este quizás necesito
-
-0:16:30.279,0:16:34.959
-parar en un sitio, ¿no? No sé, no sé. Todavía están ahí. Bien, están allí
-
-0:16:34.959,0:16:40.319
-Parados en el coche mejor así. Que vayan, si quieren seguirme,
-
-0:16:40.319,0:16:43.160
-vayan parando, me vayan controlando, pero que no se metan detrás de mí
-
-0:16:43.160,0:16:48.079
-Porque es un rollo. Bien, aquí hay cuatro casas. No creo que ninguna de ellas
-
-0:16:48.079,0:16:52.079
-Si alguna de ellas lo fuera, me quedaría aquí, ¿eh?
-
-0:16:52.079,0:16:54.033
-Aquí Mismo.
-
-0:16:56.920,0:17:00.639
-Me están saludando desde la villa esta que les digo que no existen una
-
-0:17:00.639,0:17:05.400
-guesthouse o un hotel. Veo algunas señales pero son en urdu...
-
-0:17:05.400,0:17:09.160
-Ehm, yo que sé. Quizás, quizás sí. Voy a preguntar. Lo que pasa es que la
-
-0:17:09.160,0:17:13.760
-La poli ya se ha ido y ahora me preocupa la poli porque claro, ellos
-
-0:17:13.760,0:17:18.760
-dejarán de ver y dirán, "Hey, ¿dónde ha ido éste?" ¿Sabes?
-
-0:17:18.760,0:17:22.600
-Problemas suyos, ¿sabes? Yo que sé. No
-
-0:17:22.600,0:17:27.240
-Había, no había hotel. Entonces, no sé por qué me han saludado tanto, pero hay
-
-0:17:27.240,0:17:32.025
-Uno, según ellos, a 2 km. Inshallah.
-
-0:17:35.640,0:17:39.039
-5:30. Ya se va el sol. Allí hay una
-
-0:17:39.039,0:17:44.240
-edificación. Como no sea esto, el hotel no sé qué puede ser porque y no tiene mucha
-
-0:17:44.240,0:17:47.960
-Pinta de hotel, la verdad. Porque pondría algo, ¿no? Habría un cartel.
-
-0:17:47.960,0:17:51.022
-Quizás sí, ¿eh? Vamos a acercarnos.
-
-0:18:00.320,0:18:06.159
-No sé qué significa esto, la verdad, pero el coche de
-
-0:18:06.159,0:18:10.440
-me está escuchando está ahí y he visto sentado en una mesa en los polis porque
-
-0:18:10.440,0:18:16.017
-Llevaban el chaleco naranja. ¿Estará aquí, no? Digo yo.
-
-0:18:21.080,0:18:25.360
-A ver, novedades. La habitación es esta, no hay luz, no hay
-
-0:18:25.360,0:18:29.960
-electricidad, pero la habitación dentro de lo que ninguna es bastante
-
-0:18:29.960,0:18:32.919
-Muy interesante en comparación con otros que he estado últimamente.
-
-0:18:32.919,0:18:39.080
-Y el colchón es ultra-mega duro, creo que les gusta así a Pakistán, ¿eh?
-
-0:18:39.080,0:18:43.640
-Y bueno, digo, "Buah, está bien, da igual, ¿sabes?" Y voy a cenar. Me dan cena eso
-
-0:18:43.640,0:18:48.720
-que ve como raciones, pequeñitas, como tapas, ¿no? Muy bueno todo, muy bueno todo. Y
-
-0:18:48.720,0:18:53.120
-Cuando estaba allí acabando de cenar vino la policía,
-
-0:18:53.120,0:18:57.840
-Otro policía distinto, no la turista policía, sino otra policía.
-
-0:18:57.840,0:19:02.120
-Y yo no sabía ni que eran, de hecho, no tenían carecen de pinta de policía y
-
-0:19:02.120,0:19:07.280
-dicen, "Escucha, que este establecimiento no tiene autorización
-
-0:19:07.280,0:19:11.480
-alojar a turistas extranjeros. Tendrás que venir con nosotros a la comisaría
-
-0:19:11.480,0:19:15.799
-de policía." Y yo, pero si este sitio está bien,
-
-0:19:15.799,0:19:21.280
-No sé qué, tal, ¿no? No. No he querido discutir. Entonces sí, sí.
-
-0:19:21.280,0:19:24.919
-A ver, no son ni el ocho, eh, es temprano, pero ahora tengo que recoger
-
-0:19:24.919,0:19:28.480
-Cuando fui a la comisaría de policía les dije, "Pero mañana tenéis que devolverme aquí."
-
-0:19:28.480,0:19:32.679
-¿Qué
-
-0:19:32.679,0:19:36.760
-? "
-
-0:19:36.760,0:19:43.033
-En condiciones de trabajo, no sé.
-
-0:20:02.159,0:20:10.320
-La policía muy simpática, muy guapa.
-
-0:20:10.320,0:20:14.480
-Me hicieron una foto con
-
-0:20:15.159,0:20:18.360
-Ellos Ellos
-
-0:20:18.360,0:20:22.720
-.
-
-0:20:22.720,0:20:26.720
-Me han dejado y me han dejado
-
-0:20:26.720,0:20:32.280
-despacho, puedo poner el colchón aquí
-
-0:20:32.280,0:20:36.919
-Y ya está. Está perfecto. Puedo cargarlo todo.
-
-0:20:36.919,0:20:44.080
-Aquí frente a una foto del K2. De hecho, esta foto del K2 es la foto
-
-0:20:44.080,0:20:52.799
-de alguna de las postales que os he enviado, justo ésta. Igualmente, a pesar de que la
-
-0:20:52.799,0:20:58.080
-policía sea muy guapa y tal, es una tocada de pimientos esto. Y si cada día es
-
-0:20:58.080,0:21:04.600
-Y si todos los días es así, Pakistán.
-
-0:21:04.600,0:21:13.640
-no sé, no sé, no sé, no sé, no sé. 17 km y pico. Uno tiene,
-
-0:21:13.640,0:21:19.080
-ningún refresco. ¿Con cuántas personas he hablado hoy? Pues
-
-0:21:19.080,0:21:25.720
-Hoy quizás con cinco. Con cinco. ¿Y de dinero gastado?
-
-0:21:25.720,0:21:32.279
-Nada, la cena. que han sido 700 rupias, que son 2,30 creo y ya
-
-0:21:32.279,0:21:36.480
-Está, porque puedo dormir gratis, al menos. Mañana tendré que levantarme
-
-0:21:36.480,0:21:40.440
-relativamente temprano. Espero que me traigan hasta allí y si no hacer auroestop
-
-0:21:40.440,0:21:43.760
-Hasta allí y
-
-0:21:43.760,0:21:49.840
-y mañana quiero llegar hasta Chureli o algo así. Son 37 km. Es bastante. todo el día
-
-0:21:49.840,0:21:54.960
-caminando y todo el día tendré a la policía turística detrás. Pero esto
-
-0:21:54.960,0:22:03.679
-Será ya mañana. Bien, el tema el accidente, ¿no? El tema
-
-0:22:03.679,0:22:08.919
-Ahora lo tengo un poco más frío, ¿eh?
-
-0:22:08.919,0:22:12.840
-A ver, he sido, hemos sido extremadamente,
-
-0:22:12.840,0:22:17.720
-Hemos tenido una suerte extrema, extremadamente
-
-0:22:17.720,0:22:23.600
-porque, mira, si me llego a romper una pierna o
-
-0:22:23.600,0:22:29.320
-un brazo o cualquier parte del cuerpo y tuviera que parar La Vuelta al Mundo a Pie
-
-0:22:29.320,0:22:34.200
-De manera temporal o permanente, aún así hubiera dicho...
-
-0:22:34.200,0:22:38.559
-he tenido mucha suerte de estar vivo, ¿sabes? Pero es que no sólo eso, es que he
-
-0:22:38.559,0:22:45.679
-salido completamente ileso. O sea, la suerte...es la suerte es máxima. Tengo algún
-
-0:22:45.679,0:22:51.880
-amuleto. Quizás esto es lo que me ha salvado. Por los que me ven desde el
-
-0:22:51.880,0:22:55.840
-principio y por los que no se lo digo. Antes de empezar La Vuelta al
-
-0:22:55.840,0:22:59.000
-a Pie, tengo unos videos, vale, unos videos preparatorios y hay uno que subo a
-
-0:22:59.000,0:23:02.200
-Montserrat y en Montserrat me encuentro con Xavier
-
-0:23:02.200,0:23:05.720
-Caballero, que es un monje de Montserrat y me dio como protección una moneda
-
-0:23:05.720,0:23:13.520
-ultraligera de plata donde sale la morenita y el
-
-0:23:13.520,0:23:18.919
-El miedo salvado.
-
-0:23:18.919,0:23:24.120
-Moralina de la historia. No sé cómo se llama en catalán, "moralea", pero no
-
-0:23:24.120,0:23:30.799
-Ir en coche, si es más seguro ir a pie que ir en coche.
-
-0:23:30.919,0:23:36.279
-A ver, cuando estaba, cuando estábamos en el...vamos a hablar un
-
-0:23:36.279,0:23:42.039
-del accidente en sí, cuando estaba...cuando hace el choque, o sea, cuando el coche
-
-0:23:42.039,0:23:48.240
-Hace el choque, ahí digo, es un choque leve, quiero decir, vale, no nos ha pasado nada.
-
-0:23:48.240,0:23:53.159
-Estamos hablando de instantes, ¿eh?, esto son instantes, instantes, instantes.
-
-0:23:53.159,0:23:57.320
-Los pensamientos son muy rápidos, de hecho no tienes tiempo de pensar. Es como
-
-0:23:57.320,0:24:01.880
-Cosas que te vienen a la cabeza, ¿no? Ya está. Justo después el coche vuelca y ahí sí
-
-0:24:01.880,0:24:07.159
-Digo, ¿caemos por el principio y morimos o no? En
-
-0:24:07.159,0:24:13.559
-ningún momento pensé, uy, ya está, se acabó, ¿sabes?, caemos por el precipicio.
-
-0:24:13.559,0:24:18.039
-¿Era la pregunta de caemos o no?
-
-0:24:18.039,0:24:23.279
-Una vez el coche ya estaba volcado.
-
-0:24:23.279,0:24:27.640
-Claro, yo no sabía si el coche estaba colgando del acantilado,
-
-0:24:27.640,0:24:31.159
-las películas, ¿no? Que cuelga y hace así, ¿sabes? Entonces yo pensaba, "Ostras,
-
-0:24:31.159,0:24:36.240
-si me muevo o no, si me muevo, tal vez va hacia abajo, ¿no?
-
-0:24:36.240,0:24:39.360
-Y estaban gritando, no sé lo que decían.
-
-0:24:39.360,0:24:46.679
-Yo instintivamente cuando ya he podido moverme un poco he abierto la puerta y
-
-0:24:46.679,0:24:51.120
-he trepado y no sé dónde he puesto las piernas. Claro con las piernas he tenido que
-
-0:24:51.120,0:24:55.480
-apoyarme en algún sitio. No sé dónde las he puesto, la verdad, no recuerdo muy
-
-0:24:55.480,0:25:00.799
-bien, no pero no recuerdo que me costara mucho hacer el movimiento de
-
-0:25:00.799,0:25:05.919
-Porque claro, estaba así, ¿sabes? Estaba así.
-
-0:25:05.919,0:25:10.799
-Recuerdo haber hecho algo así y subir, pero no recuerdo
-
-0:25:10.799,0:25:17.720
-muy bien donde he puesto las piernas. Y sí, entonces he salido
-
-0:25:17.720,0:25:23.039
-y ha sido muy rápido. Pero sí he pensado, ostras, sale rápido y salta del
-
-0:25:23.039,0:25:30.200
-el coche hasta el camino rápido porque ya salía mucho humo y era como
-
-0:25:30.200,0:25:33.880
-explote, ¿no? El coche después al final esto ha sido nada porque los hombres enseguida
-
-0:25:33.880,0:25:38.000
-Han hecho, no sé lo que han hecho y han apagado el motor y ya está.
-
-0:25:38.000,0:25:42.880
-Hay gente que tiene accidentes
-
-0:25:42.880,0:25:47.000
-experiencias cercanas a la muerte y dice que les cambia la vida, que es
-
-0:25:47.000,0:25:51.960
-como te vuelven a nacer y tal. Yo no tengo esa sensación de momento,
-
-0:25:51.960,0:25:56.679
-De hecho, he seguido caminando y mañana seguiré caminando y todo normal, ¿vale? Como si nada
-
-0:25:56.679,0:25:59.960
-hubiera pasado, ¿eh? Pero a veces estas cosas van con efecto
-
-0:25:59.960,0:26:05.159
-Retrasado. Psicológicamente, ¿cómo estoy? Bien, no
-
-0:26:05.159,0:26:12.000
-Noto que tenga ningún trauma ni nada. Ya veremos también. Si necesito...
-
-0:26:12.000,0:26:15.880
-ahora algunos me escribirá, ¿no? Pero no, no, si necesito ayuda psicológica, pues ya
-
-0:26:15.880,0:26:18.919
-La buscaré cuando lo necesite, ¿no? Por el momento
-
-0:26:18.919,0:26:23.640
-Estoy bien. Y físicamente, claro, cuando tienes un accidente o ocurre
-
-0:26:23.640,0:26:27.080
-Algo, estás con una adrenalina y en ese momento sientes que no te ha pasado nada,
-
-0:26:27.080,0:26:34.760
-pero quizás sí que te ha pasado algo, pero no, no. Ahora, hoy estoy bien
-
-0:26:34.760,0:26:38.320
-estoy bien, no noto ningún dolor en ninguna parte, más allá de los dolores a veces de llevar
-
-0:26:38.320,0:26:44.159
-Que no sea que mañana por la mañana me levante con un dolor increíble de algún
-
-0:26:44.159,0:26:53.600
-Sitio. Pero yo diría que estoy bien. Estoy bien. Soplo. Ehm, por suerte, por suerte
-
-0:26:53.600,0:26:59.520
-tengo Seguros Escribà, ahora más que nunca Seguros Escribá oy tanto que
-
-0:26:59.520,0:27:05.360
-Sí, la aseguradora que me patrocina desde el día 1, desde el día
-
-0:27:05.360,0:27:09.200
-que empezó la aventura, desde el día 29 de noviembre,
-
-0:27:09.200,0:27:15.360
-estoy asegurado con Seguros Escribà y no te lo creo, pero no te lo creo
-
-0:27:15.360,0:27:19.679
-. Hoy me ha llamado Xavi, Xavier
-
-0:27:19.679,0:27:23.840
-Seguros Escribà y me ha llamado sin yo explicarle nada el accidente que he
-
-0:27:23.840,0:27:28.159
-tenido. Luego le ha contado y le he enviado las fotos, ¿eh? Pero sí, sí. Y me
-
-0:27:28.159,0:27:32.320
-ha llamado por muy buenas noticias y es que me renueva el seguro
-
-0:27:32.320,0:27:37.520
-renueva el patrocinio. Esto significa que
-
-0:27:37.520,0:27:41.600
-Usted ha contratado seguros con Seguros Escribà. De hecho,
-
-0:27:41.600,0:27:46.200
-Me ha dicho que tiene muchas cosas que hacer, pero que
-
-0:27:46.200,0:27:51.799
-gustaría que fueran más. Vale, evidentemente, sí, sí, tendrá que
-
-0:27:51.799,0:27:55.360
-Seguros Escribà para que el año que viene, el último año de La Vuelta al Mundo a Pie,
-
-0:27:55.360,0:27:58.799
-pues, vuelva a renovarme y pueda tener seguro hasta el final. Tiene este
-
-0:27:58.799,0:28:01.919
-código de descuento de aquí. Algunos pueden haberlo contratado sin el código de descuento.
-
-0:28:01.919,0:28:07.200
-Claro, entonces él no sabe si viene de mi parte o no, pero el código de descuento pues
-
-0:28:07.200,0:28:11.080
-tiene un descuento, por lo tanto, utilícelo por favor. Ahora sé que viene
-
-0:28:11.080,0:28:15.080
-el invierno y puede que no vaya tanto de viaje, no lo sé, pero ten en cuenta,
-
-0:28:15.080,0:28:21.320
-Y qué me hubiera pasado, con Seguros Escribà, pues si me hubiera
-
-0:28:21.320,0:28:25.760
-roto cualquier cosa, cualquier dolencia médica, pues me hubiera llevado al
-
-0:28:25.760,0:28:31.120
-hospital. Y si desgraciadamente, hubiera...pío,
-
-0:28:31.120,0:28:38.159
-No, lo hubiera palmado, pues está la repatriación, la repatriación del cadáver.
-
-0:28:38.159,0:28:44.640
-Claro, esto esto esto es un “pastón” la repatriación del cadáver y algo que no hubiera
-
-0:28:44.640,0:28:47.679
-tenido que asumir mi familia porque ya estaba asegurado, ¿no?
-
-0:28:47.679,0:28:51.919
-Es importante que vaya asegurados a los viajes, especialmente al extranjero.
-
-0:28:51.919,0:28:54.600
-Muy bien. A ver cómo lo veo en los próximos días.
-
-0:28:54.600,0:29:02.880
-Pero vaya experiencia, ¿eh?, vaya experiencia. Buenas noches.
